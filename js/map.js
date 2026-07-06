@@ -111,4 +111,5 @@ loadGeo();
 setInterval(loadGeo, 120000);
 setInterval(showMap, 120000);
 
+  console.log("GEO DATA:", geoData);
   }
