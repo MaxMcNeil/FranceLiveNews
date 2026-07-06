@@ -3,33 +3,29 @@ import fs from "fs";
 const raw = JSON.parse(fs.readFileSync("data/news.json","utf-8"));
 const items = raw.items || [];
 
-// normalisation texte
 function normalize(t){
-return t
+return (t || "")
 .toUpperCase()
 .replace(/[^\w\s]/gi,"")
 .trim();
 }
 
-// distance simple (similarité brute)
-function similar(a,b){
+// scoring lexical amélioré
+function similarity(a,b){
 
 a = normalize(a);
 b = normalize(b);
 
-if(a === b) return true;
-
-// si 6 mots identiques minimum
 const aWords = a.split(" ");
 const bWords = b.split(" ");
 
-let common = 0;
+let match = 0;
 
 for(const w of aWords){
-if(bWords.includes(w)) common++;
+if(w.length > 3 && bWords.includes(w)) match++;
 }
 
-return common >= 4;
+return match;
 }
 
 // clusters
@@ -41,10 +37,12 @@ let found = false;
 
 for(const c of clusters){
 
-if(similar(c.title, item.title)){
+const sim = similarity(c.title, item.title);
+
+if(sim >= 3){
 c.items.push(item);
-c.sources.add(item.source);
 c.score = Math.max(c.score, item.score);
+c.sources.add(item.source);
 found = true;
 break;
 }
@@ -62,19 +60,27 @@ sources: new Set([item.source])
 
 }
 
-// final format
-const output = clusters.map(c=>({
+// enrichissement
+const output = clusters.map(c=>{
 
+const top = c.items[0];
+
+return {
 title: c.title,
 score: c.score,
-sources: [...c.sources],
 count: c.items.length,
-items: c.items
-}));
+sources: [...c.sources],
+items: c.items,
 
-fs.writeFileSync(
-"data/clusters.json",
-JSON.stringify(output,null,2)
-);
+// 🔥 résumé simple
+summary: c.items
+.slice(0,2)
+.map(i => i.title)
+.join(" / ")
+};
 
-console.log("✔ clusters:", output.length);
+});
+
+fs.writeFileSync("data/clusters.json", JSON.stringify(output,null,2));
+
+console.log("✔ clusters S4:", output.length);
