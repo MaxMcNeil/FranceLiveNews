@@ -1,8 +1,8 @@
+import { initMap } from "./map.js";
 import { summarize } from "./summary.js";
 import { getTags } from "./tags.js";
 import { crisisFilter } from "./crisis.js";
 import { pulse } from "./effects.js";
-import { initMap } from "./map.js";
 
 /* DOM */
 const container = document.getElementById("newsContainer");
@@ -12,7 +12,7 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* TIME */
+/* FORMAT TIME */
 function formatTime(iso) {
   try {
     return new Date(iso).toLocaleTimeString("fr-FR", {
@@ -24,29 +24,38 @@ function formatTime(iso) {
   }
 }
 
-/* RENDER */
+/* RENDER (VERSION FIXÉE) */
 function render() {
   container.innerHTML = "";
 
-  DATA.sort((a, b) => b.score - a.score);
+  const filtered = crisisFilter(DATA, false);
 
-  for (const item of DATA) {
+  filtered.sort((a, b) => b.score - a.score);
+
+  for (const item of filtered) {
+
     const card = document.createElement("div");
     card.className = "newsCard";
 
+    const tags = getTags(item.title);
+    const summary = summarize(item.title);
+
     card.innerHTML = `
-      <div class="newsTitle">${item.title}</div>
+      <div class="newsTitle">${summary}</div>
       <div class="newsInfos">
         <span>${item.source || "RSS"}</span>
         <span>⚡ ${item.score}</span>
+        <span>${tags.join(" / ")}</span>
         <span>${formatTime(item.time)}</span>
       </div>
     `;
 
+    pulse(card, item.score);
+
     container.appendChild(card);
   }
 
-  counter.textContent = `${DATA.length} Dépêches`;
+  counter.textContent = `${filtered.length} Dépêches`;
 }
 
 /* TICKER */
@@ -57,7 +66,7 @@ function buildTicker() {
     .join(" | ");
 }
 
-/* LOAD */
+/* LOAD DATA */
 async function load() {
   try {
     const res = await fetch("data/news.json?cache=" + Date.now());
@@ -80,8 +89,9 @@ async function load() {
   }
 }
 
-/* START */
+/* INIT MAP */
 initMap();
 
+/* START LOOP */
 load();
 setInterval(load, 15000);
