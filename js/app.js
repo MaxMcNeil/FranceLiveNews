@@ -1,3 +1,4 @@
+let CRITICAL_ACTIVE = false;
 import { initMap } from "./map.js";
 
 /* =======================
