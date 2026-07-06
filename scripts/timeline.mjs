@@ -2,28 +2,18 @@ import fs from "fs";
 
 const clusters = JSON.parse(fs.readFileSync("data/clusters.json","utf-8"));
 
-let timeline = [];
+const timeline = clusters
+.sort((a,b)=>b.score - a.score)
+.map((c,i)=>({
 
-for(const c of clusters){
-
-const latest = c.items
-.sort((a,b)=> new Date(b.time) - new Date(a.time))[0];
-
-timeline.push({
+id: i,
 title: c.title,
 score: c.score,
-time: latest?.time || new Date().toISOString(),
-count: c.count
-});
+summary: c.summary,
+count: c.count,
+time: new Date().toISOString()
+}));
 
-}
-
-// tri chronologique
-timeline.sort((a,b)=> new Date(b.time) - new Date(a.time));
-
-fs.writeFileSync(
-"data/timeline.json",
-JSON.stringify(timeline,null,2)
-);
+fs.writeFileSync("data/timeline.json", JSON.stringify(timeline,null,2));
 
 console.log("✔ timeline:", timeline.length);
