@@ -1,7 +1,10 @@
 import { initMap } from "./map.js";
 import { analyzeText } from "./aiLight.js";
-import { isCrisis } from "./crisis.js";
-/* ======================= */
+
+/* =======================
+DOM
+======================= */
+
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -9,84 +12,161 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* ======================= */
+
+/* =======================
+FORMAT TIME
+======================= */
+
 function formatTime(iso){
-  try {
-    return new Date(iso).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
-  } catch {
-    return "--:--";
-  }
+
+    const d = new Date(iso);
+
+    if(isNaN(d)) return "--:--";
+
+    return d.toLocaleTimeString("fr-FR",{
+        hour:"2-digit",
+        minute:"2-digit"
+    });
 }
 
-/* ======================= */
+
+/* =======================
+RENDER
+======================= */
+
 function render(){
 
-  container.innerHTML = "";
+    container.innerHTML="";
 
-  DATA.sort((a,b)=>b.score - a.score);
 
-  for(const item of DATA){
+    DATA.sort((a,b)=>b.score-a.score);
 
-    const ai = analyzeText(item.title);
 
-    const card = document.createElement("div");
-    card.className = "newsCard";
+    DATA.forEach(item=>{
 
-    const title = document.createElement("div");
-    title.className = "newsTitle";
-    title.textContent = item.title;
+        const ai = analyzeText(item.title);
 
-    const infos = document.createElement("div");
-    infos.className = "newsInfos";
 
-    infos.innerHTML = `
-      <span>${ai.tag}</span>
-      <span>${item.source || "RSS"}</span>
-      <span>⚡ ${item.score}</span>
-      <span>${formatTime(item.time)}</span>
-    `;
+        const card=document.createElement("div");
+        card.className="newsCard";
 
-    card.appendChild(title);
-    card.appendChild(infos);
 
-    container.appendChild(card);
-  }
+        const title=document.createElement("div");
+        title.className="newsTitle";
+        title.textContent=item.title;
 
-  counter.textContent = `${DATA.length} Dépêches`;
+
+        const infos=document.createElement("div");
+        infos.className="newsInfos";
+
+
+        infos.innerHTML=`
+
+        <span>${ai.tag || "INFO"}</span>
+        <span>${item.source || "RSS"}</span>
+        <span>⚡ ${item.score}</span>
+        <span>${formatTime(item.time)}</span>
+
+        `;
+
+
+        card.appendChild(title);
+        card.appendChild(infos);
+
+        container.appendChild(card);
+
+    });
+
+
+    counter.textContent =
+    DATA.length+" Dépêches";
+
 }
 
-/* ======================= */
+
+
+/* =======================
+TICKER
+======================= */
+
 function buildTicker(){
 
-  tickerText.textContent =
-    DATA.slice(0,20)
-      .map(n => `⚠ ${n.title}`)
-      .join(" | ");
+    tickerText.textContent =
+    DATA
+    .slice(0,20)
+    .map(n=>"⚠ "+n.title)
+    .join(" | ");
+
 }
 
-/* ======================= */
-function updateTime(){
-  const now = new Date();
-  lastupdate.textContent =
-    "MAJ : " + now.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
-}
 
-/* ======================= */
+
+/* =======================
+LOAD NEWS
+======================= */
+
 async function load(){
 
-  const res = await fetch("data/news.json?cb=" + Date.now(), { cache: "no-store" });
-  const json = await res.json();
+try{
 
-  DATA = json.items || [];
 
-  render();
-  buildTicker();
-  updateTime();
+const url =
+"data/news.json?v="+Date.now()+"_"+Math.random();
+
+
+const res =
+await fetch(url,{
+cache:"no-store"
+});
+
+
+const json =
+await res.json();
+
+
+console.log("NEWS LOAD OK",json);
+
+
+DATA=json.items || [];
+
+
+render();
+
+buildTicker();
+
+
+lastupdate.textContent =
+"MAJ : "+
+new Date()
+.toLocaleTimeString("fr-FR",{
+hour:"2-digit",
+minute:"2-digit"
+});
+
+
+}
+catch(e){
+
+console.error("NEWS ERROR",e);
+
+container.innerHTML=
+"Erreur chargement news.json";
+
 }
 
-/* ======================= */
+}
+
+
+
+/* =======================
+START
+======================= */
+
+
 initMap();
 
-/* ======================= */
-setInterval(load, 15000);
+
 load();
+
+
+setInterval(load,15000);
