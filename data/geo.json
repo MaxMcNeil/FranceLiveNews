@@ -1,16 +1,9 @@
 [
   {
-    "title": "Qui sont les nouveaux avocats de Cédric Jubillar, qui ont obtenu ses aveux pour le meurtre de sa femme, Delphine Aussaguel ?",
-    "score": 95,
-    "city": "Aveux",
-    "lat": 42.9421578306,
-    "lon": 0.54711750308
-  },
-  {
-    "title": "Guerre en Ukraine : « La réticence des Occidentaux à livrer des armes dans la profondeur a poussé Kiev à se débrouiller elle-même »",
-    "score": 75,
-    "city": "Armes",
-    "lat": 47.4641711809,
-    "lon": 3.49201148604
+    "title": "Fallback PARIS",
+    "score": 50,
+    "city": "PARIS",
+    "lat": 48.8566,
+    "lon": 2.3522
   }
 ]
