@@ -97,3 +97,7 @@ mod.initMap();
 }
 
 initMapModule();
+
+import { initMap } from "./map.js";
+
+initMap();
