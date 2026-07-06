@@ -1,8 +1,8 @@
 import { initMap } from "./map.js";
+import { analyzeText } from "./js/aiLight.js";
+import { isCrisis } from "./js/crisis.js";
 
-/* =======================
-   DOM
-======================= */
+/* ======================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -10,27 +10,25 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* =======================
-   FORMAT TIME
-======================= */
+/* ======================= */
 function formatTime(iso){
   try {
-    const d = new Date(iso);
-    return d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
+    return new Date(iso).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
   } catch {
     return "--:--";
   }
 }
 
-/* =======================
-   RENDER NEWS
-======================= */
+/* ======================= */
 function render(){
+
   container.innerHTML = "";
 
   DATA.sort((a,b)=>b.score - a.score);
 
   for(const item of DATA){
+
+    const ai = analyzeText(item.title);
 
     const card = document.createElement("div");
     card.className = "newsCard";
@@ -43,6 +41,7 @@ function render(){
     infos.className = "newsInfos";
 
     infos.innerHTML = `
+      <span>${ai.tag}</span>
       <span>${item.source || "RSS"}</span>
       <span>⚡ ${item.score}</span>
       <span>${formatTime(item.time)}</span>
@@ -50,62 +49,45 @@ function render(){
 
     card.appendChild(title);
     card.appendChild(infos);
+
     container.appendChild(card);
   }
 
   counter.textContent = `${DATA.length} Dépêches`;
 }
 
-/* =======================
-   TICKER
-======================= */
+/* ======================= */
 function buildTicker(){
+
   tickerText.textContent =
     DATA.slice(0,20)
       .map(n => `⚠ ${n.title}`)
       .join(" | ");
 }
 
-/* =======================
-   UPDATE TIME
-======================= */
+/* ======================= */
 function updateTime(){
   const now = new Date();
   lastupdate.textContent =
     "MAJ : " + now.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
 }
 
-/* =======================
-   LOAD NEWS (CACHE BUST HARD)
-======================= */
+/* ======================= */
 async function load(){
 
-  try {
+  const res = await fetch("data/news.json?cb=" + Date.now(), { cache: "no-store" });
+  const json = await res.json();
 
-    const url = "data/news.json?cb=" + Date.now() + Math.random();
+  DATA = json.items || [];
 
-    const res = await fetch(url, { cache: "no-store" });
-    const json = await res.json();
-
-    DATA = json.items || [];
-
-    render();
-    buildTicker();
-    updateTime();
-
-  } catch(e){
-    console.log("load error", e);
-    container.innerHTML = "<div style='color:red'>Erreur chargement news.json</div>";
-  }
+  render();
+  buildTicker();
+  updateTime();
 }
 
-/* =======================
-   INIT MAP
-======================= */
+/* ======================= */
 initMap();
 
-/* =======================
-   LOOP
-======================= */
+/* ======================= */
 setInterval(load, 15000);
 load();
