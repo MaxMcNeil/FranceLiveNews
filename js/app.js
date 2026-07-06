@@ -1,11 +1,8 @@
-import { initMap, updateMap } from "./map.js";
+import { initMap } from "./map.js";
 
-import { fetchNews } from "./rss.js";
-import { sortByScore } from "./cluster.js";
-import { buildTicker } from "./ticker.js";
-import { renderNews } from "./ui.js";
-
-/* DOM */
+/* =======================
+   DOM
+======================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -13,46 +10,102 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* LOAD */
-async function load() {
+/* =======================
+   FORMAT TIME
+======================= */
+function formatTime(iso){
   try {
-    const items = await fetchNews();
-
-    DATA = sortByScore(items);
-
-    render();
-
-    tickerText.textContent = buildTicker(DATA);
-
-    updateMap(DATA);
-
-    updateTime();
-
-  } catch (e) {
-    console.log(e);
+    const d = new Date(iso);
+    return d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
+  } catch {
+    return "--:--";
   }
 }
 
-/* RENDER */
-function render() {
-  const crisisOnly = DATA.filter(n => n.score >= 85);
-  const list = crisisOnly.length ? crisisOnly : DATA;
+/* =======================
+   RENDER NEWS
+======================= */
+function render(){
+  container.innerHTML = "";
 
-  renderNews(container, list);
+  DATA.sort((a,b)=>b.score - a.score);
 
-  counter.textContent = `${list.length} Dépêches`;
+  for(const item of DATA){
+
+    const card = document.createElement("div");
+    card.className = "newsCard";
+
+    const title = document.createElement("div");
+    title.className = "newsTitle";
+    title.textContent = item.title;
+
+    const infos = document.createElement("div");
+    infos.className = "newsInfos";
+
+    infos.innerHTML = `
+      <span>${item.source || "RSS"}</span>
+      <span>⚡ ${item.score}</span>
+      <span>${formatTime(item.time)}</span>
+    `;
+
+    card.appendChild(title);
+    card.appendChild(infos);
+    container.appendChild(card);
+  }
+
+  counter.textContent = `${DATA.length} Dépêches`;
 }
 
-/* TIME */
-function updateTime() {
+/* =======================
+   TICKER
+======================= */
+function buildTicker(){
+  tickerText.textContent =
+    DATA.slice(0,20)
+      .map(n => `⚠ ${n.title}`)
+      .join(" | ");
+}
+
+/* =======================
+   UPDATE TIME
+======================= */
+function updateTime(){
   const now = new Date();
   lastupdate.textContent =
-    "MAJ : " +
-    now.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+    "MAJ : " + now.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
 }
 
-/* INIT */
+/* =======================
+   LOAD NEWS (CACHE BUST HARD)
+======================= */
+async function load(){
+
+  try {
+
+    const url = "data/news.json?cb=" + Date.now() + Math.random();
+
+    const res = await fetch(url, { cache: "no-store" });
+    const json = await res.json();
+
+    DATA = json.items || [];
+
+    render();
+    buildTicker();
+    updateTime();
+
+  } catch(e){
+    console.log("load error", e);
+    container.innerHTML = "<div style='color:red'>Erreur chargement news.json</div>";
+  }
+}
+
+/* =======================
+   INIT MAP
+======================= */
 initMap();
 
+/* =======================
+   LOOP
+======================= */
 setInterval(load, 15000);
 load();
