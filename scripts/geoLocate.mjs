@@ -1,37 +1,37 @@
 import fs from "fs";
 
-// ===============================
-// Chargement des clusters
-// ===============================
 const clusters = JSON.parse(
   fs.readFileSync("data/clusters.json", "utf-8")
 );
 
-// ===============================
-// Chargement des communes
-// ===============================
 const cities = JSON.parse(
   fs.readFileSync("data/communes_lat_lon.json", "utf-8")
 );
 
-// Préparation pour recherche rapide
-const normalizedCities = cities.map(city => ({
-  ...city,
-  upper: city.name.toUpperCase()
-}));
+// normalisation forte
+function normalize(str){
+  return (str || "")
+    .toUpperCase()
+    .replace(/[^A-ZÀ-Ÿ\s-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
-// ===============================
-// Détection ville
-// ===============================
-function detectCity(text) {
+// recherche plus stricte (mot complet)
+function detectCity(text){
 
-  if (!text) return null;
+  if(!text) return null;
 
-  const upper = text.toUpperCase();
+  const clean = normalize(text);
 
-  for (const city of normalizedCities) {
+  for(const city of cities){
 
-    if (upper.includes(city.upper)) {
+    const name = normalize(city.name);
+
+    // 🔥 match MOT COMPLET uniquement
+    const regex = new RegExp(`\\b${name}\\b`, "i");
+
+    if(regex.test(clean)){
       return city;
     }
 
@@ -40,52 +40,40 @@ function detectCity(text) {
   return null;
 }
 
-// ===============================
-// Construction geo.json
-// ===============================
-const geo = [];
+let geo = [];
 
-for (const cluster of clusters) {
+for(const c of clusters){
 
-  const city = detectCity(cluster.title);
+  const city = detectCity(c.title);
 
-  if (!city) continue;
+  if(!city) continue;
 
   geo.push({
-    title: cluster.title,
-    score: cluster.score,
+    title: c.title,
+    score: c.score,
     city: city.name,
     lat: city.lat,
     lon: city.lon,
-    sources: cluster.sources,
-    count: cluster.count
+    sources: c.sources,
+    count: c.count
   });
 
 }
 
-// ===============================
-// Fallback
-// ===============================
-if (geo.length === 0) {
-
+// fallback propre
+if(geo.length === 0){
   geo.push({
     title: "Aucune commune détectée",
     score: 0,
     city: "Paris",
     lat: 48.8566,
-    lon: 2.3522,
-    sources: [],
-    count: 0
+    lon: 2.3522
   });
-
 }
 
-// ===============================
-// Sauvegarde
-// ===============================
 fs.writeFileSync(
   "data/geo.json",
   JSON.stringify(geo, null, 2)
 );
 
-console.log(`✔ Geo : ${geo.length} événement(s) géolocalisé(s)`);
+console.log("✔ GEO FIXED:", geo.length);
