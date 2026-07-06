@@ -8,7 +8,13 @@ const cities = JSON.parse(
   fs.readFileSync("data/communes_lat_lon.json", "utf-8")
 );
 
-// normalisation forte
+// index normalisé ultra strict
+const index = new Map();
+
+for(const c of cities){
+  index.set(normalize(c.name), c);
+}
+
 function normalize(str){
   return (str || "")
     .toUpperCase()
@@ -17,18 +23,15 @@ function normalize(str){
     .trim();
 }
 
-// recherche plus stricte (mot complet)
-function detectCity(text){
-
-  if(!text) return null;
+// 🔥 EXTRACTION ULTRA STRICTE
+function findCity(text){
 
   const clean = normalize(text);
 
-  for(const city of cities){
+  // on teste uniquement contre les vraies communes
+  for(const [name, city] of index){
 
-    const name = normalize(city.name);
-
-    // 🔥 match MOT COMPLET uniquement
+    // match EXACT mot complet
     const regex = new RegExp(`\\b${name}\\b`, "i");
 
     if(regex.test(clean)){
@@ -44,7 +47,7 @@ let geo = [];
 
 for(const c of clusters){
 
-  const city = detectCity(c.title);
+  const city = findCity(c.title);
 
   if(!city) continue;
 
@@ -60,12 +63,12 @@ for(const c of clusters){
 
 }
 
-// fallback propre
+// fallback safe
 if(geo.length === 0){
   geo.push({
     title: "Aucune commune détectée",
     score: 0,
-    city: "Paris",
+    city: "PARIS",
     lat: 48.8566,
     lon: 2.3522
   });
@@ -76,4 +79,4 @@ fs.writeFileSync(
   JSON.stringify(geo, null, 2)
 );
 
-console.log("✔ GEO FIXED:", geo.length);
+console.log("✔ GEO FINAL:", geo.length);
