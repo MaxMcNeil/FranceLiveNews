@@ -108,7 +108,6 @@ function createDot(ev){
    SHOW MAP (CRISIS ONLY)
 ======================= */
 function showMap(){
-function showMap(){
 
   const crisis = geoData.filter(ev =>
     ev.score >= 80 && ev.lat && ev.lon
