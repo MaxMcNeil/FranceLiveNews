@@ -1,1 +1,12 @@
-
+{
+  "name": "francelivenews",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/fetchNews.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "fast-xml-parser": "^5.2.5"
+  }
+}
