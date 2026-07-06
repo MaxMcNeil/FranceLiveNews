@@ -108,21 +108,20 @@ function createDot(ev){
    SHOW MAP (CRISIS ONLY)
 ======================= */
 function showMap(){
+function showMap(){
 
   const crisis = geoData.filter(ev =>
     ev.score >= 80 && ev.lat && ev.lon
   );
 
-  if(crisis.length === 0){
-    return; // rien = pas de map
-  }
+  if(crisis.length === 0) return;
 
   beep();
 
   mapContainer.innerHTML = "";
 
   const title = document.createElement("div");
-  title.textContent = "⚠ CARTE DES ALERTES ⚠";
+  title.textContent = "⚠ CRISIS MAP";
 
   Object.assign(title.style, {
     color: "white",
@@ -134,16 +133,32 @@ function showMap(){
   mapContainer.appendChild(title);
 
   crisis.forEach(ev => {
-    mapContainer.appendChild(createDot(ev));
+
+    const dot = document.createElement("div");
+
+    const hot = ev.score >= 90;
+
+    Object.assign(dot.style, {
+      position: "absolute",
+      width: hot ? "18px" : "12px",
+      height: hot ? "18px" : "12px",
+      borderRadius: "50%",
+      background: hot ? "red" : "orange",
+      boxShadow: hot ? "0 0 25px red" : "0 0 10px orange"
+    });
+
+    dot.style.left = (300 + Math.random()*400) + "px";
+    dot.style.top = (200 + Math.random()*300) + "px";
+
+    mapContainer.appendChild(dot);
   });
 
   mapContainer.style.display = "block";
 
-  setTimeout(()=>{
+  setTimeout(() => {
     mapContainer.style.display = "none";
   }, 10000);
 }
-
 /* =======================
    INIT
 ======================= */
