@@ -1,10 +1,7 @@
-import { initMap } from "./map.js";
-import { summarize } from "./summary.js";
-import { getTags } from "./tags.js";
-import { crisisFilter } from "./crisis.js";
-import { pulse } from "./effects.js";
+import { initMap, updateMap } from "./map.js";
+import { analyzeNews } from "./breaking.js";
 
-/* DOM */
+/* ================= DOM ================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -12,86 +9,79 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* FORMAT TIME */
-function formatTime(iso) {
+/* ================= LOAD ================= */
+async function load() {
   try {
-    return new Date(iso).toLocaleTimeString("fr-FR", {
-      hour: "2-digit",
-      minute: "2-digit"
-    });
-  } catch {
-    return "--:--";
+    const res = await fetch("data/geo.json?x=" + Date.now());
+    const json = await res.json();
+
+    DATA = analyzeNews(json);
+
+    render();
+    buildTicker();
+    updateTime();
+
+    updateMap(DATA); // 👈 envoie vers la map
+
+  } catch (e) {
+    console.log(e);
+    container.innerHTML = "<div style='color:red'>Erreur data</div>";
   }
 }
 
-/* RENDER (VERSION FIXÉE) */
+/* ================= RENDER ================= */
 function render() {
   container.innerHTML = "";
 
-  const filtered = crisisFilter(DATA, false);
+  const crisisOnly = DATA.filter(n => n.crisis);
 
-  filtered.sort((a, b) => b.score - a.score);
+  const list = crisisOnly.length ? crisisOnly : DATA;
 
-  for (const item of filtered) {
+  list.sort((a, b) => b.score - a.score);
 
+  for (const item of list) {
     const card = document.createElement("div");
-    card.className = "newsCard";
+    card.className = "newsCard " + (item.crisis ? "crisis" : "");
 
-    const tags = getTags(item.title);
-    const summary = summarize(item.title);
+    const title = document.createElement("div");
+    title.className = "newsTitle";
+    title.textContent = item.title;
 
-    card.innerHTML = `
-      <div class="newsTitle">${summary}</div>
-      <div class="newsInfos">
-        <span>${item.source || "RSS"}</span>
-        <span>⚡ ${item.score}</span>
-        <span>${tags.join(" / ")}</span>
-        <span>${formatTime(item.time)}</span>
-      </div>
+    const infos = document.createElement("div");
+    infos.className = "newsInfos";
+
+    infos.innerHTML = `
+      <span>${item.tag}</span>
+      <span>⚡ ${item.score}</span>
+      <span>${item.city || "—"}</span>
     `;
 
-    pulse(card, item.score);
-
+    card.appendChild(title);
+    card.appendChild(infos);
     container.appendChild(card);
   }
 
-  counter.textContent = `${filtered.length} Dépêches`;
+  counter.textContent = `${list.length} Dépêches`;
 }
 
-/* TICKER */
+/* ================= TICKER ================= */
 function buildTicker() {
   tickerText.textContent = DATA
+    .filter(n => n.crisis)
     .slice(0, 15)
     .map(n => `⚠ ${n.title}`)
     .join(" | ");
 }
 
-/* LOAD DATA */
-async function load() {
-  try {
-    const res = await fetch("data/news.json?cache=" + Date.now());
-    const json = await res.json();
-
-    DATA = json.items || [];
-
-    render();
-    buildTicker();
-
-    lastupdate.textContent =
-      "MAJ : " +
-      new Date().toLocaleTimeString("fr-FR", {
-        hour: "2-digit",
-        minute: "2-digit"
-      });
-
-  } catch (e) {
-    console.log("load error", e);
-  }
+/* ================= TIME ================= */
+function updateTime() {
+  const now = new Date();
+  lastupdate.textContent =
+    "MAJ : " +
+    now.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
 }
 
-/* INIT MAP */
+/* ================= LOOP ================= */
 initMap();
-
-/* START LOOP */
-load();
 setInterval(load, 15000);
+load();
