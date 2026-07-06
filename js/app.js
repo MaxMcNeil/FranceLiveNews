@@ -91,3 +91,9 @@ container.innerHTML =
 // auto refresh OBS-friendly
 setInterval(load, 15000);
 load();
+async function initMapModule(){
+const mod = await import("./map.js");
+mod.initMap();
+}
+
+initMapModule();
