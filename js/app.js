@@ -1,3 +1,8 @@
+import { initMap } from "./map.js";
+
+/* =======================
+   DOM
+======================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -5,6 +10,9 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
+/* =======================
+   FORMAT TIME
+======================= */
 function formatTime(iso){
 try{
 const d = new Date(iso);
@@ -14,6 +22,9 @@ return "--:--";
 }
 }
 
+/* =======================
+   RENDER NEWS
+======================= */
 function render(){
 
 container.innerHTML = "";
@@ -48,6 +59,9 @@ container.appendChild(card);
 counter.textContent = `${DATA.length} Dépêches`;
 }
 
+/* =======================
+   TICKER
+======================= */
 function buildTicker(){
 
 tickerText.textContent =
@@ -56,6 +70,9 @@ DATA.slice(0,20)
 .join("   |   ");
 }
 
+/* =======================
+   UPDATE TIME
+======================= */
 function updateTime(){
 
 const now = new Date();
@@ -64,6 +81,9 @@ lastupdate.textContent =
 now.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
 }
 
+/* =======================
+   LOAD NEWS
+======================= */
 async function load(){
 
 try{
@@ -88,16 +108,13 @@ container.innerHTML =
 
 }
 
-// auto refresh OBS-friendly
+/* =======================
+   INIT MAP MODULE
+======================= */
+initMap();
+
+/* =======================
+   AUTO REFRESH
+======================= */
 setInterval(load, 15000);
 load();
-async function initMapModule(){
-const mod = await import("./map.js");
-mod.initMap();
-}
-
-initMapModule();
-
-import { initMap } from "./map.js";
-
-initMap();
