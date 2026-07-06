@@ -1,0 +1,11 @@
+@keyframes pulseRed {
+  0% { box-shadow: 0 0 0px red; }
+  50% { box-shadow: 0 0 20px red; }
+  100% { box-shadow: 0 0 0px red; }
+}
+
+@keyframes pulseOrange {
+  0% { box-shadow: 0 0 0px orange; }
+  50% { box-shadow: 0 0 15px orange; }
+  100% { box-shadow: 0 0 0px orange; }
+}
