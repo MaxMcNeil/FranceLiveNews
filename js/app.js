@@ -1,3 +1,4 @@
+let MAP_MODE = false;
 import { initMap } from "./map.js";
 
 /* =======================
