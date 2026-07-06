@@ -14,6 +14,9 @@ mapContainer.style.zIndex = "999";
 
 document.body.appendChild(mapContainer);
 
+/* =========================
+   VILLES FIXES (CARTE SIMPLE)
+========================= */
 const cityMap = {
 "PARIS": { x:420, y:220 },
 "LYON": { x:520, y:420 },
@@ -23,19 +26,27 @@ const cityMap = {
 "LILLE": { x:550, y:300 }
 };
 
+/* =========================
+   LOAD GEO DATA
+========================= */
 async function loadGeo(){
-
 try{
 const res = await fetch("data/geo.json?x=" + Date.now());
 geoData = await res.json();
+
+console.log("GEO UPDATED:", geoData.length);
+
 }catch(e){
 console.log("geo error", e);
+geoData = [];
+}
 }
 
-}
-
+/* =========================
+   BEEP ALERT
+========================= */
 function beep(){
-
+try{
 const ctx = new (window.AudioContext || window.webkitAudioContext)();
 const osc = ctx.createOscillator();
 const gain = ctx.createGain();
@@ -48,17 +59,30 @@ gain.gain.value = 0.08;
 
 osc.start();
 osc.stop(ctx.currentTime + 0.2);
-
+}catch(e){
+console.log("audio blocked");
+}
 }
 
+/* =========================
+   SHOW MAP
+========================= */
 function showMap(){
+
+if(!geoData || geoData.length === 0){
+console.log("NO GEO DATA");
+return;
+}
+
+console.log("SHOW MAP FIRED:", geoData.length);
 
 beep();
 
 mapContainer.innerHTML = "";
 
+// TITLE
 const title = document.createElement("div");
-title.innerText = "CARTE DES ALERTES";
+title.innerText = "⚠ CARTE DES ALERTES ⚠";
 title.style.color = "white";
 title.style.fontSize = "28px";
 title.style.textAlign = "center";
@@ -66,6 +90,7 @@ title.style.padding = "20px";
 
 mapContainer.appendChild(title);
 
+// DOTS
 geoData.forEach(ev => {
 
 const dot = document.createElement("div");
@@ -77,7 +102,7 @@ dot.style.borderRadius = "50%";
 dot.style.background = ev.score > 80 ? "red" : "orange";
 dot.style.boxShadow = "0 0 12px red";
 
-// 🔥 DETECTION VILLE
+// DETECTION VILLE
 const city = Object.keys(cityMap).find(c =>
 (ev.title || "").toUpperCase().includes(c)
 );
@@ -87,7 +112,6 @@ const pos = cityMap[city];
 dot.style.left = pos.x + "px";
 dot.style.top = pos.y + "px";
 }else{
-// fallback si aucune ville détectée
 dot.style.left = (200 + Math.random()*600) + "px";
 dot.style.top = (150 + Math.random()*400) + "px";
 }
@@ -98,18 +122,35 @@ mapContainer.appendChild(dot);
 
 mapContainer.style.display = "block";
 
+// hide after 10 sec
 setTimeout(()=>{
 mapContainer.style.display = "none";
 },10000);
 
 }
 
+/* =========================
+   INIT
+========================= */
 export function initMap(){
 
-loadGeo();
+console.log("MAP INIT OK");
 
+// FIRST LOAD + FIRST DISPLAY
+loadGeo().then(()=>{
+console.log("FIRST GEO LOAD:", geoData.length);
+
+showMap();
+});
+
+// refresh data
 setInterval(loadGeo, 15000);
-setInterval(showMap, 15000);
 
-  console.log("GEO DATA:", geoData);
-  }
+// display loop
+setInterval(()=>{
+if(geoData.length > 0){
+showMap();
+}
+}, 15000);
+
+}
