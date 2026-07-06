@@ -1,9 +1,68 @@
 [
   {
-    "title": "Fallback PARIS",
-    "score": 50,
-    "city": "PARIS",
-    "lat": 48.8566,
-    "lon": 2.3522
+    "title": "Assassinat d'Yvan Colonna: la justice confirme le renvoi du détenu radicalisé Franck Elong Abé devant les assises",
+    "score": 95,
+    "city": "Y",
+    "lat": 49.7735190405,
+    "lon": 2.91598423819,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Qui sont les nouveaux avocats de Cédric Jubillar, qui ont obtenu ses aveux pour le meurtre de sa femme, Delphine Aussaguel ?",
+    "score": 95,
+    "city": "Son",
+    "lat": 49.4890710736,
+    "lon": 4.33770775217,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Hausse de 77% des violences sexuelles enregistrées en France au mois de juin",
+    "score": 85,
+    "city": "Rance",
+    "lat": 45.9283135136,
+    "lon": 4.92727608131,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Narcotrafic, rodéos urbains... Face des menaces omniprésentes, la police nationale se projette en 2030",
+    "score": 75,
+    "city": "Ur",
+    "lat": 42.529853625,
+    "lon": 1.88244729389,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Guerre en Ukraine : « La réticence des Occidentaux à livrer des armes dans la profondeur a poussé Kiev à se débrouiller elle-même »",
+    "score": 75,
+    "city": "Guer",
+    "lat": 47.9150020404,
+    "lon": -2.16277339517,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Coupe du monde 2026 : Des Three Lions héroïques, le scandale Balogun prend des proportions folles… Le récap de la nuit",
+    "score": 65,
+    "city": "Port",
+    "lat": 46.1732029522,
+    "lon": 5.56455683284,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "count": 1
   }
 ]
