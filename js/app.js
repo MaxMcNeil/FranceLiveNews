@@ -94,9 +94,12 @@ const json = await res.json();
 
 DATA = json.items || [];
 
+// si map active → ne pas écraser UI visuellement
+if(!MAP_MODE){
 render();
 buildTicker();
 updateTime();
+}
 
 }catch(e){
 
