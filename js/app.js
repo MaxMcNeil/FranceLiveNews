@@ -1,7 +1,6 @@
 import { initMap } from "./map.js";
-import { analyzeText } from "./js/aiLight.js";
-import { isCrisis } from "./js/crisis.js";
-
+import { analyzeText } from "./aiLight.js";
+import { isCrisis } from "./crisis.js";
 /* ======================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
