@@ -1,18 +1,20 @@
 let geoData = [];
-
 window.MAP_MODE = false;
 
 const mapContainer = document.createElement("div");
 mapContainer.id = "mapContainer";
 
-mapContainer.style.position = "fixed";
-mapContainer.style.top = "0";
-mapContainer.style.left = "0";
-mapContainer.style.width = "100%";
-mapContainer.style.height = "100%";
-mapContainer.style.background = "#0b0b0b";
-mapContainer.style.display = "none";
-mapContainer.style.zIndex = "999";
+Object.assign(mapContainer.style,{
+position:"fixed",
+top:"0",
+left:"0",
+width:"100%",
+height:"100%",
+background:"#0b0b0b",
+display:"none",
+zIndex:"999",
+opacity:"0"
+});
 
 document.body.appendChild(mapContainer);
 
@@ -25,104 +27,99 @@ const cityMap = {
 "LILLE": { x:550, y:300 }
 };
 
+/* =======================
+   LOAD GEO
+======================= */
 async function loadGeo(){
 try{
 const res = await fetch("data/geo.json?x=" + Date.now());
 geoData = await res.json();
-console.log("GEO LOADED:", geoData.length);
 }catch(e){
-console.log("geo error", e);
 geoData = [];
 }
 }
 
+/* =======================
+   BEEP
+======================= */
 function beep(){
 try{
-const ctx = new (window.AudioContext || window.webkitAudioContext)();
+const ctx = new AudioContext();
 const osc = ctx.createOscillator();
-const gain = ctx.createGain();
-
-osc.connect(gain);
-gain.connect(ctx.destination);
-
+osc.connect(ctx.destination);
 osc.frequency.value = 180;
-gain.gain.value = 0.08;
-
 osc.start();
 osc.stop(ctx.currentTime + 0.2);
 }catch(e){}
 }
 
+/* =======================
+   SHOW MAP
+======================= */
 function showMap(){
 
-if(!geoData || geoData.length === 0) return;
-
-console.log("SHOW MAP:", geoData.length);
+if(!geoData.length) return;
 
 window.MAP_MODE = true;
 
 beep();
 
-mapContainer.innerHTML = "";
+mapContainer.innerHTML = "<div style='color:white;text-align:center;font-size:24px;padding:20px'>⚠ CARTE CRISE ⚠</div>";
 
-const title = document.createElement("div");
-title.innerText = "⚠ CARTE DES ALERTES ⚠";
-title.style.color = "white";
-title.style.fontSize = "28px";
-title.style.textAlign = "center";
-title.style.padding = "20px";
-
-mapContainer.appendChild(title);
-
-geoData.forEach(ev => {
+geoData.forEach(ev=>{
 
 const dot = document.createElement("div");
 
-dot.style.position = "absolute";
-dot.style.width = "12px";
-dot.style.height = "12px";
-dot.style.borderRadius = "50%";
-dot.style.background = ev.score > 80 ? "red" : "orange";
-dot.style.boxShadow = "0 0 12px red";
+Object.assign(dot.style,{
+position:"absolute",
+width:"10px",
+height:"10px",
+borderRadius:"50%",
+background: ev.score > 80 ? "red" : "orange",
+boxShadow:"0 0 10px red"
+});
 
 const city = Object.keys(cityMap).find(c =>
 (ev.title || "").toUpperCase().includes(c)
 );
 
-if(city){
-const pos = cityMap[city];
+const pos = cityMap[city] || {
+x:200 + Math.random()*500,
+y:150 + Math.random()*300
+};
+
 dot.style.left = pos.x + "px";
 dot.style.top = pos.y + "px";
-}else{
-dot.style.left = (200 + Math.random()*600) + "px";
-dot.style.top = (150 + Math.random()*400) + "px";
-}
 
 mapContainer.appendChild(dot);
-
 });
 
 mapContainer.style.display = "block";
 
 setTimeout(()=>{
+mapContainer.style.opacity = "1";
+},50);
+
+setTimeout(()=>{
+mapContainer.style.opacity = "0";
+
+setTimeout(()=>{
 mapContainer.style.display = "none";
 window.MAP_MODE = false;
-}, 10000);
+},500);
+
+},8000);
 }
 
+/* =======================
+   INIT
+======================= */
 export function initMap(){
 
-console.log("MAP INIT OK");
-
-loadGeo().then(()=>{
-showMap();
-});
+loadGeo().then(showMap);
 
 setInterval(loadGeo, 60000);
 
-// cycle map stable
-setInterval(()=>{
-showMap();
-}, 30000);
+setInterval(showMap, 30000);
 
 }
