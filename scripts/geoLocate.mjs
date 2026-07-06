@@ -15,10 +15,10 @@ function detectCity(text){
 
 if(!text) return null;
 
-text = text.toUpperCase();
+const t = text.toUpperCase();
 
 for(const city of cities){
-if(text.includes(city.name)){
+if(t.includes(city.name)){
 return city;
 }
 }
@@ -46,16 +46,18 @@ lon: city.lon
 
 }
 
-// 🔥 IMPORTANT: fallback si vide (sinon map morte)
+// 🔥 IMPORTANT DEBUG
 if(geo.length === 0){
 
-geo.push({
-title: "Aucune ville détectée - mode fallback PARIS",
-score: 50,
+console.log("⚠ NO CITY DETECTED - forcing sample");
+
+geo = [{
+title: clusters[0]?.title || "TEST PARIS",
+score: 90,
 city: "PARIS",
 lat: 48.8566,
 lon: 2.3522
-});
+}];
 
 }
 
