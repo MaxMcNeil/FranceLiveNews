@@ -1,55 +1,91 @@
 import fs from "fs";
 
-const clusters = JSON.parse(fs.readFileSync("data/clusters.json","utf-8"));
+// ===============================
+// Chargement des clusters
+// ===============================
+const clusters = JSON.parse(
+  fs.readFileSync("data/clusters.json", "utf-8")
+);
 
-const cities = [
-{ name:"PARIS", lat:48.8566, lon:2.3522 },
-{ name:"MARSEILLE", lat:43.2965, lon:5.3698 },
-{ name:"LYON", lat:45.7640, lon:4.8357 },
-{ name:"LILLE", lat:50.6292, lon:3.0573 },
-{ name:"TOULOUSE", lat:43.6047, lon:1.4442 },
-{ name:"BORDEAUX", lat:44.8378, lon:-0.5792 }
-];
+// ===============================
+// Chargement des communes
+// ===============================
+const cities = JSON.parse(
+  fs.readFileSync("data/communes_lat_lon.json", "utf-8")
+);
 
-function detect(text){
+// Préparation pour recherche rapide
+const normalizedCities = cities.map(city => ({
+  ...city,
+  upper: city.name.toUpperCase()
+}));
 
-if(!text) return null;
+// ===============================
+// Détection ville
+// ===============================
+function detectCity(text) {
 
-text = text.toUpperCase();
+  if (!text) return null;
 
-return cities.find(c => text.includes(c.name)) || null;
+  const upper = text.toUpperCase();
+
+  for (const city of normalizedCities) {
+
+    if (upper.includes(city.upper)) {
+      return city;
+    }
+
+  }
+
+  return null;
 }
 
-let geo = [];
+// ===============================
+// Construction geo.json
+// ===============================
+const geo = [];
 
-for(const c of clusters){
+for (const cluster of clusters) {
 
-const city = detect(c.title);
+  const city = detectCity(cluster.title);
 
-if(city){
+  if (!city) continue;
 
-geo.push({
-title: c.title,
-score: c.score,
-city: city.name,
-lat: city.lat,
-lon: city.lon
-});
+  geo.push({
+    title: cluster.title,
+    score: cluster.score,
+    city: city.name,
+    lat: city.lat,
+    lon: city.lon,
+    sources: cluster.sources,
+    count: cluster.count
+  });
 
 }
 
+// ===============================
+// Fallback
+// ===============================
+if (geo.length === 0) {
+
+  geo.push({
+    title: "Aucune commune détectée",
+    score: 0,
+    city: "Paris",
+    lat: 48.8566,
+    lon: 2.3522,
+    sources: [],
+    count: 0
+  });
+
 }
 
-if(geo.length === 0){
-geo.push({
-title:"Fallback PARIS",
-score:50,
-city:"PARIS",
-lat:48.8566,
-lon:2.3522
-});
-}
+// ===============================
+// Sauvegarde
+// ===============================
+fs.writeFileSync(
+  "data/geo.json",
+  JSON.stringify(geo, null, 2)
+);
 
-fs.writeFileSync("data/geo.json", JSON.stringify(geo,null,2));
-
-console.log("✔ geo S4:", geo.length);
+console.log(`✔ Geo : ${geo.length} événement(s) géolocalisé(s)`);
