@@ -2,49 +2,43 @@
 <html lang="fr">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>France Live News</title>
-
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRISIS COMMAND // WAR ROOM</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@500;700;900&display=swap" rel="stylesheet">
 </head>
 
 <body>
+  <div class="scanlines"></div>
+  <div class="vignette"></div>
 
-<!-- TOP BAR -->
-<div id="topbar">
+  <div id="topbar">
+    <div id="title">
+      <span class="blink-dot"></span> DÉPÊCHES // WAR ROOM SECURE
+    </div>
+    <div id="systemStatus">
+      STATUS: <span class="status-active">ONLINE</span>
+    </div>
+    <div id="lastupdate">
+      SYNC...
+    </div>
+  </div>
 
-<div id="title">
-DÉPÊCHES SANS FILTRE
-</div>
+  <div id="counter-wrapper">
+    <span class="label">FLUX ENTRANT :</span>
+    <div id="counter">0 Dépêches</div>
+  </div>
 
-<div id="lastupdate">
-Chargement...
-</div>
+  <div id="newsContainer"></div>
 
-</div>
+  <div id="ticker">
+    <div class="ticker-badge">ALERTE</div>
+    <div id="tickerText">Chargement des flux tactiques...</div>
+  </div>
 
-<!-- COUNTER -->
-<div id="counter">
-0 Dépêches
-</div>
-
-<!-- NEWS -->
-<div id="newsContainer">
-
-</div>
-
-<!-- TICKER -->
-<div id="ticker">
-
-<div id="tickerText">
-Chargement des alertes...
-</div>
-
-</div>
-
-<!-- SCRIPT -->
-<script type="module" src="js/app.js"></script>
+  <script type="module" src="js/app.js"></script>
 </body>
 
-</html>
+    </html>
+    
