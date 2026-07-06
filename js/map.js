@@ -1,125 +1,97 @@
 let geoData = [];
-window.MAP_MODE = false;
 
 const mapContainer = document.createElement("div");
 mapContainer.id = "mapContainer";
 
-Object.assign(mapContainer.style,{
-position:"fixed",
-top:"0",
-left:"0",
-width:"100%",
-height:"100%",
-background:"#0b0b0b",
-display:"none",
-zIndex:"999",
-opacity:"0"
+Object.assign(mapContainer.style, {
+  position: "fixed",
+  top: "0",
+  left: "0",
+  width: "100%",
+  height: "100%",
+  background: "rgba(10,10,10,0.95)",
+  display: "none",
+  zIndex: "9999"
 });
 
 document.body.appendChild(mapContainer);
 
-const cityMap = {
-"PARIS": { x:420, y:220 },
-"LYON": { x:520, y:420 },
-"MARSEILLE": { x:480, y:520 },
-"TOULOUSE": { x:360, y:480 },
-"BORDEAUX": { x:300, y:320 },
-"LILLE": { x:550, y:300 }
-};
+// beep simple
+function beep() {
+  const ctx = new (window.AudioContext || window.webkitAudioContext)();
+  const osc = ctx.createOscillator();
+  const gain = ctx.createGain();
 
-/* =======================
-   LOAD GEO
-======================= */
-async function loadGeo(){
-try{
-const res = await fetch("data/geo.json?x=" + Date.now());
-geoData = await res.json();
-}catch(e){
-geoData = [];
-}
+  osc.connect(gain);
+  gain.connect(ctx.destination);
+
+  osc.frequency.value = 220;
+  gain.gain.value = 0.05;
+
+  osc.start();
+  osc.stop(ctx.currentTime + 0.15);
 }
 
-/* =======================
-   BEEP
-======================= */
-function beep(){
-try{
-const ctx = new AudioContext();
-const osc = ctx.createOscillator();
-osc.connect(ctx.destination);
-osc.frequency.value = 180;
-osc.start();
-osc.stop(ctx.currentTime + 0.2);
-}catch(e){}
+async function loadGeo() {
+  try {
+    const res = await fetch("data/geo.json?cache=" + Date.now());
+    geoData = await res.json();
+    console.log("📍 GEO LOADED:", geoData.length);
+  } catch (e) {
+    console.log("geo error", e);
+  }
 }
 
-/* =======================
-   SHOW MAP
-======================= */
-function showMap(){
+function showMap() {
+  if (!geoData.length) return;
 
-if(!geoData.length) return;
+  beep();
 
-window.MAP_MODE = true;
+  mapContainer.innerHTML = "";
 
-beep();
+  const title = document.createElement("div");
+  title.textContent = "⚠ CARTE DES ALERTES ⚠";
+  Object.assign(title.style, {
+    color: "white",
+    fontSize: "26px",
+    textAlign: "center",
+    padding: "20px"
+  });
 
-mapContainer.innerHTML = "<div style='color:white;text-align:center;font-size:24px;padding:20px'>⚠ CARTE CRISE ⚠</div>";
+  mapContainer.appendChild(title);
 
-geoData.forEach(ev=>{
+  for (const ev of geoData) {
+    const dot = document.createElement("div");
 
-const dot = document.createElement("div");
+    Object.assign(dot.style, {
+      position: "absolute",
+      width: "14px",
+      height: "14px",
+      borderRadius: "50%",
+      background: ev.score >= 90 ? "red" : "orange",
+      boxShadow: "0 0 10px red",
+      left: (200 + Math.random() * 600) + "px",
+      top: (150 + Math.random() * 300) + "px"
+    });
 
-Object.assign(dot.style,{
-position:"absolute",
-width:"10px",
-height:"10px",
-borderRadius:"50%",
-background: ev.score > 80 ? "red" : "orange",
-boxShadow:"0 0 10px red"
-});
+    mapContainer.appendChild(dot);
+  }
 
-const city = Object.keys(cityMap).find(c =>
-(ev.title || "").toUpperCase().includes(c)
-);
+  mapContainer.style.display = "block";
 
-const pos = cityMap[city] || {
-x:200 + Math.random()*500,
-y:150 + Math.random()*300
-};
-
-dot.style.left = pos.x + "px";
-dot.style.top = pos.y + "px";
-
-mapContainer.appendChild(dot);
-});
-
-mapContainer.style.display = "block";
-
-setTimeout(()=>{
-mapContainer.style.opacity = "1";
-},50);
-
-setTimeout(()=>{
-mapContainer.style.opacity = "0";
-
-setTimeout(()=>{
-mapContainer.style.display = "none";
-window.MAP_MODE = false;
-},500);
-
-},8000);
+  setTimeout(() => {
+    mapContainer.style.display = "none";
+  }, 10000);
 }
 
-/* =======================
-   INIT
-======================= */
-export function initMap(){
+export function initMap() {
+  loadGeo();
 
-loadGeo().then(showMap);
+  // reload data
+  setInterval(loadGeo, 120000);
 
-setInterval(loadGeo, 60000);
+  // popup map
+  setInterval(showMap, 120000);
 
-setInterval(showMap, 30000);
-
+  console.log("🗺 MAP MODULE READY");
 }
