@@ -136,21 +136,21 @@ export function initMap(){
 
 console.log("MAP INIT OK");
 
-// FIRST LOAD + FIRST DISPLAY
 loadGeo().then(()=>{
-console.log("FIRST GEO LOAD:", geoData.length);
+console.log("FIRST MAP RUN");
 
 showMap();
-});
 
-// refresh data
-setInterval(loadGeo, 15000);
-
-// display loop
+// IMPORTANT: boucle propre synchronisée
 setInterval(()=>{
-if(geoData.length > 0){
+if(geoData && geoData.length > 0){
 showMap();
 }
-}, 15000);
+}, 30000);
+
+});
+
+// refresh data séparé
+setInterval(loadGeo, 60000);
 
 }
