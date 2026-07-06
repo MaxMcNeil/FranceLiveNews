@@ -1,5 +1,7 @@
 import fs from "fs";
 
+console.log("🚀 GEOLOCATE START");
+
 const clusters = JSON.parse(
   fs.readFileSync("data/clusters.json", "utf-8")
 );
@@ -8,33 +10,35 @@ const cities = JSON.parse(
   fs.readFileSync("data/communes_lat_lon.json", "utf-8")
 );
 
-// index normalisé ultra strict
-const index = new Map();
+console.log("clusters:", clusters.length);
+console.log("cities:", cities.length);
+
+// index propre
+const cityIndex = new Map();
 
 for(const c of cities){
-  index.set(normalize(c.name), c);
+  cityIndex.set(c.name.toUpperCase(), c);
 }
 
-function normalize(str){
-  return (str || "")
+function normalize(text){
+  return (text || "")
     .toUpperCase()
     .replace(/[^A-ZÀ-Ÿ\s-]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-// 🔥 EXTRACTION ULTRA STRICTE
-function findCity(text){
+// 🔥 MATCH STRICT (anti hallucination)
+function findCity(title){
 
-  const clean = normalize(text);
+  const t = normalize(title);
 
-  // on teste uniquement contre les vraies communes
-  for(const [name, city] of index){
+  for(const [name, city] of cityIndex){
 
-    // match EXACT mot complet
+    // match mot entier uniquement
     const regex = new RegExp(`\\b${name}\\b`, "i");
 
-    if(regex.test(clean)){
+    if(regex.test(t)){
       return city;
     }
 
@@ -49,21 +53,27 @@ for(const c of clusters){
 
   const city = findCity(c.title);
 
-  if(!city) continue;
+  if(city){
 
-  geo.push({
-    title: c.title,
-    score: c.score,
-    city: city.name,
-    lat: city.lat,
-    lon: city.lon,
-    sources: c.sources,
-    count: c.count
-  });
+    console.log("MATCH:", city.name);
+
+    geo.push({
+      title: c.title,
+      score: c.score,
+      city: city.name,
+      lat: city.lat,
+      lon: city.lon,
+      sources: c.sources,
+      count: c.count
+    });
+
+  } else {
+    console.log("NO MATCH:", c.title);
+  }
 
 }
 
-// fallback safe
+// fallback propre (PAS de fake villes)
 if(geo.length === 0){
   geo.push({
     title: "Aucune commune détectée",
@@ -79,4 +89,4 @@ fs.writeFileSync(
   JSON.stringify(geo, null, 2)
 );
 
-console.log("✔ GEO FINAL:", geo.length);
+console.log("✔ FINAL GEO:", geo.length);
