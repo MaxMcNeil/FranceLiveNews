@@ -9,14 +9,42 @@ Object.assign(mapContainer.style, {
   left: "0",
   width: "100%",
   height: "100%",
-  background: "#050505",
+  background: "#0b0b0b",
   display: "none",
   zIndex: "999"
 });
 
 document.body.appendChild(mapContainer);
 
-function beep() {
+/* =======================
+   CITY MAP (fallback visuel)
+======================= */
+const cityMap = {
+  "PARIS": { x:420, y:220 },
+  "LYON": { x:520, y:420 },
+  "MARSEILLE": { x:480, y:520 },
+  "TOULOUSE": { x:360, y:480 },
+  "BORDEAUX": { x:300, y:320 },
+  "LILLE": { x:550, y:300 }
+};
+
+/* =======================
+   LOAD GEO (cache safe)
+======================= */
+async function loadGeo(){
+  try{
+    const res = await fetch("data/geo.json?cb=" + Date.now(), { cache: "no-store" });
+    geoData = await res.json();
+  } catch(e){
+    console.log("geo error", e);
+    geoData = [];
+  }
+}
+
+/* =======================
+   BEEP
+======================= */
+function beep(){
   const ctx = new (window.AudioContext || window.webkitAudioContext)();
   const osc = ctx.createOscillator();
   const gain = ctx.createGain();
@@ -24,92 +52,107 @@ function beep() {
   osc.connect(gain);
   gain.connect(ctx.destination);
 
-  osc.frequency.value = 200;
-  gain.gain.value = 0.05;
+  osc.frequency.value = 220;
+  gain.gain.value = 0.08;
 
   osc.start();
-  osc.stop(ctx.currentTime + 0.2);
+  osc.stop(ctx.currentTime + 0.15);
 }
 
-/* ================= LOAD GEO ================= */
-async function loadGeo() {
-  try {
-    const res = await fetch("data/geo.json?x=" + Date.now());
-    geoData = await res.json();
-  } catch (e) {
-    console.log("geo error", e);
+/* =======================
+   PULSE DOT
+======================= */
+function createDot(ev){
+
+  const dot = document.createElement("div");
+
+  const isHot = ev.score >= 80;
+
+  Object.assign(dot.style, {
+    position: "absolute",
+    width: isHot ? "16px" : "10px",
+    height: isHot ? "16px" : "10px",
+    borderRadius: "50%",
+    background: isHot ? "red" : "orange",
+    boxShadow: isHot ? "0 0 20px red" : "0 0 10px orange"
+  });
+
+  if(isHot){
+    dot.animate([
+      { transform: "scale(1)" },
+      { transform: "scale(1.6)" },
+      { transform: "scale(1)" }
+    ], {
+      duration: 800,
+      iterations: Infinity
+    });
   }
+
+  const city = Object.keys(cityMap).find(c =>
+    (ev.title || "").toUpperCase().includes(c)
+  );
+
+  if(city){
+    const pos = cityMap[city];
+    dot.style.left = pos.x + "px";
+    dot.style.top = pos.y + "px";
+  } else {
+    dot.style.left = (200 + Math.random()*500) + "px";
+    dot.style.top = (150 + Math.random()*300) + "px";
+  }
+
+  return dot;
 }
 
-/* ================= UPDATE MAP ================= */
-export function updateMap(data) {
-  geoData = data;
-}
+/* =======================
+   SHOW MAP (CRISIS ONLY)
+======================= */
+function showMap(){
 
-/* ================= SHOW MAP ================= */
-function showMap() {
   const crisis = geoData.filter(ev =>
     ev.score >= 80 && ev.lat && ev.lon
   );
 
-  if (!crisis.length) return;
+  if(crisis.length === 0){
+    return; // rien = pas de map
+  }
 
   beep();
 
   mapContainer.innerHTML = "";
 
   const title = document.createElement("div");
-  title.innerText = "⚠ CRISIS MAP ⚠";
-  title.style.color = "white";
-  title.style.fontSize = "26px";
-  title.style.textAlign = "center";
-  title.style.padding = "10px";
+  title.textContent = "⚠ CARTE DES ALERTES ⚠";
+
+  Object.assign(title.style, {
+    color: "white",
+    fontSize: "24px",
+    textAlign: "center",
+    padding: "15px"
+  });
 
   mapContainer.appendChild(title);
 
   crisis.forEach(ev => {
-    const dot = document.createElement("div");
-
-    const x = (ev.lon + 5) * 60;
-    const y = (50 - ev.lat) * 40;
-
-    Object.assign(dot.style, {
-      position: "absolute",
-      width: "14px",
-      height: "14px",
-      borderRadius: "50%",
-      background: "red",
-      left: x + "px",
-      top: y + "px",
-      boxShadow: "0 0 20px red",
-      animation: "pulse 1s infinite"
-    });
-
-    mapContainer.appendChild(dot);
+    mapContainer.appendChild(createDot(ev));
   });
 
   mapContainer.style.display = "block";
 
-  setTimeout(() => {
+  setTimeout(()=>{
     mapContainer.style.display = "none";
-  }, 8000);
+  }, 10000);
 }
 
-/* ================= INIT ================= */
-export function initMap() {
+/* =======================
+   INIT
+======================= */
+export function initMap(){
+
   loadGeo();
 
-  setInterval(loadGeo, 120000);
-  setInterval(showMap, 120000);
-}
+  setInterval(loadGeo, 20000);
+  setInterval(showMap, 15000);
 
-/* ================= ANIMATION CSS ================= */
-const style = document.createElement("style");
-style.textContent = `
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.6); opacity: 0.5; }
-  100% { transform: scale(1); opacity: 1; }
+  console.log("MAP INIT OK");
 }
-`;
-document.head.appendChild(style);
