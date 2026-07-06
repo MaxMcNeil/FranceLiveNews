@@ -4,21 +4,13 @@
     "score": 95,
     "city": "Aveux",
     "lat": 42.9421578306,
-    "lon": 0.54711750308,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "count": 1
+    "lon": 0.54711750308
   },
   {
     "title": "Guerre en Ukraine : « La réticence des Occidentaux à livrer des armes dans la profondeur a poussé Kiev à se débrouiller elle-même »",
     "score": 75,
     "city": "Armes",
     "lat": 47.4641711809,
-    "lon": 3.49201148604,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "count": 1
+    "lon": 3.49201148604
   }
 ]
