@@ -16,7 +16,7 @@ Object.assign(mapContainer.style, {
 
 document.body.appendChild(mapContainer);
 
-// beep simple
+/* BEEP */
 function beep() {
   const ctx = new (window.AudioContext || window.webkitAudioContext)();
   const osc = ctx.createOscillator();
@@ -32,6 +32,7 @@ function beep() {
   osc.stop(ctx.currentTime + 0.15);
 }
 
+/* LOAD GEO */
 async function loadGeo() {
   try {
     const res = await fetch("data/geo.json?cache=" + Date.now());
@@ -42,8 +43,16 @@ async function loadGeo() {
   }
 }
 
+/* SHOW MAP */
 function showMap() {
   if (!geoData.length) return;
+
+  // filtre important
+  const filtered = geoData.filter(ev =>
+    ev.score >= 80 && ev.lat && ev.lon
+  );
+
+  if (!filtered.length) return;
 
   beep();
 
@@ -60,7 +69,7 @@ function showMap() {
 
   mapContainer.appendChild(title);
 
-  for (const ev of geoData) {
+  for (const ev of filtered) {
     const dot = document.createElement("div");
 
     Object.assign(dot.style, {
@@ -69,8 +78,8 @@ function showMap() {
       height: "14px",
       borderRadius: "50%",
       background: ev.score >= 90 ? "red" : "orange",
-      boxShadow: "0 0 10px red",
-      left: (200 + Math.random() * 600) + "px",
+      boxShadow: "0 0 12px red",
+      left: (300 + Math.random() * 500) + "px",
       top: (150 + Math.random() * 300) + "px"
     });
 
@@ -84,14 +93,12 @@ function showMap() {
   }, 10000);
 }
 
+/* INIT */
 export function initMap() {
   loadGeo();
 
-  // reload data
   setInterval(loadGeo, 120000);
-
-  // popup map
   setInterval(showMap, 120000);
 
-  console.log("🗺 MAP MODULE READY");
+  console.log("🗺 MAP READY");
 }
