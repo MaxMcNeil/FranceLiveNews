@@ -9,7 +9,6 @@ const lastupdate = document.getElementById("lastupdate");
 const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
-let displayedTitles = new Set(); // Pour suivre l'état de la pile et l'animation d'entrée
 
 /* =======================
 FORMAT TIME
@@ -25,36 +24,23 @@ function formatTime(iso){
 }
 
 /* =======================
-RENDER (Boucle perpétuelle visuelle)
+RENDER (Fixe, sans animation ni décalage)
 ======================= */
 function render(){
-    DATA.sort((a,b)=>b.score-a.score);
-
-    // On récupère les éléments existants dans le conteneur
-    const existingCards = Array.from(container.children);
-    const newTitlesSet = new Set(DATA.map(d => d.title));
-
-    // Détection d'un nouveau top pour déclencher l'effet pop en haut
-    const currentTopTitle = DATA.length > 0 ? DATA[0].title : "";
-    const topCardEl = container.firstElementChild;
-    const isNewTop = topCardEl && topCardEl.dataset.title !== currentTopTitle;
-
     container.innerHTML = "";
 
     DATA.forEach((item, index)=>{
         const card = document.createElement("div");
-        card.dataset.title = item.title;
 
-        // La première dépêche en haut bénéficie de l'effet d'alerte / pop
+        // La première dépêche garde un style distinctif de tête de liste, mais sans animation/zoom
         if (index === 0) {
-            card.className = "tactical-popup" + (isNewTop ? " zoom-anim" : "");
-            
+            card.className = "tactical-popup";
             let borderColor = "var(--accent-red)";
             if(item.score < 90 && item.score >= 70) borderColor = "var(--accent-orange)";
             card.style.borderColor = borderColor;
 
             card.innerHTML = `
-                <div class="popup-badge animate-blink">🔴 ALERTE PRIORITAIRE</div>
+                <div class="popup-badge">ALERTE PRIORITAIRE</div>
                 <div class="popup-title">${item.title}</div>
                 <div class="popup-meta">
                     <span>GRAVITÉ : ${item.score}</span>
@@ -62,12 +48,7 @@ function render(){
                 </div>
             `;
         } else {
-            // Les cartes descendent et s'empilent visuellement en dessous
             card.className = "newsCard";
-            if (!displayedTitles.has(item.title)) {
-                card.classList.add("new-entry"); // effet d'apparition fluide si l'élément vient d'arriver
-            }
-
             let borderColor = "var(--text-dim)";
             if(item.score >= 90) borderColor = "var(--accent-red)";
             else if(item.score >= 70) borderColor = "var(--accent-orange)";
@@ -86,7 +67,6 @@ function render(){
         container.appendChild(card);
     });
 
-    displayedTitles = newTitlesSet;
     counter.innerHTML = '<span class="live-blink">LIVE</span>';
 }
 
