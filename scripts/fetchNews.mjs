@@ -1,32 +1,36 @@
 import fs from "fs";
 
-// ... (votre logique de fetch RSS reste identique)
-
 async function run(){
-    // 1. Charger l'historique existant si le fichier existe
+    // 1. Charger l'historique existant pour ne pas perdre les news précédentes
     let history = [];
     if (fs.existsSync("data/news.json")) {
-        const raw = fs.readFileSync("data/news.json");
-        history = JSON.parse(raw).items || [];
+        try {
+            const raw = fs.readFileSync("data/news.json");
+            history = JSON.parse(raw).items || [];
+        } catch(e) {
+            console.error("Erreur lecture fichier existant, création nouveau.");
+        }
     }
 
-    // 2. Récupérer les nouvelles dépêches (fetch RSS)
-    let newNews = await getAllNewNews(); // Votre fonction de récupération
+    // 2. Récupérer les nouveaux flux (votre fonction actuelle)
+    let newNews = await getAllNewNews(); 
 
-    // 3. Fusionner et dédupliquer par titre
+    // 3. Fusionner : On combine tout, et on déduplique par titre (pour éviter les doublons)
+    // Le Map utilise le titre comme clé unique
     let allNews = [...new Map([...history, ...newNews].map(item => [item.title, item])).values()];
 
-    // 4. Trier par score décroissant pour garder les plus importantes
+    // 4. Trier par score décroissant : les plus importantes en premier
     allNews.sort((a, b) => b.score - a.score);
 
-    // 5. Ne garder que les 100 premières (les moins importantes sont éjectées)
+    // 5. Ne garder que les 100 meilleures
     const finalList = allNews.slice(0, 100);
 
+    // 6. Sauvegarder
     const output = {
         updated: new Date().toISOString(),
-        count: finalList.length,
         items: finalList
     };
 
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
+    console.log(`Pipeline terminé : ${finalList.length} dépêches conservées.`);
 }
