@@ -28,10 +28,6 @@ jobs:
     - run: node scripts/clusterNews.mjs
     - run: node scripts/timeline.mjs
 
-    # BONUS SAFE MODE GEO
-    - run: node scripts/geoLocate.mjs
-      continue-on-error: false
-
     # =======================
     # COMMIT SAFE (NO EMPTY COMMITS)
     # =======================
@@ -47,3 +43,4 @@ jobs:
 
         git commit -m "update pipeline"
         git push
+        
