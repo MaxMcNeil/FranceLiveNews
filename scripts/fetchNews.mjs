@@ -88,7 +88,7 @@ async function run() {
 
     // Fusion, Déduplication par URL (i.link), Filtrage des scores faibles (> 40) et Tri
     let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()]
-        .filter(i => i.score > 40) 
+        .filter(i => i.score > 65) 
         .sort((a, b) => b.score - a.score);
 
     const final = all.slice(0, 100);
