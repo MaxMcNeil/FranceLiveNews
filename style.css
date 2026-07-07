@@ -104,6 +104,7 @@ body {
   border-left: 4px solid var(--text-dim);
   padding: 12px 15px;
   position: relative;
+  transition: border-left-color 0.3s ease;
 }
 
 .newsTitle { font-size: 0.9rem; color: #fff; margin-bottom: 6px; line-height: 1.25; }
@@ -115,4 +116,3 @@ body {
 #tickerText { color: var(--accent-orange); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
-               
