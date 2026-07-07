@@ -2,11 +2,17 @@
   "name": "francelivenews",
   "version": "1.0.0",
   "type": "module",
+  "description": "CRISIS COMMAND // WAR ROOM PIPELINE",
+  "main": "js/app.js",
   "scripts": {
-    "update": "node scripts/fetchNews.mjs"
+    "news": "node scripts/fetchNews.mjs",
+    "cyber": "node scripts/fetchCyber.mjs",
+    "cluster": "node scripts/clusterNews.mjs",
+    "timeline": "node scripts/timeline.mjs",
+    "summarize": "node scripts/summarize.mjs"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0",
-    "fast-xml-parser": "^5.2.5"
+    "axios": "^1.7.9",
+    "rss-parser": "^3.13.0"
   }
 }
