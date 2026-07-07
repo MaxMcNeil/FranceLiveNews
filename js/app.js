@@ -1,8 +1,5 @@
 import { analyzeText } from "./aiLight.js";
 
-/* =======================
-DOM
-======================= */
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -10,30 +7,69 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* =======================
-FORMAT TIME
-======================= */
-function formatTime(iso){
-    const d = new Date(iso);
-    if(isNaN(d)) return "--:--";
-
-    return d.toLocaleTimeString("fr-FR",{
-        hour:"2-digit",
-        minute:"2-digit"
-    });
+/* Bip sonore discret pour OBS */
+const beep = new AudioContext();
+function playBip() {
+    const osc = beep.createOscillator();
+    osc.connect(beep.destination);
+    osc.frequency.value = 880;
+    osc.start();
+    osc.stop(beep.currentTime + 0.1);
 }
 
-/* =======================
-RENDER (Fixe, sans animation ni décalage)
-======================= */
 function render(){
     container.innerHTML = "";
 
     DATA.forEach((item, index)=>{
         const card = document.createElement("div");
-
-        // La première dépêche garde un style distinctif de tête de liste, mais sans animation/zoom
         if (index === 0) {
+            card.className = "tactical-popup";
+            card.innerHTML = `
+                <div class="popup-badge">🔴 ALERTE PRIORITAIRE</div>
+                <div class="popup-title">${item.title}</div>
+                <div class="popup-meta">
+                    <span>GRAVITÉ : ${item.score}</span>
+                    <span>HEURE : ${formatTime(item.time)}</span>
+                </div>
+            `;
+        } else {
+            card.className = "newsCard";
+            card.innerHTML = `
+                <div class="newsTitle">${item.title}</div>
+                <div class="newsInfos">
+                    <span>${item.source.split('/').pop()}</span>
+                    <span>⚡ ${item.score}</span>
+                </div>
+            `;
+        }
+        container.appendChild(card);
+    });
+    counter.innerHTML = '<span class="live-blink">LIVE</span>';
+}
+
+// Rotation automatique : la 1ère devient la dernière
+function rotateNews() {
+    if (DATA.length > 1) {
+        const first = DATA.shift();
+        DATA.push(first);
+        playBip(); // Le bip à chaque rotation
+        render();
+    }
+}
+
+async function load(){
+    try {
+        const url = "data/news.json?v="+Date.now();
+        const res = await fetch(url, { cache: "no-store" });
+        const json = await res.json();
+        DATA = json.items || [];
+        render();
+    } catch(e) { console.error(e); }
+}
+
+load();
+setInterval(load, 60000); // Mise à jour des données réelles 1x par minute
+setInterval(rotateNews, 5000); // Rotation visuelle toutes les 5 secondes
             card.className = "tactical-popup";
             let borderColor = "var(--accent-red)";
             if(item.score < 90 && item.score >= 70) borderColor = "var(--accent-orange)";
