@@ -10,41 +10,38 @@ const RSS_FEEDS = [
     "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
 ];
 
-const CRITICAL_KEYWORDS = [
-    { k: "ATTENTAT", s: 100 },
-    { k: "MASSACRE", s: 100 },
-    { k: "EXPLOSION", s: 90 },
-    { k: "FUSILLADE", s: 90 },
-    { k: "MEURTRE", s: 85 },
-    { k: "ASSASSINAT", s: 85 },
-    { k: "MORT", s: 80 },
-    { k: "MORTS", s: 80 },
-    { k: "DÉCÈS", s: 75 },
-    { k: "TUÉ", s: 80 },
-    { k: "TUÉS", s: 80 },
-    { k: "INCENDIE", s: 75 },
-    { k: "ÉMEUTE", s: 70 },
-    { k: "AGRESSION", s: 65 }
+// Liste pour hiérarchiser l'anxiété
+const ANXIETY_KEYWORDS = [
+    { k: "ATTENTAT", s: 100 }, { k: "MASSACRE", s: 100 },
+    { k: "EXPLOSION", s: 95 }, { k: "FUSILLADE", s: 95 },
+    { k: "MEURTRE", s: 90 }, { k: "ASSASSINAT", s: 90 },
+    { k: "MORT", s: 85 }, { k: "TUÉ", s: 85 },
+    { k: "INCENDIE", s: 80 }, { k: "ÉMEUTE", s: 80 },
+    { k: "AGRESSION", s: 75 }, { k: "TRAQUE", s: 70 },
+    { k: "DISPARITION", s: 65 }
 ];
+
+// Liste pour pénaliser les titres "lisses" ou "propagande"
+const SMOOTH_KEYWORDS = ["SAIN ET SAUF", "HISTORIQUE", "RENAÎT", "DIALOGUE", "AVANCÉE", "PORTRAIT", "INVESTISSEMENT"];
 
 function getScore(title) {
     let t = (title || "").toUpperCase();
+    let score = 10; // Score de base très faible
 
-    if (t.includes("TOUR DE FRANCE") || t.includes("CYCLISME") || t.includes("FOOTBALL") || 
-        t.includes("MATCH") || t.includes("BOMBE ATOMIQUE") || t.includes("DÉPOSÉ LES ARMES")) {
-        return 15;
-    }
-
-    let score = 30;
-    for (const item of CRITICAL_KEYWORDS) {
+    // 1. Boost pour les faits graves
+    for (const item of ANXIETY_KEYWORDS) {
         if (t.includes(item.k)) {
             score = Math.max(score, item.s);
         }
     }
 
-    if (t.includes("PORTRAIT") || t.includes("IL Y A UN AN") || t.includes("EN APPEL")) {
-        score = Math.max(25, score - 20);
+    // 2. Pénalité sévère pour le lissage médiatique
+    for (const word of SMOOTH_KEYWORDS) {
+        if (t.includes(word)) {
+            score -= 40;
+        }
     }
+
     return score;
 }
 
@@ -59,7 +56,6 @@ async function fetchRSS(url) {
             score: getScore(i.title || "")
         }));
     } catch(e) {
-        console.log("RSS error:", url);
         return [];
     }
 }
@@ -67,22 +63,19 @@ async function fetchRSS(url) {
 async function run() {
     let history = [];
     if (fs.existsSync("data/news.json")) {
-        try {
-            history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || [];
-        } catch(e) { console.error("Erreur lecture history"); }
+        try { history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || []; } catch(e) {}
     }
 
     let newItems = [];
-    for(const url of RSS_FEEDS) {
-        const data = await fetchRSS(url);
-        newItems = newItems.concat(data);
+    for(const url of RSS_FEEDS) { 
+        newItems = newItems.concat(await fetchRSS(url)); 
     }
 
-    // 🔥 DÉDUPLICATION PAR URL (i.link)
-    // On utilise i.link comme clé unique pour le Map
-    let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()];
-    
-    all.sort((a, b) => b.score - a.score);
+    // Fusion, Déduplication par URL, Filtrage des scores faibles (> 40) et Tri
+    let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()]
+        .filter(i => i.score > 40) 
+        .sort((a, b) => b.score - a.score);
+
     const final = all.slice(0, 100);
 
     const output = {
@@ -94,7 +87,7 @@ async function run() {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ news.json mis à jour (Déduplication par URL):", final.length);
+    console.log("✔ Pipeline anxiogène mise à jour :", final.length, "articles retenus.");
 }
 
 run();
