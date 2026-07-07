@@ -21,8 +21,15 @@ try {
     }
 
     fs.mkdirSync("data", { recursive: true });
-    fs.writeFileSync("data/summary.json", JSON.stringify({ summary }, null, 2));
-    console.log("✔ summary.json généré avec succès.");
+    
+    // 🔥 Ajout de la clé 'updated' pour forcer Git à détecter une modification à chaque run
+    const payload = {
+        updated: new Date().toISOString(),
+        summary: summary
+    };
+
+    fs.writeFileSync("data/summary.json", JSON.stringify(payload, null, 2));
+    console.log("✔ summary.json généré et horodaté avec succès.");
 } catch (e) {
     console.error("ERREUR summarize:", e.message);
     process.exit(1);
