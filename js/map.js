@@ -9,24 +9,13 @@ Object.assign(mapContainer.style, {
   left: "0",
   width: "100%",
   height: "100%",
-  background: "#0b0b0b",
+  background: "#030507",
   display: "none",
-  zIndex: "999"
+  zIndex: "999",
+  fontFamily: "'Share Tech Mono', monospace"
 });
 
 document.body.appendChild(mapContainer);
-
-/* =======================
-   CITY MAP (fallback visuel)
-======================= */
-const cityMap = {
-  "PARIS": { x:420, y:220 },
-  "LYON": { x:520, y:420 },
-  "MARSEILLE": { x:480, y:520 },
-  "TOULOUSE": { x:360, y:480 },
-  "BORDEAUX": { x:300, y:320 },
-  "LILLE": { x:550, y:300 }
-};
 
 /* =======================
    LOAD GEO (cache safe)
@@ -45,67 +34,26 @@ async function loadGeo(){
    BEEP
 ======================= */
 function beep(){
-  const ctx = new (window.AudioContext || window.webkitAudioContext)();
-  const osc = ctx.createOscillator();
-  const gain = ctx.createGain();
+  try {
+    const ctx = new (window.AudioContext || window.webkitAudioContext)();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
 
-  osc.connect(gain);
-  gain.connect(ctx.destination);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
 
-  osc.frequency.value = 220;
-  gain.gain.value = 0.08;
+    osc.frequency.value = 220;
+    gain.gain.value = 0.08;
 
-  osc.start();
-  osc.stop(ctx.currentTime + 0.15);
+    osc.start();
+    osc.stop(ctx.currentTime + 0.15);
+  } catch(e) {
+    // Contexte audio restreint si aucune interaction utilisateur préalable
+  }
 }
 
 /* =======================
-   PULSE DOT
-======================= */
-function createDot(ev){
-
-  const dot = document.createElement("div");
-
-  const isHot = ev.score >= 80;
-
-  Object.assign(dot.style, {
-    position: "absolute",
-    width: isHot ? "16px" : "10px",
-    height: isHot ? "16px" : "10px",
-    borderRadius: "50%",
-    background: isHot ? "red" : "orange",
-    boxShadow: isHot ? "0 0 20px red" : "0 0 10px orange"
-  });
-
-  if(isHot){
-    dot.animate([
-      { transform: "scale(1)" },
-      { transform: "scale(1.6)" },
-      { transform: "scale(1)" }
-    ], {
-      duration: 800,
-      iterations: Infinity
-    });
-  }
-
-  const city = Object.keys(cityMap).find(c =>
-    (ev.title || "").toUpperCase().includes(c)
-  );
-
-  if(city){
-    const pos = cityMap[city];
-    dot.style.left = pos.x + "px";
-    dot.style.top = pos.y + "px";
-  } else {
-    dot.style.left = (200 + Math.random()*500) + "px";
-    dot.style.top = (150 + Math.random()*300) + "px";
-  }
-
-  return dot;
-}
-
-/* =======================
-   SHOW MAP (CRISIS ONLY)
+   SHOW MAP (CRISIS ONLY - REAL LAT/LON)
 ======================= */
 function showMap(){
 
@@ -113,28 +61,42 @@ function showMap(){
     ev.score >= 80 && ev.lat && ev.lon
   );
 
-  if(crisis.length === 0) return;
+  // Si aucune ville/coordonnée détectée, on n'affiche rien
+  if(crisis.length === 0) {
+    mapContainer.style.display = "none";
+    return;
+  }
 
   beep();
 
   mapContainer.innerHTML = "";
 
   const title = document.createElement("div");
-  title.textContent = "⚠ CRISIS MAP";
+  title.textContent = "⚠ CRISIS MAP // CIBLAGE ACTIF";
 
   Object.assign(title.style, {
-    color: "white",
-    fontSize: "24px",
+    color: "#ff3333",
+    fontSize: "22px",
+    letterSpacing: "3px",
     textAlign: "center",
-    padding: "15px"
+    padding: "20px",
+    background: "rgba(8,14,20,0.9)",
+    borderBottom: "1px solid #1a3045",
+    fontFamily: "'Orbitron', sans-serif"
   });
 
   mapContainer.appendChild(title);
 
+  // Zone d'affichage des points tactiques basés sur les coordonnées réelles
+  const canvasArea = document.createElement("div");
+  Object.assign(canvasArea.style, {
+    position: "relative",
+    width: "100%",
+    height: "calc(100% - 70px)"
+  });
+
   crisis.forEach(ev => {
-
     const dot = document.createElement("div");
-
     const hot = ev.score >= 90;
 
     Object.assign(dot.style, {
@@ -142,22 +104,42 @@ function showMap(){
       width: hot ? "18px" : "12px",
       height: hot ? "18px" : "12px",
       borderRadius: "50%",
-      background: hot ? "red" : "orange",
-      boxShadow: hot ? "0 0 25px red" : "0 0 10px orange"
+      background: hot ? "#ff3333" : "#ff9900",
+      boxShadow: hot ? "0 0 25px #ff3333" : "0 0 10px #ff9900",
+      animation: "pulseRed 1s infinite"
     });
 
-    dot.style.left = (300 + Math.random()*400) + "px";
-    dot.style.top = (200 + Math.random()*300) + "px";
+    // Conversion ou projection basique des coordonnées lat/lon sur l'écran si nécessaire,
+    // ou utilisation directe si vos valeurs de position correspondent au canvas.
+    // Note : Si vous gérez une projection géographique exacte, remplacez par votre logique x/y.
+    dot.style.left = ((ev.lon - (-5)) * 40) + "px"; // Exemple de mapping proportionnel
+    dot.style.top = ((51 - ev.lat) * 45) + "px";   // Exemple de mapping proportionnel
 
-    mapContainer.appendChild(dot);
+    const label = document.createElement("div");
+    label.textContent = `${ev.city} (${ev.score}⚡)`;
+    Object.assign(label.style, {
+      position: "absolute",
+      left: ((ev.lon - (-5)) * 40 + 15) + "px",
+      top: ((51 - ev.lat) * 45 - 5) + "px",
+      color: "#fff",
+      fontSize: "11px",
+      whiteSpace: "nowrap",
+      textShadow: "0 0 4px red"
+    });
+
+    canvasArea.appendChild(dot);
+    canvasArea.appendChild(label);
   });
 
+  mapContainer.appendChild(canvasArea);
   mapContainer.style.display = "block";
 
+  // Masquage automatique après 8 secondes
   setTimeout(() => {
     mapContainer.style.display = "none";
-  }, 10000);
+  }, 8000);
 }
+
 /* =======================
    INIT
 ======================= */
