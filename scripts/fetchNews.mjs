@@ -64,45 +64,51 @@ async function fetchRSS(url) {
             score: getScore(i.title || "")
         }));
     } catch(e) {
-        console.log("RSS error:", url);
         return [];
     }
 }
 
 async function run() {
-    // Lecture de l'historique existant (pour fusionner proprement avec les autres scripts de la pipeline)
-    let history = [];
+    let existingItems = [];
     if (fs.existsSync("data/news.json")) {
         try { 
-            history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || []; 
-        } catch(e) {
-            console.error("Erreur lecture history");
-        }
+            const parsed = JSON.parse(fs.readFileSync("data/news.json", "utf-8"));
+            // On isole la partie non-cyber de l'historique pour appliquer le quota des 50 news générales
+            existingItems = (parsed.items || []).filter(i => !(i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]")));
+        } catch(e) {}
     }
 
     let newItems = [];
     for(const url of RSS_FEEDS) { 
-        const data = await fetchRSS(url);
-        newItems = newItems.concat(data); 
+        newItems = newItems.concat(await fetchRSS(url)); 
     }
 
-    // Fusion, Déduplication par URL (i.link), Filtrage des scores faibles (> 40) et Tri
-    let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()]
-        .filter(i => i.score > 65) 
-        .sort((a, b) => b.score - a.score);
+    // Fusion, Déduplication par URL, Filtrage strict >= 65 et Quota Max 50
+    let allNews = [...new Map([...existingItems, ...newItems].map(i => [i.link, i])).values()]
+        .filter(i => i.score >= 65) 
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 50);
 
-    const final = all.slice(0, 100);
+    // Récupération de la partie cyber existante pour ne pas l'écraser
+    let currentFullData = { items: [] };
+    if (fs.existsSync("data/news.json")) {
+        try { currentFullData = JSON.parse(fs.readFileSync("data/news.json", "utf-8")); } catch(e) {}
+    }
+    const currentCyber = (currentFullData.items || []).filter(i => i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]"));
+
+    // Fusion finale plafonnée à 100 globale (50 news + 50 cyber)
+    const finalItems = [...allNews, ...currentCyber].sort((a, b) => b.score - a.score).slice(0, 100);
 
     const output = {
         updated: new Date().toISOString(),
-        count: final.length,
-        items: final
+        count: finalItems.length,
+        items: finalItems
     };
 
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ Pipeline anxiogène mise à jour (Déduplication par URL):", final.length, "articles retenus.");
+    console.log("✔ Pipeline anxiogène mise à jour :", finalItems.length, "articles retenus au total (Quota respecté).");
 }
 
 run();
