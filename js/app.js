@@ -1,6 +1,5 @@
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
-const lastupdate = document.getElementById("lastupdate");
 const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
@@ -52,7 +51,6 @@ function render() {
         container.appendChild(card);
     });
     
-    // Remplacement du nombre par le mot LIVE clignotant
     counter.innerHTML = '<span class="live-blink">LIVE</span>';
     buildTicker();
 }
@@ -61,7 +59,7 @@ function buildTicker() {
     tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
 }
 
-// Rotation inversée : la dernière devient la première (du haut vers le bas)
+// Rotation du haut vers le bas avec déclenchement de l'effet visuel
 function rotateNews() {
     if (DATA.length > 1) {
         const last = DATA.pop();
@@ -78,10 +76,9 @@ async function load() {
         const json = await res.json();
         DATA = json.items || [];
         render();
-        lastupdate.textContent = "MAJ : " + new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
     } catch (e) { console.error("NEWS ERROR", e); }
 }
 
 load();
-setInterval(load, 60000); // MAJ des données du serveur toutes les min
-setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec (du haut vers le bas)
+setInterval(load, 60000); // MAJ des données toutes les min
+setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec
