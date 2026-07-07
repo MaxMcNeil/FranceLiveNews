@@ -1,57 +1,49 @@
 import fs from "fs";
 
-console.log("🚀 GEOLOCATE START");
+console.log("🚀 GEOLOCATE START // OPTIMIZED");
 
-const clusters = JSON.parse(
-  fs.readFileSync("data/clusters.json", "utf-8")
-);
+const clusters = JSON.parse(fs.readFileSync("data/clusters.json", "utf-8"));
+const citiesRaw = JSON.parse(fs.readFileSync("data/communes_lat_lon.json", "utf-8"));
 
-// charge vraie base INSEE
-const citiesRaw = JSON.parse(
-  fs.readFileSync("data/communes_lat_lon.json", "utf-8")
-);
-
-// index propre
-const cityIndex = citiesRaw.map(c => ({
-  name: c.name.toUpperCase(),
-  data: c
-}));
-
+// Normalisation pour matching intelligent
 function normalize(text) {
   return (text || "")
     .toUpperCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^A-Z\s-]/g, " ")
+    .replace(/[^A-Z0-9\s-]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
+// Indexation simplifiée
+const cityIndex = citiesRaw.map(c => ({
+  normName: normalize(c.name),
+  data: c
+}));
+
 function findCity(title) {
   const t = normalize(title);
+  // On cherche les noms de villes les plus longs d'abord pour éviter les faux positifs
+  const sortedCities = cityIndex.sort((a, b) => b.normName.length - a.normName.length);
 
-  for (const c of cityIndex) {
-    const name = normalize(c.name);
-
-    // match mot entier
-    const regex = new RegExp(`\\b${name}\\b`, "i");
-
+  for (const c of sortedCities) {
+    // Évite les noms trop courts (type "LE", "ST") qui créent des faux positifs
+    if (c.normName.length < 4) continue; 
+    
+    const regex = new RegExp(`\\b${c.normName}\\b`, "i");
     if (regex.test(t)) {
       return c.data;
     }
   }
-
   return null;
 }
 
 let geo = [];
-
 for (const c of clusters) {
   const city = findCity(c.title);
-
   if (city) {
     console.log("MATCH:", city.name);
-
     geo.push({
       title: c.title,
       score: c.score,
@@ -64,20 +56,7 @@ for (const c of clusters) {
   }
 }
 
-// fallback SI VIDE
-if (geo.length === 0) {
-  geo.push({
-    title: "Fallback PARIS",
-    score: 50,
-    city: "PARIS",
-    lat: 48.8566,
-    lon: 2.3522
-  });
-}
-
-fs.writeFileSync(
-  "data/geo.json",
-  JSON.stringify(geo, null, 2)
-);
-
-console.log("✔ FINAL GEO:", geo.length);
+// On retire le fallback automatique pour respecter votre demande : 
+// Si pas de ville, pas de map.
+fs.writeFileSync("data/geo.json", JSON.stringify(geo, null, 2));
+console.log("✔ FINAL GEO COUNT:", geo.length);
