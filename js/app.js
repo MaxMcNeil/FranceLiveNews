@@ -18,6 +18,12 @@ function formatTime(iso) {
     return isNaN(d) ? "--:--" : d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
 }
 
+function getCleanSource(source) {
+    if (!source) return "RSS";
+    if (source.includes("ransomlook")) return "CYBER";
+    return source.split('/').pop() || "RSS";
+}
+
 function render() {
     container.innerHTML = "";
     DATA.forEach((item, index) => {
@@ -38,7 +44,7 @@ function render() {
             card.innerHTML = `
                 <div class="newsTitle">${item.title}</div>
                 <div class="newsInfos">
-                    <span>${item.source?.split('/').pop() || "RSS"}</span>
+                    <span>${getCleanSource(item.source)}</span>
                     <span>⚡ ${item.score}</span>
                     <span>${formatTime(item.time)}</span>
                 </div>
