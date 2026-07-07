@@ -4,10 +4,18 @@ import fs from "fs";
 const parser = new Parser();
 
 const RSS_FEEDS = [
+    // Vos sources initiales
     "https://www.franceinfo.fr/titres.rss",
     "https://www.lefigaro.fr/rss/figaro_actualites.xml",
     "https://www.20minutes.fr/feeds/rss-une.xml",
-    "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
+    "https://www.leparisien.fr/actualites-a-la-une/rss.xml",
+    
+    // Nouvelles sources spécialisées Faits Divers
+    "https://www.cnews.fr/rss/categorie/faits%20divers",
+    "https://rmccrime.bfmtv.com/rss/affaires-criminelles/france/",
+    "https://rmccrime.bfmtv.com/rss/affaires-criminelles/",
+    "https://www.ledauphine.com/Faits-divers-Justice/rss",
+    "https://www.sudouest.fr/faits-divers/rss.xml"
 ];
 
 // Liste pour hiérarchiser l'anxiété
