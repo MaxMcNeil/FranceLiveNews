@@ -32,6 +32,14 @@ const ANXIETY_KEYWORDS = [
 // Liste pour pénaliser les titres "lisses" ou "propagande"
 const SMOOTH_KEYWORDS = ["SAIN ET SAUF", "HISTORIQUE", "RENAÎT", "DIALOGUE", "AVANCÉE", "PORTRAIT", "INVESTISSEMENT"];
 
+function isCyberItem(item) {
+    return item.source === "CERT-FR" || 
+           item.source === "Zataz" || 
+           item.source === "Le Monde Informatique" || 
+           item.source === "Ransomlook.io" || 
+           (item.title || "").startsWith("[CYBER]");
+}
+
 function getScore(title) {
     let t = (title || "").toUpperCase();
     let score = 10; // Score de base très faible
@@ -59,7 +67,7 @@ async function fetchRSS(url) {
         return feed.items.map(i => ({
             title: i.title || "",
             source: url,
-            time: new Date().toISOString(),
+            time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
             link: i.link || "",
             score: getScore(i.title || "")
         }));
@@ -69,35 +77,31 @@ async function fetchRSS(url) {
 }
 
 async function run() {
-    let existingItems = [];
+    let currentFullData = { items: [] };
     if (fs.existsSync("data/news.json")) {
         try { 
-            const parsed = JSON.parse(fs.readFileSync("data/news.json", "utf-8"));
-            // On isole la partie non-cyber de l'historique pour appliquer le quota des 50 news générales
-            existingItems = (parsed.items || []).filter(i => !(i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]")));
+            currentFullData = JSON.parse(fs.readFileSync("data/news.json", "utf-8"));
         } catch(e) {}
     }
 
+    // Isolation stricte des flux existants
+    const existingItems = (currentFullData.items || []).filter(i => !isCyberItem(i));
+    const existingCyber = (currentFullData.items || []).filter(i => isCyberItem(i));
+
+    // Récupération des nouveaux flux RSS généraux
     let newItems = [];
     for(const url of RSS_FEEDS) { 
         newItems = newItems.concat(await fetchRSS(url)); 
     }
 
-    // Fusion, Déduplication par URL, Filtrage strict >= 65 et Quota Max 50
+    // Fusion, Déduplication par lien, Filtrage >= 65 et plafonnement STRICT à Max 50 pour les news
     let allNews = [...new Map([...existingItems, ...newItems].map(i => [i.link, i])).values()]
         .filter(i => i.score >= 65) 
         .sort((a, b) => b.score - a.score)
-        .slice(0, 50);
+        .slice(0, 50); // 🔥 Écrasement des plus faibles pour garder uniquement les top 50 news
 
-    // Récupération de la partie cyber existante pour ne pas l'écraser
-    let currentFullData = { items: [] };
-    if (fs.existsSync("data/news.json")) {
-        try { currentFullData = JSON.parse(fs.readFileSync("data/news.json", "utf-8")); } catch(e) {}
-    }
-    const currentCyber = (currentFullData.items || []).filter(i => i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]"));
-
-    // Fusion finale plafonnée à 100 globale (50 news + 50 cyber)
-    const finalItems = [...allNews, ...currentCyber].sort((a, b) => b.score - a.score).slice(0, 100);
+    // Fusion finale combinant les 50 news max et la préservation intacte des cyber
+    const finalItems = [...allNews, ...existingCyber].sort((a, b) => b.score - a.score);
 
     const output = {
         updated: new Date().toISOString(),
@@ -108,7 +112,7 @@ async function run() {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ Pipeline anxiogène mise à jour :", finalItems.length, "articles retenus au total (Quota respecté).");
+    console.log("✔ Pipeline actualités mise à jour :", allNews.length, "news générales retenues (Quota 50 max respecté).");
 }
 
 run();
