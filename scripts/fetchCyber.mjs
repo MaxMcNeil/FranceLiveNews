@@ -19,6 +19,14 @@ const FRENCH_KEYWORDS = [
     "CYBER", "ATTAQUE", "RANÇONGICIEL", "VULNÉRABILITÉ", "ALERTE", "CERT"
 ];
 
+function isCyberItem(item) {
+    return item.source === "CERT-FR" || 
+           item.source === "Zataz" || 
+           item.source === "Le Monde Informatique" || 
+           item.source === "Ransomlook.io" || 
+           (item.title || "").startsWith("[CYBER]");
+}
+
 async function fetchCyberRSS(url) {
     try {
         const feed = await parser.parseURL(url);
@@ -64,12 +72,9 @@ async function fetchRansomlookAttacks() {
             if (Array.isArray(respSearch.data)) {
                 results = results.concat(respSearch.data);
             }
-        } catch (e) {
-            // Ignore les erreurs individuelles de search pour ne pas bloquer
-        }
+        } catch (e) {}
     }
 
-    // Déduplication brute des résultats Ransomlook par ID ou lien/titre
     const uniqueRansom = [...new Map(results.map(post => [post.website || post.post_title, post])).values()];
 
     return uniqueRansom
@@ -94,25 +99,25 @@ async function run() {
         try { currentFullData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8")); } catch (e) {}
     }
 
-    // Extraction des news générales existantes pour les préserver
-    const existingNews = (currentFullData.items || []).filter(i => !(i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]")));
-    // Extraction de l'historique cyber existant
-    const existingCyber = (currentFullData.items || []).filter(i => i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]"));
+    // Isolation stricte des flux existants
+    const existingNews = (currentFullData.items || []).filter(i => !isCyberItem(i));
+    const existingCyber = (currentFullData.items || []).filter(i => isCyberItem(i));
 
-    // Fetch nouveaux cyber (RSS + Ransomlook via /posts ET /search)
+    // Récupération des nouveaux éléments cyber (RSS + Ransomlook)
     let newCyberItems = [];
     for (const url of CYBER_RSS_FEEDS) {
         newCyberItems = newCyberItems.concat(await fetchCyberRSS(url));
     }
     newCyberItems = newCyberItems.concat(await fetchRansomlookAttacks());
 
+    // Fusion, Déduplication par lien, Filtrage >= 65 et plafonnement STRICT à Max 50 pour la cyber
     let allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
         .filter(i => i.score >= 65)
         .sort((a, b) => b.score - a.score)
-        .slice(0, 50); // QUOTA STRICT : Max 50 cyber
+        .slice(0, 50); // 🔥 Écrasement des cyber les plus faibles pour garder uniquement les top 50 cyber
 
-    // Fusion finale (50 max news + 50 max cyber = 100 max global)
-    const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score).slice(0, 100);
+    // Fusion finale combinant les news générales préservées et les 50 cyber max
+    const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
 
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync(TARGET_FILE, JSON.stringify({
@@ -121,7 +126,7 @@ async function run() {
         items: finalItems
     }, null, 2));
 
-    console.log("✔ Quota Cyber mis à jour (Max 50 avec /posts et /search):", allCyber.length, "retenus.");
+    console.log("✔ Quota Cyber mis à jour :", allCyber.length, "alertes cyber retenues (Quota 50 max respecté).");
 }
 
 run();
