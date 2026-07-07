@@ -4,7 +4,6 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* Audio Bip */
 const beep = new AudioContext();
 function playBip() {
     const osc = beep.createOscillator();
@@ -23,11 +22,9 @@ function render() {
     container.innerHTML = "";
     DATA.forEach((item, index) => {
         const card = document.createElement("div");
-        
         if (index === 0) {
             card.className = "tactical-popup";
-            let borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--border-color)");
-            card.style.borderColor = borderColor;
+            card.style.borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--border-color)");
             card.innerHTML = `
                 <div class="popup-title">${item.title}</div>
                 <div class="popup-meta">
@@ -37,8 +34,7 @@ function render() {
             `;
         } else {
             card.className = "newsCard";
-            let borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--text-dim)");
-            card.style.borderLeftColor = borderColor;
+            card.style.borderLeftColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--text-dim)");
             card.innerHTML = `
                 <div class="newsTitle">${item.title}</div>
                 <div class="newsInfos">
@@ -50,7 +46,6 @@ function render() {
         }
         container.appendChild(card);
     });
-    
     counter.innerHTML = '<span class="live-blink">LIVE</span>';
     buildTicker();
 }
@@ -59,7 +54,6 @@ function buildTicker() {
     tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
 }
 
-// Rotation du haut vers le bas avec déclenchement de l'effet visuel
 function rotateNews() {
     if (DATA.length > 1) {
         const last = DATA.pop();
@@ -80,5 +74,5 @@ async function load() {
 }
 
 load();
-setInterval(load, 60000); // MAJ des données toutes les min
-setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec
+setInterval(load, 60000);
+setInterval(rotateNews, 5000);
