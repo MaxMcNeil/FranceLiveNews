@@ -64,22 +64,29 @@ async function fetchRSS(url) {
             score: getScore(i.title || "")
         }));
     } catch(e) {
+        console.log("RSS error:", url);
         return [];
     }
 }
 
 async function run() {
+    // Lecture de l'historique existant (pour fusionner proprement avec les autres scripts de la pipeline)
     let history = [];
     if (fs.existsSync("data/news.json")) {
-        try { history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || []; } catch(e) {}
+        try { 
+            history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || []; 
+        } catch(e) {
+            console.error("Erreur lecture history");
+        }
     }
 
     let newItems = [];
     for(const url of RSS_FEEDS) { 
-        newItems = newItems.concat(await fetchRSS(url)); 
+        const data = await fetchRSS(url);
+        newItems = newItems.concat(data); 
     }
 
-    // Fusion, Déduplication par URL, Filtrage des scores faibles (> 40) et Tri
+    // Fusion, Déduplication par URL (i.link), Filtrage des scores faibles (> 40) et Tri
     let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()]
         .filter(i => i.score > 40) 
         .sort((a, b) => b.score - a.score);
@@ -95,7 +102,7 @@ async function run() {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ Pipeline anxiogène mise à jour :", final.length, "articles retenus.");
+    console.log("✔ Pipeline anxiogène mise à jour (Déduplication par URL):", final.length, "articles retenus.");
 }
 
 run();
