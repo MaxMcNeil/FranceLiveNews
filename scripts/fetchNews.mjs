@@ -10,64 +10,54 @@ const RSS_FEEDS = [
     "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
 ];
 
-// 🧠 KEYWORDS + GRAVITÉ (Affiné pour éviter les faux positifs du Tour de France / sports)
-const KEYWORDS = [
-    // Catastrophe / Terrorisme / Morts multiples (Urgence maximale)
-    { k:"ATTENTAT", s:100 },
-    { k:"MASSACRE", s:100 },
-    { k:"MORT", s:95 },
-    { k:"MORTS", s:95 },
-    { k:"DÉCÈS", s:90 },
-    { k:"TUÉ", s:95 },
-    { k:"TUÉS", s:95 },
-    { k:"HOMICIDE", s:90 },
-    { k:"MEURTRE", s:95 },
-    { k:"ASSASSIN", s:95 },
-    { k:"ASSASSINAT", s:95 },
-    { k:"FUSILLADE", s:90 },
-    { k:"EXPLOSION", s:85 },
-    { k:"INCENDIE", s:80 },
-    
-    // Violences / Agressions / Armes
-    { k:"VIOL", s:85 },
-    { k:"COUTEAU", s:80 },
-    { k:"BRAQUAGE", s:80 },
-    { k:"AGRESSION", s:70 },
-    { k:"ARME", s:75 },
-    
-    // Trafic / Criminalité
-    { k:"NARCOTRAFIC", s:75 },
-    { k:"COCAÏNE", s:70 },
-    { k:"DROGUE", s:65 },
-    
-    // Politique / Crises / Institutions
-    { k:"CORRUPTION", s:75 },
-    { k:"ÉMEUTE", s:75 },
-    { k:"DÉMISSION", s:70 },
-    { k:"SCANDALE", s:65 },
-    { k:"FAILLITE", s:60 },
-    { k:"POLICE", s:55 },
-    { k:"GENDARMERIE", s:55 },
-    { k:"CRISE", s:50 },
-    { k:"IMMIGRATION", s:45 }
+// 🧠 LISTE DE MOTS-CLÉS PONDÉRÉS AVEC CONTEXTE STRICT
+const CRITICAL_KEYWORDS = [
+    { k: "ATTENTAT", s: 100 },
+    { k: "MASSACRE", s: 100 },
+    { k: "EXPLOSION", s: 90 },
+    { k: "FUSILLADE", s: 90 },
+    { k: "MEURTRE", s: 85 },
+    { k: "ASSASSINAT", s: 85 },
+    { k: "MORT", s: 80 },
+    { k: "MORTS", s: 80 },
+    { k: "DÉCÈS", s: 75 },
+    { k: "TUÉ", s: 80 },
+    { k: "TUÉS", s: 80 },
+    { k: "INCENDIE", s: 75 },
+    { k: "ÉMEUTE", s: 70 },
+    { k: "AGRESSION", s: 65 }
 ];
 
-// Fonction de scoring affinée (Neutralise les faux positifs sportifs)
-function getScore(text) {
-    let t = (text || "").toUpperCase();
+function getScore(title) {
+    let t = (title || "").toUpperCase();
 
-    // 🛑 Filtre anti-faux positifs (Ex: Tour de France, sport, etc.)
-    if (t.includes("TOUR DE FRANCE") || t.includes("CYCLISME") || t.includes("ÉTAPE") || t.includes("MAILLOT") || t.includes("FOOTBALL") || t.includes("MATCH")) {
-        return 10; // Score très bas pour le sport
+    // 🛑 1. FILTRE ANTI-FAUX POSITIFS & SPORT / MÉTAPHORES
+    if (
+        t.includes("TOUR DE FRANCE") || 
+        t.includes("CYCLISME") || 
+        t.includes("FOOTBALL") || 
+        t.includes("MATCH") || 
+        t.includes("BOMBE ATOMIQUE") || // Expressions imagées
+        t.includes("DÉPOSÉ LES ARMES") || // Métaphorique sportif/politique
+        t.includes("COUP DE FOOT")
+    ) {
+        return 15; // Score faible pour les faux positifs
     }
 
-    let score = 30; // Score de base par défaut pour une actu standard non classée
-    
-    for(const item of KEYWORDS) {
-        if(t.includes(item.k)) {
+    let score = 30; // Score neutre de base pour une actu standard
+
+    // 🔍 2. ANALYSE DES MOTS-CLÉS GAVES
+    for (const item of CRITICAL_KEYWORDS) {
+        if (t.includes(item.k)) {
             score = Math.max(score, item.s);
         }
     }
+
+    // 📉 3. RABAISSER LES SUJETS DE RÉTROSPECTIVE OU PORTRAITS LISSES (Moins prioritaires qu'une urgence live)
+    if (t.includes("PORTRAIT") || t.includes("IL Y A UN AN") || t.includes("EN APPEL")) {
+        score = Math.max(25, score - 20);
+    }
+
     return score;
 }
 
@@ -101,13 +91,13 @@ async function run() {
         newItems = newItems.concat(data);
     }
 
-    // Fusion, Déduplication
+    // Fusion et déduplication
     let all = [...new Map([...history, ...newItems].map(i => [i.title, i])).values()];
     
-    // 🔥 TRÈS IMPORTANT : Tri strict par gravité décroissante (du plus grave au moins grave)
+    // 🔥 TRÈS IMPORTANT : Tri strict par gravité décroissante (du score le plus haut au plus bas)
     all.sort((a, b) => b.score - a.score);
 
-    // Garde les 100 meilleures
+    // Conserver les 100 meilleures actualités triées
     const final = all.slice(0, 100);
 
     const output = {
@@ -116,11 +106,10 @@ async function run() {
         items: final
     };
 
-    fs.mkdirSync("data", { recursive:true });
+    fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
     console.log("✔ news.json mis à jour et trié par gravité:", final.length);
 }
 
 run();
-                                                                                                    
