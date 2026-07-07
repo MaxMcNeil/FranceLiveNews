@@ -23,7 +23,7 @@ jobs:
       run: npm install
 
     # =======================
-    # PIPELINE DATA
+    # PIPELINE VENTILÉE SÉPARÉE
     # =======================
     - run: node scripts/fetchNews.mjs
     - run: node scripts/fetchCyber.mjs
@@ -44,6 +44,6 @@ jobs:
         # évite les commits vides
         git diff --cached --quiet && echo "no changes" && exit 0
 
-        git commit -m "update pipeline with cyber alerts"
+        git commit -m "update pipeline: split quotas (50 news / 50 cyber)"
         git push
         
