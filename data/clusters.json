@@ -12,21 +12,21 @@
       {
         "title": "Attentats à la bombe près de l'hôtel d'Emmanuel Macron en Syrie... Le Président « sain et sauf », assure l'Elysée",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-07T09:03:05.739Z",
+        "time": "2026-07-07T09:11:42.239Z",
         "link": "https://www.20minutes.fr/monde/4233272-20260707-syrie-deux-explosions-pres-hotel-emmanuel-macron-damas?at_medium=display&at_campaign=149",
         "score": 100
       },
       {
         "title": "Des explosions retentissent à Damas en pleine visite d'Emmanuel Macron, le président français est en sécurité",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-07T09:03:05.442Z",
+        "time": "2026-07-07T09:11:41.333Z",
         "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/une-explosion-entendue-a-damas-en-pleine-visite-du-president-francais-emmanuel-macron-dans-la-capitale-syrienne_8097410.html#xtor=RSS-3-[lestitres]",
         "score": 85
       },
       {
         "title": "Syrie : les images des explosions survenues à côté de l’hôtel d’Emmanuel Macron à Damas",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-07T09:03:05.527Z",
+        "time": "2026-07-07T09:11:41.544Z",
         "link": "https://www.lefigaro.fr/international/syrie-les-images-des-explosions-survenues-a-cote-de-l-hotel-d-emmanuel-macron-a-damas-20260707",
         "score": 85
       }
@@ -109,7 +109,7 @@
   {
     "title": "Explosions à Damas : un premier bilan des autorités fait état de 18 blessés, dont quatre policiers, Emmanuel Macron poursuit sa visite",
     "score": 85,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://www.franceinfo.fr/titres.rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -118,7 +118,7 @@
       {
         "title": "Explosions à Damas : un premier bilan des autorités fait état de 18 blessés, dont quatre policiers, Emmanuel Macron poursuit sa visite",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-07T09:03:05.442Z",
+        "time": "2026-07-07T09:11:41.333Z",
         "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-explosions-a-damas-emmanuel-macron-poursuit-sa-visite-et-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-syrien_8097500.html#xtor=RSS-3-[lestitres]",
         "score": 85
       },
@@ -132,8 +132,15 @@
       {
         "title": "Syrie : Emmanuel Macron est «sain et sauf» annonce l’Élysée après les explosions à proximité de son hôtel",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-07T09:03:05.527Z",
+        "time": "2026-07-07T09:11:41.544Z",
         "link": "https://www.lefigaro.fr/international/syrie-explosion-entendue-a-damas-ou-emmanuel-macron-est-en-visite-20260707",
+        "score": 85
+      },
+      {
+        "title": "Emmanuel Macron poursuit sa visite à Damas, malgré les explosions survenues près de l'hôtel où il avait passé la nuit",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-07T09:11:41.333Z",
+        "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-syrie-emmanuel-macron-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-de-damas-apres-des-explosions-pres-de-son-hotel_8097461.html#xtor=RSS-3-[lestitres]",
         "score": 85
       }
     ],
@@ -151,7 +158,7 @@
       {
         "title": "\"Violence de genre pure et dure\" : la sénatrice paraguayenne Céleste Amarilla, auteure d'insultes à caractère raciste envers Kylian Mbappé, l’accuse de misogynie et \"exige\" des excuses",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-07T09:03:05.442Z",
+        "time": "2026-07-07T09:11:41.333Z",
         "link": "https://www.franceinfo.fr/coupe-du-monde/retracte-toi-avec-moi-honore-ta-citoyennete-francaise-et-presente-tes-excuses-a-repondu-la-senatrice-paraguayenne-celeste-amarilla-a-kylian-mbappe_8097302.html#xtor=RSS-3-[lestitres]",
         "score": 85
       },
@@ -183,7 +190,7 @@
       {
         "title": "Recherchée par Interpol, «grimée en homme», résidente en Allemagne : le parcours de la suspecte de l’explosion de Monaco se précise",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-07T09:03:05.527Z",
+        "time": "2026-07-07T09:11:41.544Z",
         "link": "https://www.lefigaro.fr/faits-divers/explosion-a-monaco-anastasia-berezovska-ukrainienne-de-39-ans-recherchee-par-interpol-20260703",
         "score": 85
       }
@@ -219,7 +226,7 @@
       {
         "title": "Pour quelles raisons le Hamas se dit-il prêt à céder le pouvoir… sans renoncer aux armes ?",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-07T09:03:05.442Z",
+        "time": "2026-07-07T09:11:41.333Z",
         "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pour-quelles-raisons-le-hamas-se-dit-il-pret-a-ceder-le-pouvoir-sans-renoncer-aux-armes_8061803.html#xtor=RSS-3-[lestitres]",
         "score": 75
       }
@@ -237,7 +244,7 @@
       {
         "title": "Portugal-Espagne : Fin de la prise d’otages à Dallas, Roberto Martinez et Cristiano Ronaldo ont (enfin) déposé les armes",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-07T09:03:05.740Z",
+        "time": "2026-07-07T09:11:42.239Z",
         "link": "https://www.20minutes.fr/sport/football/4233262-20260707-portugal-espagne-fin-prise-otages-dallas-roberto-martinez-cristiano-ronaldo-enfin-depose-armes?at_medium=display&at_campaign=149",
         "score": 75
       }
