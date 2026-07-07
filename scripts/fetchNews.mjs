@@ -10,7 +10,6 @@ const RSS_FEEDS = [
     "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
 ];
 
-// 🧠 LISTE DE MOTS-CLÉS PONDÉRÉS AVEC CONTEXTE STRICT
 const CRITICAL_KEYWORDS = [
     { k: "ATTENTAT", s: 100 },
     { k: "MASSACRE", s: 100 },
@@ -31,33 +30,21 @@ const CRITICAL_KEYWORDS = [
 function getScore(title) {
     let t = (title || "").toUpperCase();
 
-    // 🛑 1. FILTRE ANTI-FAUX POSITIFS & SPORT / MÉTAPHORES
-    if (
-        t.includes("TOUR DE FRANCE") || 
-        t.includes("CYCLISME") || 
-        t.includes("FOOTBALL") || 
-        t.includes("MATCH") || 
-        t.includes("BOMBE ATOMIQUE") || // Expressions imagées
-        t.includes("DÉPOSÉ LES ARMES") || // Métaphorique sportif/politique
-        t.includes("COUP DE FOOT")
-    ) {
-        return 15; // Score faible pour les faux positifs
+    if (t.includes("TOUR DE FRANCE") || t.includes("CYCLISME") || t.includes("FOOTBALL") || 
+        t.includes("MATCH") || t.includes("BOMBE ATOMIQUE") || t.includes("DÉPOSÉ LES ARMES")) {
+        return 15;
     }
 
-    let score = 30; // Score neutre de base pour une actu standard
-
-    // 🔍 2. ANALYSE DES MOTS-CLÉS GAVES
+    let score = 30;
     for (const item of CRITICAL_KEYWORDS) {
         if (t.includes(item.k)) {
             score = Math.max(score, item.s);
         }
     }
 
-    // 📉 3. RABAISSER LES SUJETS DE RÉTROSPECTIVE OU PORTRAITS LISSES (Moins prioritaires qu'une urgence live)
     if (t.includes("PORTRAIT") || t.includes("IL Y A UN AN") || t.includes("EN APPEL")) {
         score = Math.max(25, score - 20);
     }
-
     return score;
 }
 
@@ -91,13 +78,11 @@ async function run() {
         newItems = newItems.concat(data);
     }
 
-    // Fusion et déduplication
-    let all = [...new Map([...history, ...newItems].map(i => [i.title, i])).values()];
+    // 🔥 DÉDUPLICATION PAR URL (i.link)
+    // On utilise i.link comme clé unique pour le Map
+    let all = [...new Map([...history, ...newItems].map(i => [i.link, i])).values()];
     
-    // 🔥 TRÈS IMPORTANT : Tri strict par gravité décroissante (du score le plus haut au plus bas)
     all.sort((a, b) => b.score - a.score);
-
-    // Conserver les 100 meilleures actualités triées
     const final = all.slice(0, 100);
 
     const output = {
@@ -109,7 +94,7 @@ async function run() {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ news.json mis à jour et trié par gravité:", final.length);
+    console.log("✔ news.json mis à jour (Déduplication par URL):", final.length);
 }
 
 run();
