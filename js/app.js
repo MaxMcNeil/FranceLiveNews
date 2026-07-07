@@ -1,5 +1,3 @@
-import { analyzeText } from "./aiLight.js";
-
 const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const lastupdate = document.getElementById("lastupdate");
@@ -7,7 +5,7 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
-/* Bip sonore discret pour OBS */
+/* Audio Bip */
 const beep = new AudioContext();
 function playBip() {
     const osc = beep.createOscillator();
@@ -17,64 +15,20 @@ function playBip() {
     osc.stop(beep.currentTime + 0.1);
 }
 
-function render(){
-    container.innerHTML = "";
+function formatTime(iso) {
+    const d = new Date(iso);
+    return isNaN(d) ? "--:--" : d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+}
 
-    DATA.forEach((item, index)=>{
+function render() {
+    container.innerHTML = "";
+    DATA.forEach((item, index) => {
         const card = document.createElement("div");
+        
         if (index === 0) {
             card.className = "tactical-popup";
-            card.innerHTML = `
-                <div class="popup-badge">🔴 ALERTE PRIORITAIRE</div>
-                <div class="popup-title">${item.title}</div>
-                <div class="popup-meta">
-                    <span>GRAVITÉ : ${item.score}</span>
-                    <span>HEURE : ${formatTime(item.time)}</span>
-                </div>
-            `;
-        } else {
-            card.className = "newsCard";
-            card.innerHTML = `
-                <div class="newsTitle">${item.title}</div>
-                <div class="newsInfos">
-                    <span>${item.source.split('/').pop()}</span>
-                    <span>⚡ ${item.score}</span>
-                </div>
-            `;
-        }
-        container.appendChild(card);
-    });
-    counter.innerHTML = '<span class="live-blink">LIVE</span>';
-}
-
-// Rotation automatique : la 1ère devient la dernière
-function rotateNews() {
-    if (DATA.length > 1) {
-        const first = DATA.shift();
-        DATA.push(first);
-        playBip(); // Le bip à chaque rotation
-        render();
-    }
-}
-
-async function load(){
-    try {
-        const url = "data/news.json?v="+Date.now();
-        const res = await fetch(url, { cache: "no-store" });
-        const json = await res.json();
-        DATA = json.items || [];
-        render();
-    } catch(e) { console.error(e); }
-}
-
-load();
-setInterval(load, 60000); // Mise à jour des données réelles 1x par minute
-setInterval(rotateNews, 5000); // Rotation visuelle toutes les 5 secondes
-            card.className = "tactical-popup";
-            let borderColor = "var(--accent-red)";
-            if(item.score < 90 && item.score >= 70) borderColor = "var(--accent-orange)";
+            let borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--border-color)");
             card.style.borderColor = borderColor;
-
             card.innerHTML = `
                 <div class="popup-badge">ALERTE PRIORITAIRE</div>
                 <div class="popup-title">${item.title}</div>
@@ -85,63 +39,47 @@ setInterval(rotateNews, 5000); // Rotation visuelle toutes les 5 secondes
             `;
         } else {
             card.className = "newsCard";
-            let borderColor = "var(--text-dim)";
-            if(item.score >= 90) borderColor = "var(--accent-red)";
-            else if(item.score >= 70) borderColor = "var(--accent-orange)";
+            let borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--text-dim)");
             card.style.borderLeftColor = borderColor;
-
             card.innerHTML = `
                 <div class="newsTitle">${item.title}</div>
                 <div class="newsInfos">
-                    <span>${item.source.split('/').pop() || "RSS"}</span>
+                    <span>${item.source?.split('/').pop() || "RSS"}</span>
                     <span>⚡ ${item.score}</span>
                     <span>${formatTime(item.time)}</span>
                 </div>
             `;
         }
-
         container.appendChild(card);
     });
-
-    counter.innerHTML = '<span class="live-blink">LIVE</span>';
-}
-
-/* =======================
-TICKER
-======================= */
-function buildTicker(){
-    tickerText.textContent = DATA
-    .slice(0,20)
-    .map(n=>"⚠ "+n.title)
-    .join(" | ");
-}
-
-/* =======================
-LOAD NEWS
-======================= */
-async function load(){
-try{
-    const url = "data/news.json?v="+Date.now()+"_"+Math.random();
-    const res = await fetch(url,{ cache:"no-store" });
-    const json = await res.json();
-
-    DATA = json.items || [];
-    render();
+    counter.innerHTML = `${DATA.length} DÉPÊCHES`;
     buildTicker();
-
-    lastupdate.textContent = "MAJ : "+ new Date().toLocaleTimeString("fr-FR",{
-        hour:"2-digit",
-        minute:"2-digit"
-    });
-}
-catch(e){
-    console.error("NEWS ERROR",e);
-    container.innerHTML = "Erreur chargement news.json";
-}
 }
 
-/* =======================
-START
-======================= */
+function buildTicker() {
+    tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
+}
+
+function rotateNews() {
+    if (DATA.length > 1) {
+        const first = DATA.shift();
+        DATA.push(first);
+        playBip();
+        render();
+    }
+}
+
+async function load() {
+    try {
+        const url = "data/news.json?v=" + Date.now();
+        const res = await fetch(url, { cache: "no-store" });
+        const json = await res.json();
+        DATA = json.items || [];
+        render();
+        lastupdate.textContent = "MAJ : " + new Date().toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+    } catch (e) { console.error("NEWS ERROR", e); }
+}
+
 load();
-setInterval(load, 5000);
+setInterval(load, 60000); // MAJ des données du serveur toutes les min
+setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec
