@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-07T09:11:43.697Z",
-  "count": 68,
+  "updated": "2026-07-07T09:23:10.409Z",
+  "count": 100,
   "items": [
     {
       "title": "Attentats à la bombe près de l'hôtel d'Emmanuel Macron en Syrie... Le Président « sain et sauf », assure l'Elysée",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T09:11:42.239Z",
+      "time": "2026-07-07T09:23:09.249Z",
       "link": "https://www.20minutes.fr/monde/4233272-20260707-syrie-deux-explosions-pres-hotel-emmanuel-macron-damas?at_medium=display&at_campaign=149",
       "score": 100
     },
@@ -24,23 +24,58 @@
       "score": 95
     },
     {
+      "title": "\"Il avait besoin de parler\" : ce qu'il faut retenir de la conférence de presse des avocats de Cédric Jubillar, qui a reconnu avoir tué sa femme",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/il-avait-besoin-de-parler-ce-qu-il-faut-retenir-de-la-conference-de-presse-des-avocats-de-cedric-jubillar-qui-a-reconnu-avoir-tue-sa-femme_8095916.html#xtor=RSS-3-[lestitres]",
+      "score": 95
+    },
+    {
+      "title": "La mortalité périnatale continue d'augmenter en France",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france_8097344.html#xtor=RSS-3-[lestitres]",
+      "score": 95
+    },
+    {
+      "title": "La britannique Lauren Bennett, chanteuse du tube « Party Rock Anthem » de LMFAO, est morte à 37 ans",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/arts-stars/culture/musique/4233278-20260707-britannique-lauren-bennett-chanteuse-tube-party-rock-anthem-lmfao-morte-37-ans?at_medium=display&at_campaign=149",
+      "score": 95
+    },
+    {
+      "title": "La mortalité périnatale a encore augmenté en France en 2024 à plus de 11 pour 1.000",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sante/4233264-20260707-mortalite-perinatale-encore-augmente-france-2024-plus-11-1-000?at_medium=display&at_campaign=149",
+      "score": 95
+    },
+    {
+      "title": "« Papa poule » et mari dévoué : Le portrait (trop ?) lisse de Lakhdar Matoug, qui a tué et découpé sa femme en morceaux",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/justice/4233158-20260706-papa-poule-mari-devoue-portrait-trop-lisse-lakhdar-matoug-tue-decoupe-femme-morceaux?at_medium=display&at_campaign=149",
+      "score": 95
+    },
+    {
       "title": "Explosions à Damas : un premier bilan des autorités fait état de 18 blessés, dont quatre policiers, Emmanuel Macron poursuit sa visite",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T09:11:41.333Z",
+      "time": "2026-07-07T09:23:08.784Z",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-explosions-a-damas-emmanuel-macron-poursuit-sa-visite-et-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-syrien_8097500.html#xtor=RSS-3-[lestitres]",
       "score": 85
     },
     {
       "title": "\"Violence de genre pure et dure\" : la sénatrice paraguayenne Céleste Amarilla, auteure d'insultes à caractère raciste envers Kylian Mbappé, l’accuse de misogynie et \"exige\" des excuses",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T09:11:41.333Z",
+      "time": "2026-07-07T09:23:08.784Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/retracte-toi-avec-moi-honore-ta-citoyennete-francaise-et-presente-tes-excuses-a-repondu-la-senatrice-paraguayenne-celeste-amarilla-a-kylian-mbappe_8097302.html#xtor=RSS-3-[lestitres]",
       "score": 85
     },
     {
       "title": "Des explosions retentissent à Damas en pleine visite d'Emmanuel Macron, le président français est en sécurité",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T09:11:41.333Z",
+      "time": "2026-07-07T09:23:08.785Z",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/une-explosion-entendue-a-damas-en-pleine-visite-du-president-francais-emmanuel-macron-dans-la-capitale-syrienne_8097410.html#xtor=RSS-3-[lestitres]",
       "score": 85
     },
@@ -54,30 +89,58 @@
     {
       "title": "Syrie : Emmanuel Macron est «sain et sauf» annonce l’Élysée après les explosions à proximité de son hôtel",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T09:11:41.544Z",
+      "time": "2026-07-07T09:23:08.916Z",
       "link": "https://www.lefigaro.fr/international/syrie-explosion-entendue-a-damas-ou-emmanuel-macron-est-en-visite-20260707",
       "score": 85
     },
     {
       "title": "Syrie : les images des explosions survenues à côté de l’hôtel d’Emmanuel Macron à Damas",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T09:11:41.544Z",
+      "time": "2026-07-07T09:23:08.916Z",
       "link": "https://www.lefigaro.fr/international/syrie-les-images-des-explosions-survenues-a-cote-de-l-hotel-d-emmanuel-macron-a-damas-20260707",
       "score": 85
     },
     {
       "title": "Recherchée par Interpol, «grimée en homme», résidente en Allemagne : le parcours de la suspecte de l’explosion de Monaco se précise",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T09:11:41.544Z",
+      "time": "2026-07-07T09:23:08.916Z",
       "link": "https://www.lefigaro.fr/faits-divers/explosion-a-monaco-anastasia-berezovska-ukrainienne-de-39-ans-recherchee-par-interpol-20260703",
       "score": 85
     },
     {
       "title": "Emmanuel Macron poursuit sa visite à Damas, malgré les explosions survenues près de l'hôtel où il avait passé la nuit",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T09:11:41.333Z",
+      "time": "2026-07-07T09:23:08.785Z",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-syrie-emmanuel-macron-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-de-damas-apres-des-explosions-pres-de-son-hotel_8097461.html#xtor=RSS-3-[lestitres]",
       "score": 85
+    },
+    {
+      "title": "Incendies : le feu de Trévillach, dans les Pyrénées-Orientales, n'est toujours pas fixé malgré les efforts des pompiers",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-le-feu-de-trevillach-dans-les-pyrenees-orientales-n-est-toujours-pas-fixe-malgre-les-efforts-des-pompiers_8097272.html#xtor=RSS-3-[lestitres]",
+      "score": 80
+    },
+    {
+      "title": "Incendies : le feu dans les Pyrénées-Orientales \"n'est pas fixé\" et \"continue à progresser\" annonce Laurent Nuñez, 4 900 hectares déjà brûlés",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-les-pyrenees-orientales-le-feu-a-deja-parcouru-environ-4-500-hectares-les-habitants-de-26-communes-doivent-evacuer_8095550.html#xtor=RSS-3-[lestitres]",
+      "score": 80
+    },
+    {
+      "title": "EN DIRECT Canicule et incendies : Quelque 12.000 évacués près de Perpignan et 61 départements en vigilance orange…",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/planete/canicule/4233242-20260707-direct-canicule-incendies-meteo-france-maintient-61-departements-vigilance-orange?at_medium=display&at_campaign=149",
+      "score": 80
+    },
+    {
+      "title": "Incendie dans les Pyrénées-Orientales : Le feu toujours pas fixé, des renforts aériens attendus mardi",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/planete/4233236-20260706-incendie-pyrenees-orientales-feu-toujours-fixe-moyens-aeriens-supplementaires-attendus-mardi?at_medium=display&at_campaign=149",
+      "score": 80
     },
     {
       "title": "Des ONG et députés s'alarment de l'examen d'un texte de loi reconnaissant une présomption d'usage légitime des armes pour les forces de l'ordre",
@@ -89,14 +152,14 @@
     {
       "title": "Pour quelles raisons le Hamas se dit-il prêt à céder le pouvoir… sans renoncer aux armes ?",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T09:11:41.333Z",
+      "time": "2026-07-07T09:23:08.785Z",
       "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pour-quelles-raisons-le-hamas-se-dit-il-pret-a-ceder-le-pouvoir-sans-renoncer-aux-armes_8061803.html#xtor=RSS-3-[lestitres]",
       "score": 75
     },
     {
       "title": "Portugal-Espagne : Fin de la prise d’otages à Dallas, Roberto Martinez et Cristiano Ronaldo ont (enfin) déposé les armes",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T09:11:42.239Z",
+      "time": "2026-07-07T09:23:09.249Z",
       "link": "https://www.20minutes.fr/sport/football/4233262-20260707-portugal-espagne-fin-prise-otages-dallas-roberto-martinez-cristiano-ronaldo-enfin-depose-armes?at_medium=display&at_campaign=149",
       "score": 75
     },
@@ -138,9 +201,415 @@
     {
       "title": "Les aveux de Cédric Jubillar peuvent-ils jouer en sa faveur lors de son procès en appel ?",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
+      "time": "2026-07-07T09:23:08.785Z",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/les-aveux-de-cedric-jubillar-peuvent-ils-jouer-en-sa-faveur-lors-de-son-proces-en-appel_8095949.html#xtor=RSS-3-[lestitres]",
-      "score": 10
+      "score": 30
+    },
+    {
+      "title": "\"Cagnac-les-Mines a besoin de se reposer\" : après les aveux de Cédric Jubillar, le village du Tarn espère \"enfin un dénouement\"",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.784Z",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-cagnac-les-mines-a-besoin-de-se-reposer-apres-les-aveux-de-cedric-jubillar-le-village-du-tarn-ou-il-vivait-avec-son-epouse-espere-enfin-un-denouement-a-l-affaire_8097236.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Procès en appel de Marine Le Pen : \"Il est temps de montrer que quand la justice passe, l'extrême droite obtempère\", estime le patron du PS avant une décision cruciale",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.784Z",
+      "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/direct-marine-le-pen-pourra-t-elle-se-presenter-a-la-presidentielle-la-decision-cruciale-de-la-cour-d-appel-sur-son-ineligibilite-attendue-cet-apres-midi_8090117.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Bac 2026 : les résultats officiels sont tombés à La Réunion, les autres académies attendues dans la journée",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.784Z",
+      "link": "https://www.franceinfo.fr/bac/direct-bac-2026-les-resultats-officiels-vont-tomber-dans-la-journee-decouvrez-qui-sont-les-laureats-academie-par-academie_8079515.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Le sénateur PCF de Paris Ian Brossat va déposer mercredi une proposition de loi pour réquisitionner les lieux climatisés en cas de canicule",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.784Z",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-senateur-pcf-de-paris-ian-brossat-va-deposer-mercredi-une-proposition-de-loi-pour-requisitionner-les-lieux-climatises-en-cas-de-canicule_8097389.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Canicule : une grande partie de la France confrontée à un nouvel épisode de chaleur",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.784Z",
+      "link": "https://www.franceinfo.fr/environnement/meteo/direct-canicule-une-grande-partie-de-la-france-confrontee-a-un-nouvel-episode-de-chaleur_8097194.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Le gouvernement prépare un nouveau tour de vis pour redresser les comptes publics",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-prepare-un-nouveau-tour-de-vis-pour-redresser-les-comptes-publics_8063066.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "\"Ce n'est pas le foot qui me fait vibrer, c'est lui\" : pourquoi l'image de Lionel Messi est partout aux Etats-Unis pendant la Coupe du monde",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/reportage-ce-n-est-pas-le-foot-qui-me-fait-vibrer-c-est-lui-pourquoi-l-image-de-lionel-messi-est-partout-aux-etats-unis-pendant-la-coupe-du-monde_8087141.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "La CLCV dénonce un marché des compléments alimentaires \"aux allures de Far West\" et appelle à un renforcement du cadre réglementaire",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/economie/la-clcv-denonce-un-marche-des-complements-alimentaires-aux-allures-de-far-west-et-appelle-a-un-renforcement-du-cadre-reglementaire_8097422.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Haute couture automne-hiver 2026-2027 : Jonathan Anderson pour Dior joue avec les plissés et les drapés",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/culture/mode/metiers-art/haute-couture-automne-hiver-2026-2027-jonathan-anderson-pour-dior-joue-avec-les-plisses-et-les-drapes_8097398.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "C'est \"une énième forme de manipulation\", selon Mourad Battikh, avocat d'une partie de la famille de Delphine Jubillar après les aveux du mari de la victime",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/c-est-une-enieme-forme-de-manipulation-selon-me-mourad-battikh-avocat-d-une-partie-de-la-famille-de-delphine-jubillar-apres-les-aveux-du-mari-de-la-victime_8097341.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Avec ses aveux, Cédric Jubillar \"veut mettre en paix sa conscience\", assure Guy Debuisson, l'un de ses avocats",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/avec-ses-aveux-cedric-jubillar-veut-mettre-en-paix-sa-conscience-assure-guy-debuisson-l-un-de-ses-avocats_8097374.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "\"Si je n'avais pas été là, est-ce que le Parti socialiste serait encore là aujourd'hui ? Est-ce qu'il y aurait encore des congrès ?\", interroge Olivier Faure",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/politique/si-je-n-avais-pas-ete-la-est-ce-que-le-parti-socialiste-serait-encore-la-aujourd-hui-est-ce-qu-il-y-aurait-encore-des-congres-interroge-olivier-faure_8097359.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "L'entraîneur britannique Liam Rosenior revient en Ligue 1 pour succéder à Antoine Kombouaré sur le banc du Paris FC",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/l-entraineur-britannique-liam-rosenior-revient-en-ligue-1-pour-succeder-a-antoine-kombouare-sur-le-banc-du-paris-fc_8097470.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Coupe du monde 2026 : la Belgique écrase les Etats-Unis devant leur public avant les derniers huitièmes de finale aujourd'hui",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-2026-la-belgique-ecrase-les-etats-unis-devant-leur-public-avant-les-derniers-8e-de-finale-aujourd-hui_8096333.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "En marge du sommet de l'Otan, Vladimir Poutine cherche toujours à imposer son récit sur la guerre en Ukraine",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/monde/russie/vladimir-poutine/en-marge-du-sommet-de-l-otan-vladimir-poutine-cherche-toujours-a-imposer-son-recit-sur-la-guerre-en-ukraine_8096729.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "\"Nous devons vaincre le racisme ensemble\" : Gianni Infantino, le président de la Fifa, apporte son soutien à Kylian Mbappé",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/nous-devons-vaincre-le-racisme-ensemble-gianni-infantino-le-president-de-la-fifa-apporte-son-soutien-a-kylian-mbappe_8097053.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "\"Si on a un maximum de signatures\" sur la pétition contre la loi d'urgence agricole, \"ils ne pourront pas l'ignorer une seconde fois\", estime Générations futures",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/si-on-a-un-maximum-de-signatures-sur-la-petition-contre-la-loi-d-urgence-agricole-ils-ne-pourront-pas-l-ignorer-une-seconde-fois-estime-generations-futures_8097383.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "Une Belgique remontée exclut avec autorité les Etats-Unis de leur Coupe du monde",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/une-belgique-remontee-exclut-avec-autorite-les-etats-unis-de-leur-coupe-du-monde_8097245.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "\"Ça aurait pu partir dans le décor\" : avant la décision en appel sur l'inéligibilité de Marine Le Pen, cinq longs mois d'attente et de doutes au Rassemblement national",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/politique/marine-le-pen/recit-ca-aurait-pu-partir-dans-le-decor-avant-la-decision-en-appel-sur-l-ineligibilite-de-marine-le-pen-cinq-longs-mois-d-attente-et-de-doutes-au-rassemblement-national_8080595.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "La décision de la cour d'appel de Paris permettra-t-elle à Marine Le Pen de se présenter à la présidentielle ? On a listé les différents cas de figure",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T09:23:08.785Z",
+      "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/la-decision-de-la-cour-d-appel-de-paris-permettra-t-elle-a-marine-le-pen-de-se-presenter-a-la-presidentielle-on-a-liste-les-differents-cas-de-figure_8092121.html#xtor=RSS-3-[lestitres]",
+      "score": 30
+    },
+    {
+      "title": "De la Grande Mosquée des Omeyyades au mont Qassioun, Emmanuel Macron au chevet d’une Syrie qui «renaît»",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/international/de-la-grande-mosquee-des-omeyyades-au-mont-qassioun-emmanuel-macron-au-chevet-d-une-syrie-qui-renait-20260707",
+      "score": 30
+    },
+    {
+      "title": "Omar Youssef Souleimane : « Emmanuel Macron à Damas, quelle Syrie va-t-il visiter ? »",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/vox/monde/omar-youssef-souleimane-emmanuel-macron-a-damas-quelle-syrie-va-t-il-visiter-20260706",
+      "score": 30
+    },
+    {
+      "title": "Attaque à la bombe à Monaco : le corps de la principale suspecte retrouvé enterré près de Kiev, un officier des renseignements arrêté",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/international/explosion-a-monaco-la-femme-soupconnee-d-avoir-tente-d-assassiner-l-oligarque-vadim-yermolayev-retrouvee-morte-pres-de-kiev-20260707",
+      "score": 30
+    },
+    {
+      "title": "« Bataillon Monaco » : yachts, Bentley et shopping de luxe, la vie de ces sulfureux oligarques ukrainiens réfugiés sur la Côte d’Azur",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/nice/bataillon-monaco-yachts-bentley-et-shopping-de-luxe-la-vie-de-ces-sulfureux-oligarques-ukrainiens-refugies-sur-la-cote-d-azur-20260705",
+      "score": 30
+    },
+    {
+      "title": "EN DIRECT - Résultats du bac 2026 : retrouvez les noms et les mentions dans chaque académie",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://etudiant.lefigaro.fr/article/bac/en-direct-resultats-du-bac-2026-retrouvez-les-noms-et-les-mentions-dans-chaque-academie-20260707/",
+      "score": 30
+    },
+    {
+      "title": "«Certains enfants partent avec des années d’avance» : quels sont les prénoms des lycéens qui réussissent le mieux au bac ?",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://etudiant.lefigaro.fr/article/bac/certains-enfants-partent-avec-des-annees-d-avance-quels-sont-les-prenoms-des-lyceens-qui-reussissent-le-mieux-au-bac-20260706/",
+      "score": 30
+    },
+    {
+      "title": "Quels lycées ont obtenu le plus de mentions «très bien» au bac entre 2022 et 2025 ?",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/actualite-france/quels-lycees-ont-obtenu-le-plus-de-mentions-tres-bien-au-bac-entre-2022-et-2025-20260703",
+      "score": 30
+    },
+    {
+      "title": "Après ses propos racistes contre Mbappé, la sénatrice paraguayenne persiste et signe et «exige des excuses»",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/apres-ses-propos-racistes-contre-mbappe-la-senatrice-paraguayenne-persiste-et-signe-et-exige-des-excuses-20260707",
+      "score": 30
+    },
+    {
+      "title": "Le gouvernement paraguayen dénonce les propos racistes de la sénatrice de l’opposition à l’encontre de Mbappé",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/le-gouvernement-paraguayen-denonce-les-propos-racistes-de-la-senatrice-de-l-opposition-a-l-encontre-de-mbappe-20260707",
+      "score": 30
+    },
+    {
+      "title": "Macron apporte son soutien à Mbappé après les «attaques racistes» d’une sénatrice paraguayenne",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/sports/football/macron-apporte-son-soutien-a-mbappe-apres-les-attaques-racistes-d-une-senatrice-paraguayenne-20260706",
+      "score": 30
+    },
+    {
+      "title": "Gianni Infantino «condamne sans équivoque» les propos racistes à l'encontre de Kylian Mbappé",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/sports/football/gianni-infantino-condamne-sans-equivoque-les-propos-racistes-a-l-encontre-de-kylian-mbappe-20260707",
+      "score": 30
+    },
+    {
+      "title": "EN DIRECT - Procès Marine Le Pen : Bruno Retailleau appelle la justice à être «impartiale»",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-le-sort-de-marine-le-pen-entre-les-mains-des-juges-20260707",
+      "score": 30
+    },
+    {
+      "title": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella face à leur destin",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-et-jordan-bardella-face-a-leur-destin-20260706",
+      "score": 30
+    },
+    {
+      "title": "L’éditorial d’Yves Thréard : «Le pouvoir des juges sur la présidentielle 2027»",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-le-pouvoir-des-juges-sur-la-presidentielle-2027-20260706",
+      "score": 30
+    },
+    {
+      "title": "«Quelle que soit la décision, rien ne s’arrêtera pour toi» : avant le verdict de la justice, Marion Maréchal rend hommage à sa tante",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/quelle-que-soit-la-decision-rien-ne-s-arretera-pour-toi-avant-le-verdict-de-la-justice-marion-marechal-rend-hommage-a-sa-tante-20260706",
+      "score": 30
+    },
+    {
+      "title": "Procès en appel de Marine Le Pen : pas d’hypothèse judiciaire rassurante à part la relaxe",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/politique/proces-en-appel-de-marine-le-pen-pas-d-hypothese-judiciaire-rassurante-a-part-la-relaxe-20260706",
+      "score": 30
+    },
+    {
+      "title": "Parcours au RN, résultats électoraux, sondages : le comparatif Marine Le Pen-Jordan Bardella",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T09:23:08.916Z",
+      "link": "https://www.lefigaro.fr/politique/parcours-au-rn-resultats-electoraux-sondages-le-comparatif-marine-le-pen-jordan-bardella-20260707",
+      "score": 30
+    },
+    {
+      "title": "Présidentielle 2027 : Jordan Bardella peut-il être candidat même si Marine Le Pen redevient éligible ?",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/politique/4233102-20260707-presidentielle-2027-jordan-bardella-peut-etre-candidat-si-marine-pen-redevient-eligible?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Coupe du monde 2026 : On est partis à la chasse aux joueurs de l’équipe de France dans le parc en bas de leur hôtel",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sport/football/4233261-20260707-coupe-monde-2026-partis-chasse-joueurs-equipe-france-parc-bas-hotel?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "EN DIRECT Coupe du monde 2026 : Courtois et les Belges ravis d'avoir « puni le manque de respect américain »...  Suivez l'actu de mardi avec nous...",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sport/football/4233239-20260707-direct-coupe-monde-2026-macron-apporte-soutien-mbappe-climat-tension-avant-usa-belgique?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Le règne de « Drag Race France » bousculé par les critiques politiques et les reproches de la communauté LGBT+",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/arts-stars/television/4232749-20260707-regne-drag-race-france-bouscule-critiques-politiques-reproches-communaute-lgbt?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "EN DIRECT Guerre en Ukraine : Kiev envoie 430 drones sur Moscou à quelques heures de l’ouverture du sommet de l’Otan",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4233259-20260707-direct-guerre-ukraine-kiev-envoie-430-drones-moscou-quelques-heures-ouverture-sommet-otan?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Parcoursup : Le nom de votre lycée (et son classement) peut-il faire pencher la balance ?",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/societe/4229223-20260707-parcoursup-nom-lycee-classement-peut-faire-pencher-balance?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "En images - Coupe du monde 2026 : Le show est aussi dans les tribunes",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4232931-images-coupe-monde-2026-show-aussi-tribunes?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Coupe du monde 2026 : Malgré ses propos racistes contre Mbappé, Celeste Amarilla menace de porter plainte contre lui",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sport/football/4233269-20260707-coupe-monde-2026-malgre-propos-racistes-contre-mbappe-celeste-amarilla-menace-porter-plainte-contre?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Aveux de Cédric Jubillar : Pourquoi il ne faut pas parler de « crime passionnel » ?",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/justice/4233135-20260707-aveux-cedric-jubillar-pourquoi-faut-parler-crime-passionnel?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "EN IMAGES. « Drag Race France » : Découvrez les queens de la saison 4",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4233126-images-drag-race-france-decouvrez-queens-saison-4?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Coupe du monde 2026 : Lukaku chambre Trump et le gardien américain signe LA boulette du Mondial… Le récap de la nuit",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sport/football/4233243-20260707-coupe-monde-2026-lukaku-chambre-trump-gardien-americain-signe-boulette-mondial-recap-nuit?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Le Sénat débat du retour des bouilloires thermiques pour faire face à la pénurie de logements en pleine canicule",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/societe/4233266-20260707-senat-debat-retour-bouilloires-thermiques-faire-face-penurie-logements-pleine-canicule?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Canicule : Les plus belles photos de piscines du monde vues du ciel (vous allez voir, ça rafraîchit)",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/diaporama/diaporama-4232449-canicule-plus-belles-photos-piscines-monde-vues-ciel-allez-voir-ca-rafraichit?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "« Ici, la durée de vie dépasse rarement 65 ans »… A Lille, des gens du voyage réclament des refuges climatiques",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sante/4227929-20260707-duree-vie-depasse-rarement-65-ans-lille-gens-voyage-reclament-refuges-climatiques?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Le Brésil craint un « recours à la force militaire » des Etats-Unis sur son territoire",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/monde/bresil/4233265-20260707-bresil-craint-recours-force-militaire-etats-unis-territoire?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Toute l’info en 2 minutes : Le Pen face à son destin, les Belges n’ont fait qu’une bouchée des Etats-Unis et la canicule",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/societe/4233238-20260707-toute-info-2-minutes-pen-face-destin-belges-fait-bouchee-etats-unis-canicule?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Coupe du monde 2026 : Le Maroc c’est du sérieux, Tchouaméni vers un forfait… Le journal des Bleus",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/sport/football/4233232-20260707-coupe-monde-2026-maroc-serieux-tchouameni-vers-forfait-journal-bleus?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Etats-Unis : Avant les midterms de novembre, Trump mise sur la peur du grand méchant communisme",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4233244-20260707-etats-unis-avant-midterms-novembre-trump-mise-peur-grand-mechant-communisme?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Procès en appel de Marine Le Pen : « Du stress et de l’espoir »… Va-t-elle pouvoir être candidate en 2027 ?",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/politique/4232648-20260706-proces-appel-marine-pen-stress-espoir-va-pouvoir-etre-candidate-2027?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Cédric Jubillar « n’a jamais eu l’intention de tuer son épouse », selon son avocat",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/justice/4233233-20260706-cedric-jubillar-jamais-intention-tuer-epouse-selon-avocat?at_medium=display&at_campaign=149",
+      "score": 30
+    },
+    {
+      "title": "Canicule : Pas moins de 61 départements seront en vigilance orange mardi",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T09:23:09.249Z",
+      "link": "https://www.20minutes.fr/societe/4233240-20260706-canicule-moins-61-departements-vigilance-orange-mardi?at_medium=display&at_campaign=149",
+      "score": 30
     },
     {
       "title": "Le Portugal de Cristiano Ronaldo éliminé au forceps par l'Espagne en huitièmes de finale de la Coupe du monde",
@@ -231,251 +700,6 @@
       "source": "https://www.franceinfo.fr/titres.rss",
       "time": "2026-07-07T02:20:54.608Z",
       "link": "https://www.franceinfo.fr/tour-de-france/tadej-pogacar-remporte-en-patron-la-3e-etape-du-tour-de-france-et-prend-le-maillot-jaune-de-leader-paul-seixas-encore-dans-le-coup_8096366.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "George Clooney recevra un Lion d'or d'honneur à la Mostra de Venise pour l'ensemble de sa carrière",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/culture/cinema/george-clooney-recevra-un-lion-d-or-d-honneur-a-la-mostra-de-venise-pour-l-ensemble-de-sa-carriere_8096429.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "Microsoft annonce la suppression immédiate de 4 800 postes et évoque une activité jeux vidéo \"qui ne se porte pas bien\"",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/internet/microsoft-annonce-la-suppression-immediate-de-4-800-postes-et-evoque-une-activite-jeux-video-qui-ne-se-porte-pas-bien_8096468.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "\"Il avait besoin de parler\" : ce qu'il faut retenir de la conférence de presse des avocats de Cédric Jubillar, qui a reconnu avoir tué sa femme",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/il-avait-besoin-de-parler-ce-qu-il-faut-retenir-de-la-conference-de-presse-des-avocats-de-cedric-jubillar-qui-a-reconnu-avoir-tue-sa-femme_8095916.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "\"Ça sera très dur si c'est elle\" : pourquoi les adversaires du RN préfèrent affronter Jordan Bardella plutôt que Marine Le Pen à la présidentielle",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/elections/presidentielle/ca-sera-tres-dur-si-c-est-elle-pourquoi-les-adversaires-du-rn-preferent-affronter-jordan-bardella-plutot-que-marine-le-pen-a-la-presidentielle_8084963.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "Cristiano Ronaldo éliminé de sa sixième Coupe du monde par l'Espagne, la triste dernière danse d'un stakhanoviste qui refusait de tirer sa révérence",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/cristiano-ronaldo-elimine-de-sa-sixieme-coupe-du-monde-par-l-espagne-la-triste-derniere-danse-d-un-stakhanoviste-qui-refusait-de-tirer-sa-reverence_8096384.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "\"Si un chef d'Etat interfère dans les règles de la Fifa...\" : on vous explique l'affaire Balogun-Trump, rarissime cas d'ingérence politique dans la Coupe du monde",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T02:20:54.608Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/si-un-chef-d-etat-interfere-dans-les-regles-de-la-fifa-on-vous-explique-l-affaire-balogun-trump-rarissime-cas-d-ingerence-politique-dans-la-coupe-du-monde_8095907.html#xtor=RSS-3-[lestitres]",
-      "score": 10
-    },
-    {
-      "title": "EN DIRECT - Canicule : le feu dans les Pyrénées-Orientales «stabilisé mais pas complètement fixé», 61 départements en vigilance orange mardi",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-canicule-un-feu-gigantesque-a-parcouru-4500-hectares-dans-les-pyrenees-orientales-la-troisieme-etape-du-tour-de-france-bousculee-20260706",
-      "score": 10
-    },
-    {
-      "title": "Canicule : les salariés de RTE, gestionnaire du réseau de transport d’électricité, exercent leur «droit d'alerte» sur les infrastructures",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/societes/canicule-les-salaries-de-rte-gestionnaire-du-reseau-de-transport-d-electricite-exercent-leur-droit-d-alerte-sur-les-infrastructures-20260706",
-      "score": 10
-    },
-    {
-      "title": "Jusqu’à 42 °C mardi : découvrez la progression de la nouvelle vague de chaleur en cartes",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/meteo/jusqu-a-420c-lundi-decouvrez-l-ampleur-de-la-nouvelle-vague-de-chaleur-en-cartes-20260703",
-      "score": 10
-    },
-    {
-      "title": "La canicule va-t-elle se prolonger encore 10 jours ?",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/meteo/la-canicule-va-t-elle-se-prolonger-encore-10-jours-20260706",
-      "score": 10
-    },
-    {
-      "title": "EN DIRECT - Coupe du monde 2026 : malgré le coup de pouce de la Fifa, les États-Unis s’inclinent face à la Belgique",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-ou-va-la-fifa-une-ligne-rouge-a-ete-franchie-l-affaire-balogun-suscite-l-indignation-20260706",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : même avec Balogun et le coup de pouce de la Fifa, les États-Unis éliminés par la Belgique",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-meme-avec-balogun-les-etats-unis-elimines-par-la-belgique-20260707",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : l’Espagne crucifie le Portugal dans les arrêts de jeu et brise le rêve de Ronaldo",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-l-espagne-crucifie-le-portugal-dans-les-arrets-de-jeu-20260706",
-      "score": 10
-    },
-    {
-      "title": "Portugal-Espagne : Merino le héros, Yamal au cachot, adieu Ronaldo... Les tops et flops du choc des huitièmes",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/flash-sport/portugal-espagne-merino-le-heros-yamal-au-cachot-adieu-ronaldo-les-tops-et-flops-du-choc-des-huitiemes-20260706",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : affaire Balogun, attitude du Paraguay, Maroc, racisme envers Mbappé … Les réponses de Guy Stéphan",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-affaire-balogun-attitude-du-paraguay-maroc-racisme-envers-mbappe-les-reponses-de-guy-stephan-20260706",
-      "score": 10
-    },
-    {
-      "title": "Un pétrolier touché par un projectile non-identifié dans la région du détroit d'Ormuz",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/international/un-petrolier-touche-par-un-projectile-non-identifie-dans-la-region-du-detroit-d-ormuz-20260707",
-      "score": 10
-    },
-    {
-      "title": "Une défense qui «confine à l’indécence»: après les aveux de Cédric Jubillar, la consternation des proches de la disparue",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/faits-divers/une-defense-qui-confine-a-l-indecence-apres-les-aveux-de-cedric-jubillar-la-consternation-des-proches-de-la-disparue-20260706",
-      "score": 10
-    },
-    {
-      "title": "« C’est un système de défense assez classique » : pourquoi Cédric Jubillar est-il passé aux aveux ?",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T02:20:54.736Z",
-      "link": "https://www.lefigaro.fr/faits-divers/c-est-un-systeme-de-defense-assez-classique-pourquoi-cedric-jubillar-est-il-passe-aux-aveux-20260706",
-      "score": 10
-    },
-    {
-      "title": "EN DIRECT Coupe du monde 2026 : La Belgique assomme les Etats-Unis avec un quatrième but de Lukaku...",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/football/4233239-20260707-direct-coupe-monde-2026-macron-apporte-soutien-mbappe-climat-tension-avant-usa-belgique?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Venezuela : Le nombre de morts s’élève à 3.535 après le double séisme",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/monde/4233241-20260706-venezuela-nombre-morts-eleve-3-535-apres-double-seisme?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Réseaux sociaux interdits aux moins de 15 ans : L’UE demande à la France de revoir son projet de loi",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/societe/4233224-20260706-reseaux-sociaux-interdits-moins-15-ans-ue-demande-france-revoir-projet-loi?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Que va-t-il se passer maintenant que Cédric Jubillar a avoué avoir tué sa femme ?",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/justice/4233100-20260706-va-passer-maintenant-cedric-jubillar-avoue-avoir-tue-femme?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Bretagne : Ce que l’on sait sur la mort d’un maire de Belle-Île après une altercation",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/faits_divers/4233203-20260706-bretagne-sait-mort-maire-belle-ile-apres-altercation?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : « Vous êtes une femme méprisable… » Kylian Mbappé répond aux propos de la sénatrice paraguayenne",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/football/4233227-20260706-coupe-monde-2026-femme-meprisable-kylian-mbappe-repond-propos-senatrice-paraguayenne?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde : Aveu d’intervention, arbitre, carton rouge… Les déclarations incroyables de Trump sur l’affaire Balogun",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4233223-20260706-coupe-monde-aveu-intervention-arbitre-carton-rouge-declarations-incroyables-trump-affaire-balogun?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Guerre en Ukraine : Nouvelle nuit de terreur et de sang à Kiev, le bilan est lourd",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4233221-20260706-guerre-ukraine-nouvelle-nuit-terreur-sang-kiev-bilan-lourd?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Affaire Jubillar : « Couple dégradé », corps déplacé, enquête « bâclée »… Qu’ont dit les avocats de Cédric ?",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/justice/4233076-20260706-affaire-jubillar-couple-degrade-corps-deplace-enquete-baclee-dit-avocats-cedric?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : « Infantino va attendre que ça se tasse, comme il a toujours fait » explique un ancien allié",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/football/4228444-20260706-coupe-monde-2026-infantino-va-attendre-ca-tasse-comme-toujours-fait-explique-ancien-allie?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Le Tour de France de Paul Seixas : « Quatrième, c’est déjà bien… » Le Français solide dans la roue des monstres",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/cyclisme/tour-de-france/4233208-20260706-tour-france-paul-seixas-quatrieme-deja-bien-francais-solide-roue-monstres?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Canicule : La motion de censure écologiste contre Sébastien Lecornu largement rejetée par l’Assemblée",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/politique/4233169-20260706-canicule-motion-censure-ecologiste-contre-lecornu-largement-rejetee-assemblee?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Coupe du monde 2026 : La Belgique prête à agir si Balogun joue... Le gouvernement paraguayen condamne la sortie de Celeste Amarilla...",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/4232937-20260706-direct-coupe-monde-2026-trump-confirme-lobbying-telephonique-balogun-infantino-assure-fifa-independante?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Tour de France 2026 : Cette fois, Pogacar la voulait, et il l'a ! Le Slovène prend le jaune, Seixas 4e... Revivez la 3e étape",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/sport/4233112-20260706-direct-tour-france-2026-fois-pogacar-voulait-slovene-prend-jaune-seixas-4e-suivez-3e-etape?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Guerre en Ukraine : Au moins 22 morts et des dizaines de blessés dans des bombardements russes dans la région de Kiev",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4233054-20260706-direct-guerre-ukraine-frappes-russes-font-moins-huit-morts-kiev-region?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "Primes, absences… La Cour des comptes propose de sortir les contrôleurs aériens de la fonction publique",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/societe/4233133-20260706-primes-absences-cour-comptes-propose-sortir-controleurs-aeriens-fonction-publique?at_medium=display&at_campaign=149",
-      "score": 10
-    },
-    {
-      "title": "C’est quoi le « Chinese Dreamcore » qui fait fantasmer la Gen Z sur les réseaux sociaux ?",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T02:20:55.082Z",
-      "link": "https://www.20minutes.fr/high-tech/by-the-web/4233129-20260706-quoi-chinese-dreamcore-fait-fantasmer-gen-z-reseaux-sociaux?at_medium=display&at_campaign=149",
       "score": 10
     }
   ]
