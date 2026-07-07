@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-07T10:05:13.259Z",
+  "updated": "2026-07-07T10:50:59.002Z",
   "count": 100,
   "items": [
     {
       "title": "Attentats à la bombe près de l'hôtel d'Emmanuel Macron en Syrie... Le Président « sain et sauf », assure l'Elysée",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/monde/4233272-20260707-syrie-deux-explosions-pres-hotel-emmanuel-macron-damas?at_medium=display&at_campaign=149",
+      "score": 100
+    },
+    {
+      "title": "Syrie : Blessés, président « sain et sauf »… Ce que l’on sait de l’attentat près de l’hôtel d’Emmanuel Macron",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-07T10:50:57.847Z",
+      "link": "https://www.20minutes.fr/monde/syrie/4233316-20260707-syrie-blesses-president-sain-sauf-sait-attentat-pres-hotel-emmanuel-macron?at_medium=display&at_campaign=149",
       "score": 100
     },
     {
@@ -47,7 +54,7 @@
     {
       "title": "Des explosions retentissent à Damas en pleine visite d'Emmanuel Macron, le président français est en sécurité",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/une-explosion-entendue-a-damas-en-pleine-visite-du-president-francais-emmanuel-macron-dans-la-capitale-syrienne_8097410.html#xtor=RSS-3-[lestitres]",
       "score": 90
     },
@@ -61,35 +68,56 @@
     {
       "title": "Syrie : les images des explosions survenues à côté de l’hôtel d’Emmanuel Macron à Damas",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/international/syrie-les-images-des-explosions-survenues-a-cote-de-l-hotel-d-emmanuel-macron-a-damas-20260707",
       "score": 90
     },
     {
       "title": "Recherchée par Interpol, «grimée en homme», résidente en Allemagne : le parcours de la suspecte de l’explosion de Monaco se précise",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/faits-divers/explosion-a-monaco-anastasia-berezovska-ukrainienne-de-39-ans-recherchee-par-interpol-20260703",
       "score": 90
     },
     {
       "title": "Emmanuel Macron poursuit sa visite à Damas, malgré les explosions survenues près de l'hôtel où il avait passé la nuit",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-syrie-emmanuel-macron-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-de-damas-apres-des-explosions-pres-de-son-hotel_8097461.html#xtor=RSS-3-[lestitres]",
       "score": 90
     },
     {
       "title": "«Elles visaient à faire du bruit» : malgré les explosions près de son hôtel à Damas, Emmanuel Macron maintient son programme en Syrie",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/international/elles-visaient-a-faire-du-bruit-malgre-les-explosions-pres-de-son-hotel-a-damas-emmanuel-macron-maintient-son-programme-en-syrie-20260707",
+      "score": 90
+    },
+    {
+      "title": "Explosions à Damas : Emmanuel Macron poursuit sa visite, Ahmad al-Chareh dit vouloir que la France soit le \"premier partenaire\" commercial de la Syrie",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-07T10:50:56.762Z",
+      "link": "https://www.franceinfo.fr/monde/revolte-en-syrie/direct-explosions-a-damas-emmanuel-macron-poursuit-sa-visite-et-s-entretient-avec-son-homologue-ahmed-al-charaa-au-palais-presidentiel-syrien_8097500.html#xtor=RSS-3-[lestitres]",
+      "score": 90
+    },
+    {
+      "title": "Syrie : «Ma visite se poursuit», affirme Emmanuel Macron après deux explosions à Damas",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T10:50:57.163Z",
+      "link": "https://www.lefigaro.fr/international/syrie-ma-visite-se-poursuit-affirme-emmanuel-macron-apres-deux-explosions-a-damas-20260707",
+      "score": 90
+    },
+    {
+      "title": "Syrie : Emmanuel Macron est «sain et sauf», annonce l’Élysée après les explosions à proximité de son hôtel",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-07T10:50:57.163Z",
+      "link": "https://www.lefigaro.fr/international/syrie-explosion-entendue-a-damas-ou-emmanuel-macron-est-en-visite-20260707",
       "score": 90
     },
     {
       "title": "Quatre nouvelles personnes mises en examen dans l'enquête sur le meurtre de Mehdi Kessaci à Marseille",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/faits-divers/criminalite-a-marseille/quatre-nouvelles-personnes-mises-en-examen-dans-l-enquete-sur-le-meurtre-de-mehdi-kessaci-a-marseille_8097527.html#xtor=RSS-3-[lestitres]",
       "score": 85
     },
@@ -103,28 +131,28 @@
     {
       "title": "Meurtre de Mehdi Kessaci : Quatre nouveaux suspects mis en examen et écroués à Marseille, portant à 11 leur nombre",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/justice/4233294-20260707-meurtre-mehdi-kessaci-quatre-nouveaux-suspects-mis-examen-ecroues-marseille-portant-11-nombre?at_medium=display&at_campaign=149",
       "score": 85
     },
     {
       "title": "La mortalité périnatale continue d'augmenter en France",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/sante/la-mortalite-perinatale-continue-d-augmenter-en-france_8097344.html#xtor=RSS-3-[lestitres]",
       "score": 80
     },
     {
       "title": "La britannique Lauren Bennett, chanteuse du tube « Party Rock Anthem » de LMFAO, est morte à 37 ans",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/arts-stars/culture/musique/4233278-20260707-britannique-lauren-bennett-chanteuse-tube-party-rock-anthem-lmfao-morte-37-ans?at_medium=display&at_campaign=149",
       "score": 80
     },
     {
       "title": "La mortalité périnatale a encore augmenté en France en 2024 à plus de 11 pour 1.000",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sante/4233264-20260707-mortalite-perinatale-encore-augmente-france-2024-plus-11-1-000?at_medium=display&at_campaign=149",
       "score": 80
     },
@@ -159,7 +187,7 @@
     {
       "title": "EN DIRECT Canicule et incendies : Des moyens aériens supplémentaires pour contenir l’incendie des Pyrénées-Orientales...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/planete/canicule/4233242-20260707-direct-canicule-incendies-meteo-france-maintient-61-departements-vigilance-orange?at_medium=display&at_campaign=149",
       "score": 75
     },
@@ -208,14 +236,14 @@
     {
       "title": "\"Violence de genre pure et dure\" : la sénatrice paraguayenne Céleste Amarilla, auteure d'insultes à caractère raciste envers Kylian Mbappé, l’accuse de misogynie et \"exige\" des excuses",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/retracte-toi-avec-moi-honore-ta-citoyennete-francaise-et-presente-tes-excuses-a-repondu-la-senatrice-paraguayenne-celeste-amarilla-a-kylian-mbappe_8097302.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Pour quelles raisons le Hamas se dit-il prêt à céder le pouvoir… sans renoncer aux armes ?",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/pour-quelles-raisons-le-hamas-se-dit-il-pret-a-ceder-le-pouvoir-sans-renoncer-aux-armes_8061803.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -229,7 +257,7 @@
     {
       "title": "\"Cagnac-les-Mines a besoin de se reposer\" : après les aveux de Cédric Jubillar, le village du Tarn espère \"enfin un dénouement\"",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/reportage-cagnac-les-mines-a-besoin-de-se-reposer-apres-les-aveux-de-cedric-jubillar-le-village-du-tarn-ou-il-vivait-avec-son-epouse-espere-enfin-un-denouement-a-l-affaire_8097236.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -243,63 +271,63 @@
     {
       "title": "Le sénateur PCF de Paris Ian Brossat va déposer mercredi une proposition de loi pour réquisitionner les lieux climatisés en cas de canicule",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-senateur-pcf-de-paris-ian-brossat-va-deposer-mercredi-une-proposition-de-loi-pour-requisitionner-les-lieux-climatises-en-cas-de-canicule_8097389.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Canicule : une grande partie de la France confrontée à un nouvel épisode de chaleur",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/environnement/meteo/direct-canicule-une-grande-partie-de-la-france-confrontee-a-un-nouvel-episode-de-chaleur_8097194.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Le gouvernement prépare un nouveau tour de vis pour redresser les comptes publics",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-prepare-un-nouveau-tour-de-vis-pour-redresser-les-comptes-publics_8063066.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "\"Ce n'est pas le foot qui me fait vibrer, c'est lui\" : pourquoi l'image de Lionel Messi est partout aux Etats-Unis pendant la Coupe du monde",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/reportage-ce-n-est-pas-le-foot-qui-me-fait-vibrer-c-est-lui-pourquoi-l-image-de-lionel-messi-est-partout-aux-etats-unis-pendant-la-coupe-du-monde_8087141.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "La CLCV dénonce un marché des compléments alimentaires \"aux allures de Far West\" et appelle à un renforcement du cadre réglementaire",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/economie/la-clcv-denonce-un-marche-des-complements-alimentaires-aux-allures-de-far-west-et-appelle-a-un-renforcement-du-cadre-reglementaire_8097422.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Haute couture automne-hiver 2026-2027 : Jonathan Anderson pour Dior joue avec les plissés et les drapés",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/culture/mode/metiers-art/haute-couture-automne-hiver-2026-2027-jonathan-anderson-pour-dior-joue-avec-les-plisses-et-les-drapes_8097398.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "C'est \"une énième forme de manipulation\", selon Mourad Battikh, avocat d'une partie de la famille de Delphine Jubillar après les aveux du mari de la victime",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/c-est-une-enieme-forme-de-manipulation-selon-me-mourad-battikh-avocat-d-une-partie-de-la-famille-de-delphine-jubillar-apres-les-aveux-du-mari-de-la-victime_8097341.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Avec ses aveux, Cédric Jubillar \"veut mettre en paix sa conscience\", assure Guy Debuisson, l'un de ses avocats",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/avec-ses-aveux-cedric-jubillar-veut-mettre-en-paix-sa-conscience-assure-guy-debuisson-l-un-de-ses-avocats_8097374.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "\"Si je n'avais pas été là, est-ce que le Parti socialiste serait encore là aujourd'hui ? Est-ce qu'il y aurait encore des congrès ?\", interroge Olivier Faure",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/politique/si-je-n-avais-pas-ete-la-est-ce-que-le-parti-socialiste-serait-encore-la-aujourd-hui-est-ce-qu-il-y-aurait-encore-des-congres-interroge-olivier-faure_8097359.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -320,7 +348,7 @@
     {
       "title": "En marge du sommet de l'Otan, Vladimir Poutine cherche toujours à imposer son récit sur la guerre en Ukraine",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/monde/russie/vladimir-poutine/en-marge-du-sommet-de-l-otan-vladimir-poutine-cherche-toujours-a-imposer-son-recit-sur-la-guerre-en-ukraine_8096729.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -348,7 +376,7 @@
     {
       "title": "La décision de la cour d'appel de Paris permettra-t-elle à Marine Le Pen de se présenter à la présidentielle ? On a listé les différents cas de figure",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.763Z",
       "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/la-decision-de-la-cour-d-appel-de-paris-permettra-t-elle-a-marine-le-pen-de-se-presenter-a-la-presidentielle-on-a-liste-les-differents-cas-de-figure_8092121.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -369,14 +397,14 @@
     {
       "title": "Attaque à la bombe à Monaco : le corps de la principale suspecte retrouvé enterré près de Kiev, un officier des renseignements arrêté",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/international/explosion-a-monaco-la-femme-soupconnee-d-avoir-tente-d-assassiner-l-oligarque-vadim-yermolayev-retrouvee-morte-pres-de-kiev-20260707",
       "score": 30
     },
     {
       "title": "« Bataillon Monaco » : yachts, Bentley et shopping de luxe, la vie de ces sulfureux oligarques ukrainiens réfugiés sur la Côte d’Azur",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/nice/bataillon-monaco-yachts-bentley-et-shopping-de-luxe-la-vie-de-ces-sulfureux-oligarques-ukrainiens-refugies-sur-la-cote-d-azur-20260705",
       "score": 30
     },
@@ -432,154 +460,154 @@
     {
       "title": "EN DIRECT - Procès Marine Le Pen : Bruno Retailleau appelle la justice à être «impartiale»",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-le-sort-de-marine-le-pen-entre-les-mains-des-juges-20260707",
       "score": 30
     },
     {
       "title": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella face à leur destin",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-et-jordan-bardella-face-a-leur-destin-20260706",
       "score": 30
     },
     {
       "title": "L’éditorial d’Yves Thréard : «Le pouvoir des juges sur la présidentielle 2027»",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-le-pouvoir-des-juges-sur-la-presidentielle-2027-20260706",
       "score": 30
     },
     {
       "title": "«Quelle que soit la décision, rien ne s’arrêtera pour toi» : avant le verdict de la justice, Marion Maréchal rend hommage à sa tante",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/elections/presidentielles/quelle-que-soit-la-decision-rien-ne-s-arretera-pour-toi-avant-le-verdict-de-la-justice-marion-marechal-rend-hommage-a-sa-tante-20260706",
       "score": 30
     },
     {
       "title": "Parcours au RN, résultats électoraux, sondages : le comparatif Marine Le Pen-Jordan Bardella",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
+      "time": "2026-07-07T10:50:57.163Z",
       "link": "https://www.lefigaro.fr/politique/parcours-au-rn-resultats-electoraux-sondages-le-comparatif-marine-le-pen-jordan-bardella-20260707",
       "score": 30
     },
     {
       "title": "Présidentielle 2027 : Jordan Bardella peut-il être candidat même si Marine Le Pen redevient éligible ?",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/politique/4233102-20260707-presidentielle-2027-jordan-bardella-peut-etre-candidat-si-marine-pen-redevient-eligible?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Coupe du monde 2026 : On est partis à la chasse aux joueurs de l’équipe de France dans le parc en bas de leur hôtel",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sport/football/4233261-20260707-coupe-monde-2026-partis-chasse-joueurs-equipe-france-parc-bas-hotel?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "EN DIRECT Coupe du monde 2026 : Courtois et les Belges ravis d'avoir « puni le manque de respect américain »...  Suivez l'actu de mardi avec nous...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sport/football/4233239-20260707-direct-coupe-monde-2026-macron-apporte-soutien-mbappe-climat-tension-avant-usa-belgique?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Le règne de « Drag Race France » bousculé par les critiques politiques et les reproches de la communauté LGBT+",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/arts-stars/television/4232749-20260707-regne-drag-race-france-bouscule-critiques-politiques-reproches-communaute-lgbt?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "EN DIRECT Guerre en Ukraine : Kiev envoie 430 drones sur Moscou à quelques heures de l’ouverture du sommet de l’Otan",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4233259-20260707-direct-guerre-ukraine-kiev-envoie-430-drones-moscou-quelques-heures-ouverture-sommet-otan?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Parcoursup : Le nom de votre lycée (et son classement) peut-il faire pencher la balance ?",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/societe/4229223-20260707-parcoursup-nom-lycee-classement-peut-faire-pencher-balance?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "En images - Coupe du monde 2026 : Le show est aussi dans les tribunes",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/diaporama/diaporama-4232931-images-coupe-monde-2026-show-aussi-tribunes?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Coupe du monde 2026 : Malgré ses propos racistes contre Mbappé, Celeste Amarilla menace de porter plainte contre lui",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sport/football/4233269-20260707-coupe-monde-2026-malgre-propos-racistes-contre-mbappe-celeste-amarilla-menace-porter-plainte-contre?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Aveux de Cédric Jubillar : Pourquoi il ne faut pas parler de « crime passionnel » ?",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/justice/4233135-20260707-aveux-cedric-jubillar-pourquoi-faut-parler-crime-passionnel?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "EN IMAGES. « Drag Race France » : Découvrez les queens de la saison 4",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/diaporama/diaporama-4233126-images-drag-race-france-decouvrez-queens-saison-4?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Coupe du monde 2026 : Lukaku chambre Trump et le gardien américain signe LA boulette du Mondial… Le récap de la nuit",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sport/football/4233243-20260707-coupe-monde-2026-lukaku-chambre-trump-gardien-americain-signe-boulette-mondial-recap-nuit?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Le Sénat débat du retour des bouilloires thermiques pour faire face à la pénurie de logements en pleine canicule",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/societe/4233266-20260707-senat-debat-retour-bouilloires-thermiques-faire-face-penurie-logements-pleine-canicule?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Canicule : Les plus belles photos de piscines du monde vues du ciel (vous allez voir, ça rafraîchit)",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/diaporama/diaporama-4232449-canicule-plus-belles-photos-piscines-monde-vues-ciel-allez-voir-ca-rafraichit?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "« Ici, la durée de vie dépasse rarement 65 ans »… A Lille, des gens du voyage réclament des refuges climatiques",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sante/4227929-20260707-duree-vie-depasse-rarement-65-ans-lille-gens-voyage-reclament-refuges-climatiques?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Le Brésil craint un « recours à la force militaire » des Etats-Unis sur son territoire",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/monde/bresil/4233265-20260707-bresil-craint-recours-force-militaire-etats-unis-territoire?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Toute l’info en 2 minutes : Le Pen face à son destin, les Belges n’ont fait qu’une bouchée des Etats-Unis et la canicule",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/societe/4233238-20260707-toute-info-2-minutes-pen-face-destin-belges-fait-bouchee-etats-unis-canicule?at_medium=display&at_campaign=149",
       "score": 30
     },
     {
       "title": "Coupe du monde 2026 : Le Maroc c’est du sérieux, Tchouaméni vers un forfait… Le journal des Bleus",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/sport/football/4233232-20260707-coupe-monde-2026-maroc-serieux-tchouameni-vers-forfait-journal-bleus?at_medium=display&at_campaign=149",
       "score": 30
     },
@@ -607,28 +635,28 @@
     {
       "title": "Qui a eu son bac cette année ? Découvrez les résultats officiels dans notre moteur de recherche",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/bac/qui-a-eu-son-bac-cette-annee-decouvrez-les-resultats-officiels-dans-notre-moteur-de-recherche_8079725.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Contrats, durée du sommet... En Turquie, l'Otan semble avoir tout prévu pour éviter les nouvelles critiques de Donald Trump",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/monde/otan/contrats-duree-du-sommet-en-turquie-l-otan-semble-avoir-tout-prevu-pour-eviter-les-nouvelles-critiques-de-donald-trump_8097452.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Coupe du monde 2026 : l'Argentine de Lionel Messi face au défi des Pharaons égyptiens, puis Suisse-Colombie... Suivez les derniers 8es de finale avec nous",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.762Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/direct-coupe-du-monde-2026-la-belgique-ecrase-les-etats-unis-devant-leur-public-avant-les-derniers-8e-de-finale-aujourd-hui_8096333.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
     {
       "title": "Nantes : Pneu éclaté et un problème moteur… Un avion décolle et ratterrit en urgence",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
+      "time": "2026-07-07T10:50:57.847Z",
       "link": "https://www.20minutes.fr/faits_divers/4233287-20260707-nantes-pneu-eclate-probleme-moteur-avion-decolle-ratterrit-urgence?at_medium=display&at_campaign=149",
       "score": 30
     },
@@ -649,7 +677,7 @@
     {
       "title": "\"On est vus comme des parias\" : la difficile insertion des jeunes \"sans bac\" dans le monde du travail",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
+      "time": "2026-07-07T10:50:56.763Z",
       "link": "https://www.franceinfo.fr/bac/on-est-vus-comme-des-parias-la-difficile-insertion-des-jeunes-sans-bac-dans-le-monde-du-travail_8088590.html#xtor=RSS-3-[lestitres]",
       "score": 30
     },
@@ -673,34 +701,6 @@
       "time": "2026-07-07T10:05:11.787Z",
       "link": "https://www.lefigaro.fr/politique/presidentielle-2027-ca-n-a-jamais-ete-mon-bras-droit-ni-une-aide-cingle-retailleau-sur-wauquiez-20260707",
       "score": 30
-    },
-    {
-      "title": "Procès en appel de Marine Le Pen : \"Il est temps de montrer que quand la justice passe, l'extrême droite obtempère\", estime le patron du PS avant une décision cruciale",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
-      "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/direct-marine-le-pen-pourra-t-elle-se-presenter-a-la-presidentielle-la-decision-cruciale-de-la-cour-d-appel-sur-son-ineligibilite-attendue-cet-apres-midi_8090117.html#xtor=RSS-3-[lestitres]",
-      "score": 25
-    },
-    {
-      "title": "\"Ça aurait pu partir dans le décor\" : avant la décision en appel sur l'inéligibilité de Marine Le Pen, cinq longs mois d'attente et de doutes au Rassemblement national",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-07T10:05:11.539Z",
-      "link": "https://www.franceinfo.fr/politique/marine-le-pen/recit-ca-aurait-pu-partir-dans-le-decor-avant-la-decision-en-appel-sur-l-ineligibilite-de-marine-le-pen-cinq-longs-mois-d-attente-et-de-doutes-au-rassemblement-national_8080595.html#xtor=RSS-3-[lestitres]",
-      "score": 25
-    },
-    {
-      "title": "Procès en appel de Marine Le Pen : pas d’hypothèse judiciaire rassurante à part la relaxe",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T10:05:11.787Z",
-      "link": "https://www.lefigaro.fr/politique/proces-en-appel-de-marine-le-pen-pas-d-hypothese-judiciaire-rassurante-a-part-la-relaxe-20260706",
-      "score": 25
-    },
-    {
-      "title": "Procès en appel de Marine Le Pen : « Du stress et de l’espoir »… Va-t-elle pouvoir être candidate en 2027 ?",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T10:05:12.088Z",
-      "link": "https://www.20minutes.fr/politique/4232648-20260706-proces-appel-marine-pen-stress-espoir-va-pouvoir-etre-candidate-2027?at_medium=display&at_campaign=149",
-      "score": 25
     }
   ]
 }
