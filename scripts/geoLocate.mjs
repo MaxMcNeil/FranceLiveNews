@@ -1,11 +1,11 @@
 import fs from "fs";
 
-console.log("🚀 GEOLOCATE START // OPTIMIZED");
+console.log("🚀 GEOLOCATE START // STRICT FILTER");
 
 const clusters = JSON.parse(fs.readFileSync("data/clusters.json", "utf-8"));
 const citiesRaw = JSON.parse(fs.readFileSync("data/communes_lat_lon.json", "utf-8"));
 
-// Normalisation pour matching intelligent
+// Normalisation robuste pour éviter les confusions d'accents et de casse
 function normalize(text) {
   return (text || "")
     .toUpperCase()
@@ -16,34 +16,38 @@ function normalize(text) {
     .trim();
 }
 
-// Indexation simplifiée
-const cityIndex = citiesRaw.map(c => ({
-  normName: normalize(c.name),
-  data: c
-}));
+// Indexation propre des noms de communes
+const cityMap = new Map();
+citiesRaw.forEach(c => {
+  const norm = normalize(c.name);
+  if (norm.length >= 4) { // Ignore les noms trop courts pour limiter les faux positifs
+    cityMap.set(norm, c);
+  }
+});
 
 function findCity(title) {
-  const t = normalize(title);
-  // On cherche les noms de villes les plus longs d'abord pour éviter les faux positifs
-  const sortedCities = cityIndex.sort((a, b) => b.normName.length - a.normName.length);
+  const normalizedTitle = normalize(title);
+  const words = normalizedTitle.split(" ");
 
-  for (const c of sortedCities) {
-    // Évite les noms trop courts (type "LE", "ST") qui créent des faux positifs
-    if (c.normName.length < 4) continue; 
-    
-    const regex = new RegExp(`\\b${c.normName}\\b`, "i");
-    if (regex.test(t)) {
-      return c.data;
+  // On recherche si l'un des mots ou une combinaison exacte correspond à une ville de la base INSEE
+  // On teste d'abord les noms composés les plus longs présents dans la map
+  for (const [normName, cityData] of cityMap.entries()) {
+    const regex = new RegExp(`\\b${normName}\\b`, "i");
+    if (regex.test(normalizedTitle)) {
+      return cityData;
     }
   }
+
   return null;
 }
 
 let geo = [];
+
 for (const c of clusters) {
   const city = findCity(c.title);
+
   if (city) {
-    console.log("MATCH:", city.name);
+    console.log(`MATCH VILLE: ${city.name} pour la dépêche: "${c.title}"`);
     geo.push({
       title: c.title,
       score: c.score,
@@ -52,11 +56,14 @@ for (const c of clusters) {
       lon: city.lon
     });
   } else {
-    console.log("NO MATCH:", c.title);
+    console.log(`NO MATCH (Aucune ville): ${c.title}`);
   }
 }
 
-// On retire le fallback automatique pour respecter votre demande : 
-// Si pas de ville, pas de map.
-fs.writeFileSync("data/geo.json", JSON.stringify(geo, null, 2));
-console.log("✔ FINAL GEO COUNT:", geo.length);
+// Aucun fallback par défaut : si aucun match de ville n'est trouvé, le tableau geo reste vide (longueur 0)
+fs.writeFileSync(
+  "data/geo.json",
+  JSON.stringify(geo, null, 2)
+);
+
+console.log("✔ FINAL GEO VALIDATED:", geo.length);
