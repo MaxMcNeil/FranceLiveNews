@@ -60,6 +60,19 @@ function buildTicker() {
     tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
 }
 
+async function loadSummary() {
+    try {
+        const res = await fetch("data/summary.json?v=" + Date.now(), { cache: "no-store" });
+        const json = await res.json();
+        if (json.summary) {
+            tickerText.textContent = "⚠ " + json.summary; // Affiche le résumé dans le ticker
+        }
+    } catch (e) {
+        console.warn("Résumé non disponible, fallback sur le titre des news...");
+        buildTicker(); // Fallback sur l'ancien comportement si le JSON n'est pas encore généré
+    }
+}
+
 function rotateNews() {
     if (DATA.length > 1) {
         const last = DATA.pop();
@@ -76,6 +89,9 @@ async function load() {
         const json = await res.json();
         DATA = json.items || [];
         render();
+        
+        // On charge aussi le résumé
+        loadSummary(); 
     } catch (e) { console.error("NEWS ERROR", e); }
 }
 
