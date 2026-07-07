@@ -1,96 +1,85 @@
+import Parser from "rss-parser";
 import fs from "fs";
-import { parseStringPromise } from "xml2js"; // Assurez-vous d'avoir installé xml2js ou d'utiliser votre méthode de parsing
-import { analyzeText } from "../js/aiLight.js"; // Ou votre chemin vers l'analyseur de score
 
-// 1. Définition de vos flux RSS ici directement
-const FEEDS = [
-  "https://www.franceinfo.fr/titres.rss",
-  "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-  "https://www.20minutes.fr/feeds/rss-une.xml"
-  // Ajoutez d'autres flux si besoin
+const parser = new Parser();
+
+const RSS_FEEDS = [
+    "https://www.franceinfo.fr/titres.rss",
+    "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+    "https://www.20minutes.fr/feeds/rss-une.xml",
+    "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
 ];
 
-// Fonction pour télécharger et parser un flux RSS
-async function fetchFeed(url) {
-    try {
-        const response = await fetch(url);
-        const xml = await response.text();
-        const result = await parseStringPromise(xml);
-        
-        // Extraction générique des items RSS (selon la structure standard)
-        const items = result.rss?.channel?.[0]?.item || result.feed?.entry || [];
-        
-        return items.map(item => {
-            const title = item.title?.[0] || "";
-            const link = item.link?.[0]?.$.href || item.link?.[0] || "";
-            const pubDate = item.pubDate?.[0] || item.updated?.[0] || new Date().toISOString();
-            
-            // Calcul du score via votre IA light / mots-clés
-            const analysis = analyzeText(title);
+const KEYWORDS = [
+    { k:"MEURTRE", s:95 }, { k:"ASSASSIN", s:95 }, { k:"ASSASSINAT", s:95 },
+    { k:"HOMICIDE", s:90 }, { k:"FUSILLADE", s:90 }, { k:"ATTENTAT", s:100 },
+    { k:"EXPLOSION", s:85 }, { k:"VIOL", s:85 }, { k:"AGRESSION", s:70 },
+    { k:"ARME", s:75 }, { k:"COUTEAU", s:80 }, { k:"DROGUE", s:65 },
+    { k:"NARCOTRAFIC", s:75 }, { k:"COCAÏNE", s:70 }, { k:"POLICE", s:60 },
+    { k:"GENDARMERIE", s:60 }, { k:"BRAQUAGE", s:80 }, { k:"SCANDALE", s:65 },
+    { k:"CORRUPTION", s:75 }, { k:"DÉMISSION", s:70 }, { k:"IMMIGRATION", s:55 },
+    { k:"ÉMEUTE", s:75 }, { k:"CRISE", s:50 }, { k:"FAILLITE", s:60 }
+];
 
-            return {
-                title: title.trim(),
-                link: link.trim(),
-                time: new Date(pubDate).toISOString(),
-                source: url.includes("franceinfo") ? "franceinfo" : (url.includes("lefigaro") ? "lefigaro" : "20minutes"),
-                score: analysis.score || 50
-            };
-        });
-    } catch (e) {
-        console.error(`Erreur lecture flux ${url}:`, e.message);
+function getScore(text) {
+    let score = 0;
+    let t = text.toUpperCase();
+    for(const item of KEYWORDS) {
+        if(t.includes(item.k)) score = Math.max(score, item.s);
+    }
+    return score;
+}
+
+async function fetchRSS(url) {
+    try {
+        const feed = await parser.parseURL(url);
+        return feed.items.map(i => ({
+            title: i.title || "",
+            source: url,
+            time: new Date().toISOString(),
+            link: i.link || "",
+            score: getScore(i.title || "")
+        }));
+    } catch(e) {
+        console.log("RSS error:", url);
         return [];
     }
 }
 
-// Récupération de tous les flux
-async function getAllNewNews() {
-    let allItems = [];
-    for (const url of FEEDS) {
-        const articles = await fetchFeed(url);
-        allItems = allItems.concat(articles);
-    }
-    return allItems;
-}
-
 async function run() {
-    console.log("Démarrage du fetch et de la fusion...");
-
-    // 2. Charger l'historique existant de data/news.json
+    // 1. Charger l'historique
     let history = [];
     if (fs.existsSync("data/news.json")) {
         try {
-            const raw = fs.readFileSync("data/news.json", "utf-8");
-            const data = JSON.parse(raw);
-            history = data.items || [];
-        } catch (e) {
-            console.error("Erreur lecture news.json, repart à zéro.", e);
-        }
+            history = JSON.parse(fs.readFileSync("data/news.json", "utf-8")).items || [];
+        } catch(e) { console.error("Erreur lecture history"); }
     }
 
-    // 3. Récupérer les nouveaux articles des flux RSS
-    let newNews = await getAllNewNews();
+    // 2. Fetch nouveaux
+    let newItems = [];
+    for(const url of RSS_FEEDS) {
+        const data = await fetchRSS(url);
+        newItems = newItems.concat(data);
+    }
 
-    // 4. Fusionner et dédupliquer par titre
-    let allNews = [...new Map([...history, ...newNews].map(item => [item.title, item])).values()];
+    // 3. Fusionner, Dédupliquer et Trier par score
+    let all = [...new Map([...history, ...newItems].map(i => [i.title, i])).values()];
+    all = all.filter(n => n.score > 0); // On ne garde que ce qui a un score
+    all.sort((a,b) => b.score - a.score); // Priorité aux plus graves
 
-    // 5. Trier par score décroissant (les plus importants / graves en premier)
-    allNews.sort((a, b) => b.score - a.score);
+    // 4. Limite à 100
+    const final = all.slice(0, 100);
 
-    // 6. Garder uniquement les 100 meilleures (les plus faibles sortent)
-    const finalList = allNews.slice(0, 100);
-
-    // 7. Sauvegarder dans data/news.json
     const output = {
         updated: new Date().toISOString(),
-        count: finalList.length,
-        items: finalList
+        count: final.length,
+        items: final
     };
 
+    fs.mkdirSync("data", { recursive:true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
-    console.log(`Pipeline terminé : ${finalList.length} dépêches enregistrées dans data/news.json.`);
+
+    console.log("✔ news.json mis à jour (100 max):", final.length);
 }
 
-run().catch(err => {
-    console.error("Erreur critique:", err);
-    process.exit(1);
-});
+run();
