@@ -30,10 +30,9 @@ function render() {
             let borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--border-color)");
             card.style.borderColor = borderColor;
             card.innerHTML = `
-                <div class="popup-badge">ALERTE PRIORITAIRE</div>
                 <div class="popup-title">${item.title}</div>
                 <div class="popup-meta">
-                    <span>GRAVITÉ : ${item.score}</span>
+                    <span>⚡ ${item.score}</span>
                     <span>HEURE : ${formatTime(item.time)}</span>
                 </div>
             `;
@@ -52,7 +51,9 @@ function render() {
         }
         container.appendChild(card);
     });
-    counter.innerHTML = `${DATA.length} DÉPÊCHES`;
+    
+    // Remplacement du nombre par le mot LIVE clignotant
+    counter.innerHTML = '<span class="live-blink">LIVE</span>';
     buildTicker();
 }
 
@@ -60,10 +61,11 @@ function buildTicker() {
     tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
 }
 
+// Rotation inversée : la dernière devient la première (du haut vers le bas)
 function rotateNews() {
     if (DATA.length > 1) {
-        const first = DATA.shift();
-        DATA.push(first);
+        const last = DATA.pop();
+        DATA.unshift(last);
         playBip();
         render();
     }
@@ -82,4 +84,4 @@ async function load() {
 
 load();
 setInterval(load, 60000); // MAJ des données du serveur toutes les min
-setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec
+setInterval(rotateNews, 5000); // Rotation écran toutes les 5 sec (du haut vers le bas)
