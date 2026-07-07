@@ -1,33 +1,31 @@
 export function analyzeText(text = "") {
-
   const t = text.toUpperCase();
-
-  let tag = "GENERAL";
+  let tag = "VEILLE";
   let summary = text;
 
-  // TAGS
+  // TAGS ÉLARGIS
   if (t.match(/MEURTRE|ASSASSINAT|VIOL|AGRESSION|HOMICIDE/)) {
     tag = "CRIME";
-  } 
-  else if (t.match(/FOOT|COUPE DU MONDE|LIGUE|SPORT/)) {
-    tag = "SPORT";
-  } 
-  else if (t.match(/GOUVERN|POLICE|MINISTRE|ÉLECTION|PARLEMENT/)) {
+  } else if (t.match(/POLICE|GENDARMERIE|ENQUÊTE|JUSTICE|TRIBUNAL/)) {
+    tag = "SÉCURITÉ";
+  } else if (t.match(/GOUVERN|MINISTRE|ÉLECTION|LOI|PARLEMENT|DÉPUTÉ/)) {
     tag = "POLITIQUE";
-  } 
-  else if (t.match(/GUERRE|UKRAINE|RUSSIE|ARMES/)) {
-    tag = "CONFLIT";
+  } else if (t.match(/GUERRE|UKRAINE|RUSSIE|NATO|OTAN/)) {
+    tag = "GÉOPOLITIQUE";
+  } else if (t.match(/ÉCONOMIE|BOURSE|INFLATION|FAILLITE|BANQUE/)) {
+    tag = "FINANCE";
+  } else if (t.match(/CLIMAT|ÉCOLOGIE|ÉNERGIE/)) {
+    tag = "ENVIRONNEMENT";
+  } else if (t.match(/FOOT|COUPE DU MONDE|LIGUE|SPORT/)) {
+    tag = "SPORT";
   }
 
-  // MINI SUMMARY (ultra simple)
+  // MINI SUMMARY
   summary = text
     .replace(/["«»]/g, "")
     .split(" ")
     .slice(0, 14)
     .join(" ");
 
-  return {
-    tag,
-    summary
-  };
+  return { tag, summary };
 }
