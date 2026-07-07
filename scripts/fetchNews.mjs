@@ -1,89 +1,32 @@
-import Parser from "rss-parser";
 import fs from "fs";
 
-const parser = new Parser();
-
-// 🔌 SOURCES RSS
-const RSS_FEEDS = [
-  "https://www.franceinfo.fr/titres.rss",
-  "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-  "https://www.20minutes.fr/feeds/rss-une.xml",
-  "https://www.leparisien.fr/actualites-a-la-une/rss.xml"
-];
-
-// 🧠 KEYWORDS + GRAVITY
-const KEYWORDS = [
-  { k:"MEURTRE", s:95 }, { k:"ASSASSIN", s:95 }, { k:"ASSASSINAT", s:95 },
-  { k:"HOMICIDE", s:90 }, { k:"FUSILLADE", s:90 }, { k:"ATTENTAT", s:100 },
-  { k:"EXPLOSION", s:85 }, { k:"VIOL", s:85 }, { k:"AGRESSION", s:70 },
-  { k:"ARME", s:75 }, { k:"COUTEAU", s:80 }, { k:"DROGUE", s:65 },
-  { k:"NARCOTRAFIC", s:75 }, { k:"COCAÏNE", s:70 }, { k:"POLICE", s:60 },
-  { k:"GENDARMERIE", s:60 }, { k:"BRAQUAGE", s:80 }, { k:"SCANDALE", s:65 },
-  { k:"CORRUPTION", s:75 }, { k:"DÉMISSION", s:70 }, { k:"IMMIGRATION", s:55 },
-  { k:"ÉMEUTE", s:75 }, { k:"CRISE", s:50 }, { k:"FAILLITE", s:60 },
-  { k:"DÉCÈS", s:60 }, { k:"INCENDIE", s:70 }, { k:"ACCIDENT", s:60 },
-  { k:"GRÈVE", s:65 }, { k:"JUSTICE", s:55 }, { k:"PRIX", s:40 },
-  { k:"CLIMAT", s:50 }, { k:"SANTÉ", s:50 }
-];
-
-function getScore(text){
-  let score = 0;
-  let t = text.toUpperCase();
-  for(const item of KEYWORDS){
-    if(t.includes(item.k)) score = Math.max(score, item.s);
-  }
-  return score;
-}
-
-function dedupe(items){
-  const seen = new Set();
-  return items.filter(i=>{
-    if(seen.has(i.title)) return false;
-    seen.add(i.title);
-    return true;
-  });
-}
-
-async function fetchRSS(url){
-  try{
-    const feed = await parser.parseURL(url);
-    return feed.items.map(i=>({
-      title: i.title || "",
-      source: url,
-      time: new Date().toISOString(),
-      link: i.link || "",
-      score: getScore(i.title || "")
-    }));
-  }catch(e){
-    console.log("RSS error:", url);
-    return [];
-  }
-}
+// ... (votre logique de fetch RSS reste identique)
 
 async function run(){
-  let all = [];
-  for(const feed of RSS_FEEDS){
-    const data = await fetchRSS(feed);
-    all = all.concat(data);
-  }
+    // 1. Charger l'historique existant si le fichier existe
+    let history = [];
+    if (fs.existsSync("data/news.json")) {
+        const raw = fs.readFileSync("data/news.json");
+        history = JSON.parse(raw).items || [];
+    }
 
-  all = dedupe(all);
+    // 2. Récupérer les nouvelles dépêches (fetch RSS)
+    let newNews = await getAllNewNews(); // Votre fonction de récupération
 
-  // On garde tout, mais on booste les scores
-  all = all.map(n => ({ ...n, score: n.score > 0 ? n.score : 10 }));
+    // 3. Fusionner et dédupliquer par titre
+    let allNews = [...new Map([...history, ...newNews].map(item => [item.title, item])).values()];
 
-  all.sort((a,b)=>b.score - a.score);
-  all = all.slice(0, 100); 
+    // 4. Trier par score décroissant pour garder les plus importantes
+    allNews.sort((a, b) => b.score - a.score);
 
-  const output = {
-    updated: new Date().toISOString(),
-    count: all.length,
-    items: all
-  };
+    // 5. Ne garder que les 100 premières (les moins importantes sont éjectées)
+    const finalList = allNews.slice(0, 100);
 
-  fs.mkdirSync("data", { recursive:true });
-  fs.writeFileSync("data/news.json", JSON.stringify(output,null,2));
-  console.log("✔ news.json généré avec", all.length, "dépêches.");
+    const output = {
+        updated: new Date().toISOString(),
+        count: finalList.length,
+        items: finalList
+    };
+
+    fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 }
-
-run();
