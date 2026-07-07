@@ -26,6 +26,7 @@ jobs:
     # PIPELINE DATA
     # =======================
     - run: node scripts/fetchNews.mjs
+    - run: node scripts/fetchCyber.mjs
     - run: node scripts/clusterNews.mjs
     - run: node scripts/timeline.mjs
     - run: node scripts/summarize.mjs
@@ -43,6 +44,6 @@ jobs:
         # évite les commits vides
         git diff --cached --quiet && echo "no changes" && exit 0
 
-        git commit -m "update pipeline"
+        git commit -m "update pipeline with cyber alerts"
         git push
         
