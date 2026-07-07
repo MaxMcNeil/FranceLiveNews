@@ -1,6 +1,6 @@
 import fs from "fs";
 
-console.log("🚀 GEOLOCATE START // STRICT FILTER");
+console.log("🚀 GEOLOCATE START // STRICT & ORDERED FILTER");
 
 const clusters = JSON.parse(fs.readFileSync("data/clusters.json", "utf-8"));
 const citiesRaw = JSON.parse(fs.readFileSync("data/communes_lat_lon.json", "utf-8"));
@@ -16,25 +16,23 @@ function normalize(text) {
     .trim();
 }
 
-// Indexation propre des noms de communes
-const cityMap = new Map();
-citiesRaw.forEach(c => {
-  const norm = normalize(c.name);
-  if (norm.length >= 4) { // Ignore les noms trop courts pour limiter les faux positifs
-    cityMap.set(norm, c);
-  }
-});
+// Pré-filtrage et tri des communes par longueur de nom décroignante (les plus précis/longs en premier)
+const sortedCities = citiesRaw
+  .map(c => ({
+    norm: normalize(c.name),
+    data: c
+  }))
+  .filter(c => c.norm.length >= 4) // Ignore les noms < 4 caractères
+  .sort((a, b) => b.norm.length - a.norm.length);
 
 function findCity(title) {
   const normalizedTitle = normalize(title);
-  const words = normalizedTitle.split(" ");
 
-  // On recherche si l'un des mots ou une combinaison exacte correspond à une ville de la base INSEE
-  // On teste d'abord les noms composés les plus longs présents dans la map
-  for (const [normName, cityData] of cityMap.entries()) {
-    const regex = new RegExp(`\\b${normName}\\b`, "i");
+  // Teste d'abord les noms les plus longs / composés
+  for (const c of sortedCities) {
+    const regex = new RegExp(`\\b${c.norm}\\b`, "i");
     if (regex.test(normalizedTitle)) {
-      return cityData;
+      return c.data;
     }
   }
 
@@ -60,7 +58,7 @@ for (const c of clusters) {
   }
 }
 
-// Aucun fallback par défaut : si aucun match de ville n'est trouvé, le tableau geo reste vide (longueur 0)
+// Aucun fallback par défaut : si aucun match n'est trouvé, le fichier geo.json sera un tableau vide []
 fs.writeFileSync(
   "data/geo.json",
   JSON.stringify(geo, null, 2)
