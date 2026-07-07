@@ -6,13 +6,10 @@ const parser = new Parser();
 const API = "https://www.ransomlook.io/api";
 const TARGET_FILE = "data/news.json";
 
-// Nouveaux flux RSS Cyber/Securité
 const CYBER_RSS_FEEDS = [
     "https://www.zataz.com/feed/",
     "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml",
     "https://www.cert.ssi.gouv.fr/feed/"
-    // Note : Le lien atlasflux est un script de redirection/agrégateur dynamique, 
-    // les 3 flux directs ci-dessus garantissent une stabilité maximale en production.
 ];
 
 const FRENCH_KEYWORDS = [
@@ -22,98 +19,109 @@ const FRENCH_KEYWORDS = [
     "CYBER", "ATTAQUE", "RANÇONGICIEL", "VULNÉRABILITÉ", "ALERTE", "CERT"
 ];
 
-// Fonction pour parser un flux RSS cyber
 async function fetchCyberRSS(url) {
     try {
         const feed = await parser.parseURL(url);
-        return feed.items.map(i => {
-            const title = i.title || "";
-            // Le CERT-FR ou Zataz ont une forte valeur tactique, on leur donne un score élevé
+        return (feed.items || []).map(i => {
+            const rawTitle = i.title || "";
+            const title = !rawTitle.startsWith("[CYBER]") ? `[CYBER] ${rawTitle}` : rawTitle;
             let score = 90;
             const tUpper = title.toUpperCase();
-            if (tUpper.includes("CRITIQUE") || tUpper.includes("ALERTE") || tUpper.includes("ATTAQUE")) {
+            if (tUpper.includes("CRITIQUE") || tUpper.includes("ALERTE") || tUpper.includes("ATTAQUE") || tUpper.includes("AVIS")) {
                 score = 95;
             }
             return {
-                title: `[CYBER] ${title}`,
+                title: title,
                 source: url.includes("cert") ? "CERT-FR" : (url.includes("zataz") ? "Zataz" : "Le Monde Informatique"),
                 time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
-                link: i.link || "",
+                link: i.link || i.guid || "",
                 score: score
             };
         });
     } catch(e) {
-        console.error("Erreur RSS Cyber:", url, e.message);
         return [];
     }
 }
 
-// Fonction pour l'API Ransomlook (élargie)
+// Combinaison des 2 méthodes de Ransomlook (/posts et /search combinés)
 async function fetchRansomlookAttacks() {
+    let results = [];
+    
+    // 1. Méthode /posts (derniers jours)
     try {
-        const resp = await axios.get(`${API}/posts`, { params: { days: 14 } });
-        if (!Array.isArray(resp.data)) return [];
-
-        return resp.data
-            .filter(post => {
-                const title = (post.post_title || "").toUpperCase();
-                const country = (post.country || "").toUpperCase();
-                const website = (post.website || "").toUpperCase();
-                
-                const isFrenchCountry = country === "FR";
-                const isFrenchDomain = website.endsWith(".FR") || website.includes(".FR/");
-                const matchedKeyword = FRENCH_KEYWORDS.some(k => title.includes(k) || website.includes(k));
-
-                return isFrenchCountry || isFrenchDomain || matchedKeyword;
-            })
-            .map(post => ({
-                title: `[CYBER] ${post.group_name} : ${post.post_title}`,
-                source: "Ransomlook.io",
-                time: post.discovered || new Date().toISOString(),
-                link: post.website || post.post_url || "https://www.ransomlook.io/",
-                score: 95
-            }));
+        const respPosts = await axios.get(`${API}/posts`, { params: { days: 14 } });
+        if (Array.isArray(respPosts.data)) {
+            results = results.concat(respPosts.data);
+        }
     } catch (e) {
-        console.error("Erreur API Ransomlook:", e.message);
-        return [];
+        console.error("Erreur API Ransomlook /posts:", e.message);
     }
+
+    // 2. Méthode /search (recherche explicite sur des termes clés français)
+    for (const keyword of ["france", "french", "paris", "banque", "mairie"]) {
+        try {
+            const respSearch = await axios.get(`${API}/search`, { params: { query: keyword } });
+            if (Array.isArray(respSearch.data)) {
+                results = results.concat(respSearch.data);
+            }
+        } catch (e) {
+            // Ignore les erreurs individuelles de search pour ne pas bloquer
+        }
+    }
+
+    // Déduplication brute des résultats Ransomlook par ID ou lien/titre
+    const uniqueRansom = [...new Map(results.map(post => [post.website || post.post_title, post])).values()];
+
+    return uniqueRansom
+        .filter(post => {
+            const title = (post.post_title || "").toUpperCase();
+            const country = (post.country || "").toUpperCase();
+            const website = (post.website || "").toUpperCase();
+            return country === "FR" || website.includes(".FR") || FRENCH_KEYWORDS.some(k => title.includes(k));
+        })
+        .map(post => ({
+            title: `[CYBER] ${post.group_name || "Ransom"} : ${post.post_title}`,
+            source: "Ransomlook.io",
+            time: post.discovered || new Date().toISOString(),
+            link: post.website || post.post_url || "https://www.ransomlook.io/",
+            score: 95
+        }));
 }
 
 async function run() {
-    let currentData = { items: [] };
+    let currentFullData = { items: [] };
     if (fs.existsSync(TARGET_FILE)) {
-        try {
-            currentData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8"));
-        } catch (e) {}
+        try { currentFullData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8")); } catch (e) {}
     }
 
-    // 1. Récupération des alertes RSS Cyber
-    let cyberRssItems = [];
+    // Extraction des news générales existantes pour les préserver
+    const existingNews = (currentFullData.items || []).filter(i => !(i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]")));
+    // Extraction de l'historique cyber existant
+    const existingCyber = (currentFullData.items || []).filter(i => i.source === "CERT-FR" || i.source === "Zataz" || i.source === "Le Monde Informatique" || i.source === "Ransomlook.io" || i.title.startsWith("[CYBER]"));
+
+    // Fetch nouveaux cyber (RSS + Ransomlook via /posts ET /search)
+    let newCyberItems = [];
     for (const url of CYBER_RSS_FEEDS) {
-        const items = await fetchCyberRSS(url);
-        cyberRssItems = cyberRssItems.concat(items);
+        newCyberItems = newCyberItems.concat(await fetchCyberRSS(url));
     }
+    newCyberItems = newCyberItems.concat(await fetchRansomlookAttacks());
 
-    // 2. Récupération des ransomwares (Ransomlook)
-    const ransomItems = await fetchRansomlookAttacks();
-
-    // 3. Fusion globale avec l'existant + Filtrage strict >= 65 + Déduplication par URL
-    const allNew = [...cyberRssItems, ...ransomItems];
-    let all = [...new Map([...(currentData.items || []), ...allNew].map(i => [i.link, i])).values()]
+    let allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
         .filter(i => i.score >= 65)
-        .sort((a, b) => b.score - a.score);
-    
-    const final = all.slice(0, 100);
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 50); // QUOTA STRICT : Max 50 cyber
 
-    const output = {
-        updated: new Date().toISOString(),
-        count: final.length,
-        items: final
-    };
+    // Fusion finale (50 max news + 50 max cyber = 100 max global)
+    const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score).slice(0, 100);
 
     fs.mkdirSync("data", { recursive: true });
-    fs.writeFileSync(TARGET_FILE, JSON.stringify(output, null, 2));
-    console.log("✔ Volet cyber mis à jour :", cyberRssItems.length, "flux RSS et", ransomItems.length, "attaques injectés.");
+    fs.writeFileSync(TARGET_FILE, JSON.stringify({
+        updated: new Date().toISOString(),
+        count: finalItems.length,
+        items: finalItems
+    }, null, 2));
+
+    console.log("✔ Quota Cyber mis à jour (Max 50 avec /posts et /search):", allCyber.length, "retenus.");
 }
 
 run();
