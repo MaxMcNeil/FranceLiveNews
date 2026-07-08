@@ -2,7 +2,14 @@ import Parser from "rss-parser";
 import fs from "fs";
 
 const parser = new Parser();
-const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 🔥 24 heures en millisecondes
+const MAX_AGE_MS = 24 * 60 * 60 * 1000;
+
+function cleanEncoding(str) {
+    if (!str) return "";
+    return str
+        .replace(/[\uFFFD]/g, "é")
+        .replace(/[^\x00-\x7F\u00C0-\u00FF]/g, (c) => c);
+}
 
 const RSS_FEEDS = [
     "https://www.franceinfo.fr/titres.rss",
@@ -45,7 +52,7 @@ async function fetchRSS(url) {
     try {
         const feed = await parser.parseURL(url);
         return feed.items.map(i => ({
-            title: i.title || "",
+            title: cleanEncoding(i.title || ""),
             source: url,
             time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
             link: i.link || "",
@@ -61,7 +68,6 @@ async function run() {
         try { currentFullData = JSON.parse(fs.readFileSync("data/news.json", "utf-8")); } catch(e) {}
     }
 
-    // 🔥 Filtrage temporel 24h appliqué aux items existants
     const existingItems = (currentFullData.items || []).filter(i => 
         !isCyberItem(i) && (now - new Date(i.time).getTime() < MAX_AGE_MS)
     );
@@ -72,7 +78,6 @@ async function run() {
     let newItems = [];
     for(const url of RSS_FEEDS) { newItems = newItems.concat(await fetchRSS(url)); }
 
-    // Fusion, Déduplication, Filtrage 24h et Score >= 65
     let allNews = [...new Map([...existingItems, ...newItems].map(i => [i.link, i])).values()]
         .filter(i => i.score >= 65 && (now - new Date(i.time).getTime() < MAX_AGE_MS)) 
         .sort((a, b) => b.score - a.score)
@@ -89,7 +94,7 @@ async function run() {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/news.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ Pipeline actualités mise à jour (filtrage 24h) :", allNews.length, "news générales conservées.");
+    console.log("✔ Pipeline actualités mise à jour :", allNews.length, "news générales conservées.");
 }
 
 run();
