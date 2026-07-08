@@ -5,6 +5,7 @@ import Parser from "rss-parser";
 const parser = new Parser();
 const API = "https://www.ransomlook.io/api";
 const TARGET_FILE = "data/news.json";
+const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 🔥 Fenêtre de fraîcheur de 24 heures
 
 const CYBER_RSS_FEEDS = [
     "https://www.zataz.com/feed/",
@@ -57,7 +58,7 @@ async function fetchRansomlookAttacks() {
     
     // 1. Méthode /posts (derniers jours)
     try {
-        const respPosts = await axios.get(`${API}/posts`, { params: { days: 14 } });
+        const respPosts = await axios.get(`${API}/posts`, { params: { days: 1 } });
         if (Array.isArray(respPosts.data)) {
             results = results.concat(respPosts.data);
         }
@@ -94,14 +95,22 @@ async function fetchRansomlookAttacks() {
 }
 
 async function run() {
+    const now = new Date().getTime();
     let currentFullData = { items: [] };
     if (fs.existsSync(TARGET_FILE)) {
         try { currentFullData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8")); } catch (e) {}
     }
 
-    // Isolation stricte des flux existants
-    const existingNews = (currentFullData.items || []).filter(i => !isCyberItem(i));
-    const existingCyber = (currentFullData.items || []).filter(i => isCyberItem(i));
+    // 🔥 Isolation stricte ET filtrage 24h des flux existants
+    const existingNews = (currentFullData.items || []).filter(i => {
+        const t = new Date(i.time).getTime();
+        return !isCyberItem(i) && !isNaN(t) && (now - t < MAX_AGE_MS);
+    });
+    
+    const existingCyber = (currentFullData.items || []).filter(i => {
+        const t = new Date(i.time).getTime();
+        return isCyberItem(i) && !isNaN(t) && (now - t < MAX_AGE_MS);
+    });
 
     // Récupération des nouveaux éléments cyber (RSS + Ransomlook)
     let newCyberItems = [];
@@ -110,13 +119,16 @@ async function run() {
     }
     newCyberItems = newCyberItems.concat(await fetchRansomlookAttacks());
 
-    // Fusion, Déduplication par lien, Filtrage >= 65 et plafonnement STRICT à Max 50 pour la cyber
+    // 🔥 Fusion, Déduplication, Filtrage 24h strict et plafonnement Max 50 pour la cyber
     let allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
-        .filter(i => i.score >= 65)
+        .filter(i => {
+            const t = new Date(i.time).getTime();
+            return i.score >= 65 && !isNaN(t) && (now - t < MAX_AGE_MS);
+        })
         .sort((a, b) => b.score - a.score)
-        .slice(0, 50); // 🔥 Écrasement des cyber les plus faibles pour garder uniquement les top 50 cyber
+        .slice(0, 50);
 
-    // Fusion finale combinant les news générales préservées et les 50 cyber max
+    // Fusion finale combinant les news générales préservées (récentes) et les alertes cyber (récentes)
     const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
 
     fs.mkdirSync("data", { recursive: true });
@@ -126,7 +138,8 @@ async function run() {
         items: finalItems
     }, null, 2));
 
-    console.log("✔ Quota Cyber mis à jour :", allCyber.length, "alertes cyber retenues (Quota 50 max respecté).");
+    console.log("✔ Quota Cyber mis à jour (filtrage 24h) :", allCyber.length, "alertes cyber retenues.");
 }
 
 run();
+                                                              
