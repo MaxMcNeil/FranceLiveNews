@@ -5,7 +5,14 @@ import Parser from "rss-parser";
 const parser = new Parser();
 const API = "https://www.ransomlook.io/api";
 const TARGET_FILE = "data/news.json";
-const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 🔥 Fenêtre de fraîcheur de 24 heures
+const MAX_AGE_MS = 24 * 60 * 60 * 1000;
+
+function cleanEncoding(str) {
+    if (!str) return "";
+    return str
+        .replace(/[\uFFFD]/g, "é")
+        .replace(/[^\x00-\x7F\u00C0-\u00FF]/g, (c) => c);
+}
 
 const CYBER_RSS_FEEDS = [
     "https://www.zataz.com/feed/",
@@ -32,7 +39,7 @@ async function fetchCyberRSS(url) {
     try {
         const feed = await parser.parseURL(url);
         return (feed.items || []).map(i => {
-            const rawTitle = i.title || "";
+            const rawTitle = cleanEncoding(i.title || "");
             const title = !rawTitle.startsWith("[CYBER]") ? `[CYBER] ${rawTitle}` : rawTitle;
             let score = 90;
             const tUpper = title.toUpperCase();
@@ -52,21 +59,15 @@ async function fetchCyberRSS(url) {
     }
 }
 
-// Combinaison des 2 méthodes de Ransomlook (/posts et /search combinés)
 async function fetchRansomlookAttacks() {
     let results = [];
-    
-    // 1. Méthode /posts (derniers jours)
     try {
         const respPosts = await axios.get(`${API}/posts`, { params: { days: 1 } });
         if (Array.isArray(respPosts.data)) {
             results = results.concat(respPosts.data);
         }
-    } catch (e) {
-        console.error("Erreur API Ransomlook /posts:", e.message);
-    }
+    } catch (e) {}
 
-    // 2. Méthode /search (recherche explicite sur des termes clés français)
     for (const keyword of ["france", "french", "paris", "banque", "mairie"]) {
         try {
             const respSearch = await axios.get(`${API}/search`, { params: { query: keyword } });
@@ -86,7 +87,7 @@ async function fetchRansomlookAttacks() {
             return country === "FR" || website.includes(".FR") || FRENCH_KEYWORDS.some(k => title.includes(k));
         })
         .map(post => ({
-            title: `[CYBER] ${post.group_name || "Ransom"} : ${post.post_title}`,
+            title: cleanEncoding(`[CYBER] ${post.group_name || "Ransom"} : ${post.post_title}`),
             source: "Ransomlook.io",
             time: post.discovered || new Date().toISOString(),
             link: post.website || post.post_url || "https://www.ransomlook.io/",
@@ -101,7 +102,6 @@ async function run() {
         try { currentFullData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8")); } catch (e) {}
     }
 
-    // 🔥 Isolation stricte ET filtrage 24h des flux existants
     const existingNews = (currentFullData.items || []).filter(i => {
         const t = new Date(i.time).getTime();
         return !isCyberItem(i) && !isNaN(t) && (now - t < MAX_AGE_MS);
@@ -112,14 +112,12 @@ async function run() {
         return isCyberItem(i) && !isNaN(t) && (now - t < MAX_AGE_MS);
     });
 
-    // Récupération des nouveaux éléments cyber (RSS + Ransomlook)
     let newCyberItems = [];
     for (const url of CYBER_RSS_FEEDS) {
         newCyberItems = newCyberItems.concat(await fetchCyberRSS(url));
     }
     newCyberItems = newCyberItems.concat(await fetchRansomlookAttacks());
 
-    // 🔥 Fusion, Déduplication, Filtrage 24h strict et plafonnement Max 50 pour la cyber
     let allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
         .filter(i => {
             const t = new Date(i.time).getTime();
@@ -128,7 +126,6 @@ async function run() {
         .sort((a, b) => b.score - a.score)
         .slice(0, 50);
 
-    // Fusion finale combinant les news générales préservées (récentes) et les alertes cyber (récentes)
     const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
 
     fs.mkdirSync("data", { recursive: true });
@@ -138,8 +135,7 @@ async function run() {
         items: finalItems
     }, null, 2));
 
-    console.log("✔ Quota Cyber mis à jour (filtrage 24h) :", allCyber.length, "alertes cyber retenues.");
+    console.log("✔ Quota Cyber mis à jour :", allCyber.length, "alertes.");
 }
 
 run();
-                                                              
