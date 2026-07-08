@@ -17,11 +17,13 @@ body {
   background-color: var(--bg-deep);
   color: var(--text-main);
   font-family: var(--font-mono);
+  width: 100vw;
   height: 100vh;
   display: flex;
   flex-direction: column;
   overflow: hidden;
   position: relative;
+  padding-top: env(safe-area-inset-top, 0px); /* Sécurité pour intégration OBS / Mobile */
 }
 
 .scanlines {
@@ -45,12 +47,13 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 14px 18px;
+  padding: 10px 16px;
   background: var(--bg-panel);
   border-bottom: 2px solid var(--accent-red);
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 0.9rem;
   letter-spacing: 2px;
+  flex-shrink: 0;
 }
 
 #title { 
@@ -58,119 +61,92 @@ body {
   font-weight: 900; 
   display: flex; 
   align-items: center; 
-  gap: 10px; 
-  text-shadow: 0 0 10px rgba(255, 51, 51, 0.4);
+  gap: 8px; 
 }
 
 .blink-dot { 
-  width: 9px; 
-  height: 9px; 
+  width: 8px; 
+  height: 8px; 
   background-color: var(--accent-red); 
   border-radius: 50%; 
-  box-shadow: 0 0 10px var(--accent-red); 
+  box-shadow: 0 0 8px var(--accent-red); 
   animation: blink 0.8s infinite; 
 }
 
 .loader-line {
   width: 100%;
-  height: 3px;
+  height: 2px;
   background: rgba(255, 51, 51, 0.2);
-  position: relative;
-  overflow: hidden;
-}
-.loader-line::after {
-  content: "";
-  position: absolute;
-  left: -50%;
-  width: 50%;
-  height: 100%;
-  background: var(--accent-red);
-  box-shadow: 0 0 12px var(--accent-red);
-  animation: load 2s linear infinite;
-}
-
-.live-blink {
-  color: var(--accent-red);
-  font-weight: 900;
-  text-shadow: 0 0 10px var(--accent-red);
-  animation: blink 0.8s infinite;
+  flex-shrink: 0;
 }
 
 #newsContainer {
   flex: 1;
   overflow-y: auto;
-  padding: 16px;
+  padding: 12px 14px;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 10px; /* Espace ventilé entre chaque carte */
 }
 
-@keyframes load { 0% { left: -50%; } 100% { left: 100%; } }
 @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
-
-@keyframes flashBg {
-  0% { background: linear-gradient(135deg, rgba(35, 10, 10, 0.98), rgba(8, 14, 22, 0.98)); }
-  50% { background: linear-gradient(135deg, rgba(55, 12, 12, 0.98), rgba(8, 14, 22, 0.98)); }
-  100% { background: linear-gradient(135deg, rgba(35, 10, 10, 0.98), rgba(8, 14, 22, 0.98)); }
-}
 
 .tactical-popup {
   background: linear-gradient(135deg, rgba(40, 12, 12, 0.98), rgba(8, 14, 22, 0.98));
   border: 2px solid var(--accent-red);
-  padding: 18px 20px;
+  padding: 14px 16px;
   position: relative;
-  box-shadow: 0 0 20px rgba(255, 51, 51, 0.35);
-  margin-bottom: 4px;
-  animation: flashBg 2s ease-in-out infinite;
+  box-shadow: 0 0 15px rgba(255, 51, 51, 0.3);
+  flex-shrink: 0;
 }
 
 .popup-title { 
-  font-size: 1.25rem; 
+  font-size: 1.1rem; 
   color: #ffffff; 
   font-weight: bold; 
-  margin-bottom: 10px; 
-  line-height: 1.35; 
+  margin-bottom: 8px; 
+  line-height: 1.3; 
   font-family: var(--font-display);
 }
 
 .popup-meta { 
   display: flex; 
-  gap: 20px; 
-  font-size: 0.8rem; 
+  gap: 15px; 
+  font-size: 0.75rem; 
   color: var(--text-dim); 
   border-top: 1px solid rgba(255, 51, 51, 0.3); 
-  padding-top: 8px; 
+  padding-top: 6px; 
 }
 
 .newsCard {
   background: var(--bg-panel);
   border: 1px solid var(--border-color);
-  border-left: 5px solid var(--accent-orange);
-  padding: 16px;
+  border-left: 4px solid var(--accent-orange);
+  padding: 12px 14px;
   position: relative;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  flex-shrink: 0;
 }
 
 .newsTitle { 
-  font-size: 1.1rem; 
+  font-size: 0.95rem; 
   color: #ffffff; 
-  margin-bottom: 8px; 
-  line-height: 1.35; 
+  margin-bottom: 6px; 
+  line-height: 1.3; 
   font-weight: bold;
 }
 
 .newsInfos { 
   display: flex; 
   justify-content: space-between; 
-  font-size: 0.8rem; 
+  font-size: 0.75rem; 
   color: var(--text-dim); 
-  border-top: 1px solid rgba(255,255,255,0.08); 
-  padding-top: 8px; 
+  border-top: 1px solid rgba(255,255,255,0.06); 
+  padding-top: 6px; 
 }
 
 .newsInfos span { 
-  background: rgba(31, 58, 89, 0.5); 
-  padding: 2px 8px; 
+  background: rgba(31, 58, 89, 0.4); 
+  padding: 1px 6px; 
   border-radius: 2px; 
   color: #a3cbf5; 
 }
@@ -180,17 +156,18 @@ body {
   align-items: center; 
   background: #05090f; 
   border-top: 2px solid var(--accent-orange); 
-  padding: 12px 18px; 
-  font-size: 0.95rem; 
+  padding: 10px 14px; 
+  font-size: 0.85rem; 
+  flex-shrink: 0;
 }
 
 .ticker-badge { 
   background: var(--accent-orange); 
   color: #000000; 
   font-weight: bold; 
-  padding: 3px 10px; 
-  font-size: 0.75rem; 
-  margin-right: 15px; 
+  padding: 2px 8px; 
+  font-size: 0.7rem; 
+  margin-right: 12px; 
   font-family: var(--font-display); 
 }
 
