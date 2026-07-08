@@ -38,43 +38,6 @@
     "summary": "Attentats en Syrie : le bilan grimpe à un mort et 36 blessés"
   },
   {
-    "title": "Explosion à Monaco : Anastassia Berezovska, la suspecte recherchée depuis la tentative d’assassinat, a été retrouvée tuée par balle en Ukraine",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Explosion à Monaco : Anastassia Berezovska, la suspecte recherchée depuis la tentative d’assassinat, a été retrouvée tuée par balle en Ukraine",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-07-07T18:26:41.182Z",
-        "link": "https://www.sudouest.fr/international/europe/ukraine/explosion-a-monaco-anastassia-berezovska-la-suspecte-recherchee-depuis-la-tentative-d-assassinat-a-ete-retrouvee-tuee-par-balle-en-ukraine-29833321.php",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Explosion à Monaco : Anastassia Berezovska, la suspecte recherchée depuis la ten..."
-      },
-      {
-        "title": "Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait sur la mort de la suspecte en Ukraine",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-07T20:57:45.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4233448-20260707-colis-piege-monaco-balles-tete-commanditaires-sait-mort-suspecte-ukraine?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait su..."
-      },
-      {
-        "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-08T16:00:40.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/la-principale-suspecte-retrouvee-morte-deux-hommes-arretes-ou-en-est-l-enquete-sur-la-tentative-d-assassinat-d-un-homme-d-affaires-a-monaco_8099588.html#xtor=RSS-3-[lestitres]",
-        "score": 95,
-        "summary": "Point de situation critique concernant : La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquê..."
-      }
-    ],
-    "summary": "Explosion à Monaco : Anastassia Berezovska, la suspecte recherchée depuis la tentative d’assassinat, a été retrouvée tuée par balle en Ukraine / Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait sur la mort de la suspecte en Ukraine"
-  },
-  {
     "title": "Explosion à Monaco : Quelles sont les hypothèses derrière l’attaque visant l’oligarque Vadim Ermolaev ?",
     "score": 95,
     "count": 1,
@@ -92,6 +55,25 @@
       }
     ],
     "summary": "Explosion à Monaco : Quelles sont les hypothèses derrière l’attaque visant l’oligarque Vadim Ermolaev ?"
+  },
+  {
+    "title": "Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait sur la mort de la suspecte en Ukraine",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait sur la mort de la suspecte en Ukraine",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-07T20:57:45.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4233448-20260707-colis-piege-monaco-balles-tete-commanditaires-sait-mort-suspecte-ukraine?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait su..."
+      }
+    ],
+    "summary": "Colis piégé à Monaco : Balles dans la tête, commanditaières… Ce que l’on sait sur la mort de la suspecte en Ukraine"
   },
   {
     "title": "«Coup monté», «classique des services secrets»... Derrière l’attentat de Monaco, les zones d’ombre entourant la mort de la suspecte ukrainienne",
@@ -151,23 +133,23 @@
     "summary": "[CYBER] Une cyberattaque contre Tata Electronics expose des secrets industriels d'Apple"
   },
   {
-    "title": "Lot-et-Garonne. « Ont-ils réellement étudié son cas ? » : Jamila, tout juste èremise d’une tentative d’assassinat, fait désormais l’objet d’une OQTF",
-    "score": 90,
+    "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
+    "score": 95,
     "count": 1,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
       {
-        "title": "Lot-et-Garonne. « Ont-ils réellement étudié son cas ? » : Jamila, tout juste èremise d’une tentative d’assassinat, fait désormais l’objet d’une OQTF",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-07-07T19:00:00.000Z",
-        "link": "https://www.sudouest.fr/gers/lot-et-garonne-ont-ils-reellement-etudie-son-cas-jamila-tout-juste-remise-d-une-tentative-d-assassinat-fait-desormais-l-objet-d-une-oqtf-29640031.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Lot-et-Garonne. « Ont-ils réellement étudié son cas ? » : Jamila, tout juste ère..."
+        "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-08T16:00:40.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/la-principale-suspecte-retrouvee-morte-deux-hommes-arretes-ou-en-est-l-enquete-sur-la-tentative-d-assassinat-d-un-homme-d-affaires-a-monaco_8099588.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquê..."
       }
     ],
-    "summary": "Lot-et-Garonne. « Ont-ils réellement étudié son cas ? » : Jamila, tout juste èremise d’une tentative d’assassinat, fait désormais l’objet d’une OQTF"
+    "summary": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?"
   },
   {
     "title": "[CYBER] Les PME franéaises davantage exposées aux cyberattaques",
@@ -741,25 +723,6 @@
       }
     ],
     "summary": "[CYBER] Le timide plan de l'UE face aux modéles IA spécialisés en cybersécurité"
-  },
-  {
-    "title": "Le choc et le chagrin : de la mort de son père à la condamnation, l’«annus horribilis» 2025 de Marine Le Pen",
-    "score": 85,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Le choc et le chagrin : de la mort de son père à la condamnation, l’«annus horribilis» 2025 de Marine Le Pen",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-07T18:54:34.533Z",
-        "link": "https://www.lefigaro.fr/politique/le-choc-et-le-chagrin-de-la-mort-de-son-pere-a-la-condamnation-l-annus-horribilis-2025-de-marine-le-pen-20260705",
-        "score": 85,
-        "summary": "de la mort de son père à la condamnation, l’«annus horribilis» 2025 de Marine Le Pen"
-      }
-    ],
-    "summary": "Le choc et le chagrin : de la mort de son père à la condamnation, l’«annus horribilis» 2025 de Marine Le Pen"
   },
   {
     "title": "Un mois après la mort de Lyhanna dans le âgéers. « Va-t-on mettère la poussièère sous le tapis ? » Le maière de Fleurance met la pèression sur le gouvernement",
