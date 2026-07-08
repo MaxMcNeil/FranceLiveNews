@@ -1,135 +1,47 @@
-:root {
-  --bg-deep: #05090f;
-  --bg-panel: rgba(12, 20, 30, 0.95);
-  --border-color: #244260;
-  --text-main: #d0e2ff;
-  --text-dim: #739ac4;
-  --accent-red: #ff4d4d;
-  --accent-orange: #ffaa1a;
-  --accent-green: #00ff73;
-  --font-display: 'Orbitron', sans-serif;
-  --font-mono: 'Share Tech Mono', monospace;
-}
-
-* { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  background-color: var(--bg-deep);
-  color: var(--text-main);
-  font-family: var(--font-mono);
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  position: relative;
-}
-
-.scanlines {
-  position: absolute;
-  top: 0; left: 0; width: 100%; height: 100%;
-  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.15) 50%);
-  background-size: 100% 4px;
-  pointer-events: none;
-  z-index: 999;
-}
-
-.vignette {
-  position: absolute;
-  top: 0; left: 0; width: 100%; height: 100%;
-  box-shadow: inset 0 0 80px rgba(0,0,0,0.7);
-  pointer-events: none;
-  z-index: 998;
-}
-
-#topbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 12px 20px;
-  background: var(--bg-panel);
-  border-bottom: 2px solid var(--border-color);
-  font-family: var(--font-display);
-  font-size: 0.9rem;
-  letter-spacing: 2px;
-}
-
-#title { color: var(--accent-green); font-weight: 700; display: flex; align-items: center; gap: 10px; }
-.blink-dot { width: 8px; height: 8px; background-color: var(--accent-green); border-radius: 50%; box-shadow: 0 0 10px var(--accent-green); animation: blink 1s infinite; }
-
-/* Ligne de chargement */
-.loader-line {
-  width: 100%;
-  height: 2px;
-  background: rgba(0, 255, 115, 0.15);
-  position: relative;
-  overflow: hidden;
-}
-.loader-line::after {
-  content: "";
-  position: absolute;
-  left: -50%;
-  width: 50%;
-  height: 100%;
-  background: var(--accent-green);
-  box-shadow: 0 0 12px var(--accent-green);
-  animation: load 2s linear infinite;
-}
-
-.live-blink {
-  color: var(--accent-red);
-  font-weight: 900;
-  text-shadow: 0 0 10px var(--accent-red);
-  animation: blink 0.8s infinite;
-}
-
+/* Adaptation stricte pour l'affichage vertical OBS (Smartphone) */
 #newsContainer {
-  flex: 1;
-  overflow-y: auto;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+  padding: 10px;
+  gap: 15px;
+  justify-content: flex-start;
 }
 
-@keyframes load { 0% { left: -50%; } 100% { left: 100%; } }
-@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
-@keyframes flashBg {
-  0% { background: linear-gradient(135deg, rgba(255, 77, 77, 0.3), rgba(12, 20, 30, 0.95)); }
-  50% { background: linear-gradient(135deg, rgba(255, 77, 77, 0.5), rgba(12, 20, 30, 0.95)); }
-  100% { background: linear-gradient(135deg, rgba(30, 12, 12, 0.95), rgba(12, 20, 30, 0.95)); }
-}
-@keyframes pulseZoom {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.01); }
-  100% { transform: scale(1); }
-}
-
-.tactical-popup {
-  background: linear-gradient(135deg, rgba(30, 12, 12, 0.95), rgba(12, 20, 30, 0.95));
-  border: 2px solid var(--accent-red);
-  padding: 16px 20px;
-  position: relative;
-  box-shadow: 0 0 25px rgba(255, 77, 77, 0.3);
-  margin-bottom: 5px;
-  animation: flashBg 1.5s ease-in-out, pulseZoom 1.5s ease-in-out;
-}
-
-.popup-title { font-size: 1.15rem; color: #ffffff; font-weight: bold; margin-bottom: 8px; line-height: 1.3; }
-.popup-meta { display: flex; gap: 20px; font-size: 0.8rem; color: var(--text-dim); border-top: 1px solid rgba(255, 77, 77, 0.3); padding-top: 8px; }
-
+/* On ne garde visible que le top et les 2-3 actus les plus chaudes en gros */
 .newsCard {
-  background: var(--bg-panel);
-  border: 1px solid var(--border-color);
-  border-left: 4px solid var(--text-dim);
-  padding: 14px 16px;
-  position: relative;
-  transition: border-left-color 0.3s ease;
+  background: rgba(12, 20, 30, 0.98);
+  border: 2px solid var(--border-color);
+  border-left: 6px solid var(--accent-green);
+  padding: 16px;
+  margin-bottom: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.8);
 }
 
-.newsTitle { font-size: 0.95rem; color: #ffffff; margin-bottom: 8px; line-height: 1.3; }
-.newsInfos { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-dim); border-top: 1px solid rgba(255,255,255,0.06); padding-top: 6px; }
-.newsInfos span { background: rgba(36, 66, 96, 0.4); padding: 2px 6px; border-radius: 2px; color: #b1d4f6; }
+/* Titre ultra-lisible et gros pour les petits écrans */
+.newsTitle {
+  font-size: 1.2rem; /* Augmenté pour mobile */
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1.35;
+  margin-bottom: 8px;
+}
 
-#ticker { display: flex; align-items: center; background: #0b1219; border-top: 2px solid var(--accent-orange); padding: 10px 15px; font-size: 0.9rem; }
-.ticker-badge { background: var(--accent-orange); color: #000000; font-weight: bold; padding: 3px 9px; font-size: 0.75rem; margin-right: 15px; font-family: var(--font-display); }
-#tickerText { color: var(--accent-orange); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* Les métadonnées bien visibles */
+.newsInfos {
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+
+.newsInfos span {
+  background: rgba(0, 255, 115, 0.15);
+  color: var(--accent-green);
+  padding: 3px 8px;
+  font-weight: bold;
+}
+
+/* Animation de pulse pour les alertes tactiques */
+.tactical-popup {
+  border-width: 3px;
+  padding: 20px;
+}
+.popup-title {
+  font-size: 1.35rem;
+}
