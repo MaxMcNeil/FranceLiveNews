@@ -1,6 +1,7 @@
 import fs from "fs";
 
 const TARGET_FILE = "data/news.json";
+const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 24 heures en millisecondes
 
 function smartRefine(item, allItems) {
     let title = item.title || "";
@@ -52,9 +53,16 @@ async function run() {
         return;
     }
 
+    const now = new Date().getTime();
     let items = data.items || [];
 
-    // Application du raffinement intelligent sur chaque item
+    // 🔥 Filtrage strict : on éjecte tout ce qui a plus de 24h avant le raffinement
+    items = items.filter(i => {
+        const itemTime = new Date(i.time).getTime();
+        return !isNaN(itemTime) && (now - itemTime < MAX_AGE_MS);
+    });
+
+    // Application du raffinement intelligent sur chaque item restant
     items = items.map(item => smartRefine(item, items));
 
     // Déduplication finale et respect des critères de score >= 65
@@ -71,8 +79,7 @@ async function run() {
     };
 
     fs.writeFileSync(TARGET_FILE, JSON.stringify(output, null, 2));
-    console.log("✔ Raffinement sémantique et factuel appliqué :", final.length, "éléments traités.");
+    console.log("✔ Raffinement sémantique et filtrage 24h appliqués :", final.length, "éléments conservés.");
 }
 
 run();
-  
