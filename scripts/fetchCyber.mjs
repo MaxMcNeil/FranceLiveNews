@@ -9,8 +9,16 @@ const MAX_AGE_MS = 24 * 60 * 60 * 1000;
 
 function cleanEncoding(str) {
     if (!str) return "";
-    // On ne cible QUE le caractère de remplacement corrompu
-    return str.replace(/\uFFFD/g, "é");
+    return str
+        .replace(/\uFFFD/g, "é")
+        .replace(/prpare/gi, "prépare")
+        .replace(/corriâgée/gi, "corrigée")
+        .replace(/franéaises/gi, "françaises")
+        .replace(/similaire é/gi, "similaire à")
+        .replace(/é l'ére/gi, "à l'ère")
+        .replace(/excuter/gi, "exécuter")
+        .replace(/ grande/gi, "à grande")
+        .replace(/chelle/gi, "échelle");
 }
 
 const CYBER_RSS_FEEDS = [
