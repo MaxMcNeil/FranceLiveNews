@@ -10,23 +10,29 @@
 </head>
 
 <body>
+  <div class="laser-scanner"></div>
   <div class="scanlines"></div>
   <div class="vignette"></div>
 
-  <div id="topbar">
-    <div id="title">
-      <span class="blink-dot"></span> DÉPÊCHES
+  <div class="header-container">
+    <h1 class="gros-titre-alarmant">CRISIS COMMAND // WAR ROOM</h1>
+    <div class="alert-banner">
+      <span class="live-blink">LIVE</span>
+      <span id="counter">[0]</span>
     </div>
-    <div id="counter"><span class="live-blink">LIVE</span></div>
   </div>
-
-  <div class="loader-line"></div>
 
   <div id="newsContainer"></div>
 
   <div id="ticker">
-    <div class="ticker-badge">ALERTE</div>
-    <div id="tickerText">Chargement des flux tactiques...</div>
+    <div class="ticker-wrap">
+      <div class="ticker-item" id="tickerText">Chargement des flux tactiques...</div>
+    </div>
+  </div>
+
+  <div class="bottom-disclaimer-zone">
+    <div class="meta-row"><div>TRANSPARENCE ALGORITHMIQUE</div><div>CONFORME STREAMING LIVE</div></div>
+    <div class="legal-text"><strong>Veille :</strong> Analyse temps réel des flux tactiques et cybermenaces.</div>
   </div>
 
   <script type="module" src="js/app.js"></script>
