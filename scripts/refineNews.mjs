@@ -1,22 +1,17 @@
-import fs from "fs";
-
-const TARGET_FILE = "data/news.json";
-const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 24 heures en millisecondes
+import { cleanEncoding, readNewsData, writeNewsData, MAX_AGE_MS } from "./utils.mjs";
 
 function smartRefine(item, allItems) {
-    let title = item.title || "";
-    let summary = item.summary || "";
+    let title = cleanEncoding(item.title || "");
+    let summary = cleanEncoding(item.summary || "");
     let score = item.score;
 
     // 1. Correction si le résumé est identique au titre (ou vide)
     if (!summary || summary.trim() === title.trim()) {
         if (title.includes(" : ")) {
-            // Extrait la partie après les deux-points comme sous-titre/résumé
             summary = title.split(" : ")[1];
         } else if (title.includes(" — ")) {
             summary = title.split(" — ")[1];
         } else {
-            // Création d'un mini-résumé basé sur le ton de l'alerte
             summary = `Point de situation critique concernant : ${title.substring(0, 80)}...`;
         }
     }
@@ -26,38 +21,29 @@ function smartRefine(item, allItems) {
     const isSuspectDead = title.toUpperCase().includes("MORT") || title.toUpperCase().includes("RETROUVÉE MORTE") || summary.toUpperCase().includes("MORTE");
 
     if (isMonacoExplosion && isSuspectDead) {
-        // Nettoyage des mentions obsolètes d'Interpol si elle est confirmée morte
         summary = summary.replace(/Recherchée par Interpol[,]?/gi, "").replace(/mandat d'arrêt international/gi, "l'enquête sur l'attentat");
-        // On s'assure d'un score maximal pour cette conclusion de crise
         score = Math.max(score, 95);
     }
 
     return {
         ...item,
+        title: title,
         summary: summary.trim(),
         score: score
     };
 }
 
 async function run() {
-    if (!fs.existsSync(TARGET_FILE)) {
-        console.log("Aucun fichier news.json trouvé à raffiner.");
-        return;
-    }
-
-    let data = { items: [] };
-    try {
-        data = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8"));
-    } catch (e) {
-        console.error("Erreur lecture news.json pour raffinement.");
+    const data = readNewsData();
+    if (!data.items || data.items.length === 0) {
+        console.log("Aucun fichier ou élément news.json trouvé à raffiner.");
         return;
     }
 
     const now = new Date().getTime();
-    let items = data.items || [];
-
-    // 🔥 Filtrage strict : on éjecte tout ce qui a plus de 24h avant le raffinement
-    items = items.filter(i => {
+    
+    // Filtrage strict : on éjecte tout ce qui a plus de 24h avant le raffinement
+    let items = (data.items || []).filter(i => {
         const itemTime = new Date(i.time).getTime();
         return !isNaN(itemTime) && (now - itemTime < MAX_AGE_MS);
     });
@@ -72,13 +58,8 @@ async function run() {
 
     const final = all.slice(0, 100);
 
-    const output = {
-        updated: new Date().toISOString(),
-        count: final.length,
-        items: final
-    };
-
-    fs.writeFileSync(TARGET_FILE, JSON.stringify(output, null, 2));
+    // Utilisation de la fonction unifiée d'écriture
+    writeNewsData(final);
     console.log("✔ Raffinement sémantique et filtrage 24h appliqués :", final.length, "éléments conservés.");
 }
 
