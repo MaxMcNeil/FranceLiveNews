@@ -6,7 +6,12 @@ const MAX_AGE_MS = 24 * 60 * 60 * 1000;
 
 function cleanEncoding(str) {
     if (!str) return "";
-    return str.replace(/\uFFFD/g, "é"); // Uniquement le remplacement de caractère
+    return str
+        .replace(/\uFFFD/g, "é")
+        .replace(/prpare/gi, "prépare")
+        .replace(/excuter/gi, "exécuter")
+        .replace(/ grande/gi, "à grande")
+        .replace(/chelle/gi, "échelle");
 }
 
 const RSS_FEEDS = ["https://www.franceinfo.fr/titres.rss", "https://www.lefigaro.fr/rss/figaro_actualites.xml", "https://www.20minutes.fr/feeds/rss-une.xml"];
