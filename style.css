@@ -2,9 +2,8 @@
   --bg-deep: #050508;
   --bg-panel: #0f111a;
   --border-color: #1f2335;
-  --text-main: #d4e4f7; /* Blanc adouci, zéro effet flou/baveux */
-  --text-bright: #ffffff;
-  --text-dim: #7da8d4;
+  --text-main: #ffffff; /* Blanc pur */
+  --text-dim: #a0c0e5; /* Bleu clair contrasté */
   --accent-red: #e10606;
   --accent-orange: #f97316;
   --accent-yellow: #facc15;
@@ -30,10 +29,10 @@ body {
   justify-content: space-between;
   position: relative;
   overflow: hidden;
-  -webkit-font-smoothing: antialiased; /* Force un rendu ultra-net des polices */
+  -webkit-font-smoothing: antialiased;
 }
 
-/* 1. LE SCANNER LASER PERPÉTUEL */
+/* 1. LE SCANNER LASER */
 .laser-scanner {
   position: absolute;
   left: 0;
@@ -53,23 +52,13 @@ body {
   100% { top: 100%; opacity: 0; }
 }
 
-/* 2. MOUVEMENTS FLOTTANTS */
-@keyframes floatA { 0% { transform: translate(0, 0) rotate(0deg); } 50% { transform: translate(2px, 4px) rotate(0.2deg); } 100% { transform: translate(0, 0) rotate(0deg); } }
-@keyframes floatB { 0% { transform: translate(0, 0) rotate(0deg); } 50% { transform: translate(-3px, 2px) rotate(-0.3deg); } 100% { transform: translate(0, 0) rotate(0deg); } }
+/* 2. MOUVEMENTS */
+@keyframes floatA { 0% { transform: translate(0, 0); } 50% { transform: translate(2px, 4px); } 100% { transform: translate(0, 0); } }
+@keyframes floatB { 0% { transform: translate(0, 0); } 50% { transform: translate(-3px, 2px); } 100% { transform: translate(0, 0); } }
 
-.header-container { 
-  text-align: center; 
-  animation: floatA 3s ease-in-out infinite; 
-  margin-top: 20px; 
-  flex-shrink: 0;
-}
+.header-container { text-align: center; animation: floatA 3s ease-in-out infinite; margin-top: 20px; flex-shrink: 0; }
 
-.gros-titre-alarmant {
-  font-size: 48px;
-  height: 58px;
-  margin: 0 0 20px 0;
-  visibility: hidden;
-}
+.gros-titre-alarmant { font-size: 48px; height: 58px; margin: 0 0 20px 0; visibility: hidden; }
 
 .alert-banner {
   background: var(--accent-red); 
@@ -78,7 +67,6 @@ body {
   font-weight: 900;
   text-transform: uppercase;
   border: 2px solid #ffffff;
-  box-shadow: 0 0 20px rgba(225, 6, 6, 0.6);
   font-family: var(--font-display);
   display: flex;
   justify-content: center;
@@ -93,13 +81,9 @@ body {
   padding: 2px 12px;
   border: 1px solid #fff;
   font-weight: 900;
-  text-shadow: 0 0 10px rgba(0, 255, 102, 0.8);
 }
 
-@keyframes blink { 
-  0%, 100% { opacity: 1; } 
-  50% { opacity: 0.2; } 
-}
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
 
 #newsContainer {
   flex: 1;
@@ -117,13 +101,12 @@ body {
   border: 4px solid var(--accent-red);
   padding: 30px;
   border-radius: 4px;
-  box-shadow: 0 0 20px rgba(225, 6, 6, 0.25);
   flex-shrink: 0;
 }
 
 .popup-title { 
   font-size: 32px; 
-  color: var(--text-bright); 
+  color: #ffffff; 
   font-weight: 900; 
   margin-bottom: 12px; 
   line-height: 1.25; 
@@ -144,17 +127,16 @@ body {
   border: 3px solid var(--border-color);
   border-left: 12px solid var(--accent-orange);
   padding: 24px 30px;
-  position: relative;
   border-radius: 4px;
   flex-shrink: 0;
 }
 
 .newsTitle { 
   font-size: 26px; 
-  color: var(--text-main); /* Texte adouci et net */
+  color: #ffffff; 
   margin-bottom: 10px; 
   line-height: 1.25; 
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .newsInfos { 
@@ -162,15 +144,16 @@ body {
   justify-content: space-between; 
   font-size: 18px; 
   color: var(--text-dim); 
-  border-top: 1px solid rgba(255,255,255,0.06); 
+  border-top: 1px solid rgba(255,255,255,0.1); 
   padding-top: 8px; 
 }
 
 .newsInfos span { 
-  background: rgba(31, 35, 53, 0.6); 
+  background: #1a1f33; 
   padding: 3px 10px; 
   border-radius: 2px; 
   color: var(--accent-yellow); 
+  font-weight: bold;
 }
 
 #ticker {
@@ -184,12 +167,6 @@ body {
   overflow: hidden;
 }
 
-.ticker-wrap { 
-  display: inline-block; 
-  padding-left: 100%; 
-  animation: marquee 25s linear infinite; 
-}
-
 .ticker-item { 
   display: inline-block; 
   padding: 0 3rem; 
@@ -197,11 +174,6 @@ body {
   font-weight: 900; 
   color: #ffffff; 
   font-family: var(--font-display);
-}
-
-@keyframes marquee { 
-  0% { transform: translate3d(0, 0, 0); } 
-  100% { transform: translate3d(-100%, 0, 0); } 
 }
 
 .bottom-disclaimer-zone { 
@@ -223,8 +195,8 @@ body {
 }
 
 .legal-text { 
-  font-family: system-ui, sans-serif; 
+  font-family: sans-serif; 
   font-size: 13px; 
-  color: #64748b; 
+  color: #94a3b8; 
   text-align: justify; 
 }
