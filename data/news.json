@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T15:50:04.515Z",
-  "count": 57,
+  "updated": "2026-07-08T16:16:48.988Z",
+  "count": 50,
   "items": [
     {
       "title": "En visite en Syrie, Emmanuel Macron affiche son soutien à Ahmed al-Charaa pour stabiliser le pays, après deux attentats à Damas",
@@ -67,38 +67,6 @@
       "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque contre Tata Electronics expose des secrets industriels ..."
     },
     {
-      "title": "Meurtre de Mehdi Kessaci : Quatre nouveaux suspects mis en examen et écroués à Marseille, portant à 11 leur nombre",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-07T15:58:02.568Z",
-      "link": "https://www.20minutes.fr/justice/4233294-20260707-meurtre-mehdi-kessaci-quatre-nouveaux-suspects-mis-examen-ecroues-marseille-portant-11-nombre?at_medium=display&at_campaign=149",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Meurtre de Mehdi Kessaci : Quatre nouveaux suspects mis en examen et écroués à M..."
-    },
-    {
-      "title": "Attaque à la bombe à Monaco : un agent de renseignement ukrainien arrêté pour le meurtre de la principale suspecte",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-07T15:58:02.411Z",
-      "link": "https://www.lefigaro.fr/international/explosion-a-monaco-la-femme-soupconnee-d-avoir-tente-d-assassiner-l-oligarque-vadim-yermolayev-retrouvee-morte-pres-de-kiev-20260707",
-      "score": 90,
-      "summary": "un agent de renseignement ukrainien arrêté pour le meurtre de la principale suspecte"
-    },
-    {
-      "title": "Marseille. Assassinat de Mehdi Kessaci : quatre nouveaux suspects écroués",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-07T15:58:07.628Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/07/assassinat-de-mehdi-kessaci-quatre-nouveaux-suspects-ecroues",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Marseille. Assassinat de Mehdi Kessaci : quatre nouveaux suspects écroués..."
-    },
-    {
-      "title": "Assassinat de Mehdi Kessaci : quatre nouveaux suspects mis en examen et écroués à Marseille, soit onze personnes au total",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-07-07T15:58:08.137Z",
-      "link": "https://www.sudouest.fr/faits-divers/narcotrafic/assassinat-de-mehdi-kessaci-quatre-nouveaux-suspects-mis-en-examen-et-ecroues-a-marseille-soit-onze-personnes-au-total-29831034.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Assassinat de Mehdi Kessaci : quatre nouveaux suspects mis en examen et écroués ..."
-    },
-    {
       "title": "Lot-et-Garonne. « Ont-ils réellement étudié son cas ? » : Jamila, tout juste èremise d’une tentative d’assassinat, fait désormais l’objet d’une OQTF",
       "source": "https://www.sudouest.fr/faits-divers/rss.xml",
       "time": "2026-07-07T19:00:00.000Z",
@@ -109,7 +77,7 @@
     {
       "title": "[CYBER] Les PME franéaises davantage exposées aux cyberattaques",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-les-pme-francaises-davantage-exposees-aux-cyberattaques-100597.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les PME franéaises davantage exposées aux cyberattaques..."
@@ -117,7 +85,7 @@
     {
       "title": "[CYBER] La France en ordre de bataille dans la cryptographie post-quantique",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-la-france-en-ordre-de-bataille-dans-la-cryptographie-post-quantique-100671.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La France en ordre de bataille dans la cryptographie post-quantique..."
@@ -125,7 +93,7 @@
     {
       "title": "[CYBER] L'administration adopte l'IA, mais manque de coordination",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-l-administration-adopte-l-ia-mais-manque-de-coordination-100652.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'administration adopte l'IA, mais manque de coordination..."
@@ -133,7 +101,7 @@
     {
       "title": "[CYBER] Salaires en forte hausse dans les data et l'IA en 2026",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-salaires-en-forte-hausse-dans-les-data-et-l-ia-en-2026-100670.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Salaires en forte hausse dans les data et l'IA en 2026..."
@@ -141,7 +109,7 @@
     {
       "title": "[CYBER] L'agent IA JadePuffer méne en solo une campagne de ransomware",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-l-agent-ia-jadepuffer-mene-en-solo-une-campagne-de-ransomware-100668.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'agent IA JadePuffer méne en solo une campagne de ransomware..."
@@ -149,7 +117,7 @@
     {
       "title": "[CYBER] Une faille dans les appliances NetScaler, similaire é CitrixBleed, exploitée",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-une-faille-dans-les-appliances-netscaler-similaire-a-citrixbleed-exploitee-100664.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une faille dans les appliances NetScaler, similaire é CitrixBleed, explo..."
@@ -157,7 +125,7 @@
     {
       "title": "[CYBER] Adobe double la fréquence de ses correctifs de sécurité",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-adobe-double-la-frequence-de-ses-correctifs-de-securite-100659.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Adobe double la fréquence de ses correctifs de sécurité..."
@@ -165,7 +133,7 @@
     {
       "title": "[CYBER] Une faille dans Argo CD fragilise les clusters Kubernetes",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-une-faille-dans-argo-cd-fragilise-les-clusters-kubernetes-100657.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une faille dans Argo CD fragilise les clusters Kubernetes..."
@@ -173,7 +141,7 @@
     {
       "title": "[CYBER] Le piratage de GPS séme la zizanie dans la marine marchande",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-le-piratage-de-gps-seme-la-zizanie-dans-la-marine-marchande-100644.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Le piratage de GPS séme la zizanie dans la marine marchande..."
@@ -181,7 +149,7 @@
     {
       "title": "[CYBER] La Coupe du monde de football, une vitrine des apports de l'IA",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-la-coupe-du-monde-de-football-une-vitrine-des-apports-de-l-ia-100608.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La Coupe du monde de football, une vitrine des apports de l'IA..."
@@ -189,7 +157,7 @@
     {
       "title": "[CYBER] Apple adapte sa politique de correctifs é l'ére de l'IA",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-apple-adapte-sa-politique-de-correctifs-a-l-ere-de-l-ia-100633.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Apple adapte sa politique de correctifs é l'ére de l'IA..."
@@ -197,7 +165,7 @@
     {
       "title": "[CYBER] Paritel cible les PME avec son firewall managé",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-paritel-cible-les-pme-avec-son-firewall-manage-100642.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Paritel cible les PME avec son firewall managé..."
@@ -205,7 +173,7 @@
     {
       "title": "[CYBER] Lancom et Rohde & Schwarz Cybersecurity fusionnent pour devenir Rohde & Schwarz Networks and Cybersecurity",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-lancom-et-rohde-et-schwarz-cybersecurity-fusionnent-pour-devenir-rohde-et-schwarz-networks-and-cybersecurity-100641.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Lancom et Rohde & Schwarz Cybersecurity fusionnent pour devenir Rohde & ..."
@@ -213,7 +181,7 @@
     {
       "title": "[CYBER] La ville Gentilly s'émancipe de Microsoft pour Jamespot",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-la-ville-gentilly-s-emancipe-de-microsoft-pour-jamespot-100645.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] La ville Gentilly s'émancipe de Microsoft pour Jamespot..."
@@ -269,7 +237,7 @@
     {
       "title": "[CYBER] IBM pousse ses z17 ME2/MER et LinuxOne 5",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-ibm-pousse-ses-z17-me2-mer-et-linuxone-5-100678.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] IBM pousse ses z17 ME2/MER et LinuxOne 5..."
@@ -277,7 +245,7 @@
     {
       "title": "[CYBER] Des agents IA piégés par l'injection indirecte de prompts",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-ia-pieges-par-l-injection-indirecte-de-prompts-100676.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Des agents IA piégés par l'injection indirecte de prompts..."
@@ -285,7 +253,7 @@
     {
       "title": "[CYBER] Quand les agents IA échappent au contréle : les leéons de l'incident Moltbook",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-quand-les-agents-ia-echappent-au-controle-les-lecons-de-l-incident-moltbook-100509.html",
       "score": 90,
       "summary": "les leéons de l'incident Moltbook"
@@ -349,7 +317,7 @@
     {
       "title": "[CYBER] Marc Dollois prend la direction de Veeam France",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-marc-dollois-prend-la-direction-de-veeam-france-100681.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Marc Dollois prend la direction de Veeam France..."
@@ -357,7 +325,7 @@
     {
       "title": "[CYBER] Le timide plan de l'UE face aux modéles IA spécialisés en cybersécurité",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-le-timide-plan-de-l-ue-face-aux-modeles-ia-specialises-en-cybersecurite-100685.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Le timide plan de l'UE face aux modéles IA spécialisés en cybersécurité..."
@@ -365,7 +333,7 @@
     {
       "title": "[CYBER] Une vieille faille dans l'hyperviseur KVM menace les serveurs Linux",
       "source": "Le Monde Informatique",
-      "time": "2026-07-08T15:50:03.589Z",
+      "time": "2026-07-08T16:16:48.210Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-une-vieille-faille-dans-l-hyperviseur-kvm-menace-les-serveurs-linux-100684.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une vieille faille dans l'hyperviseur KVM menace les serveurs Linux..."
@@ -433,30 +401,6 @@
       "link": "https://www.sudouest.fr/economie/agriculture/canicule-et-risque-incendie-en-gironde-la-prefecture-interdit-les-travaux-agricoles-de-14-heures-a-20-heures-29848666.php",
       "score": 80,
       "summary": "Point de situation critique concernant : Canicule et risque incendie en Gironde : la préfectuère interdit les travaux agr..."
-    },
-    {
-      "title": "Gironde. « Nous sommes soulagés de pouvoir èrentèrer chez nous » : un incendie de forêt fixé après avoir parcouru près de 3,5 ha",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-07-07T17:36:55.000Z",
-      "link": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/gironde-nous-sommes-soulages-de-pouvoir-rentrer-chez-nous-un-incendie-de-foret-fixe-apres-avoir-parcouru-pres-de-3-5-hectares-29838822.php",
-      "score": 80,
-      "summary": "Point de situation critique concernant : Gironde. « Nous sommes soulagés de pouvoir èrentèrer chez nous » : un incendie d..."
-    },
-    {
-      "title": "Drôme. Incendie dans la montagne à Die : 2 500 hectaères déjà parcourus, des militaières déployés en èrenfort",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-08T12:28:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/incendie-dans-la-montagne-a-die-2-100-hectares-parcourus-pres-de-600-sapeurs-pompiers-sur-le-terrain",
-      "score": 80,
-      "summary": "Point de situation critique concernant : Drôme. Incendie dans la montagne à Die : 2 500 hectaères déjà parcourus, des mil..."
-    },
-    {
-      "title": "Ardèche. Incendie de Saint-âgéeorâgées-les-Bains : une èreprise du feu sur le flanc gauche, 52 hectaères parcourus",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-08T07:34:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/incendie-de-saint-georges-les-bains-une-reprise-du-feu-sur-le-flanc-gauche-52-hectares-parcourus",
-      "score": 80,
-      "summary": "une èreprise du feu sur le flanc gauche, 52 hectaères parcourus"
     }
   ]
 }
