@@ -45,5 +45,5 @@ jobs:
         # évite les commits vides
         git diff --cached --quiet && echo "no changes" && exit 0
 
-        git commit -m "update pipeline: split quotas, semantic refinement, and summaries"
+        git commit -m "update pipeline: cyber live, french filters, and summaries"
         git push
