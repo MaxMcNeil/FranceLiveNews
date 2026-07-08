@@ -21,7 +21,7 @@ function formatTime(iso) {
 function getCleanSource(source) {
     if (!source) return "RSS";
     if (source.includes("ransomlook")) return "CYBER";
-    return source.split('/').pop() || "RSS";
+    return source.split('/').pop().replace(".xml", "").replace(".rss", "") || "RSS";
 }
 
 function render() {
@@ -31,29 +31,17 @@ function render() {
         if (index === 0) {
             card.className = "tactical-popup";
             card.style.borderColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--border-color)");
-            card.innerHTML = `
-                <div class="popup-title">${item.title}</div>
-                <div class="popup-meta">
-                    <span>⚡ ${item.score}</span>
-                    <span>HEURE : ${formatTime(item.time)}</span>
-                </div>
-            `;
+            card.innerHTML = `<div class="popup-title">${item.title}</div><div class="popup-meta"><span>⚡ ${item.score}</span><span>HEURE : ${formatTime(item.time)}</span></div>`;
         } else {
             card.className = "newsCard";
             card.style.borderLeftColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--text-dim)");
-            card.innerHTML = `
-                <div class="newsTitle">${item.title}</div>
-                <div class="newsInfos">
-                    <span>${getCleanSource(item.source)}</span>
-                    <span>⚡ ${item.score}</span>
-                    <span>${formatTime(item.time)}</span>
-                </div>
-            `;
+            card.innerHTML = `<div class="newsTitle">${item.title}</div><div class="newsInfos"><span>${getCleanSource(item.source)}</span><span>⚡ ${item.score}</span><span>${formatTime(item.time)}</span></div>`;
         }
         container.appendChild(card);
     });
-    counter.innerHTML = '<span class="live-blink">LIVE</span>';
-    buildTicker();
+    counter.innerHTML = `<span class="live-blink">LIVE [${DATA.length}]</span>`;
+    // On appelle buildTicker uniquement si le résumé n'a pas encore pris la main
+    if (!tickerText.textContent.startsWith("VEILLE")) buildTicker();
 }
 
 function buildTicker() {
@@ -65,11 +53,10 @@ async function loadSummary() {
         const res = await fetch("data/summary.json?v=" + Date.now(), { cache: "no-store" });
         const json = await res.json();
         if (json.summary) {
-            tickerText.textContent = "⚠ " + json.summary; // Affiche le résumé dans le ticker
+            tickerText.textContent = json.summary; 
         }
     } catch (e) {
-        console.warn("Résumé non disponible, fallback sur le titre des news...");
-        buildTicker(); // Fallback sur l'ancien comportement si le JSON n'est pas encore généré
+        buildTicker(); 
     }
 }
 
@@ -84,17 +71,14 @@ function rotateNews() {
 
 async function load() {
     try {
-        const url = "data/news.json?v=" + Date.now();
-        const res = await fetch(url, { cache: "no-store" });
+        const res = await fetch("data/news.json?v=" + Date.now(), { cache: "no-store" });
         const json = await res.json();
         DATA = json.items || [];
         render();
-        
-        // On charge aussi le résumé
         loadSummary(); 
     } catch (e) { console.error("NEWS ERROR", e); }
 }
 
 load();
-setInterval(load, 60000);
+setInterval(load, 60000); // Mise à jour news toutes les minutes
 setInterval(rotateNews, 5000);
