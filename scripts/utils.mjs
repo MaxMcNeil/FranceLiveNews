@@ -7,8 +7,7 @@ export function cleanEncoding(str) {
     if (!str) return "";
     return str
         .normalize("NFC")
-        .replace(/\uFFFD/g, "é")
-        .replace(//g, "à");
+        .replace(/\uFFFD/g, "é");
 }
 
 export function readNewsData() {
