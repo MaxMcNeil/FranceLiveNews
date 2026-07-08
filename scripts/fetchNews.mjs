@@ -7,8 +7,25 @@ const MAX_AGE_MS = 24 * 60 * 60 * 1000;
 function cleanEncoding(str) {
     if (!str) return "";
     return str
-        .replace(/[\uFFFD]/g, "é")
-        .replace(/[^\x00-\x7F\u00C0-\u00FF]/g, (c) => c);
+        .replace(/vulnrabilits/gi, "vulnérabilités")
+        .replace(/excuter/gi, "exécuter")
+        .replace(/scurit/gi, "sécurité")
+        .replace(/manag/gi, "managé")
+        .replace(/dcouverte/gi, "découverte")
+        .replace(/sme/gi, "sème")
+        .replace(/mne/gi, "mène")
+        .replace(/re/gi, "ère")
+        .replace(/tranger/gi, "étranger")
+        .replace(/ge/gi, "âgée")
+        .replace(/ /g, " à ")
+        .replace(//g, "é")
+        .replace(//gi, "è")
+        .replace(//gi, "à")
+        .replace(//gi, "ê")
+        .replace(//gi, "ô")
+        .replace(//gi, "û")
+        .replace(//gi, "î")
+        .replace(//gi, "ç");
 }
 
 const RSS_FEEDS = [
