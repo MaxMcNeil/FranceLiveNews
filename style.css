@@ -2,7 +2,8 @@
   --bg-deep: #050508;
   --bg-panel: #0f111a;
   --border-color: #1f2335;
-  --text-main: #ffffff;
+  --text-main: #d4e4f7; /* Blanc adouci, zéro effet flou/baveux */
+  --text-bright: #ffffff;
   --text-dim: #7da8d4;
   --accent-red: #e10606;
   --accent-orange: #f97316;
@@ -29,6 +30,7 @@ body {
   justify-content: space-between;
   position: relative;
   overflow: hidden;
+  -webkit-font-smoothing: antialiased; /* Force un rendu ultra-net des polices */
 }
 
 /* 1. LE SCANNER LASER PERPÉTUEL */
@@ -54,7 +56,6 @@ body {
 /* 2. MOUVEMENTS FLOTTANTS */
 @keyframes floatA { 0% { transform: translate(0, 0) rotate(0deg); } 50% { transform: translate(2px, 4px) rotate(0.2deg); } 100% { transform: translate(0, 0) rotate(0deg); } }
 @keyframes floatB { 0% { transform: translate(0, 0) rotate(0deg); } 50% { transform: translate(-3px, 2px) rotate(-0.3deg); } 100% { transform: translate(0, 0) rotate(0deg); } }
-@keyframes floatC { 0% { transform: translate(0, 0) rotate(0deg); } 50% { transform: translate(3px, -2px) rotate(0.1deg); } 100% { transform: translate(0, 0) rotate(0deg); } }
 
 .header-container { 
   text-align: center; 
@@ -63,7 +64,6 @@ body {
   flex-shrink: 0;
 }
 
-/* Zone du titre vidée mais gardant son espace exact pour ne pas déborder */
 .gros-titre-alarmant {
   font-size: 48px;
   height: 58px;
@@ -117,13 +117,13 @@ body {
   border: 4px solid var(--accent-red);
   padding: 30px;
   border-radius: 4px;
-  box-shadow: 0 0 30px rgba(225, 6, 6, 0.4);
+  box-shadow: 0 0 20px rgba(225, 6, 6, 0.25);
   flex-shrink: 0;
 }
 
 .popup-title { 
   font-size: 32px; 
-  color: #ffffff; 
+  color: var(--text-bright); 
   font-weight: 900; 
   margin-bottom: 12px; 
   line-height: 1.25; 
@@ -151,10 +151,10 @@ body {
 
 .newsTitle { 
   font-size: 26px; 
-  color: #ffffff; 
+  color: var(--text-main); /* Texte adouci et net */
   margin-bottom: 10px; 
   line-height: 1.25; 
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .newsInfos { 
@@ -162,7 +162,7 @@ body {
   justify-content: space-between; 
   font-size: 18px; 
   color: var(--text-dim); 
-  border-top: 1px solid rgba(255,255,255,0.08); 
+  border-top: 1px solid rgba(255,255,255,0.06); 
   padding-top: 8px; 
 }
 
