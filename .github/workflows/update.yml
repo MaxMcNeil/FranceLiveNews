@@ -17,7 +17,7 @@ jobs:
 
     - uses: actions/setup-node@v4
       with:
-        node-version: 18
+        node-version: 20
 
     - name: Install dependencies
       run: npm install
@@ -45,6 +45,5 @@ jobs:
         # évite les commits vides
         git diff --cached --quiet && echo "no changes" && exit 0
 
-        git commit -m "update pipeline: split quotas and added semantic refinement"
+        git commit -m "update pipeline: split quotas, semantic refinement, and summaries"
         git push
-        
