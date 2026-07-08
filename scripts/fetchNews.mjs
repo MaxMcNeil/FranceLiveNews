@@ -17,15 +17,7 @@ function cleanEncoding(str) {
         .replace(/re/gi, "ère")
         .replace(/tranger/gi, "étranger")
         .replace(/ge/gi, "âgée")
-        .replace(/ /g, " à ")
-        .replace(//g, "é")
-        .replace(//gi, "è")
-        .replace(//gi, "à")
-        .replace(//gi, "ê")
-        .replace(//gi, "ô")
-        .replace(//gi, "û")
-        .replace(//gi, "î")
-        .replace(//gi, "ç");
+        .replace(/\uFFFD/g, "é");
 }
 
 const RSS_FEEDS = [
@@ -115,3 +107,4 @@ async function run() {
 }
 
 run();
+                                                           
