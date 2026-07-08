@@ -1,12 +1,20 @@
 import fs from "fs";
 
+const MAX_AGE_MS = 24 * 60 * 60 * 1000; // 24 heures en millisecondes
+
 try {
     if (!fs.existsSync("data/news.json")) {
         throw new Error("Le fichier data/news.json est introuvable.");
     }
     
     const raw = JSON.parse(fs.readFileSync("data/news.json", "utf-8"));
-    const items = raw.items || [];
+    const now = new Date().getTime();
+    
+    // 🔥 Filtrage strict : on ne garde que les éléments de moins de 24h
+    const items = (raw.items || []).filter(i => {
+        const itemTime = new Date(i.time).getTime();
+        return !isNaN(itemTime) && (now - itemTime < MAX_AGE_MS);
+    });
 
     function normalize(t){
         return (t || "")
@@ -82,7 +90,7 @@ try {
     fs.mkdirSync("data", { recursive: true });
     fs.writeFileSync("data/clusters.json", JSON.stringify(output, null, 2));
 
-    console.log("✔ clusters S4:", output.length);
+    console.log("✔ clusters S4 mis à jour (filtrage 24h appliqué) :", output.length);
 } catch (e) {
     console.error("ERREUR clusterNews:", e.message);
     process.exit(1);
