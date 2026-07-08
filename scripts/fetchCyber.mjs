@@ -1,37 +1,15 @@
-import fs from "fs";
 import axios from "axios";
 import Parser from "rss-parser";
+import { cleanEncoding, readNewsData, writeNewsData, isCyberItem, MAX_AGE_MS } from "./utils.mjs";
 
 const parser = new Parser();
 const API = "https://www.ransomlook.io/api";
-const TARGET_FILE = "data/news.json";
-const MAX_AGE_MS = 24 * 60 * 60 * 1000;
-
-function cleanEncoding(str) {
-    if (!str) return "";
-    return str
-        .replace(/\uFFFD/g, "é")
-        .replace(/prpare/gi, "prépare")
-        .replace(/corriâgée/gi, "corrigée")
-        .replace(/franéaises/gi, "françaises")
-        .replace(/similaire é/gi, "similaire à")
-        .replace(/é l'ére/gi, "à l'ère")
-        .replace(/excuter/gi, "exécuter")
-        .replace(/ grande/gi, "à grande")
-        .replace(/chelle/gi, "échelle");
-}
 
 const CYBER_RSS_FEEDS = [
     "https://www.zataz.com/feed/",
     "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml",
     "https://www.cert.ssi.gouv.fr/feed/"
 ];
-
-const FRENCH_KEYWORDS = ["FRANCE", "CYBER", "ATTAQUE", "RANÇONGICIEL", "VULNÉRABILITÉ", "ALERTE", "CERT"];
-
-function isCyberItem(item) {
-    return item.source === "CERT-FR" || item.source === "Zataz" || item.source === "Le Monde Informatique" || item.source === "Ransomlook.io" || (item.title || "").startsWith("[CYBER]");
-}
 
 async function fetchCyberRSS(url) {
     try {
@@ -40,14 +18,16 @@ async function fetchCyberRSS(url) {
             const rawTitle = cleanEncoding(i.title || "");
             const title = !rawTitle.startsWith("[CYBER]") ? `[CYBER] ${rawTitle}` : rawTitle;
             return {
-                title: title,
+                title,
                 source: url.includes("cert") ? "CERT-FR" : (url.includes("zataz") ? "Zataz" : "Le Monde Informatique"),
                 time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
                 link: i.link || i.guid || "",
                 score: 90
             };
         });
-    } catch(e) { return []; }
+    } catch (e) {
+        return [];
+    }
 }
 
 async function fetchRansomlookAttacks() {
@@ -67,23 +47,30 @@ async function fetchRansomlookAttacks() {
 }
 
 async function run() {
-    const now = new Date().getTime();
-    let currentFullData = { items: [] };
-    if (fs.existsSync(TARGET_FILE)) { try { currentFullData = JSON.parse(fs.readFileSync(TARGET_FILE, "utf-8")); } catch (e) {} }
+    const now = Date.now();
+    const currentData = readNewsData();
 
-    const existingNews = (currentFullData.items || []).filter(i => !isCyberItem(i) && (now - new Date(i.time).getTime() < MAX_AGE_MS));
-    const existingCyber = (currentFullData.items || []).filter(i => isCyberItem(i) && (now - new Date(i.time).getTime() < MAX_AGE_MS));
+    const existingNews = (currentData.items || []).filter(
+        i => !isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
+    );
+    const existingCyber = (currentData.items || []).filter(
+        i => isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
+    );
 
     let newCyberItems = [];
-    for (const url of CYBER_RSS_FEEDS) { newCyberItems = newCyberItems.concat(await fetchCyberRSS(url)); }
+    for (const url of CYBER_RSS_FEEDS) {
+        newCyberItems = newCyberItems.concat(await fetchCyberRSS(url));
+    }
     newCyberItems = newCyberItems.concat(await fetchRansomlookAttacks());
 
-    let allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
-        .filter(i => i.score >= 65 && (now - new Date(i.time).getTime() < MAX_AGE_MS))
-        .sort((a, b) => b.score - a.score).slice(0, 50);
+    const allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
+        .filter(i => now - new Date(i.time).getTime() < MAX_AGE_MS)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 50);
 
     const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
-    fs.mkdirSync("data", { recursive: true });
-    fs.writeFileSync(TARGET_FILE, JSON.stringify({ updated: new Date().toISOString(), count: finalItems.length, items: finalItems }, null, 2));
+    writeNewsData(finalItems);
+    console.log("✔ Flux cyber mis à jour.");
 }
+
 run();
