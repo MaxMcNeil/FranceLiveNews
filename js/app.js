@@ -4,6 +4,35 @@ const tickerText = document.getElementById("tickerText");
 
 let DATA = [];
 
+// Gestion du bip audio sécurisé pour OBS / Navigateur
+let audioCtx = null;
+function initAudio() {
+    if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+}
+
+function playBip() {
+    try {
+        initAudio();
+        if (audioCtx.state === 'suspended') {
+            audioCtx.resume();
+        }
+        const osc = audioCtx.createOscillator();
+        const gain = audioCtx.createGain();
+        osc.type = 'square';
+        osc.frequency.setValueAtTime(880, audioCtx.currentTime);
+        gain.gain.setValueAtTime(0.12, audioCtx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.15);
+        osc.connect(gain);
+        gain.connect(audioCtx.destination);
+        osc.start();
+        osc.stop(audioCtx.currentTime + 0.15);
+    } catch (e) {
+        // Silencieux si bloqué sans interaction
+    }
+}
+
 function formatTime(iso) {
     const d = new Date(iso);
     return isNaN(d) ? "--:--" : d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
@@ -11,18 +40,13 @@ function formatTime(iso) {
 
 function getCleanSource(source) {
     if (!source) return "RSS";
-    if (source.includes("ransomlook") || source.includes("ransomware")) return "CYBER";
+    if (source.includes("ransomlook")) return "CYBER";
     return source.split('/').pop().replace(".xml", "").replace(".rss", "") || "RSS";
 }
 
 function render() {
-    if (!container) return;
     container.innerHTML = "";
-    
-    // Pour un OBS vertical, on limite l'affichage aux 12 actus les plus chaudes pour ne pas surcharger l'écran
-    const visibleData = DATA.slice(0, 12);
-    
-    visibleData.forEach((item, index) => {
+    DATA.forEach((item, index) => {
         const card = document.createElement("div");
         if (index === 0) {
             card.className = "tactical-popup";
@@ -36,13 +60,14 @@ function render() {
         container.appendChild(card);
     });
     
-    if (counter) counter.innerHTML = `<span class="live-blink">LIVE [${DATA.length}]</span>`;
+    if (counter) counter.textContent = `[${DATA.length}]`;
     if (tickerText && !tickerText.textContent.startsWith("VEILLE")) buildTicker();
 }
 
 function buildTicker() {
-    if (!tickerText) return;
-    tickerText.textContent = DATA.slice(0, 15).map(n => "⚠ " + n.title).join(" | ");
+    if (tickerText) {
+        tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
+    }
 }
 
 async function loadSummary() {
@@ -61,6 +86,7 @@ function rotateNews() {
     if (DATA.length > 1) {
         const last = DATA.pop();
         DATA.unshift(last);
+        playBip(); // Déclenchement du bip sonore à chaque rotation/pop-up du haut
         render();
     }
 }
@@ -76,5 +102,5 @@ async function load() {
 }
 
 load();
-setInterval(load, 60000); // Recharge news.json toutes les minutes
-setInterval(rotateNews, 7000); // Fait tourner les actus à l'écran toutes les 7 secondes
+setInterval(load, 60000); 
+setInterval(rotateNews, 5000);
