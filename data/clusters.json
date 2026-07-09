@@ -114,7 +114,7 @@
       {
         "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:49:46.000Z",
+        "time": "2026-07-09T20:10:34.000Z",
         "link": "https://www.lefigaro.fr/flash-actu/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-affirment-avoir-arrete-les-responsables-20260709",
         "score": 95,
         "summary": "les autorités affirment avoir arrêté les responsables"
@@ -123,7 +123,7 @@
     "summary": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables"
   },
   {
-    "title": "[CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+    "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
     "score": 88,
     "count": 1,
     "sources": [
@@ -131,18 +131,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+        "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
         "source": "BleepingComputer",
         "time": "2026-07-09T18:08:07.000Z",
         "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware,..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomw..."
       }
     ],
-    "summary": "[CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware"
+    "summary": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware"
   },
   {
-    "title": "[CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+    "title": "[CYBER INT] npm 12 Désactive l'installation de scripts par défaut pour réduire les risques de la chaîne d'approvisionnement",
     "score": 88,
     "count": 1,
     "sources": [
@@ -150,205 +150,126 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+        "title": "[CYBER INT] npm 12 Désactive l'installation de scripts par défaut pour réduire les risques de la chaîne d'approvisionnement",
         "source": "BleepingComputer",
         "time": "2026-07-09T16:49:02.000Z",
         "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Ri..."
+        "summary": "Point de situation critique concernant : [CYBER INT] npm 12 Désactive l'installation de scripts par défaut pour réduire l..."
       }
     ],
-    "summary": "[CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk"
+    "summary": "[CYBER INT] npm 12 Désactive l'installation de scripts par défaut pour réduire les risques de la chaîne d'approvisionnement"
   },
   {
-    "title": "[CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+    "title": "[CYBER INT] ThreatsDay : piratage de seau cloud, chaîne Windows LPE, arrêt mondial de la fraude + 17 autres histoires",
     "score": 88,
-    "count": 2,
+    "count": 1,
     "sources": [
       "BleepingComputer"
     ],
     "items": [
       {
-        "title": "[CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+        "title": "[CYBER INT] ThreatsDay : piratage de seau cloud, chaîne Windows LPE, arrêt mondial de la fraude + 17 autres histoires",
         "source": "BleepingComputer",
         "time": "2026-07-09T15:09:28.000Z",
         "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud ..."
-      },
-      {
-        "title": "[CYBER INT] Microsoft expects more Windows security updates from AI-discovered flaws",
-        "source": "BleepingComputer",
-        "time": "2026-07-09T17:00:00.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft expects more Windows security updates from AI-discovered f..."
+        "summary": "Point de situation critique concernant : [CYBER INT] ThreatsDay : piratage de seau cloud, chaîne Windows LPE, arrêt mondi..."
       }
     ],
-    "summary": "[CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories / [CYBER INT] Microsoft expects more Windows security updates from AI-discovered flaws"
+    "summary": "[CYBER INT] ThreatsDay : piratage de seau cloud, chaîne Windows LPE, arrêt mondial de la fraude + 17 autres histoires"
   },
   {
-    "title": "[CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+    "title": "[CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les défenses des points de terminaison",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "BleepingComputer"
     ],
     "items": [
       {
-        "title": "[CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+        "title": "[CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les défenses des points de terminaison",
         "source": "BleepingComputer",
         "time": "2026-07-09T10:43:09.000Z",
         "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses..."
-      }
-    ],
-    "summary": "[CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses"
-  },
-  {
-    "title": "[CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-        "source": "BleepingComputer",
-        "time": "2026-07-09T08:48:48.000Z",
-        "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Pr..."
+        "summary": "Point de situation critique concernant : [CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les déf..."
       },
       {
-        "title": "[CYBER INT] Microsoft patches RoguePlanet Defender zero-day vulnerability",
-        "source": "BleepingComputer",
-        "time": "2026-07-09T05:42:49.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft patches RoguePlanet Defender zero-day vulnerability..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges / [CYBER INT] Microsoft patches RoguePlanet Defender zero-day vulnerability"
-  },
-  {
-    "title": "[CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-        "source": "BleepingComputer",
-        "time": "2026-07-09T04:27:18.000Z",
-        "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI..."
-      }
-    ],
-    "summary": "[CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents"
-  },
-  {
-    "title": "[CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T14:38:05.000Z",
-        "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, ..."
-      }
-    ],
-    "summary": "[CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS"
-  },
-  {
-    "title": "[CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T13:00:00.000Z",
-        "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security..."
-      }
-    ],
-    "summary": "[CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security"
-  },
-  {
-    "title": "[CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T11:21:07.000Z",
-        "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in..."
-      }
-    ],
-    "summary": "[CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code"
-  },
-  {
-    "title": "[CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T05:33:12.000Z",
-        "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to ..."
-      }
-    ],
-    "summary": "[CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV"
-  },
-  {
-    "title": "[CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+        "title": "[CYBER INT] La nouvelle plateforme d'hameçonnage Forg365 utilise l'IA pour cibler les comptes Microsoft 365",
         "source": "BleepingComputer",
         "time": "2026-07-09T14:39:51.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accoun..."
+        "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle plateforme d'hameçonnage Forg365 utilise l'IA pour cible..."
       }
     ],
-    "summary": "[CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accounts"
+    "summary": "[CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les défenses des points de terminaison / [CYBER INT] La nouvelle plateforme d'hameçonnage Forg365 utilise l'IA pour cibler les comptes Microsoft 365"
   },
   {
-    "title": "[CYBER INT] Microsoft to retire the OWA Light client in Exchange Server",
+    "title": "[CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder des privilèges SYSTÈME",
+    "score": 88,
+    "count": 2,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder des privilèges SYSTÈME",
+        "source": "BleepingComputer",
+        "time": "2026-07-09T08:48:48.000Z",
+        "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder d..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft corrige la vulnérabilité zero-day de RoguePlanet Defender",
+        "source": "BleepingComputer",
+        "time": "2026-07-09T05:42:49.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft corrige la vulnérabilité zero-day de RoguePlanet Defender..."
+      }
+    ],
+    "summary": "[CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder des privilèges SYSTÈME / [CYBER INT] Microsoft corrige la vulnérabilité zero-day de RoguePlanet Defender"
+  },
+  {
+    "title": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI",
+    "score": 88,
+    "count": 3,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI",
+        "source": "BleepingComputer",
+        "time": "2026-07-09T04:27:18.000Z",
+        "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos ..."
+      },
+      {
+        "title": "[CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Access, Protect et OS",
+        "source": "BleepingComputer",
+        "time": "2026-07-08T14:38:05.000Z",
+        "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Acc..."
+      },
+      {
+        "title": "[CYBER INT] GitHub Copilot refuse les demandes préjudiciables dans le chat, puis les écrit dans le code",
+        "source": "BleepingComputer",
+        "time": "2026-07-08T11:21:07.000Z",
+        "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] GitHub Copilot refuse les demandes préjudiciables dans le chat, puis..."
+      }
+    ],
+    "summary": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI / [CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Access, Protect et OS"
+  },
+  {
+    "title": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels",
     "score": 88,
     "count": 1,
     "sources": [
@@ -356,18 +277,75 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Microsoft to retire the OWA Light client in Exchange Server",
+        "title": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels",
+        "source": "BleepingComputer",
+        "time": "2026-07-08T13:00:00.000Z",
+        "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionn..."
+      }
+    ],
+    "summary": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels"
+  },
+  {
+    "title": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV",
+        "source": "BleepingComputer",
+        "time": "2026-07-08T05:33:12.000Z",
+        "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitée..."
+      }
+    ],
+    "summary": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV"
+  },
+  {
+    "title": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA",
+        "source": "BleepingComputer",
+        "time": "2026-07-09T17:00:00.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à part..."
+      }
+    ],
+    "summary": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA"
+  },
+  {
+    "title": "[CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server",
         "source": "BleepingComputer",
         "time": "2026-07-09T11:00:35.000Z",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft to retire the OWA Light client in Exchange Server..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server..."
       }
     ],
-    "summary": "[CYBER INT] Microsoft to retire the OWA Light client in Exchange Server"
+    "summary": "[CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server"
   },
   {
-    "title": "[CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown",
+    "title": "[CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-fraude mondiale",
     "score": 88,
     "count": 1,
     "sources": [
@@ -375,18 +353,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown",
+        "title": "[CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-fraude mondiale",
         "source": "BleepingComputer",
         "time": "2026-07-09T09:47:28.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown..."
+        "summary": "Point de situation critique concernant : [CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-..."
       }
     ],
-    "summary": "[CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown"
+    "summary": "[CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-fraude mondiale"
   },
   {
-    "title": "[CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users",
+    "title": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365",
     "score": 88,
     "count": 1,
     "sources": [
@@ -394,43 +372,34 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users",
+        "title": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365",
         "source": "BleepingComputer",
         "time": "2026-07-08T16:47:25.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft..."
       }
     ],
-    "summary": "[CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users"
+    "summary": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365"
   },
   {
-    "title": "France-Maroc : les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous",
+    "title": "France-Maroc : les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous",
     "score": 70,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.franceinfo.fr/titres.rss",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
       {
-        "title": "France-Maroc : les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous",
+        "title": "France-Maroc : les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous",
         "source": "https://www.franceinfo.fr/titres.rss",
         "time": "2026-07-09T19:55:46.000Z",
         "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-[lestitres]",
         "score": 70,
-        "summary": "les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous"
-      },
-      {
-        "title": "EN DIRECT - France-Maroc : le quart de finale est lancé devant des tribunes acquises aux Lions de l’Atlas",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:56:22.000Z",
-        "link": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608355/france-maroc",
-        "score": 70,
-        "summary": "le quart de finale est lancé devant des tribunes acquises aux Lions de l’Atlas"
+        "summary": "les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous"
       }
     ],
-    "summary": "France-Maroc : les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous / EN DIRECT - France-Maroc : le quart de finale est lancé devant des tribunes acquises aux Lions de l’Atlas"
+    "summary": "France-Maroc : les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous"
   },
   {
     "title": "Météo-France place neuf départements de l'ouest de la France placés en vigilance rouge canicule à partir de vendredi midi, 76 en orange",
@@ -462,10 +431,9 @@
   {
     "title": "Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Marine Le Pen en première instance ne s'applique-t-elle pas après son pourvoi en cassation ?",
     "score": 70,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://www.franceinfo.fr/titres.rss",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
       {
@@ -475,25 +443,9 @@
         "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/pourquoi-la-peine-d-ineligibilite-avec-execution-provisoire-prononcee-contre-marine-le-pen-en-premiere-instance-ne-s-applique-t-elle-pas-apres-son-pourvoi-en-cassation_8100746.html#xtor=RSS-3-[lestitres]",
         "score": 70,
         "summary": "Point de situation critique concernant : Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Mar..."
-      },
-      {
-        "title": "Pourvoi en cassation de Marine Le Pen : la candidate à la présidentielle ne portera pas de bracelet électronique avant le scrutin, assure une source judiciaire haut placée",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T14:18:33.000Z",
-        "link": "https://www.franceinfo.fr/politique/marine-le-pen/pourvoi-en-cassation-de-marine-le-pen-dans-tous-les-cas-de-figure-la-candidate-a-la-presidentielle-ne-portera-pas-de-bracelet-electronique-avant-le-scrutin_8101046.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "la candidate à la présidentielle ne portera pas de bracelet électronique avant le scrutin, assure une source judiciaire haut placée"
-      },
-      {
-        "title": "Présidentielle 2027 : pourquoi Bruno Retailleau veut marquer ses différences économiques avec Marine Le Pen",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T16:45:00.000Z",
-        "link": "https://www.lefigaro.fr/politique/presidentielle-2027-pourquoi-bruno-retailleau-veut-marquer-ses-differences-economiques-avec-marine-le-pen-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Présidentielle 2027 : pourquoi Bruno Retailleau veut marquer ses différences éco..."
       }
     ],
-    "summary": "Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Marine Le Pen en première instance ne s'applique-t-elle pas après son pourvoi en cassation ? / Pourvoi en cassation de Marine Le Pen : la candidate à la présidentielle ne portera pas de bracelet électronique avant le scrutin, assure une source judiciaire haut placée"
+    "summary": "Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Marine Le Pen en première instance ne s'applique-t-elle pas après son pourvoi en cassation ?"
   },
   {
     "title": "Le transfert de la tapisserie de Bayeux vers le British Museum de Londres a débuté",
@@ -909,252 +861,5 @@
       }
     ],
     "summary": "Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains... Les clés du quart de finale de Coupe du monde France-Maroc / \"Ce n'est pas mon pote sur le terrain\" : avant France-Maroc, on vous raconte l'histoire d'amitié entre Achraf Hakimi et Kylian Mbappé"
-  },
-  {
-    "title": "\"Nos adversaires vont l'attaquer là-dessus\" : comment Marine Le Pen tente de lancer sa campagne présidentielle malgré les incertitudes sur son avenir judiciaire",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Nos adversaires vont l'attaquer là-dessus\" : comment Marine Le Pen tente de lancer sa campagne présidentielle malgré les incertitudes sur son avenir judiciaire",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T10:51:49.000Z",
-        "link": "https://www.franceinfo.fr/politique/marine-le-pen/nos-adversaires-vont-l-attaquer-la-dessus-comment-marine-le-pen-tente-de-lancer-sa-campagne-presidentielle-malgre-les-incertitudes-sur-son-avenir-judiciaire_8099546.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : \"Nos adversaires vont l'attaquer là-dessus\" : comment Marine Le Pen tente de lan..."
-      }
-    ],
-    "summary": "\"Nos adversaires vont l'attaquer là-dessus\" : comment Marine Le Pen tente de lancer sa campagne présidentielle malgré les incertitudes sur son avenir judiciaire"
-  },
-  {
-    "title": "Fin de vie : comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Fin de vie : comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:48:40.000Z",
-        "link": "https://www.lefigaro.fr/politique/fin-de-vie-comment-emmanuel-macron-a-impose-l-acceleration-du-calendrier-parlementaire-de-la-loi-20260709",
-        "score": 70,
-        "summary": "comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi"
-      }
-    ],
-    "summary": "Fin de vie : comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi"
-  },
-  {
-    "title": "France-Maroc : les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "France-Maroc : les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:06:24.000Z",
-        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/france-maroc-les-galactiques-alignes-doue-prefere-a-barcola-tchouameni-remplacant-le-onze-des-bleus-est-tombe-20260709",
-        "score": 70,
-        "summary": "les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé"
-      }
-    ],
-    "summary": "France-Maroc : les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé"
-  },
-  {
-    "title": "EN DIRECT - Coupe du monde 2026 : les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Coupe du monde 2026 : les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:53:36.000Z",
-        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-les-bleus-lancent-les-quarts-face-au-maroc-la-senatrice-paraguayenne-s-en-prend-encore-a-mbappe-20260709",
-        "score": 70,
-        "summary": "les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique"
-      }
-    ],
-    "summary": "EN DIRECT - Coupe du monde 2026 : les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique"
-  },
-  {
-    "title": "«La France s’est habituée aux violences émeutières» : Eliot Deval s’insurge sur CNews avant le match France-Maroc",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "«La France s’est habituée aux violences émeutières» : Eliot Deval s’insurge sur CNews avant le match France-Maroc",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:27:52.000Z",
-        "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/la-france-s-est-habituee-aux-violences-emeutieres-eliot-deval-s-insurge-sur-cnews-avant-le-match-france-maroc-20260709",
-        "score": 70,
-        "summary": "Eliot Deval s’insurge sur CNews avant le match France-Maroc"
-      }
-    ],
-    "summary": "«La France s’est habituée aux violences émeutières» : Eliot Deval s’insurge sur CNews avant le match France-Maroc"
-  },
-  {
-    "title": "Présidentielle 2027 : Jordan Bardella, le binôme qui a perdu le sourire",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Présidentielle 2027 : Jordan Bardella, le binôme qui a perdu le sourire",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T17:45:45.000Z",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jordan-bardella-le-binome-qui-a-perdu-le-sourire-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Présidentielle 2027 : Jordan Bardella, le binôme qui a perdu le sourire..."
-      }
-    ],
-    "summary": "Présidentielle 2027 : Jordan Bardella, le binôme qui a perdu le sourire"
-  },
-  {
-    "title": "Présidentielle 2027 : comment le clan Le Pen s’est reconstitué autour de sa championne",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Présidentielle 2027 : comment le clan Le Pen s’est reconstitué autour de sa championne",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T16:43:26.000Z",
-        "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-comment-le-clan-le-pen-s-est-reconstitue-autour-de-sa-championne-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Présidentielle 2027 : comment le clan Le Pen s’est reconstitué autour de sa cham..."
-      }
-    ],
-    "summary": "Présidentielle 2027 : comment le clan Le Pen s’est reconstitué autour de sa championne"
-  },
-  {
-    "title": "EN DIRECT - Canicule : Paris et la petite couronne passent en alerte rouge, 3500 hectares parcourus dans la Drôme",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Canicule : Paris et la petite couronne passent en alerte rouge, 3500 hectares parcourus dans la Drôme",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T18:13:08.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-canicule-chaleur-meteo-temperatures-feux-foret-incendies-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : EN DIRECT - Canicule : Paris et la petite couronne passent en alerte rouge, 3500..."
-      }
-    ],
-    "summary": "EN DIRECT - Canicule : Paris et la petite couronne passent en alerte rouge, 3500 hectares parcourus dans la Drôme"
-  },
-  {
-    "title": "Climatiseurs, départs anticipés... Comment les Français tentent d’échapper aux nouvelles vagues de chaleur",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Climatiseurs, départs anticipés... Comment les Français tentent d’échapper aux nouvelles vagues de chaleur",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T16:40:29.000Z",
-        "link": "https://www.lefigaro.fr/actualite-france/climatiseurs-departs-anticipes-comment-les-francais-tentent-d-echapper-aux-nouvelles-vagues-de-chaleur-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Climatiseurs, départs anticipés... Comment les Français tentent d’échapper aux n..."
-      }
-    ],
-    "summary": "Climatiseurs, départs anticipés... Comment les Français tentent d’échapper aux nouvelles vagues de chaleur"
-  },
-  {
-    "title": "Pollution à l’ozone : restrictions de circulation vendredi en Île-de-France",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Pollution à l’ozone : restrictions de circulation vendredi en Île-de-France",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:28:45.000Z",
-        "link": "https://www.lefigaro.fr/actualite-france/pollution-a-l-ozone-restrictions-de-circulation-vendredi-en-ile-de-france-20260709",
-        "score": 70,
-        "summary": "restrictions de circulation vendredi en Île-de-France"
-      }
-    ],
-    "summary": "Pollution à l’ozone : restrictions de circulation vendredi en Île-de-France"
-  },
-  {
-    "title": "Canicule en France : « Nous entrons dans une zone dangereuse », alerte le Haut Conseil pour le climat",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Canicule en France : « Nous entrons dans une zone dangereuse », alerte le Haut Conseil pour le climat",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T06:01:13.000Z",
-        "link": "https://www.lefigaro.fr/sciences/nous-entrons-dans-une-zone-dangereuse-l-alerte-du-haut-conseil-pour-le-climat-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Canicule en France : « Nous entrons dans une zone dangereuse », alerte le Haut C..."
-      }
-    ],
-    "summary": "Canicule en France : « Nous entrons dans une zone dangereuse », alerte le Haut Conseil pour le climat"
-  },
-  {
-    "title": "Comment la folie de l’IA aux États-Unis aspire toujours plus l’épargne mondiale",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Comment la folie de l’IA aux États-Unis aspire toujours plus l’épargne mondiale",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T14:50:50.000Z",
-        "link": "https://www.lefigaro.fr/conjoncture/comment-la-folie-de-l-ia-aux-etats-unis-aspire-toujours-plus-l-epargne-mondiale-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Comment la folie de l’IA aux États-Unis aspire toujours plus l’épargne mondiale..."
-      }
-    ],
-    "summary": "Comment la folie de l’IA aux États-Unis aspire toujours plus l’épargne mondiale"
-  },
-  {
-    "title": "IA : SK Hynix, l’incroyable retour d’un « tigre » sud-coréen qui débarque à Wall Street avec un appétit de fauve",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "IA : SK Hynix, l’incroyable retour d’un « tigre » sud-coréen qui débarque à Wall Street avec un appétit de fauve",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T17:51:10.000Z",
-        "link": "https://www.lefigaro.fr/economie/ia-sk-hynix-l-incroyable-retour-d-un-tigre-sud-coreen-qui-debarque-a-wall-street-avec-un-appetit-de-fauve-20260709",
-        "score": 70,
-        "summary": "Point de situation critique concernant : IA : SK Hynix, l’incroyable retour d’un « tigre » sud-coréen qui débarque à Wall..."
-      }
-    ],
-    "summary": "IA : SK Hynix, l’incroyable retour d’un « tigre » sud-coréen qui débarque à Wall Street avec un appétit de fauve"
   }
 ]
