@@ -1,5 +1,14 @@
 {
-  "updated": "2026-07-09T19:00:11.388Z",
-  "count": 0,
-  "items": []
+  "updated": "2026-07-09T19:08:42.778Z",
+  "count": 1,
+  "items": [
+    {
+      "title": "Marchés financiers : faut-il craindre une explosion de la bulle IA",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-09T17:30:00.000Z",
+      "link": "https://www.lefigaro.fr/societes/marches-financiers-faut-il-craindre-une-explosion-de-la-bulle-ia-20260709",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Marchés financiers : faut-il craindre une explosion de la bulle IA..."
+    }
+  ]
 }
