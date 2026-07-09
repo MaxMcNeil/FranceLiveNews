@@ -37,7 +37,7 @@ async function run() {
     const now = Date.now();
     const currentData = readNewsData();
 
-    // Conserver uniquement les actus non-cyber récentes
+    // Conserver les actus non-cyber valides
     const existingNews = (currentData.items || []).filter(
         i => !isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
     );
@@ -47,7 +47,14 @@ async function run() {
 
     let newItems = [];
     for (const url of RSS_FEEDS) {
-        newItems = newItems.concat(await fetchRSS(url));
+        const fetched = await fetchRSS(url);
+        newItems = newItems.concat(fetched);
+    }
+
+    // 🛡️ SÉCURITÉ : Si le réseau a échoué (0 nouveau), on garde l'existant sans le décimer
+    if (newItems.length === 0 && existingNews.length > 0) {
+        console.warn("⚠️ Fetch général vide, conservation de l'historique de secours.");
+        newItems = existingNews;
     }
 
     const allNews = [...new Map([...existingNews, ...newItems].map(i => [i.link, i])).values()]
