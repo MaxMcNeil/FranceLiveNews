@@ -67,7 +67,7 @@ async function run() {
 
     // Déduplication finale et respect des critères de score >= 65
     let all = [...new Map(items.map(i => [i.link, i])).values()]
-        .filter(i => i.score >= 0)
+        .filter(i => i.score >= 65)
         .sort((a, b) => b.score - a.score);
 
     const final = all.slice(0, 100);
