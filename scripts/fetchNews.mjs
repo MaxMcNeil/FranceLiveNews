@@ -9,9 +9,13 @@ const RSS_FEEDS = [
     "https://www.20minutes.fr/feeds/rss-une.xml"
 ];
 
+// Remplace ton ancien getScore par celui-ci :
 function getScore(title) {
     const t = (title || "").toUpperCase();
-    return t.includes("ATTENTAT") || t.includes("EXPLOSION") ? 95 : 10;
+    if (t.includes("ATTENTAT") || t.includes("EXPLOSION") || t.includes("GUERRE") || t.includes(" CRISE")) {
+        return 95;
+    }
+    return 70; // Score de base suffisant pour passer le filtre >= 65 de refineNews
 }
 
 async function fetchRSS(url) {
