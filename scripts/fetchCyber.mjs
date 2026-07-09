@@ -30,20 +30,20 @@ async function fetchInternationalFeed(url, forceAll = false) {
             i => forceAll || isFrenchTarget(i.title) || isFrenchTarget(i.contentSnippet || i.summary)
         );
 
-        const mapped = [];
-        for (const i of filtered) {
-            // Traduction automatique du titre de l'anglais vers le français
+        // Traduction en parallèle de tous les titres filtrés en un seul bloc
+        const mapped = await Promise.all(filtered.map(async (i) => {
             const rawTitle = i.title || "";
             const translatedTitle = await translateText(rawTitle);
             
-            mapped.push({
+            return {
                 title: cleanEncoding(`[CYBER${forceAll ? "" : " INT"}] ${translatedTitle}`),
                 source: url.includes("thehackernews") ? "The Hacker News" : "BleepingComputer",
                 time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
                 link: i.link || i.guid || "",
                 score: forceAll ? 70 : 88
-            });
-        }
+            };
+        }));
+
         return mapped;
     } catch (e) {
         return [];
@@ -57,22 +57,25 @@ async function fetchRansomwareLive() {
         results = Array.isArray(resp.data) ? resp.data : (resp.data?.attacks || []);
     } catch (e) {}
 
-    const mapped = [];
-    for (const post of results.filter(item => {
+    const targetPosts = results.filter(item => {
         const content = `${item.company || ""} ${item.country || ""} ${item.post_title || ""}`;
         return content.toUpperCase().includes("FRANCE") || item.country === "FR";
-    })) {
+    });
+
+    // Traduction en parallèle pour Ransomware live
+    const mapped = await Promise.all(targetPosts.map(async (post) => {
         const rawInfo = post.company || post.post_title || "Cible française";
         const translatedInfo = await translateText(rawInfo);
 
-        mapped.push({
+        return {
             title: cleanEncoding(`[CYBER] Rançon-live (${post.group_name || "Leak"}) : ${translatedInfo}`),
             source: "Ransomware.live",
             time: post.discovered || new Date().toISOString(),
             link: post.website || post.post_url || "https://www.ransomware.live/",
             score: 96
-        });
-    }
+        };
+    }));
+
     return mapped;
 }
 
@@ -106,8 +109,7 @@ async function run() {
 
     const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
     writeNewsData(finalItems);
-    console.log(`✔ Flux cyber mis à jour et traduit (${allCyber.length} items).`);
+    console.log(`✔ Flux cyber mis à jour et traduit en parallèle (${allCyber.length} items).`);
 }
 
 run();
-        
