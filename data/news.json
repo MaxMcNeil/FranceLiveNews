@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:32:29.987Z",
+  "updated": "2026-07-09T21:08:19.764Z",
   "count": 50,
   "items": [
     {
@@ -53,10 +53,18 @@
     {
       "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T20:10:34.000Z",
+      "time": "2026-07-09T20:30:38.000Z",
       "link": "https://www.lefigaro.fr/flash-actu/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-affirment-avoir-arrete-les-responsables-20260709",
       "score": 95,
       "summary": "les autorités affirment avoir arrêté les responsables"
+    },
+    {
+      "title": "Les autorités syriennes affirment avoir arrêté les responsables des deux attentats survenus durant la visite d'Emmanuel Macron à Damas",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-09T20:26:19.000Z",
+      "link": "https://www.franceinfo.fr/monde/syrie/les-autorites-syriennes-affirment-avoir-arrete-les-responsables-des-deux-attentats-survenus-durant-la-visite-d-emmanuel-macron-a-damas_8101814.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Les autorités syriennes affirment avoir arrêté les responsables des deux attenta..."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -187,12 +195,12 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft..."
     },
     {
-      "title": "France-Maroc : les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous",
+      "title": "France-Maroc : malgré 13 tirs à 0 pour les Bleus, les deux équipes rentrent aux vestiaires dos à dos... Suivez le match avec nous",
       "source": "https://www.franceinfo.fr/titres.rss",
       "time": "2026-07-09T19:55:46.000Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "les Bleus monopolisent le ballon mais ne trouvent pas la faille face aux Lions de l'Atlas, suivez le match avec nous"
+      "summary": "malgré 13 tirs à 0 pour les Bleus, les deux équipes rentrent aux vestiaires dos à dos... Suivez le match avec nous"
     },
     {
       "title": "Météo-France place neuf départements de l'ouest de la France placés en vigilance rouge canicule à partir de vendredi midi, 76 en orange",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-72-departements-places-en-vigilance-orange-l-episode-de-chaleur-progresse-en-france_8100425.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Canicule : jusqu'à 41,2°C relevés à Narbonne, 40,9°C à Perpignan et 36,8°C à Van..."
-    },
-    {
-      "title": "Pourquoi aucun indicateur ne fait consensus pour définir quels logements sont des \"bouilloires thermiques\", trop vulnérables aux fortes chaleurs",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T16:17:25.000Z",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/pourquoi-est-il-si-difficile-de-savoir-precisement-si-un-logement-est-une-bouilloire-thermique_8099057.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Pourquoi aucun indicateur ne fait consensus pour définir quels logements sont de..."
     }
   ]
 }
