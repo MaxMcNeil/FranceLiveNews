@@ -80,13 +80,17 @@ async function run() {
 
     let newCyberItems = [];
     
-    // Récupération des flux internationaux filtrés France
+    // Récupération des flux
     for (const url of INTERNATIONAL_CYBER_FEEDS) {
         newCyberItems = newCyberItems.concat(await fetchInternationalFeed(url));
     }
-    
-    // Récupération de l'API ransomware.live ciblée
     newCyberItems = newCyberItems.concat(await fetchRansomwareLive());
+
+    // 🛡️ SÉCURITÉ : Si aucun résultat réseau, on conserve l'existant pour éviter de vider la base
+    if (newCyberItems.length === 0 && existingCyber.length > 0) {
+        console.warn("⚠️ Fetch Cyber vide, conservation de l'historique de secours.");
+        newCyberItems = existingCyber;
+    }
 
     const allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
         .filter(i => now - new Date(i.time).getTime() < MAX_AGE_MS)
