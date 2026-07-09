@@ -1,23 +1,7 @@
 {
-  "updated": "2026-07-09T10:49:38.318Z",
-  "count": 32,
+  "updated": "2026-07-09T13:45:19.517Z",
+  "count": 30,
   "items": [
-    {
-      "title": "Attentats en Syrie : le bilan grimpe à un mort et 36 blessés",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-08T11:38:09.000Z",
-      "link": "https://www.lefigaro.fr/international/attentats-en-syrie-le-bilan-grimpe-a-un-mort-et-36-blesses-20260708",
-      "score": 100,
-      "summary": "Point de situation critique concernant : Attentats en Syrie : le bilan grimpe à un mort et 36 blessés..."
-    },
-    {
-      "title": "Explosion à Monaco : Quelles sont les hypothèses derrière l’attaque visant l’oligarque Vadim Ermolaev ?",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-08T11:54:27.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4233536-20260708-explosion-monaco-hypotheses-derriere-attaque-visant-oligarque-vadim-ermolaev?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Explosion à Monaco : Quelles sont les hypothèses derrière l’attaque visant l’oli..."
-    },
     {
       "title": "«Coup monté», «classique des services secrets»... Derrière l’attentat de Monaco, les zones d’ombre entourant la mort de la suspecte ukrainienne",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -33,6 +17,14 @@
       "link": "https://www.franceinfo.fr/faits-divers/la-principale-suspecte-retrouvee-morte-deux-hommes-arretes-ou-en-est-l-enquete-sur-la-tentative-d-assassinat-d-un-homme-d-affaires-a-monaco_8099588.html#xtor=RSS-3-[lestitres]",
       "score": 95,
       "summary": "Point de situation critique concernant : La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquê..."
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-09T12:16:03.000Z",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
+      "score": 95,
+      "summary": "plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie"
     },
     {
       "title": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques",
@@ -249,14 +241,6 @@
       "link": "https://www.lemondeinformatique.fr/actualites/lire-une-vieille-faille-dans-l-hyperviseur-kvm-menace-les-serveurs-linux-100684.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une vieille faille dans l'hyperviseur KVM menace les serveurs Linux..."
-    },
-    {
-      "title": "Alpes-de-Haute-Provence. Mort du petit Émile : les événements marquants des 12 derniers mois",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-08T13:44:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/mort-du-petit-emile-la-chronologie-des-faits-des-12-derniers-mois",
-      "score": 85,
-      "summary": "Point de situation critique concernant : Alpes-de-Haute-Provence. Mort du petit Émile : les événements marquants des 12 d..."
     }
   ]
 }
