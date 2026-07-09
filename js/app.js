@@ -2,7 +2,9 @@ const container = document.getElementById("newsContainer");
 const counter = document.getElementById("counter");
 const tickerText = document.getElementById("tickerText");
 
-let DATA = [];
+let ALL_ITEMS = []; // Stocke TOUTES les actus de la timeline
+let DATA = [];      // Ce qui est actuellement affiché à l'écran (ex: 5 éléments)
+const VISIBLE_COUNT = 5; // Nombre de blocs visibles à l'écran
 
 // Gestion du bip audio sécurisé pour OBS / Navigateur
 let audioCtx = null;
@@ -60,13 +62,13 @@ function render() {
         container.appendChild(card);
     });
     
-    if (counter) counter.textContent = `[${DATA.length}]`;
+    if (counter) counter.textContent = `[${ALL_ITEMS.length}]`;
     if (tickerText && !tickerText.textContent.startsWith("VEILLE")) buildTicker();
 }
 
 function buildTicker() {
     if (tickerText) {
-        tickerText.textContent = DATA.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
+        tickerText.textContent = ALL_ITEMS.slice(0, 20).map(n => "⚠ " + n.title).join(" | ");
     }
 }
 
@@ -82,11 +84,13 @@ async function loadSummary() {
     }
 }
 
+// Fait tourner la grande liste complète et rafraîchit l'affichage visible
 function rotateNews() {
-    if (DATA.length > 1) {
-        const last = DATA.pop();
-        DATA.unshift(last);
-        playBip(); // Déclenchement du bip sonore à chaque rotation/pop-up du haut
+    if (ALL_ITEMS.length > 1) {
+        const last = ALL_ITEMS.pop();
+        ALL_ITEMS.unshift(last);
+        DATA = ALL_ITEMS.slice(0, VISIBLE_COUNT); // Met à jour les 5 visibles depuis la liste globale en rotation
+        playBip(); 
         render();
     }
 }
@@ -95,8 +99,8 @@ async function load() {
     try {
         const res = await fetch("data/news.json?v=" + Date.now(), { cache: "no-store" });
         const json = await res.json();
-        // On limite le tableau à 5 éléments maximum (1 pop-up en haut + 4 cartes en dessous)
-        DATA = (json.items || []).slice(0, 5);
+        ALL_ITEMS = json.items || [];
+        DATA = ALL_ITEMS.slice(0, VISIBLE_COUNT); // Extrait les premiers pour l'affichage initial
         render();
         loadSummary(); 
     } catch (e) { console.error("NEWS ERROR", e); }
