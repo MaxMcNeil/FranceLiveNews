@@ -42,11 +42,25 @@ async function run() {
 
     const now = new Date().getTime();
     
-    // Filtrage strict : on éjecte tout ce qui a plus de 24h avant le raffinement
+    // Correction : Sécurité de parsing de date et fallback si i.time est invalide
     let items = (data.items || []).filter(i => {
-        const itemTime = new Date(i.time).getTime();
-        return !isNaN(itemTime) && (now - itemTime < MAX_AGE_MS);
+        let itemTime = new Date(i.time).getTime();
+        
+        // Si la date est invalide (NaN), on essaie de l'accepter par défaut ou on prend l'heure actuelle
+        if (isNaN(itemTime)) {
+            console.warn(`Date invalide détectée pour l'article: "${i.title}". Remplacement temporaire.`);
+            return true; // Ne pas supprimer bêtement si la date est mal formatée
+        }
+        
+        return (now - itemTime < MAX_AGE_MS);
     });
+
+    // Si après le filtre strict il ne reste rien mais qu'on avait des données, 
+    // on désactive temporairement le filtre de 24h pour ne pas planter le live OBS
+    if (items.length === 0 && data.items.length > 0) {
+        console.warn("⚠️ Attention : Le filtre 24h a vidé la liste. Récupération de secours des derniers items bruts.");
+        items = data.items;
+    }
 
     // Application du raffinement intelligent sur chaque item restant
     items = items.map(item => smartRefine(item, items));
