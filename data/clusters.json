@@ -21,10 +21,9 @@
   {
     "title": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\"",
     "score": 95,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.franceinfo.fr/titres.rss",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
       {
@@ -34,17 +33,9 @@
         "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-nouvelle-nuit-de-frappes-militaires-entre-les-etats-unis-et-l-iran_8100461.html#xtor=RSS-3-[lestitres]",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième f..."
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Israël prêt à attaquer l'Iran « une troisième fois », 17 morts dans les frappes américaines…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-09T04:46:20.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4233676-20260709-direct-guerre-moyen-orient-etats-unis-frappent-90-cibles-militaires-teheran-riposte-koweit-bahrein?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Israël prêt à attaquer l'Iran « une troisième..."
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\" / EN DIRECT Guerre au Moyen-Orient : Israël prêt à attaquer l'Iran « une troisième fois », 17 morts dans les frappes américaines…"
+    "summary": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\""
   },
   {
     "title": "Soutien à l'Ukraine, guerre au Moyen-Orient, Groenland... Ce qu'il faut retenir du sommet de l'Otan en Turquie",
@@ -104,6 +95,34 @@
     "summary": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre"
   },
   {
+    "title": "EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe…",
+    "score": 95,
+    "count": 2,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-09T04:46:20.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4233676-20260709-direct-guerre-moyen-orient-etats-unis-frappent-90-cibles-militaires-teheran-riposte-koweit-bahrein?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouve..."
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-09T21:18:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mo..."
+      }
+    ],
+    "summary": "EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe… / EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe"
+  },
+  {
     "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
     "score": 95,
     "count": 2,
@@ -130,25 +149,6 @@
       }
     ],
     "summary": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables / Les autorités syriennes affirment avoir arrêté les responsables des deux attentats survenus durant la visite d'Emmanuel Macron à Damas"
-  },
-  {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T21:18:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mo..."
-      }
-    ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe"
   },
   {
     "title": "Menace d’escalade, détroit d’Ormuz... Pour Donald Trump, le spectre d’une « guerre sans fin » en Iran",
@@ -430,7 +430,7 @@
     "summary": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365"
   },
   {
-    "title": "France-Maroc : Ousmane Dembélé double la mise après l'ouverture du score de Kylian Mbappé face aux Lions de l'Atlas... Suivez le match avec nous",
+    "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
     "score": 70,
     "count": 1,
     "sources": [
@@ -438,15 +438,15 @@
     ],
     "items": [
       {
-        "title": "France-Maroc : Ousmane Dembélé double la mise après l'ouverture du score de Kylian Mbappé face aux Lions de l'Atlas... Suivez le match avec nous",
+        "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T19:55:46.000Z",
+        "time": "2026-07-09T21:32:32.000Z",
         "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-[lestitres]",
         "score": 70,
-        "summary": "Ousmane Dembélé double la mise après l'ouverture du score de Kylian Mbappé face aux Lions de l'Atlas... Suivez le match avec nous"
+        "summary": "Point de situation critique concernant : Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi..."
       }
     ],
-    "summary": "France-Maroc : Ousmane Dembélé double la mise après l'ouverture du score de Kylian Mbappé face aux Lions de l'Atlas... Suivez le match avec nous"
+    "summary": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc"
   },
   {
     "title": "Météo-France place neuf départements de l'ouest de la France placés en vigilance rouge canicule à partir de vendredi midi, 76 en orange",
