@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T19:47:30.630Z",
-  "count": 50,
+  "updated": "2026-07-09T20:02:04.854Z",
+  "count": 66,
   "items": [
     {
       "title": "Marchés financiers : faut-il craindre une explosion de la bulle IA",
@@ -29,7 +29,7 @@
     {
       "title": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T17:29:22.000Z",
+      "time": "2026-07-09T19:48:05.000Z",
       "link": "https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709",
       "score": 95,
       "summary": "Point de situation critique concernant : Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres..."
@@ -51,12 +51,148 @@
       "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Israël prêt à attaquer l'Iran « une troisième..."
     },
     {
-      "title": "France-Maroc : les Bleus prêts à défier des Lions de l'Atlas revanchards à 22 heures pour une place en demi-finale, suivez le match avec nous",
+      "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-09T19:49:46.000Z",
+      "link": "https://www.lefigaro.fr/flash-actu/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-affirment-avoir-arrete-les-responsables-20260709",
+      "score": 95,
+      "summary": "les autorités affirment avoir arrêté les responsables"
+    },
+    {
+      "title": "[CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T18:08:07.000Z",
+      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware,..."
+    },
+    {
+      "title": "[CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T16:49:02.000Z",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Ri..."
+    },
+    {
+      "title": "[CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T15:09:28.000Z",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud ..."
+    },
+    {
+      "title": "[CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T10:43:09.000Z",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T08:48:48.000Z",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Pr..."
+    },
+    {
+      "title": "[CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T04:27:18.000Z",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI..."
+    },
+    {
+      "title": "[CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "source": "BleepingComputer",
+      "time": "2026-07-08T14:38:05.000Z",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, ..."
+    },
+    {
+      "title": "[CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "source": "BleepingComputer",
+      "time": "2026-07-08T13:00:00.000Z",
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] New Ghost Phishing Wave Is Breaking Traditional Email Security..."
+    },
+    {
+      "title": "[CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "source": "BleepingComputer",
+      "time": "2026-07-08T11:21:07.000Z",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in..."
+    },
+    {
+      "title": "[CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "source": "BleepingComputer",
+      "time": "2026-07-08T05:33:12.000Z",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to ..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft expects more Windows security updates from AI-discovered flaws",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T17:00:00.000Z",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft expects more Windows security updates from AI-discovered f..."
+    },
+    {
+      "title": "[CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T14:39:51.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] New Forg365 phishing platform uses AI to target Microsoft 365 accoun..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft to retire the OWA Light client in Exchange Server",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T11:00:35.000Z",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft to retire the OWA Light client in Exchange Server..."
+    },
+    {
+      "title": "[CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T09:47:28.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Police arrests 5,800 suspects in global anti-fraud crackdown..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "source": "BleepingComputer",
+      "time": "2026-07-09T05:42:49.000Z",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft patches RoguePlanet Defender zero-day vulnerability..."
+    },
+    {
+      "title": "[CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users",
+      "source": "BleepingComputer",
+      "time": "2026-07-08T16:47:25.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Entra passkey enrollment vishing targets Microsoft 365 users..."
+    },
+    {
+      "title": "France-Maroc : les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T16:20:31.000Z",
+      "time": "2026-07-09T19:55:46.000Z",
       "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "les Bleus prêts à défier des Lions de l'Atlas revanchards à 22 heures pour une place en demi-finale, suivez le match avec nous"
+      "summary": "les Bleus prêts à défier des Lions de l'Atlas revanchards pour une place en demi-finale, suivez le match avec nous"
     },
     {
       "title": "Météo-France place neuf départements de l'ouest de la France placés en vigilance rouge canicule à partir de vendredi midi, 76 en orange",
@@ -285,18 +421,18 @@
     {
       "title": "Fin de vie : comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T19:17:43.000Z",
+      "time": "2026-07-09T19:48:40.000Z",
       "link": "https://www.lefigaro.fr/politique/fin-de-vie-comment-emmanuel-macron-a-impose-l-acceleration-du-calendrier-parlementaire-de-la-loi-20260709",
       "score": 70,
       "summary": "comment Emmanuel Macron a imposé l’accélération du calendrier parlementaire de la loi"
     },
     {
-      "title": "EN DIRECT - France-Maroc : des tribunes acquises aux Lions de l’Atlas, Désiré Doué titulaire chez les Bleus, une surprise dans le 11 de départ marocain",
+      "title": "EN DIRECT - France-Maroc : le quart de finale est lancé devant des tribunes acquises aux Lions de l’Atlas",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T19:47:03.000Z",
+      "time": "2026-07-09T19:56:22.000Z",
       "link": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608355/france-maroc",
       "score": 70,
-      "summary": "des tribunes acquises aux Lions de l’Atlas, Désiré Doué titulaire chez les Bleus, une surprise dans le 11 de départ marocain"
+      "summary": "le quart de finale est lancé devant des tribunes acquises aux Lions de l’Atlas"
     },
     {
       "title": "France-Maroc : les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé",
@@ -307,12 +443,12 @@
       "summary": "les Galactiques alignés, Doué préféré à Barcola, Tchouameni remplaçant… Le onze des Bleus est tombé"
     },
     {
-      "title": "EN DIRECT - Coupe du monde 2026 : les supporters des Bleus déjà en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique",
+      "title": "EN DIRECT - Coupe du monde 2026 : les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T19:46:03.000Z",
+      "time": "2026-07-09T19:53:36.000Z",
       "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-les-bleus-lancent-les-quarts-face-au-maroc-la-senatrice-paraguayenne-s-en-prend-encore-a-mbappe-20260709",
       "score": 70,
-      "summary": "les supporters des Bleus déjà en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique"
+      "summary": "les supporters des Bleus en feu à Boston, l’Angleterre diminuée contre la Norvège, Courtois croit à un exploit de la Belgique"
     },
     {
       "title": "«La France s’est habituée aux violences émeutières» : Eliot Deval s’insurge sur CNews avant le match France-Maroc",
@@ -393,14 +529,6 @@
       "link": "https://www.lefigaro.fr/economie/ia-sk-hynix-l-incroyable-retour-d-un-tigre-sud-coreen-qui-debarque-a-wall-street-avec-un-appetit-de-fauve-20260709",
       "score": 70,
       "summary": "Point de situation critique concernant : IA : SK Hynix, l’incroyable retour d’un « tigre » sud-coréen qui débarque à Wall..."
-    },
-    {
-      "title": "Le gouvernement étudie les pistes pour rogner les tarifs réduits des salariés du gaz et de l'électricité",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-09T19:29:21.000Z",
-      "link": "https://www.lefigaro.fr/conjoncture/le-gouvernement-etudie-les-pistes-pour-rogner-les-tarifs-reduits-des-salaries-du-gaz-et-de-l-electricite-20260709",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Le gouvernement étudie les pistes pour rogner les tarifs réduits des salariés du..."
     }
   ]
 }
