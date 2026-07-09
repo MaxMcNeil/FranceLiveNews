@@ -95,7 +95,8 @@ async function load() {
     try {
         const res = await fetch("data/news.json?v=" + Date.now(), { cache: "no-store" });
         const json = await res.json();
-        DATA = json.items || [];
+        // On limite le tableau à 5 éléments maximum (1 pop-up en haut + 4 cartes en dessous)
+        DATA = (json.items || []).slice(0, 5);
         render();
         loadSummary(); 
     } catch (e) { console.error("NEWS ERROR", e); }
