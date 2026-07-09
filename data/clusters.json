@@ -19,63 +19,6 @@
     "summary": "«Coup monté», «classique des services secrets»... Derrière l’attentat de Monaco, les zones d’ombre entourant la mort de la suspecte ukrainienne"
   },
   {
-    "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-08T16:00:40.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/la-principale-suspecte-retrouvee-morte-deux-hommes-arretes-ou-en-est-l-enquete-sur-la-tentative-d-assassinat-d-un-homme-d-affaires-a-monaco_8099588.html#xtor=RSS-3-[lestitres]",
-        "score": 95,
-        "summary": "Point de situation critique concernant : La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquê..."
-      }
-    ],
-    "summary": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?"
-  },
-  {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T12:16:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
-        "score": 95,
-        "summary": "plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie"
-      }
-    ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : plusieurs explosions entendues en Iran, les sirènes d’alerte retentissent en Jordanie"
-  },
-  {
-    "title": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques",
-        "source": "Le Monde Informatique",
-        "time": "2026-07-08T14:25:35.608Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-chrome-150-corrige-plus-de-380-vulnerabilites-dont-15-critiques-100624.html",
-        "score": 95,
-        "summary": "Point de situation critique concernant : [CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques..."
-      }
-    ],
-    "summary": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques"
-  },
-  {
     "title": "[CYBER] Les PME franéaises davantage exposées aux cyberattaques",
     "score": 90,
     "count": 1,
@@ -339,44 +282,6 @@
     "summary": "[CYBER] La ville Gentilly s'émancipe de Microsoft pour Jamespot"
   },
   {
-    "title": "[CYBER] Une extension usurpant Perplexity AI dans Chromium découverte",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Une extension usurpant Perplexity AI dans Chromium découverte",
-        "source": "Le Monde Informatique",
-        "time": "2026-07-08T14:25:35.608Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-une-extension-usurpant-perplexity-ai-dans-chromium-decouverte-100634.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Une extension usurpant Perplexity AI dans Chromium découverte..."
-      }
-    ],
-    "summary": "[CYBER] Une extension usurpant Perplexity AI dans Chromium découverte"
-  },
-  {
-    "title": "[CYBER] Suez teste la vidéosurveillance en 5G privée",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Suez teste la vidéosurveillance en 5G privée",
-        "source": "Le Monde Informatique",
-        "time": "2026-07-08T14:25:35.608Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-suez-teste-la-videosurveillance-en-5g-privee-100630.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Suez teste la vidéosurveillance en 5G privée..."
-      }
-    ],
-    "summary": "[CYBER] Suez teste la vidéosurveillance en 5G privée"
-  },
-  {
     "title": "[CYBER] IBM pousse ses z17 ME2/MER et LinuxOne 5",
     "score": 90,
     "count": 1,
@@ -432,82 +337,6 @@
       }
     ],
     "summary": "[CYBER] Quand les agents IA échappent au contréle : les leéons de l'incident Moltbook"
-  },
-  {
-    "title": "[CYBER] InTruth veut vérifier les politiques en direct",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] InTruth veut vérifier les politiques en direct",
-        "source": "Zataz",
-        "time": "2026-07-08T15:40:33.000Z",
-        "link": "https://www.zataz.com/intruth-veut-verifier-les-politiques-en-direct/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] InTruth veut vérifier les politiques en direct..."
-      }
-    ],
-    "summary": "[CYBER] InTruth veut vérifier les politiques en direct"
-  },
-  {
-    "title": "[CYBER] Sauvegardes et rançongiciels : le 3-2-1 dépassé ?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Sauvegardes et rançongiciels : le 3-2-1 dépassé ?",
-        "source": "Zataz",
-        "time": "2026-07-08T15:25:26.000Z",
-        "link": "https://www.zataz.com/sauvegardes-et-rancongiciels-le-3-2-1-depasse/",
-        "score": 90,
-        "summary": "le 3-2-1 dépassé ?"
-      }
-    ],
-    "summary": "[CYBER] Sauvegardes et rançongiciels : le 3-2-1 dépassé ?"
-  },
-  {
-    "title": "[CYBER] LHDN : 10 millions de dossiers fiscaux en vente",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] LHDN : 10 millions de dossiers fiscaux en vente",
-        "source": "Zataz",
-        "time": "2026-07-08T15:09:46.000Z",
-        "link": "https://www.zataz.com/lhdn-10-millions-de-dossiers-fiscaux-en-vente/",
-        "score": 90,
-        "summary": "10 millions de dossiers fiscaux en vente"
-      }
-    ],
-    "summary": "[CYBER] LHDN : 10 millions de dossiers fiscaux en vente"
-  },
-  {
-    "title": "[CYBER] Réseaux sociaux : Bruxelles recadre la loi mineurs",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Réseaux sociaux : Bruxelles recadre la loi mineurs",
-        "source": "Zataz",
-        "time": "2026-07-08T14:33:57.000Z",
-        "link": "https://www.zataz.com/reseaux-sociaux-bruxelles-recadre-la-loi-mineurs/",
-        "score": 90,
-        "summary": "Bruxelles recadre la loi mineurs"
-      }
-    ],
-    "summary": "[CYBER] Réseaux sociaux : Bruxelles recadre la loi mineurs"
   },
   {
     "title": "[CYBER] Marc Dollois prend la direction de Veeam France",
