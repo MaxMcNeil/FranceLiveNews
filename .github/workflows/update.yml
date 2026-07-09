@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15 # Augmente la limite de sécurité totale
 
     steps:
     - uses: actions/checkout@v4
@@ -22,28 +23,23 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    # =======================
-    # PIPELINE VENTILÉE SÉPARÉE & INTELLIGENTE
-    # =======================
+    # Etape critique : on ajoute un timeout spécifique au script Cyber
+    - name: Fetch Cyber News
+      run: node scripts/fetchCyber.mjs
+      timeout-minutes: 5 # Force l'arrêt si ça dépasse 5min, pour ne pas bloquer tout le pipeline
+
     - run: node scripts/fetchNews.mjs
-    - run: node scripts/fetchCyber.mjs
     - run: node scripts/refineNews.mjs
     - run: node scripts/clusterNews.mjs
     - run: node scripts/timeline.mjs
     - run: node scripts/summarize.mjs
 
-    # =======================
-    # COMMIT SAFE (NO EMPTY COMMITS)
-    # =======================
     - name: Commit changes
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-
         git add data/
-
-        # évite les commits vides
         git diff --cached --quiet && echo "no changes" && exit 0
-
         git commit -m "update pipeline: cyber live, french filters, and summaries"
         git push
+        
