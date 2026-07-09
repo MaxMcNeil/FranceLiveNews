@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T04:16:48.222Z",
-  "count": 41,
+  "updated": "2026-07-09T07:55:19.769Z",
+  "count": 37,
   "items": [
     {
       "title": "Attentats en Syrie : le bilan grimpe à un mort et 36 blessés",
@@ -27,28 +27,20 @@
       "summary": "Point de situation critique concernant : «Coup monté», «classique des services secrets»... Derrière l’attentat de Monaco,..."
     },
     {
-      "title": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques",
-      "source": "Le Monde Informatique",
-      "time": "2026-07-08T14:25:35.608Z",
-      "link": "https://www.lemondeinformatique.fr/actualites/lire-chrome-150-corrige-plus-de-380-vulnerabilites-dont-15-critiques-100624.html",
-      "score": 95,
-      "summary": "Point de situation critique concernant : [CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques..."
-    },
-    {
-      "title": "[CYBER] Une cyberattaque contre Tata Electronics expose des secrets industriels d'Apple",
-      "source": "Le Monde Informatique",
-      "time": "2026-07-08T05:32:20.495Z",
-      "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-contre-tata-electronics-expose-des-secrets-industriels-d-apple-100621.html",
-      "score": 95,
-      "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque contre Tata Electronics expose des secrets industriels ..."
-    },
-    {
       "title": "La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquête sur la tentative d'assassinat d'un homme d'affaires à Monaco ?",
       "source": "https://www.franceinfo.fr/titres.rss",
       "time": "2026-07-08T16:00:40.000Z",
       "link": "https://www.franceinfo.fr/faits-divers/la-principale-suspecte-retrouvee-morte-deux-hommes-arretes-ou-en-est-l-enquete-sur-la-tentative-d-assassinat-d-un-homme-d-affaires-a-monaco_8099588.html#xtor=RSS-3-[lestitres]",
       "score": 95,
       "summary": "Point de situation critique concernant : La principale suspecte retrouvée morte, deux hommes arrêtés... Où en est l'enquê..."
+    },
+    {
+      "title": "[CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques",
+      "source": "Le Monde Informatique",
+      "time": "2026-07-08T14:25:35.608Z",
+      "link": "https://www.lemondeinformatique.fr/actualites/lire-chrome-150-corrige-plus-de-380-vulnerabilites-dont-15-critiques-100624.html",
+      "score": 95,
+      "summary": "Point de situation critique concernant : [CYBER] Chrome 150 corriâgée plus de 380 vulnérabilités dont 15 critiques..."
     },
     {
       "title": "[CYBER] Les PME franéaises davantage exposées aux cyberattaques",
@@ -187,22 +179,6 @@
       "summary": "Point de situation critique concernant : [CYBER] Checkpoint prépare la lutte contre les menaces IA é grande échelle..."
     },
     {
-      "title": "[CYBER] Des failles contournent la sandbox de Cursor pour exécuter du code é distance",
-      "source": "Le Monde Informatique",
-      "time": "2026-07-08T05:32:20.495Z",
-      "link": "https://www.lemondeinformatique.fr/actualites/lire-des-failles-contournent-la-sandbox-de-cursor-pour-executer-du-code-a-distance-100625.html",
-      "score": 90,
-      "summary": "Point de situation critique concernant : [CYBER] Des failles contournent la sandbox de Cursor pour exécuter du code é dis..."
-    },
-    {
-      "title": "[CYBER] Microsoft rappelle la fin du support de .NET 8 et 9 en novembre 2026",
-      "source": "Le Monde Informatique",
-      "time": "2026-07-08T05:32:20.495Z",
-      "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-rappelle-la-fin-du-support-de-net-8-et-9-en-novembre-2026-100623.html",
-      "score": 90,
-      "summary": "Point de situation critique concernant : [CYBER] Microsoft rappelle la fin du support de .NET 8 et 9 en novembre 2026..."
-    },
-    {
       "title": "[CYBER] IBM pousse ses z17 ME2/MER et LinuxOne 5",
       "source": "Le Monde Informatique",
       "time": "2026-07-08T17:54:03.592Z",
@@ -289,14 +265,6 @@
       "link": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/un-mois-apres-la-mort-de-lyhanna-dans-le-gers-va-t-on-mettre-la-poussiere-sous-le-tapis-le-maire-de-fleurance-met-la-pression-sur-le-gouvernement-29815246.php",
       "score": 85,
       "summary": "Point de situation critique concernant : Un mois après la mort de Lyhanna dans le âgéers. « Va-t-on mettère la poussièère..."
-    },
-    {
-      "title": "Drôme. Un septuagénaière tué de plusieurs coups de couteau : « C’était un couple extrêmement discèret »",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-08T04:53:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/un-septuagenaire-tue-de-plusieurs-coups-de-couteau-c-etait-un-couple-extremement-discret",
-      "score": 85,
-      "summary": "« C’était un couple extrêmement discèret »"
     },
     {
       "title": "Savoie. Mort d’un jeune volontaière au Planay : le lourd tribut des pompiers savoyards en intervention",
