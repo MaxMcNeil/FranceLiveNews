@@ -125,10 +125,11 @@
   {
     "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.franceinfo.fr/titres.rss"
+      "https://www.franceinfo.fr/titres.rss",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -146,6 +147,14 @@
         "link": "https://www.franceinfo.fr/monde/syrie/les-autorites-syriennes-affirment-avoir-arrete-les-responsables-des-deux-attentats-survenus-durant-la-visite-d-emmanuel-macron-a-damas_8101814.html#xtor=RSS-3-[lestitres]",
         "score": 95,
         "summary": "Point de situation critique concernant : Les autorités syriennes affirment avoir arrêté les responsables des deux attenta..."
+      },
+      {
+        "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-09T23:24:45.000Z",
+        "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
       }
     ],
     "summary": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables / Les autorités syriennes affirment avoir arrêté les responsables des deux attentats survenus durant la visite d'Emmanuel Macron à Damas"
@@ -865,24 +874,5 @@
       }
     ],
     "summary": "Discours rassembleur, pluie de buts, communication maîtrisée... Comment le capitaine Kylian Mbappé fait l'unanimité dans cette Coupe du monde"
-  },
-  {
-    "title": "Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains... Les clés du quart de finale de Coupe du monde France-Maroc",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains... Les clés du quart de finale de Coupe du monde France-Maroc",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T17:20:14.000Z",
-        "link": "https://www.franceinfo.fr/coupe-du-monde/masculine/france-maroc-contenir-achraf-hakimi-sur-le-cote-limiter-l-influence-des-milieux-marocains-les-cles-du-quart-de-finale-de-coupe-du-monde_8097050.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains......"
-      }
-    ],
-    "summary": "Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains... Les clés du quart de finale de Coupe du monde France-Maroc"
   }
 ]

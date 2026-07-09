@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T22:10:53.893Z",
+  "updated": "2026-07-09T23:43:49.891Z",
   "count": 50,
   "items": [
     {
@@ -81,6 +81,14 @@
       "link": "https://www.lefigaro.fr/international/menace-d-escalade-detroit-d-ormuz-pour-donald-trump-le-spectre-d-une-guerre-sans-fin-en-iran-20260709",
       "score": 95,
       "summary": "Point de situation critique concernant : Menace d’escalade, détroit d’Ormuz... Pour Donald Trump, le spectre d’une « guer..."
+    },
+    {
+      "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-09T23:24:45.000Z",
+      "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/coupe-du-monde/discours-rassembleur-pluie-de-buts-communication-maitrisee-comment-le-capitaine-kylian-mbappe-fait-l-unanimite-dans-cette-coupe-du-monde_8097032.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Discours rassembleur, pluie de buts, communication maîtrisée... Comment le capit..."
-    },
-    {
-      "title": "Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains... Les clés du quart de finale de Coupe du monde France-Maroc",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T17:20:14.000Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/masculine/france-maroc-contenir-achraf-hakimi-sur-le-cote-limiter-l-influence-des-milieux-marocains-les-cles-du-quart-de-finale-de-coupe-du-monde_8097050.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Contenir Achraf Hakimi sur le côté, limiter l'influence des milieux marocains......"
     }
   ]
 }
