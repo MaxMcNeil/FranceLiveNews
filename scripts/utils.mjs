@@ -1,7 +1,7 @@
 import fs from "fs";
 
 export const TARGET_FILE = "data/news.json";
-export const MAX_AGE_MS = 24 * 60 * 60 * 1000;
+export const MAX_AGE_MS = 48 * 60 * 60 * 1000;
 
 export function cleanEncoding(str) {
     if (!str) return "";
