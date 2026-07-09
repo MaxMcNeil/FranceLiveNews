@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const MAX_AGE_MS = 24 * 60 * 60 * 1000;
+const MAX_AGE_MS = 48 * 60 * 60 * 1000;
 
 try {
     if (!fs.existsSync("data/news.json")) {
