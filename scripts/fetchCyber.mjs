@@ -7,15 +7,15 @@ const RANSOM_LIVE_API = "https://api.ransomware.live/recent";
 
 const INTERNATIONAL_CYBER_FEEDS = [
     "https://feeds.feedburner.com/TheHackersNews",
-    "https://www.bleepingcomputer.com/feed/"
+    "https://bleepingcomputer.com/feed/"
 ];
 
-// Mots-clés pour s'assurer que l'actualité internationale concerne la France ou un acteur francophone
+// Option A : Filtres élargis
 const FRENCH_CONTEXT_KEYWORDS = [
-    "FRANCE", "FRENCH", "PARIS", "MARSEILLE", "LYON", "TOULOUSE", "NICE", "NANTES", 
-    "STRASBOURG", "MONTPELLIER", "BORDEAUX", "LILLE", "RENNES", "MINISTÈRE", 
-    "GOUVERNEMENT", "ANSSI", "CERT-FR", "SNCF", "ORANGE", "THALES", "AIRBUS", 
-    "EDF", "TOTAL", "FREE", "BOUYGUES", "MACRON", "BARNIER", "LEROY", "RENAULT", "SANofi"
+    "FRANCE", "FRENCH", "PARIS", "EUROPE", "EU", "NATO", "OTAN", 
+    "GLOBAL", "CRITICAL", "VULNERABILITY", "ZERO-DAY", "MICROSOFT", 
+    "GOOGLE", "APPLE", "ANSSI", "CERT-FR", "ORANGE", "THALES", 
+    "AIRBUS", "EDF", "TOTAL", "MACRON", "BARNIER"
 ];
 
 function isFrenchTarget(text) {
@@ -24,17 +24,17 @@ function isFrenchTarget(text) {
     return FRENCH_CONTEXT_KEYWORDS.some(keyword => upper.includes(keyword));
 }
 
-async function fetchInternationalFeed(url) {
+async function fetchInternationalFeed(url, forceAll = false) {
     try {
         const feed = await parser.parseURL(url);
         return (feed.items || [])
-            .filter(i => isFrenchTarget(i.title) || isFrenchTarget(i.contentSnippet || i.summary))
+            .filter(i => forceAll || isFrenchTarget(i.title) || isFrenchTarget(i.contentSnippet || i.summary))
             .map(i => ({
-                title: cleanEncoding(`[CYBER INT] ${i.title || ""}`),
+                title: cleanEncoding(`[CYBER${forceAll ? "" : " INT"}] ${i.title || ""}`),
                 source: url.includes("thehackernews") ? "The Hacker News" : "BleepingComputer",
                 time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
                 link: i.link || i.guid || "",
-                score: 88
+                score: forceAll ? 70 : 88 // Score plus bas si on prend tout par défaut
             }));
     } catch (e) {
         return [];
@@ -45,18 +45,13 @@ async function fetchRansomwareLive() {
     let results = [];
     try {
         const resp = await axios.get(RANSOM_LIVE_API);
-        if (Array.isArray(resp.data)) {
-            results = resp.data;
-        } else if (resp.data && Array.isArray(resp.data.attacks)) {
-            results = resp.data.attacks;
-        }
+        results = Array.isArray(resp.data) ? resp.data : (resp.data?.attacks || []);
     } catch (e) {}
 
-    // Filtrer les attaques liées à la France ou retenir les majeures si pertinent, ou tout garder si ciblé
     return results
         .filter(item => {
-            const content = `${item.company || ""} ${item.country || ""} ${item.group_name || ""}`;
-            return content.toUpperCase().includes("FRANCE") || item.country === "FR" || isFrenchTarget(item.post_title);
+            const content = `${item.company || ""} ${item.country || ""} ${item.post_title || ""}`;
+            return content.toUpperCase().includes("FRANCE") || item.country === "FR";
         })
         .map(post => ({
             title: cleanEncoding(`[CYBER] Rançon-live (${post.group_name || "Leak"}) : ${post.company || post.post_title || "Cible française"}`),
@@ -78,20 +73,21 @@ async function run() {
         i => isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
     );
 
-    let newCyberItems = [];
-    
-    // Récupération des flux
+    // Récupération ciblée
+    let newCyberItems = await fetchRansomwareLive();
     for (const url of INTERNATIONAL_CYBER_FEEDS) {
-        newCyberItems = newCyberItems.concat(await fetchInternationalFeed(url));
-    }
-    newCyberItems = newCyberItems.concat(await fetchRansomwareLive());
-
-    // 🛡️ SÉCURITÉ : Si aucun résultat réseau, on conserve l'existant pour éviter de vider la base
-    if (newCyberItems.length === 0 && existingCyber.length > 0) {
-        console.warn("⚠️ Fetch Cyber vide, conservation de l'historique de secours.");
-        newCyberItems = existingCyber;
+        newCyberItems = newCyberItems.concat(await fetchInternationalFeed(url, false));
     }
 
+    // Option B : Backfill si on a moins de 5 items cyber
+    if (newCyberItems.length < 5) {
+        for (const url of INTERNATIONAL_CYBER_FEEDS) {
+            const extra = await fetchInternationalFeed(url, true);
+            newCyberItems = [...newCyberItems, ...extra];
+        }
+    }
+
+    // Fusion et dédoublonnage
     const allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
         .filter(i => now - new Date(i.time).getTime() < MAX_AGE_MS)
         .sort((a, b) => b.score - a.score)
@@ -99,7 +95,7 @@ async function run() {
 
     const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
     writeNewsData(finalItems);
-    console.log("✔ Flux cyber international filtré France mis à jour.");
+    console.log(`✔ Flux cyber mis à jour (${allCyber.length} items).`);
 }
 
 run();
