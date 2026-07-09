@@ -192,10 +192,9 @@
   {
     "title": "[CYBER] Salaires en forte hausse dans les data et l'IA en 2026",
     "score": 90,
-    "count": 4,
+    "count": 1,
     "sources": [
-      "Le Monde Informatique",
-      "CERT-FR"
+      "Le Monde Informatique"
     ],
     "items": [
       {
@@ -205,33 +204,9 @@
         "link": "https://www.lemondeinformatique.fr/actualites/lire-salaires-en-forte-hausse-dans-les-data-et-l-ia-en-2026-100670.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Salaires en forte hausse dans les data et l'IA en 2026..."
-      },
-      {
-        "title": "[CYBER] Multiples vulnérabilités dans les produits Foxit (08 juillet 2026)",
-        "source": "CERT-FR",
-        "time": "2026-07-08T00:00:00.000Z",
-        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0845/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Multiples vulnérabilités dans les produits Foxit (08 juillet 2026)..."
-      },
-      {
-        "title": "[CYBER] Multiples vulnérabilités dans les produits HPE Aruba Networking (08 juillet 2026)",
-        "source": "CERT-FR",
-        "time": "2026-07-08T00:00:00.000Z",
-        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0846/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Multiples vulnérabilités dans les produits HPE Aruba Networking (08 juil..."
-      },
-      {
-        "title": "[CYBER] Multiples vulnérabilités dans Joomla! (08 juillet 2026)",
-        "source": "CERT-FR",
-        "time": "2026-07-08T00:00:00.000Z",
-        "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0847/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Multiples vulnérabilités dans Joomla! (08 juillet 2026)..."
       }
     ],
-    "summary": "[CYBER] Salaires en forte hausse dans les data et l'IA en 2026 / [CYBER] Multiples vulnérabilités dans les produits Foxit (08 juillet 2026)"
+    "summary": "[CYBER] Salaires en forte hausse dans les data et l'IA en 2026"
   },
   {
     "title": "[CYBER] L'agent IA JadePuffer méne en solo une campagne de ransomware",
