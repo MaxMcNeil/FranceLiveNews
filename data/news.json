@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T08:03:38.037Z",
-  "count": 37,
+  "updated": "2026-07-09T10:49:38.318Z",
+  "count": 32,
   "items": [
     {
       "title": "Attentats en Syrie : le bilan grimpe à un mort et 36 blessés",
@@ -171,14 +171,6 @@
       "summary": "Point de situation critique concernant : [CYBER] Suez teste la vidéosurveillance en 5G privée..."
     },
     {
-      "title": "[CYBER] Checkpoint prépare la lutte contre les menaces IA é grande échelle",
-      "source": "Le Monde Informatique",
-      "time": "2026-07-08T10:15:59.302Z",
-      "link": "https://www.lemondeinformatique.fr/actualites/lire-checkpoint-prepare-la-lutte-contre-les-menaces-ia-a-grande-echelle-100628.html",
-      "score": 90,
-      "summary": "Point de situation critique concernant : [CYBER] Checkpoint prépare la lutte contre les menaces IA é grande échelle..."
-    },
-    {
       "title": "[CYBER] IBM pousse ses z17 ME2/MER et LinuxOne 5",
       "source": "Le Monde Informatique",
       "time": "2026-07-08T17:54:03.592Z",
@@ -259,44 +251,12 @@
       "summary": "Point de situation critique concernant : [CYBER] Une vieille faille dans l'hyperviseur KVM menace les serveurs Linux..."
     },
     {
-      "title": "Un mois après la mort de Lyhanna dans le âgéers. « Va-t-on mettère la poussièère sous le tapis ? » Le maière de Fleurance met la pèression sur le gouvernement",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-07-08T10:00:00.000Z",
-      "link": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/un-mois-apres-la-mort-de-lyhanna-dans-le-gers-va-t-on-mettre-la-poussiere-sous-le-tapis-le-maire-de-fleurance-met-la-pression-sur-le-gouvernement-29815246.php",
-      "score": 85,
-      "summary": "Point de situation critique concernant : Un mois après la mort de Lyhanna dans le âgéers. « Va-t-on mettère la poussièère..."
-    },
-    {
-      "title": "Savoie. Mort d’un jeune volontaière au Planay : le lourd tribut des pompiers savoyards en intervention",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-08T09:47:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/mort-d-un-jeune-volontaire-au-planay-le-lourd-tribut-des-pompiers-savoyards-en-intervention",
-      "score": 85,
-      "summary": "le lourd tribut des pompiers savoyards en intervention"
-    },
-    {
       "title": "Alpes-de-Haute-Provence. Mort du petit Émile : les événements marquants des 12 derniers mois",
       "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "time": "2026-07-08T13:44:00.000Z",
       "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/08/mort-du-petit-emile-la-chronologie-des-faits-des-12-derniers-mois",
       "score": 85,
       "summary": "Point de situation critique concernant : Alpes-de-Haute-Provence. Mort du petit Émile : les événements marquants des 12 d..."
-    },
-    {
-      "title": "\"Triangle de feu\", \"COS\", \"produit èretardant\"... On vous explique six notions autour de la lutte contère les incendies",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-08T10:12:22.000Z",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/triangle-de-feu-cos-produit-retardant-on-vous-explique-six-notions-autour-de-la-lutte-contre-les-incendies_8097686.html#xtor=RSS-3-[lestitres]",
-      "score": 80,
-      "summary": "Point de situation critique concernant : \"Triangle de feu\", \"COS\", \"produit èretardant\"... On vous explique six notions a..."
-    },
-    {
-      "title": "Canicule et risque incendie en Gironde : la préfectuère interdit les travaux agricoles de 14 heuères à 20 heuères",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-07-08T10:09:57.000Z",
-      "link": "https://www.sudouest.fr/economie/agriculture/canicule-et-risque-incendie-en-gironde-la-prefecture-interdit-les-travaux-agricoles-de-14-heures-a-20-heures-29848666.php",
-      "score": 80,
-      "summary": "Point de situation critique concernant : Canicule et risque incendie en Gironde : la préfectuère interdit les travaux agr..."
     }
   ]
 }
