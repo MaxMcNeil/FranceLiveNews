@@ -3,7 +3,6 @@ import axios from "axios";
 
 export const TARGET_FILE = "data/news.json";
 export const MAX_AGE_MS = 48 * 60 * 60 * 1000;
-const LIBRETRANSLATE_URL = "http://localhost:5000/translate";
 
 export function cleanEncoding(str) {
     if (!str) return "";
@@ -41,20 +40,24 @@ export function isCyberItem(item) {
     );
 }
 
-// Fonction de traduction locale illimitée et sans blocage
+// Fonction de traduction via une API publique libre (MyMemory / Lingva ou équivalent sans clé)
 export async function translateText(text) {
     if (!text) return "";
     try {
-        const response = await axios.post(LIBRETRANSLATE_URL, {
-            q: text,
-            source: "en",
-            target: "fr",
-            format: "text"
-        }, { timeout: 3000 }); // Sécurité : abandonne après 3s si le serveur local ne répond pas
+        // Utilisation de l'API MyMemory (gratuite, sans inscription, idéale pour de petits volumes)
+        const encodedText = encodeURIComponent(text);
+        const url = `https://api.mymemory.translated.net/get?q=${encodedText}&langpair=en|fr`;
         
-        return response.data?.translatedText || text;
+        const response = await axios.get(url, { timeout: 4000 });
+        const translated = response.data?.responseData?.translatedText;
+        
+        // Si la traduction est valide et ne renvoie pas d'erreur de quota
+        if (translated && !translated.startsWith("MYMEMORY WARNING")) {
+            return cleanEncoding(translated);
+        }
+        return text;
     } catch (e) {
-        // Si le conteneur local ne tourne pas, on renvoie le texte brut sans tout casser
+        // En cas de coupure réseau ou de blocage, on renvoie le texte d'origine
         return text;
     }
 }
