@@ -21,7 +21,7 @@
   {
     "title": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\"",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.franceinfo.fr/titres.rss",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -42,6 +42,14 @@
         "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé ..."
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-10T20:27:40.000Z",
+        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-maintient-que-le-cessez-le-feu-est-termine-mais-accepte-de-negocier-avec-l-iran_8103347.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
       }
     ],
     "summary": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\" / EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé », l'Iran frappera Israël en cas d'attaque..."
@@ -101,12 +109,12 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endo..."
       },
       {
-        "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d'euros de pertes",
+        "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-10T17:43:05.000Z",
         "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
       },
       {
         "title": "EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier...",
@@ -117,7 +125,7 @@
         "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infli..."
       }
     ],
-    "summary": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre / Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d'euros de pertes"
+    "summary": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre / Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes"
   },
   {
     "title": "Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe",
@@ -834,24 +842,5 @@
       }
     ],
     "summary": "Le président turc Recep Tayyip Erdogan offre des revolvers gravés à leurs noms aux dirigeants présents au sommet de l'Otan"
-  },
-  {
-    "title": "Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaume-Uni lors d'une élection législative partielle ?",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaume-Uni lors d'une élection législative partielle ?",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T14:28:14.000Z",
-        "link": "https://www.franceinfo.fr/monde/royaume-uni/qui-est-le-mysterieux-comte-tete-de-poubelle-qui-defie-nigel-farage-au-royaume-uni-lors-d-une-election-legislative-partielle_8100818.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaum..."
-      }
-    ],
-    "summary": "Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaume-Uni lors d'une élection législative partielle ?"
   }
 ]

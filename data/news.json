@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T18:30:22.481Z",
+  "updated": "2026-07-10T21:07:05.329Z",
   "count": 50,
   "items": [
     {
@@ -123,12 +123,12 @@
       "summary": "Point de situation critique concernant : Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et l..."
     },
     {
-      "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d'euros de pertes",
+      "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-10T17:43:05.000Z",
       "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
     },
     {
       "title": "EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier...",
@@ -145,6 +145,14 @@
       "link": "https://www.20minutes.fr/monde/ukraine/4233745-20260710-guerre-ukraine-missiles-patriot-made-in-ukraine-poudre-yeux?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre ..."
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-10T20:27:40.000Z",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-maintient-que-le-cessez-le-feu-est-termine-mais-accepte-de-negocier-avec-l-iran_8103347.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/monde/turquie/le-president-turc-offre-en-cadeau-un-revolver-et-six-balles-aux-leaders-de-l-otan_8101181.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Le président turc Recep Tayyip Erdogan offre des revolvers gravés à leurs noms a..."
-    },
-    {
-      "title": "Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaume-Uni lors d'une élection législative partielle ?",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T14:28:14.000Z",
-      "link": "https://www.franceinfo.fr/monde/royaume-uni/qui-est-le-mysterieux-comte-tete-de-poubelle-qui-defie-nigel-farage-au-royaume-uni-lors-d-une-election-legislative-partielle_8100818.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaum..."
     }
   ]
 }
