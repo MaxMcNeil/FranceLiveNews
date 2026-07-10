@@ -21,9 +21,10 @@
   {
     "title": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\"",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.franceinfo.fr/titres.rss"
+      "https://www.franceinfo.fr/titres.rss",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -33,9 +34,17 @@
         "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-nouvelle-nuit-de-frappes-militaires-entre-les-etats-unis-et-l-iran_8100461.html#xtor=RSS-3-[lestitres]",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième f..."
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé », l'Iran frappera Israël en cas d'attaque...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-10T04:50:08.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé ..."
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\""
+    "summary": "Guerre au Moyen-Orient : Israël dit être prêt à attaquer l'Iran \"une troisième fois si nécessaire\" / EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé », l'Iran frappera Israël en cas d'attaque..."
   },
   {
     "title": "Soutien à l'Ukraine, guerre au Moyen-Orient, Groenland... Ce qu'il faut retenir du sommet de l'Otan en Turquie",
@@ -67,7 +76,7 @@
       {
         "title": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T19:48:05.000Z",
+        "time": "2026-07-10T14:12:01.000Z",
         "link": "https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709",
         "score": 95,
         "summary": "Point de situation critique concernant : Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres..."
@@ -78,7 +87,7 @@
   {
     "title": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre",
     "score": 95,
-    "count": 1,
+    "count": 3,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -90,14 +99,30 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4233828-20260709-guerre-ukraine-russie-menace-faire-durer-conflit-enfants-endoctrines-combattre?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endo..."
+      },
+      {
+        "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d'euros de pertes",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-10T17:43:05.000Z",
+        "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-10T05:17:19.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4233880-20260710-direct-guerre-ukraine-kiev-frappe-nouveau-infrastructures-petrolieres-russes?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infli..."
       }
     ],
-    "summary": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre"
+    "summary": "Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endoctrinés pour combattre / Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d'euros de pertes"
   },
   {
     "title": "Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe",
     "score": 95,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -118,14 +143,6 @@
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
         "score": 95,
         "summary": "Point de situation critique concernant : EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mo..."
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Un plan iranien pour tuer Donald Trump ?….",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-10T04:50:08.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Un plan iranien pour tuer Donald Trump ?…...."
       }
     ],
     "summary": "Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe / EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe"
@@ -193,6 +210,63 @@
       }
     ],
     "summary": "Menace d’escalade, détroit d’Ormuz... Pour Donald Trump, le spectre d’une « guerre sans fin » en Iran"
+  },
+  {
+    "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-10T18:04:48.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-iran-guerre-moyen-orient-conflit-etats-unis-detroit-ormuz-donald-trump-benyamin-netanyahou-israel-liban-jordanie-20260710",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition..."
+      }
+    ],
+    "summary": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien"
+  },
+  {
+    "title": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-10T12:05:19.000Z",
+        "link": "https://www.lefigaro.fr/international/le-detroit-d-ormuz-epicentre-du-conflit-au-coeur-de-la-guerre-entre-l-iran-et-les-etats-unis-20260710",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et l..."
+      }
+    ],
+    "summary": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis"
+  },
+  {
+    "title": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-10T06:32:36.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4233745-20260710-guerre-ukraine-missiles-patriot-made-in-ukraine-poudre-yeux?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre ..."
+      }
+    ],
+    "summary": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »"
   },
   {
     "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -308,7 +382,7 @@
   {
     "title": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI",
     "score": 88,
-    "count": 3,
+    "count": 1,
     "sources": [
       "BleepingComputer"
     ],
@@ -320,63 +394,9 @@
         "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos ..."
-      },
-      {
-        "title": "[CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Access, Protect et OS",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T14:38:05.000Z",
-        "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Acc..."
-      },
-      {
-        "title": "[CYBER INT] GitHub Copilot refuse les demandes préjudiciables dans le chat, puis les écrit dans le code",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T11:21:07.000Z",
-        "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] GitHub Copilot refuse les demandes préjudiciables dans le chat, puis..."
       }
     ],
-    "summary": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI / [CYBER INT] Ubiquiti corrige les failles UniFi critiques dans Connect, Talk, Access, Protect et OS"
-  },
-  {
-    "title": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T13:00:00.000Z",
-        "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionn..."
-      }
-    ],
-    "summary": "[CYBER INT] La nouvelle vague d'hameçonnage fantôme brise la sécurité traditionnelle des courriels"
-  },
-  {
-    "title": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV",
-        "source": "BleepingComputer",
-        "time": "2026-07-08T05:33:12.000Z",
-        "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitée..."
-      }
-    ],
-    "summary": "[CYBER INT] CISA ajoute 4 failles Adobe, Joomla et Langflow activement exploitées à KEV"
+    "summary": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI"
   },
   {
     "title": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA",
@@ -436,7 +456,7 @@
     "summary": "[CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-fraude mondiale"
   },
   {
-    "title": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365",
+    "title": "[CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle des fuites de trafic, des données non cryptées et un suivi",
     "score": 88,
     "count": 1,
     "sources": [
@@ -444,15 +464,91 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365",
+        "title": "[CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle des fuites de trafic, des données non cryptées et un suivi",
         "source": "BleepingComputer",
-        "time": "2026-07-08T16:47:25.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+        "time": "2026-07-10T10:56:23.000Z",
+        "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle ..."
       }
     ],
-    "summary": "[CYBER INT] Entra passkey enrollment vishing cible les utilisateurs de Microsoft 365"
+    "summary": "[CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle des fuites de trafic, des données non cryptées et un suivi"
+  },
+  {
+    "title": "[CYBER INT] Les pirates utilisent une fausse inscription à Microsoft Entra Passkey pour obtenir Microsoft 365 Access",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Les pirates utilisent une fausse inscription à Microsoft Entra Passkey pour obtenir Microsoft 365 Access",
+        "source": "BleepingComputer",
+        "time": "2026-07-10T10:30:20.000Z",
+        "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent une fausse inscription à Microsoft Entra Passk..."
+      }
+    ],
+    "summary": "[CYBER INT] Les pirates utilisent une fausse inscription à Microsoft Entra Passkey pour obtenir Microsoft 365 Access"
+  },
+  {
+    "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité « Ill Bloom » pour drainer plus de 5 millions de $ des portefeuilles de crypto-monnaie",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité « Ill Bloom » pour drainer plus de 5 millions de $ des portefeuilles de crypto-monnaie",
+        "source": "BleepingComputer",
+        "time": "2026-07-10T09:00:05.000Z",
+        "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants exploitent la vulnérabilité « Ill Bloom » pour draine..."
+      }
+    ],
+    "summary": "[CYBER INT] Les attaquants exploitent la vulnérabilité « Ill Bloom » pour drainer plus de 5 millions de $ des portefeuilles de crypto-monnaie"
+  },
+  {
+    "title": "[CYBER INT] Les pirates exploitent le contournement d'authentification critique dans l'image Gitea Docker",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Les pirates exploitent le contournement d'authentification critique dans l'image Gitea Docker",
+        "source": "BleepingComputer",
+        "time": "2026-07-10T15:48:38.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates exploitent le contournement d'authentification critique ..."
+      }
+    ],
+    "summary": "[CYBER INT] Les pirates exploitent le contournement d'authentification critique dans l'image Gitea Docker"
+  },
+  {
+    "title": "[CYBER INT] Zimbra exhorte les clients à corriger la faille XSS critique du client Web",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Zimbra exhorte les clients à corriger la faille XSS critique du client Web",
+        "source": "BleepingComputer",
+        "time": "2026-07-10T11:47:38.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à corriger la faille XSS critique du clie..."
+      }
+    ],
+    "summary": "[CYBER INT] Zimbra exhorte les clients à corriger la faille XSS critique du client Web"
   },
   {
     "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
@@ -757,100 +853,5 @@
       }
     ],
     "summary": "Qui est le mystérieux \"Comte Tête-de-poubelle\", qui défie Nigel Farage au Royaume-Uni lors d'une élection législative partielle ?"
-  },
-  {
-    "title": "La loi Darmanin sur la justice criminelle définitivement adoptée, sans la mesure décriée du plaider-coupable criminel",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "La loi Darmanin sur la justice criminelle définitivement adoptée, sans la mesure décriée du plaider-coupable criminel",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T12:09:19.000Z",
-        "link": "https://www.franceinfo.fr/societe/justice/la-loi-darmanin-sur-la-justice-criminelle-definitivement-adoptee-sans-la-mesure-decriee-de-plaider-coupable_8101088.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : La loi Darmanin sur la justice criminelle définitivement adoptée, sans la mesure..."
-      }
-    ],
-    "summary": "La loi Darmanin sur la justice criminelle définitivement adoptée, sans la mesure décriée du plaider-coupable criminel"
-  },
-  {
-    "title": "Violences sexuelles dans le périscolaire à Paris : après la relaxe d'un animateur, des familles dénoncent la \"lâcheté\" de la justice",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Violences sexuelles dans le périscolaire à Paris : après la relaxe d'un animateur, des familles dénoncent la \"lâcheté\" de la justice",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T11:27:36.000Z",
-        "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/reportage-violences-sexuelles-dans-le-periscolaire-a-paris-apres-la-relaxe-d-un-animateur-des-familles-denoncent-la-lachete-de-la-justice_8100767.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Violences sexuelles dans le périscolaire à Paris : après la relaxe d'un animateu..."
-      }
-    ],
-    "summary": "Violences sexuelles dans le périscolaire à Paris : après la relaxe d'un animateur, des familles dénoncent la \"lâcheté\" de la justice"
-  },
-  {
-    "title": "\"Un permis de tuer pour les policiers\" : pourquoi le projet de loi sur l'usage des armes à feu par les forces de l'ordre suscite un tollé bien au-delà de la gauche",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Un permis de tuer pour les policiers\" : pourquoi le projet de loi sur l'usage des armes à feu par les forces de l'ordre suscite un tollé bien au-delà de la gauche",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T03:49:26.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/police/un-permis-de-tuer-pour-les-policiers-pourquoi-le-projet-de-loi-sur-l-usage-des-armes-a-feu-par-les-forces-de-l-ordre-suscite-un-tolle-bien-au-dela-de-la-gauche_8099483.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : \"Un permis de tuer pour les policiers\" : pourquoi le projet de loi sur l'usage d..."
-      }
-    ],
-    "summary": "\"Un permis de tuer pour les policiers\" : pourquoi le projet de loi sur l'usage des armes à feu par les forces de l'ordre suscite un tollé bien au-delà de la gauche"
-  },
-  {
-    "title": "\"Une arme pour le parent agresseur\" : la commission d'enquête sur l'inceste préconise la dépénalisation du délit de non-représentation d'enfant",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Une arme pour le parent agresseur\" : la commission d'enquête sur l'inceste préconise la dépénalisation du délit de non-représentation d'enfant",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T08:00:05.000Z",
-        "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/une-arme-pour-le-parent-agresseur-la-commission-d-enquete-sur-l-inceste-preconise-la-depenalisation-du-delit-de-non-representation-d-enfant_8095901.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : \"Une arme pour le parent agresseur\" : la commission d'enquête sur l'inceste préc..."
-      }
-    ],
-    "summary": "\"Une arme pour le parent agresseur\" : la commission d'enquête sur l'inceste préconise la dépénalisation du délit de non-représentation d'enfant"
-  },
-  {
-    "title": "Les militants du Parti socialiste votent jeudi pour définir les modalités de leur primaire, première étape pour trouver un candidat à la présidentielle",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Les militants du Parti socialiste votent jeudi pour définir les modalités de leur primaire, première étape pour trouver un candidat à la présidentielle",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-09T12:57:02.000Z",
-        "link": "https://www.franceinfo.fr/politique/ps/les-socialistes-votent-jeudi-pour-definir-les-modalites-de-leur-primaire-avant-la-presidentielle_8101097.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Les militants du Parti socialiste votent jeudi pour définir les modalités de leu..."
-      }
-    ],
-    "summary": "Les militants du Parti socialiste votent jeudi pour définir les modalités de leur primaire, première étape pour trouver un candidat à la présidentielle"
   }
 ]
