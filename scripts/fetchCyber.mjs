@@ -7,8 +7,8 @@ const RANSOM_LIVE_API = "https://api.ransomware.live/recent";
 
 const INTERNATIONAL_CYBER_FEEDS = [
     "https://feeds.feedburner.com/TheHackersNews",
-    "https://bleepingcomputer.com/feed/"
-    "https://cyberpress.org/category/data-breach/"
+    "https://bleepingcomputer.com/feed/",
+    "https://cyberpress.org/category/data-breach/",
     "https://cyberpress.org/category/cyber-attack/"
 ];
 
