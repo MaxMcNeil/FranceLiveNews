@@ -105,6 +105,32 @@ async function load() {
         loadSummary(); 
     } catch (e) { console.error("NEWS ERROR", e); }
 }
+const popupEl = document.getElementById("criticalPopup");
+const textEl = document.getElementById("criticalText");
+
+// Déclenche l'affichage du pop-up de l'alerte la plus négative du lot en cours
+function triggerCriticalAlert() {
+    if (!DATA || DATA.length === 0) return;
+
+    // Trouve l'élément avec le score le plus haut (le plus critique/négatif) dans le lot visible
+    const mostNegative = [...DATA].sort((a, b) => b.score - a.score)[0];
+    
+    if (mostNegative && textEl) {
+        textEl.textContent = mostNegative.title;
+    }
+
+    // Affiche le pop-up et joue le bip d'alerte
+    if (popupEl) popupEl.classList.remove("hidden");
+    playBip();
+
+    // Cache le pop-up après 5 secondes
+    setTimeout(() => {
+        if (popupEl) popupEl.classList.add("hidden");
+    }, 5000);
+}
+
+// Planifie le déclenchement toutes les 1 minute 30 (90 000 ms)
+setInterval(triggerCriticalAlert, 90000);
 
 load();
 setInterval(load, 60000); 
