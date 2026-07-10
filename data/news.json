@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:43:49.891Z",
+  "updated": "2026-07-10T00:45:35.594Z",
   "count": 50,
   "items": [
     {
@@ -43,12 +43,12 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endo..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe…",
+      "title": "Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-09T04:46:20.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4233676-20260709-direct-guerre-moyen-orient-etats-unis-frappent-90-cibles-militaires-teheran-riposte-koweit-bahrein?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouve..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements amér..."
     },
     {
       "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
@@ -89,6 +89,14 @@
       "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
+    },
+    {
+      "title": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-09T23:28:00.000Z",
+      "link": "https://www.lefigaro.fr/international/la-syrie-affirme-que-les-explosions-a-damas-a-cote-de-l-hotel-d-emmanuel-macron-sont-liees-a-l-etat-islamique-20260710",
+      "score": 95,
+      "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/societe/prisons/conditions-de-detention-a-la-prison-de-conde-sur-sarthe-une-attitude-de-violences-systemiques-denonce-une-avocate-de-detenus_8101175.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "\"Une attitude de violences systémiques\", dénonce une avocate de détenus"
-    },
-    {
-      "title": "Discours rassembleur, pluie de buts, communication maîtrisée... Comment le capitaine Kylian Mbappé fait l'unanimité dans cette Coupe du monde",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T17:21:06.000Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/discours-rassembleur-pluie-de-buts-communication-maitrisee-comment-le-capitaine-kylian-mbappe-fait-l-unanimite-dans-cette-coupe-du-monde_8097032.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Discours rassembleur, pluie de buts, communication maîtrisée... Comment le capit..."
     }
   ]
 }
