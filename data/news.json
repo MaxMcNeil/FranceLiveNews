@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:19:34.516Z",
+  "updated": "2026-07-10T05:11:23.732Z",
   "count": 50,
   "items": [
     {
@@ -97,6 +97,14 @@
       "link": "https://www.lefigaro.fr/international/la-syrie-affirme-que-les-explosions-a-damas-a-cote-de-l-hotel-d-emmanuel-macron-sont-liees-a-l-etat-islamique-20260710",
       "score": 95,
       "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
+    },
+    {
+      "title": "EN DIRECT Guerre au Moyen-Orient : Un plan iranien pour tuer Donald Trump ?….",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-10T04:50:08.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Un plan iranien pour tuer Donald Trump ?…...."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -251,12 +259,12 @@
       "summary": "Point de situation critique concernant : Pourquoi la peine d'inéligibilité avec exécution provisoire prononcée contre Mar..."
     },
     {
-      "title": "Le transfert de la tapisserie de Bayeux vers le British Museum de Londres a débuté",
+      "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T18:02:14.000Z",
+      "time": "2026-07-10T05:09:00.000Z",
       "link": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "Point de situation critique concernant : Le transfert de la tapisserie de Bayeux vers le British Museum de Londres a débu..."
+      "summary": "Point de situation critique concernant : La tapisserie de Bayeux est arrivée au British Museum de Londres..."
     },
     {
       "title": "Le taux de pauvreté se stabilise à 15,4% en 2024 en France, son plus haut niveau jamais mesuré",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/politique/ps/les-socialistes-votent-jeudi-pour-definir-les-modalites-de-leur-primaire-avant-la-presidentielle_8101097.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Les militants du Parti socialiste votent jeudi pour définir les modalités de leu..."
-    },
-    {
-      "title": "Conditions de détention à la prison de Condé-sur-Sarthe : \"Une attitude de violences systémiques\", dénonce une avocate de détenus",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T13:17:32.000Z",
-      "link": "https://www.franceinfo.fr/societe/prisons/conditions-de-detention-a-la-prison-de-conde-sur-sarthe-une-attitude-de-violences-systemiques-denonce-une-avocate-de-detenus_8101175.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "\"Une attitude de violences systémiques\", dénonce une avocate de détenus"
     }
   ]
 }
