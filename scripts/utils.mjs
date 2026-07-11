@@ -1,5 +1,12 @@
 import fs from "fs";
-import { pipeline } from "@xenova/transformers"; // Import de l'IA locale
+import path from "path";
+import os from "os";
+import { pipeline, env } from "@xenova/transformers"; // Import de l'IA locale et de son environnement
+
+// 🚀 Configuration impérative pour stabiliser le dossier de cache sous GitHub Actions
+const CACHE_DIR = path.join(os.homedir(), ".cache", "huggingface");
+env.allowLocalFiles = false; // Télécharge le modèle si non présent, utilise le cache sinon
+env.cacheDir = CACHE_DIR;
 
 export const TARGET_FILE = "data/news.json";
 export const MAX_AGE_MS = 48 * 60 * 60 * 1000;
@@ -47,9 +54,11 @@ export function isCyberItem(item) {
 export async function translateText(text) {
     if (!text) return "";
     try {
-        // Initialisation du modèle au premier appel (Modèle Facebook ultra-léger et rapide)
+        // Initialisation du modèle au premier appel (Modèle configuré sur notre cache fixe)
         if (!translatorInstance) {
-            translatorInstance = await pipeline('translation', 'Xenova/m2m100_418m');
+            translatorInstance = await pipeline('translation', 'Xenova/m2m100_418m', {
+                cache_dir: CACHE_DIR
+            });
         }
 
         // Exécution de la traduction de l'anglais (en) vers le français (fr)
