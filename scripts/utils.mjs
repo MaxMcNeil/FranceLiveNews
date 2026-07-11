@@ -51,23 +51,20 @@ export function isCyberItem(item) {
     );
 }
 
-// Fonction de traduction 100% AUTONOME et LOCALE (Modèle Nano optimisé performance)
+// Fonction de traduction 100% AUTONOME, LOCALE et RAPIDE (Spécifique Anglais -> Français)
 export async function translateText(text) {
     if (!text) return "";
     try {
-        // Initialisation du modèle léger "marime-m2m100-small" pour soulager le CPU de GitHub
+        // Initialisation du modèle dédié EN-FR (Léger et performant pour le CPU)
         if (!translatorInstance) {
-            translatorInstance = await pipeline('translation', 'Xenova/marime-m2m100-small', {
+            translatorInstance = await pipeline('translation', 'Xenova/Helsinki-NLP-opus-mt-en-fr', {
                 cache_dir: CACHE_DIR,
                 local_files_only: false
             });
         }
 
-        // Exécution de la traduction de l'anglais (en) vers le français (fr)
-        const output = await translatorInstance(text, {
-            src_lang: 'en',
-            tgt_lang: 'fr',
-        });
+        // Exécution de la traduction directe (pas besoin de spécifier les langues avec ce modèle dédié)
+        const output = await translatorInstance(text);
 
         if (output && output[0] && output[0].translation_text) {
             return cleanEncoding(output[0].translation_text);
@@ -77,4 +74,4 @@ export async function translateText(text) {
         console.log(`[Traduction Locale] Erreur ou repli sur le texte original : ${e.message}`);
         return text;
     }
-                }
+}
