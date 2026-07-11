@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:13:47.521Z",
+  "updated": "2026-07-11T11:03:29.562Z",
   "count": 50,
   "items": [
     {
@@ -147,17 +147,9 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
     },
     {
-      "title": "Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T05:41:11.000Z",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev..."
-    },
-    {
       "title": "EN DIRECT - «Guerre au Moyen-Orient : Trump menace d’«anéantir et détruire complètement» l’Iran s’il tente de l’assassiner",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-11T05:52:10.000Z",
+      "time": "2026-07-11T10:54:02.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
       "score": 95,
       "summary": "Trump menace d’«anéantir et détruire complètement» l’Iran s’il tente de l’assassiner"
@@ -177,6 +169,14 @@
       "link": "https://www.20minutes.fr/monde/etats-unis/4234054-20260711-guerre-moyen-orient-renseignement-israelien-assure-iran-chercherait-assassiner-donald-trump?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherai..."
+    },
+    {
+      "title": "Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-11T07:40:20.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4234074-20260711-guerre-ukraine-six-blesses-kiev-apres-attaque-missiles-russes?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes..."
     },
     {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
@@ -203,22 +203,6 @@
       "summary": "Point de situation critique concernant : [CYBER INT] ThreatsDay : piratage de seau cloud, chaîne Windows LPE, arrêt mondi..."
     },
     {
-      "title": "[CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les défenses des points de terminaison",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T10:43:09.000Z",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] GodDamn Ransomware utilise le pilote PoisonX pour désactiver les déf..."
-    },
-    {
-      "title": "[CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder des privilèges SYSTÈME",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T08:48:48.000Z",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder d..."
-    },
-    {
       "title": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA",
       "source": "BleepingComputer",
       "time": "2026-07-09T17:00:00.000Z",
@@ -233,22 +217,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle plateforme d'hameçonnage Forg365 utilise l'IA pour cible..."
-    },
-    {
-      "title": "[CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T11:00:35.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft va retirer le client OWA Light dans Exchange Server..."
-    },
-    {
-      "title": "[CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-fraude mondiale",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T09:47:28.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-..."
     },
     {
       "title": "[CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle des fuites de trafic, des données non cryptées et un suivi",
@@ -289,6 +257,22 @@
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à corriger la faille XSS critique du clie..."
+    },
+    {
+      "title": "[CYBER INT] Une faille critique de Zimbra pourrait permettre aux e-mails fabriqués d'exécuter du code malveillant dans les sessions utilisateur",
+      "source": "BleepingComputer",
+      "time": "2026-07-11T06:45:55.000Z",
+      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Une faille critique de Zimbra pourrait permettre aux e-mails fabriqu..."
+    },
+    {
+      "title": "Une attaque de missiles russes fait onze blessés à Kiev",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T08:48:50.000Z",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Une attaque de missiles russes fait onze blessés à Kiev..."
     },
     {
       "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
@@ -395,12 +379,28 @@
       "summary": "Point de situation critique concernant : La Cour européenne des droits de l'Homme a déclaré recevable la requête de Nicol..."
     },
     {
-      "title": "Brevet 2026 : La Réunion, Rouen, Caen, Nantes, Poitiers, Toulouse... Découvrez les résultats officiels dans ces académies",
+      "title": "NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitués du camping, près de l'océan et loin des tracas",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T09:44:52.000Z",
-      "link": "https://www.franceinfo.fr/brevet/brevet-2026-decouvrez-les-resultats-officiels-pour-les-academies-de-toulouse-nantes-besancon-nancy-metz-amiens_8081558.html#xtor=RSS-3-[lestitres]",
+      "time": "2026-07-11T10:12:48.000Z",
+      "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-c-est-une-deuxieme-vie-ici-la-parenthese-doree-des-habitues-du-camping-pres-de-l-ocean-et-loin-des-tracas_8086847.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "Point de situation critique concernant : Brevet 2026 : La Réunion, Rouen, Caen, Nantes, Poitiers, Toulouse... Découvrez l..."
+      "summary": "Point de situation critique concernant : NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitu..."
+    },
+    {
+      "title": "Incendies : 32 personnes soupçonnées d'être à l’origine de départs de feu ont été interpellées depuis le début de l'été, annonce Laurent Nuñez",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T10:20:36.000Z",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-la-france-suffoque-paris-et-une-vingtaine-de-departements-places-en-vigilance-rouge_8103668.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Incendies : 32 personnes soupçonnées d'être à l’origine de départs de feu ont ét..."
+    },
+    {
+      "title": "Coupe du monde 2026 : avant d'affronter la Suisse, le sélectionneur argentin estime que son équipe et Lionel Messi méritent des excuses",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T08:59:57.000Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-lionel-messi-erling-haaland-harry-kane-les-stars-attendues-au-tournant-des-quarts-de-finale_8102834.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Coupe du monde 2026 : avant d'affronter la Suisse, le sélectionneur argentin est..."
     }
   ]
 }
