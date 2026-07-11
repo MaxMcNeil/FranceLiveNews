@@ -25,19 +25,6 @@ function isFrenchTarget(text) {
     return FRENCH_CONTEXT_KEYWORDS.some(keyword => upper.includes(keyword));
 }
 
-// Fonction de traduction sécurisée avec Timeout interne de 3 secondes maximum
-async function safeTranslate(text) {
-    if (!text) return "";
-    try {
-        // Crée une promesse qui rejette après 3000ms pour éviter le gel sur GitHub Actions
-        const timeout = new Promise((_, reject) => setTimeout(() => reject(new Error("Timeout")), 3000));
-        return await Promise.race([translateText(text), timeout]);
-    } catch (e) {
-        // En cas d'erreur ou de surcharge de l'API de trad, on garde le titre en Anglais
-        return text; 
-    }
-}
-
 async function fetchInternationalFeed(url, forceAll = false) {
     try {
         const feed = await parser.parseURL(url);
@@ -45,26 +32,32 @@ async function fetchInternationalFeed(url, forceAll = false) {
             i => forceAll || isFrenchTarget(i.title) || isFrenchTarget(i.contentSnippet || i.summary)
         );
 
-        // PROTECTION CRITIQUE : On ne prend que les 5 articles les plus récents pour éviter d'asphyxier l'API de trad
+        // Max 5 articles les plus récents pour fluidifier le traitement
         filtered = filtered.slice(0, 5);
 
-        // Détermination dynamique de la source
         let sourceName = "CyberPress";
         if (url.includes("thehackernews")) sourceName = "The Hacker News";
         else if (url.includes("bleepingcomputer")) sourceName = "BleepingComputer";
 
-        const mapped = await Promise.all(filtered.map(async (i) => {
+        const mapped = [];
+        // Traitement SÉQUENTIEL : évite d'exploser la mémoire vive et le processeur de l'IA locale
+        for (const i of filtered) {
             const rawTitle = i.title || "";
-            const translatedTitle = await safeTranslate(rawTitle);
+            let translatedTitle = rawTitle;
+            try {
+                translatedTitle = await translateText(rawTitle);
+            } catch (err) {
+                // Si l'IA met du temps ou échoue, conservation du titre original
+            }
             
-            return {
+            mapped.push({
                 title: cleanEncoding(`[CYBER${forceAll ? "" : " INT"}] ${translatedTitle}`),
                 source: sourceName,
                 time: i.pubDate ? new Date(i.pubDate).toISOString() : new Date().toISOString(),
                 link: i.link || i.guid || "",
                 score: forceAll ? 70 : 88
-            };
-        }));
+            });
+        }
 
         return mapped;
     } catch (e) {
@@ -75,7 +68,7 @@ async function fetchInternationalFeed(url, forceAll = false) {
 async function fetchRansomwareLive() {
     let results = [];
     try {
-        const resp = await axios.get(RANSOM_LIVE_API, { timeout: 5000 }); // Ajout d'un timeout sur l'API externe
+        const resp = await axios.get(RANSOM_LIVE_API, { timeout: 5000 });
         results = Array.isArray(resp.data) ? resp.data : (resp.data?.attacks || []);
     } catch (e) {}
 
@@ -84,60 +77,70 @@ async function fetchRansomwareLive() {
         return content.toUpperCase().includes("FRANCE") || item.country === "FR";
     });
 
-    // Sécurité : Max 10 traductions pour Ransomware.live
-    targetPosts = targetPosts.slice(0, 10);
+    targetPosts = targetPosts.slice(0, 8);
 
-    const mapped = await Promise.all(targetPosts.map(async (post) => {
+    const mapped = [];
+    for (const post of targetPosts) {
         const rawInfo = post.company || post.post_title || "Cible française";
-        const translatedInfo = await safeTranslate(rawInfo);
+        let translatedInfo = rawInfo;
+        try {
+            translatedInfo = await translateText(rawInfo);
+        } catch (err) {}
 
-        return {
+        mapped.push({
             title: cleanEncoding(`[CYBER] Rançon-live (${post.group_name || "Leak"}) : ${translatedInfo}`),
             source: "Ransomware.live",
             time: post.discovered || new Date().toISOString(),
             link: post.website || post.post_url || "https://www.ransomware.live/",
             score: 96
-        };
-    }));
+        });
+    }
 
     return mapped;
 }
 
 async function run() {
-    const now = Date.now();
-    const currentData = readNewsData();
+    try {
+        const now = Date.now();
+        const currentData = readNewsData();
 
-    const existingNews = (currentData.items || []).filter(
-        i => !isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
-    );
-    const existingCyber = (currentData.items || []).filter(
-        i => isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
-    );
+        const existingNews = (currentData.items || []).filter(
+            i => !isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
+        );
+        const existingCyber = (currentData.items || []).filter(
+            i => isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
+        );
 
-    let newCyberItems = await fetchRansomwareLive();
-    
-    // Récupération séquentielle contrôlée pour éviter le spam réseau
-    for (const url of INTERNATIONAL_CYBER_FEEDS) {
-        const items = await fetchInternationalFeed(url, false);
-        newCyberItems = newCyberItems.concat(items);
-    }
-
-    // Si on a moins de 5 news ciblées France, on pioche dans le flux général sans saturer
-    if (newCyberItems.length < 5) {
+        let newCyberItems = await fetchRansomwareLive();
+        
         for (const url of INTERNATIONAL_CYBER_FEEDS) {
-            const extra = await fetchInternationalFeed(url, true);
-            newCyberItems = [...newCyberItems, ...extra];
+            const items = await fetchInternationalFeed(url, false);
+            newCyberItems = newCyberItems.concat(items);
         }
+
+        if (newCyberItems.length < 5) {
+            for (const url of INTERNATIONAL_CYBER_FEEDS) {
+                const extra = await fetchInternationalFeed(url, true);
+                newCyberItems = [...newCyberItems, ...extra];
+            }
+        }
+
+        const allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
+            .filter(i => now - new Date(i.time).getTime() < MAX_AGE_MS)
+            .sort((a, b) => b.score - a.score)
+            .slice(0, 50);
+
+        const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
+        writeNewsData(finalItems);
+        console.log(`✔ Flux cyber mis à jour et traduit en parallèle (${allCyber.length} items).`);
+        
+        // SÉCURITÉ CRITIQUE : Tue proprement le processus pour empêcher GitHub de freezer
+        process.exit(0);
+    } catch (criticalError) {
+        console.error("Erreur critique d'exécution:", criticalError);
+        process.exit(1);
     }
-
-    const allCyber = [...new Map([...existingCyber, ...newCyberItems].map(i => [i.link, i])).values()]
-        .filter(i => now - new Date(i.time).getTime() < MAX_AGE_MS)
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 50);
-
-    const finalItems = [...existingNews, ...allCyber].sort((a, b) => b.score - a.score);
-    writeNewsData(finalItems);
-    console.log(`✔ Flux cyber mis à jour et traduit en parallèle (${allCyber.length} items).`);
 }
 
 run();
+            
