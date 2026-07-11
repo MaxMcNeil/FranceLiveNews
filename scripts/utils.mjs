@@ -51,20 +51,23 @@ export function isCyberItem(item) {
     );
 }
 
-// Fonction de traduction 100% AUTONOME, LOCALE et RAPIDE (Spécifique Anglais -> Français)
+// Fonction de traduction 100% AUTONOME, LOCALE et FIABLE (Meta NLLB)
 export async function translateText(text) {
     if (!text) return "";
     try {
-        // Initialisation du modèle dédié EN-FR (Léger et performant pour le CPU)
+        // Initialisation du modèle Meta NLLB (Robuste, sans fichiers manquants)
         if (!translatorInstance) {
-            translatorInstance = await pipeline('translation', 'Xenova/Helsinki-NLP-opus-mt-en-fr', {
+            translatorInstance = await pipeline('translation', 'Xenova/nllb-200-distilled-600M', {
                 cache_dir: CACHE_DIR,
                 local_files_only: false
             });
         }
 
-        // Exécution de la traduction directe (pas besoin de spécifier les langues avec ce modèle dédié)
-        const output = await translatorInstance(text);
+        // Traduction de l'anglais (eng_Latn) vers le français (fra_Latn) via les codes NLLB
+        const output = await translatorInstance(text, {
+            src_lang: 'eng_Latn',
+            tgt_lang: 'fra_Latn',
+        });
 
         if (output && output[0] && output[0].translation_text) {
             return cleanEncoding(output[0].translation_text);
@@ -74,4 +77,4 @@ export async function translateText(text) {
         console.log(`[Traduction Locale] Erreur ou repli sur le texte original : ${e.message}`);
         return text;
     }
-            }
+}
