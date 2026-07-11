@@ -1,8 +1,11 @@
 import fs from "fs";
-import axios from "axios";
+import { pipeline } from "@xenova/transformers"; // Import de l'IA locale
 
 export const TARGET_FILE = "data/news.json";
 export const MAX_AGE_MS = 48 * 60 * 60 * 1000;
+
+// Variable pour stocker le traducteur une fois chargé en mémoire
+let translatorInstance = null;
 
 export function cleanEncoding(str) {
     if (!str) return "";
@@ -40,24 +43,27 @@ export function isCyberItem(item) {
     );
 }
 
-// Fonction de traduction via une API publique libre (MyMemory / Lingva ou équivalent sans clé)
+// Fonction de traduction 100% AUTONOME et LOCALE (Zéro API, Zéro Limite)
 export async function translateText(text) {
     if (!text) return "";
     try {
-        // Utilisation de l'API MyMemory (gratuite, sans inscription, idéale pour de petits volumes)
-        const encodedText = encodeURIComponent(text);
-        const url = `https://api.mymemory.translated.net/get?q=${encodedText}&langpair=en|fr`;
-        
-        const response = await axios.get(url, { timeout: 4000 });
-        const translated = response.data?.responseData?.translatedText;
-        
-        // Si la traduction est valide et ne renvoie pas d'erreur de quota
-        if (translated && !translated.startsWith("MYMEMORY WARNING")) {
-            return cleanEncoding(translated);
+        // Initialisation du modèle au premier appel (Modèle Facebook ultra-léger et rapide)
+        if (!translatorInstance) {
+            translatorInstance = await pipeline('translation', 'Xenova/m2m100_418m');
+        }
+
+        // Exécution de la traduction de l'anglais (en) vers le français (fr)
+        const output = await translatorInstance(text, {
+            src_lang: 'en',
+            tgt_lang: 'fr',
+        });
+
+        if (output && output[0] && output[0].translation_text) {
+            return cleanEncoding(output[0].translation_text);
         }
         return text;
     } catch (e) {
-        // En cas de coupure réseau ou de blocage, on renvoie le texte d'origine
+        console.log(`[Traduction Locale] Erreur ou repli sur le texte original : ${e.message}`);
         return text;
     }
 }
