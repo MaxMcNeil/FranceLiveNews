@@ -3,7 +3,7 @@ name: Update News
 on:
   schedule:
     - cron: "0 */4 * * *"  # Déclenchement automatique 1 fois toutes les 4 heures
-  workflow_dispatch:       # Te permet toujours de le lancer manuellement depuis GitHub
+  workflow_dispatch:       # Déclencheur manuel (Bouton GitHub)
 
 permissions:
   contents: write
@@ -20,13 +20,11 @@ jobs:
       with:
         node-version: 20
 
-    # Force l'installation de Transformers si pas encore figé dans ton package.json
-     Wilk: Install dependencies
-    run: |
-      npm install
-      npm install @xenova/transformers
+    - name: Install dependencies
+      run: |
+        npm install
+        npm install @xenova/transformers
 
-    # MISE EN CACHE DU MODÈLE : Évite de retélécharger les 480 Mo d'IA à chaque run
     - name: Cache Transformers Models
       uses: actions/cache@v4
       with:
