@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T20:25:07.016Z",
+  "updated": "2026-07-11T20:29:59.681Z",
   "count": 50,
   "items": [
     {
@@ -17,14 +17,6 @@
       "link": "https://www.lefigaro.fr/flash-actu/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-affirment-avoir-arrete-les-responsables-20260709",
       "score": 95,
       "summary": "les autorités affirment avoir arrêté les responsables"
-    },
-    {
-      "title": "Les autorités syriennes affirment avoir arrêté les responsables des deux attentats survenus durant la visite d'Emmanuel Macron à Damas",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T20:26:19.000Z",
-      "link": "https://www.franceinfo.fr/monde/syrie/les-autorites-syriennes-affirment-avoir-arrete-les-responsables-des-deux-attentats-survenus-durant-la-visite-d-emmanuel-macron-a-damas_8101814.html#xtor=RSS-3-[lestitres]",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Les autorités syriennes affirment avoir arrêté les responsables des deux attenta..."
     },
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
@@ -171,15 +163,15 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Étude de 281 Apps VPN Android gratuites Trouvent des fuites de trafi..."
     },
     {
-      "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access",
+      "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement pour obtenir Microsoft 365 Access",
       "source": "CyberPress",
       "time": "2026-07-10T10:30:20.000Z",
       "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour ..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement po..."
     },
     {
-      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie",
+      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
       "source": "CyberPress",
       "time": "2026-07-10T09:00:05.000Z",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
@@ -195,12 +187,12 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea..."
     },
     {
-      "title": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS",
+      "title": "[CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web XSS",
       "source": "BleepingComputer",
       "time": "2026-07-10T11:47:38.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web..."
     },
     {
       "title": "[CYBER INT] Critique Zimbra Flaw pourrait permettre aux courriels créés de fonctionner un code nuisible dans les sessions d'utilisateurs",
@@ -401,6 +393,14 @@
       "link": "https://www.franceinfo.fr/coupe-du-monde/coupe-du-monde-2026-le-selectionneur-de-l-argentine-rejette-les-accusations-de-favoritisme-envers-lionel-messi-et-ses-coequipiers_8104103.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Coupe du monde 2026 : le sélectionneur de l'Argentine rejette les accusations de..."
+    },
+    {
+      "title": "Incendie dans le sud de l'Espagne : une Française  \"figure parmi les personnes disparues\", annonce le ministère des Affaires étrangères français",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T20:17:36.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-une-francaise-figure-parmi-les-personnes-disparues-annonce-le-ministere-des-affaires-etrangeres-francais_8104418.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Incendie dans le sud de l'Espagne : une Française  \"figure parmi les personnes d..."
     }
   ]
 }
