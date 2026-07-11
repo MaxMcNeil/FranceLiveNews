@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:01:36.905Z",
+  "updated": "2026-07-11T21:08:20.819Z",
   "count": 50,
   "items": [
     {
@@ -147,60 +147,60 @@
       "summary": "Point de situation critique concernant : Guerre en Iran : Pour le nouveau guide suprême iranien, la « vengeance » pour so..."
     },
     {
-      "title": "[CYBER INT] Étude de 281 Apps VPN Android gratuites Trouvent des fuites de trafic, des données non cryptées et le suivi",
+      "title": "[CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
       "source": "CyberPress",
       "time": "2026-07-10T10:56:23.000Z",
       "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Étude de 281 Apps VPN Android gratuites Trouvent des fuites de trafi..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted ..."
     },
     {
-      "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access",
+      "title": "[CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
       "source": "CyberPress",
       "time": "2026-07-10T10:30:20.000Z",
       "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour ..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsof..."
     },
     {
-      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie",
+      "title": "[CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "source": "CyberPress",
       "time": "2026-07-10T09:00:05.000Z",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million..."
     },
     {
-      "title": "[CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea Docker",
+      "title": "[CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image",
       "source": "BleepingComputer",
       "time": "2026-07-10T15:48:38.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image..."
     },
     {
-      "title": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS",
+      "title": "[CYBER INT] Zimbra urges customers to patch critical web client XSS flaw",
       "source": "BleepingComputer",
       "time": "2026-07-10T11:47:38.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra urges customers to patch critical web client XSS flaw..."
     },
     {
-      "title": "[CYBER INT] Critique Zimbra Flaw pourrait permettre aux courriels créés de fonctionner un code nuisible dans les sessions d'utilisateurs",
+      "title": "[CYBER INT] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "source": "CyberPress",
       "time": "2026-07-11T06:45:55.000Z",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Critique Zimbra Flaw pourrait permettre aux courriels créés de fonct..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in ..."
     },
     {
-      "title": "[CYBER INT] L'Australie prévient une campagne mondiale visant les plateformes CMS vulnérables",
+      "title": "[CYBER INT] Australia warns of global campaign targeting vulnerable CMS platforms",
       "source": "BleepingComputer",
       "time": "2026-07-11T14:18:23.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L'Australie prévient une campagne mondiale visant les plateformes CM..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Australia warns of global campaign targeting vulnerable CMS platform..."
     },
     {
       "title": "Des frappes russes font huit morts et 29 blessés en Ukraine",
