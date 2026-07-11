@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20    # Augmentation du timeout global pour plus de sécurité
 
     steps:
     - uses: actions/checkout@v4
@@ -35,7 +35,7 @@ jobs:
 
     - name: Fetch Cyber News
       run: node scripts/fetchCyber.mjs
-      timeout-minutes: 5
+      timeout-minutes: 10 # 🚀 Augmenté à 10 min pour laisser le temps au premier run d'initialiser l'IA locale
 
     - run: node scripts/fetchNews.mjs
     - run: node scripts/refineNews.mjs
@@ -51,4 +51,3 @@ jobs:
         git diff --cached --quiet && echo "no changes" && exit 0
         git commit -m "update pipeline: local AI translation and 4h schedule"
         git push
-        
