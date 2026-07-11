@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T19:45:12.694Z",
+  "updated": "2026-07-11T20:12:08.654Z",
   "count": 50,
   "items": [
     {
@@ -171,15 +171,15 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Étude de 281 Apps VPN Android gratuites Trouvent des fuites de trafi..."
     },
     {
-      "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement pour obtenir Microsoft 365 Access",
+      "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access",
       "source": "CyberPress",
       "time": "2026-07-10T10:30:20.000Z",
       "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement po..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour ..."
     },
     {
-      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
+      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie",
       "source": "CyberPress",
       "time": "2026-07-10T09:00:05.000Z",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
@@ -195,12 +195,12 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea..."
     },
     {
-      "title": "[CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web XSS",
+      "title": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS",
       "source": "BleepingComputer",
       "time": "2026-07-10T11:47:38.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web..."
+      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS..."
     },
     {
       "title": "[CYBER INT] Critique Zimbra Flaw pourrait permettre aux courriels créés de fonctionner un code nuisible dans les sessions d'utilisateurs",
@@ -219,12 +219,12 @@
       "summary": "Point de situation critique concernant : [CYBER INT] L'Australie prévient une campagne mondiale visant les plateformes CM..."
     },
     {
-      "title": "Une attaque de missiles russes fait onze blessés à Kiev",
+      "title": "Des frappes russes font huit morts et 29 blessés en Ukraine",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T08:48:50.000Z",
+      "time": "2026-07-11T20:04:16.000Z",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "Point de situation critique concernant : Une attaque de missiles russes fait onze blessés à Kiev..."
+      "summary": "Point de situation critique concernant : Des frappes russes font huit morts et 29 blessés en Ukraine..."
     },
     {
       "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
