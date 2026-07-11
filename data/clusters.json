@@ -19,43 +19,6 @@
     "summary": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres"
   },
   {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.franceinfo.fr/titres.rss",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T21:18:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-iran-etats-unis-armee-americaine-frappe-detroit-ormuz-koweit-bahrein-donald-trump-20260709",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mo..."
-      },
-      {
-        "title": "Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-10T20:27:40.000Z",
-        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-maintient-que-le-cessez-le-feu-est-termine-mais-accepte-de-negocier-avec-l-iran_8103347.html#xtor=RSS-3-[lestitres]",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
-      },
-      {
-        "title": "Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherait à assassiner Donald Trump",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-10T23:18:24.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234054-20260711-guerre-moyen-orient-renseignement-israelien-assure-iran-chercherait-assassiner-donald-trump?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherai..."
-      }
-    ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe / Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran"
-  },
-  {
     "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
     "score": 95,
     "count": 1,
@@ -96,10 +59,11 @@
   {
     "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
       {
@@ -117,6 +81,14 @@
         "link": "https://www.lefigaro.fr/international/en-direct-iran-guerre-moyen-orient-conflit-etats-unis-detroit-ormuz-donald-trump-benyamin-netanyahou-israel-liban-jordanie-20260710",
         "score": 95,
         "summary": "Point de situation critique concernant : EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition..."
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-10T20:27:40.000Z",
+        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-maintient-que-le-cessez-le-feu-est-termine-mais-accepte-de-negocier-avec-l-iran_8103347.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
       }
     ],
     "summary": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran / EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien"
@@ -250,6 +222,25 @@
     "summary": "«Rien ne nous prépare à une telle scène» : dans les carnets intimes de Gilles Gamberi, héros de l’ombre de l’attentat de Nice"
   },
   {
+    "title": "Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherait à assassiner Donald Trump",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherait à assassiner Donald Trump",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-10T23:18:24.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234054-20260711-guerre-moyen-orient-renseignement-israelien-assure-iran-chercherait-assassiner-donald-trump?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherai..."
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherait à assassiner Donald Trump"
+  },
+  {
     "title": "Varsovie va ériger un mur du souvenir pour les victimes du \"génocide\" commis par les \"nationalistes ukrainiens\" pendant la Seconde Guerre mondiale",
     "score": 95,
     "count": 1,
@@ -269,7 +260,7 @@
     "summary": "Varsovie va ériger un mur du souvenir pour les victimes du \"génocide\" commis par les \"nationalistes ukrainiens\" pendant la Seconde Guerre mondiale"
   },
   {
-    "title": "[CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+    "title": "[CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des fuites de trafic, des données non cryptées et du suivi",
     "score": 88,
     "count": 1,
     "sources": [
@@ -277,18 +268,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+        "title": "[CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des fuites de trafic, des données non cryptées et du suivi",
         "source": "CyberPress",
         "time": "2026-07-10T10:56:23.000Z",
         "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted ..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des ..."
       }
     ],
-    "summary": "[CYBER INT] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking"
+    "summary": "[CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des fuites de trafic, des données non cryptées et du suivi"
   },
   {
-    "title": "[CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+    "title": "[CYBER INT] Les pirates utilisent une fausse inscription à la clé de passe Microsoft Entrée pour obtenir l'accès à Microsoft 365",
     "score": 88,
     "count": 1,
     "sources": [
@@ -296,18 +287,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+        "title": "[CYBER INT] Les pirates utilisent une fausse inscription à la clé de passe Microsoft Entrée pour obtenir l'accès à Microsoft 365",
         "source": "CyberPress",
         "time": "2026-07-10T10:30:20.000Z",
         "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsof..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent une fausse inscription à la clé de passe Micro..."
       }
     ],
-    "summary": "[CYBER INT] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access"
+    "summary": "[CYBER INT] Les pirates utilisent une fausse inscription à la clé de passe Microsoft Entrée pour obtenir l'accès à Microsoft 365"
   },
   {
-    "title": "[CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
+    "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
     "score": 88,
     "count": 1,
     "sources": [
@@ -315,18 +306,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
+        "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
         "source": "CyberPress",
         "time": "2026-07-10T09:00:05.000Z",
         "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer ..."
       }
     ],
-    "summary": "[CYBER INT] Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets"
+    "summary": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer plus de 5 millions de dollars des portefeuilles de crypto-monnaie"
   },
   {
-    "title": "[CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image",
+    "title": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker",
     "score": 88,
     "count": 1,
     "sources": [
@@ -334,18 +325,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image",
+        "title": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker",
         "source": "BleepingComputer",
         "time": "2026-07-10T15:48:38.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'..."
       }
     ],
-    "summary": "[CYBER INT] Hackers exploit critical auth bypass in Gitea Docker image"
+    "summary": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker"
   },
   {
-    "title": "[CYBER INT] Zimbra urges customers to patch critical web client XSS flaw",
+    "title": "[CYBER INT] Zimbra exhorte les clients à corriger la faille critique du client Web XSS",
     "score": 88,
     "count": 2,
     "sources": [
@@ -354,26 +345,26 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Zimbra urges customers to patch critical web client XSS flaw",
+        "title": "[CYBER INT] Zimbra exhorte les clients à corriger la faille critique du client Web XSS",
         "source": "BleepingComputer",
         "time": "2026-07-10T11:47:38.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra urges customers to patch critical web client XSS flaw..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à corriger la faille critique du client W..."
       },
       {
-        "title": "[CYBER INT] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+        "title": "[CYBER INT] Une faille critique de Zimbra pourrait permettre aux courriels créés d' exécuter du code malveillant lors des sessions utilisateurs",
         "source": "CyberPress",
         "time": "2026-07-11T06:45:55.000Z",
         "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in ..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Une faille critique de Zimbra pourrait permettre aux courriels créés..."
       }
     ],
-    "summary": "[CYBER INT] Zimbra urges customers to patch critical web client XSS flaw / [CYBER INT] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions"
+    "summary": "[CYBER INT] Zimbra exhorte les clients à corriger la faille critique du client Web XSS / [CYBER INT] Une faille critique de Zimbra pourrait permettre aux courriels créés d' exécuter du code malveillant lors des sessions utilisateurs"
   },
   {
-    "title": "[CYBER INT] Australia warns of global campaign targeting vulnerable CMS platforms",
+    "title": "[CYBER INT] L'Australie met en garde contre une campagne mondiale visant les plateformes CMS vulnérables",
     "score": 88,
     "count": 1,
     "sources": [
@@ -381,15 +372,15 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Australia warns of global campaign targeting vulnerable CMS platforms",
+        "title": "[CYBER INT] L'Australie met en garde contre une campagne mondiale visant les plateformes CMS vulnérables",
         "source": "BleepingComputer",
         "time": "2026-07-11T14:18:23.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Australia warns of global campaign targeting vulnerable CMS platform..."
+        "summary": "Point de situation critique concernant : [CYBER INT] L'Australie met en garde contre une campagne mondiale visant les pla..."
       }
     ],
-    "summary": "[CYBER INT] Australia warns of global campaign targeting vulnerable CMS platforms"
+    "summary": "[CYBER INT] L'Australie met en garde contre une campagne mondiale visant les plateformes CMS vulnérables"
   },
   {
     "title": "Des frappes russes font huit morts et 29 blessés en Ukraine",
@@ -821,5 +812,24 @@
       }
     ],
     "summary": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet"
+  },
+  {
+    "title": "Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursup",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursup",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-11T10:20:05.000Z",
+        "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html#xtor=RSS-3-[lestitres]",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursu..."
+      }
+    ],
+    "summary": "Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursup"
   }
 ]
