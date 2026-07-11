@@ -3,10 +3,10 @@ import path from "path";
 import os from "os";
 import { pipeline, env } from "@xenova/transformers"; // Import de l'IA locale et de son environnement
 
-// 🚀 Configuration corrigée pour forcer la lecture locale du cache
+// 🚀 Configuration du dossier de cache sous GitHub Actions
 const CACHE_DIR = "/home/runner/.cache/huggingface";
-env.allowLocalFiles = true;   // Permet la lecture directe du cache hors-ligne
-env.allowRemoteFiles = true;  // Permet le téléchargement initial si le cache est vide
+env.allowLocalFiles = true;   
+env.allowRemoteFiles = true;  
 env.cacheDir = CACHE_DIR;
 
 export const TARGET_FILE = "data/news.json";
@@ -51,15 +51,15 @@ export function isCyberItem(item) {
     );
 }
 
-// Fonction de traduction 100% AUTONOME et LOCALE (Zéro API, Zéro Limite)
+// Fonction de traduction 100% AUTONOME et LOCALE (Modèle Nano optimisé performance)
 export async function translateText(text) {
     if (!text) return "";
     try {
-        // Initialisation du modèle au premier appel (Modèle configuré sur notre cache fixe)
+        // Initialisation du modèle léger "marime-m2m100-small" pour soulager le CPU de GitHub
         if (!translatorInstance) {
-            translatorInstance = await pipeline('translation', 'Xenova/m2m100_418m', {
+            translatorInstance = await pipeline('translation', 'Xenova/marime-m2m100-small', {
                 cache_dir: CACHE_DIR,
-                local_files_only: false // Laisse chercher sur le web uniquement si le cache est vide
+                local_files_only: false
             });
         }
 
@@ -77,4 +77,4 @@ export async function translateText(text) {
         console.log(`[Traduction Locale] Erreur ou repli sur le texte original : ${e.message}`);
         return text;
     }
-}
+                }
