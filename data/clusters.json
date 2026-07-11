@@ -19,42 +19,6 @@
     "summary": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres"
   },
   {
-    "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-09T20:30:38.000Z",
-        "link": "https://www.lefigaro.fr/flash-actu/attentats-a-damas-lors-de-la-visite-d-emmanuel-macron-les-autorites-affirment-avoir-arrete-les-responsables-20260709",
-        "score": 95,
-        "summary": "les autorités affirment avoir arrêté les responsables"
-      },
-      {
-        "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-09T23:24:45.000Z",
-        "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
-      },
-      {
-        "title": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-10T00:41:36.000Z",
-        "link": "https://www.lefigaro.fr/international/la-syrie-affirme-que-les-explosions-a-damas-a-cote-de-l-hotel-d-emmanuel-macron-sont-liees-a-l-etat-islamique-20260710",
-        "score": 95,
-        "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
-      }
-    ],
-    "summary": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables / Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas"
-  },
-  {
     "title": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe",
     "score": 95,
     "count": 3,
@@ -90,6 +54,44 @@
       }
     ],
     "summary": "EN DIRECT - Guerre au Moyen-Orient : Trump a informé Netanyahou des «derniers mouvements» américains dans le Golfe / Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran"
+  },
+  {
+    "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-09T23:24:45.000Z",
+        "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
+      }
+    ],
+    "summary": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas"
+  },
+  {
+    "title": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-10T00:41:36.000Z",
+        "link": "https://www.lefigaro.fr/international/la-syrie-affirme-que-les-explosions-a-damas-a-cote-de-l-hotel-d-emmanuel-macron-sont-liees-a-l-etat-islamique-20260710",
+        "score": 95,
+        "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
+      }
+    ],
+    "summary": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique"
   },
   {
     "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
@@ -286,7 +288,7 @@
     "summary": "[CYBER INT] Étude de 281 Apps VPN Android gratuites Trouvent des fuites de trafic, des données non cryptées et le suivi"
   },
   {
-    "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement pour obtenir Microsoft 365 Access",
+    "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access",
     "score": 88,
     "count": 1,
     "sources": [
@@ -294,18 +296,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement pour obtenir Microsoft 365 Access",
+        "title": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access",
         "source": "CyberPress",
         "time": "2026-07-10T10:30:20.000Z",
         "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement po..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour ..."
       }
     ],
-    "summary": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Enregistrement pour obtenir Microsoft 365 Access"
+    "summary": "[CYBER INT] Les pirates utilisent faux Microsoft Entra Passkey Inscription pour obtenir Microsoft 365 Access"
   },
   {
-    "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
+    "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie",
     "score": 88,
     "count": 1,
     "sources": [
@@ -313,7 +315,7 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
+        "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie",
         "source": "CyberPress",
         "time": "2026-07-10T09:00:05.000Z",
         "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
@@ -321,7 +323,7 @@
         "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire..."
       }
     ],
-    "summary": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars des portefeuilles de crypto-monnaie"
+    "summary": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour extraire plus de 5 millions de dollars de portefeuilles de crypto-monnaie"
   },
   {
     "title": "[CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea Docker",
@@ -352,7 +354,7 @@
     "summary": "[CYBER INT] Les hackers exploitent un bypass auth critique dans l'image de Gitea Docker / [CYBER INT] Critique Zimbra Flaw pourrait permettre aux courriels créés de fonctionner un code nuisible dans les sessions d'utilisateurs"
   },
   {
-    "title": "[CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web XSS",
+    "title": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS",
     "score": 88,
     "count": 1,
     "sources": [
@@ -360,15 +362,15 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web XSS",
+        "title": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS",
         "source": "BleepingComputer",
         "time": "2026-07-10T11:47:38.000Z",
         "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS..."
       }
     ],
-    "summary": "[CYBER INT] Zimbra appelle les clients à patcher l'erreur critique du client Web XSS"
+    "summary": "[CYBER INT] Zimbra exhorte les clients à patcher le client Web critique XSS"
   },
   {
     "title": "[CYBER INT] L'Australie prévient une campagne mondiale visant les plateformes CMS vulnérables",
@@ -800,5 +802,24 @@
       }
     ],
     "summary": "Une première cérémonie d’hommage national à Alfred Dreyfus organisée dimanche, en présence d'Emmanuel Macron"
+  },
+  {
+    "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-11T18:50:27.000Z",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
+        "score": 70,
+        "summary": "la France voit grand pour son défilé du 14-Juillet"
+      }
+    ],
+    "summary": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet"
   }
 ]
