@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T22:23:01.213Z",
+  "updated": "2026-07-11T06:13:47.521Z",
   "count": 50,
   "items": [
     {
@@ -41,14 +41,6 @@
       "link": "https://www.20minutes.fr/monde/ukraine/4233828-20260709-guerre-ukraine-russie-menace-faire-durer-conflit-enfants-endoctrines-combattre?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie menace de faire durer le conflit, des enfants endo..."
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements américains dans le Golfe",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-09T04:46:20.000Z",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4233676-20260709-direct-guerre-moyen-orient-etats-unis-frappent-90-cibles-militaires-teheran-riposte-koweit-bahrein?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Trump a informé Netanyahou des derniers mouvements amér..."
     },
     {
       "title": "Attentats à Damas lors de la visite d’Emmanuel Macron : les autorités affirment avoir arrêté les responsables",
@@ -99,12 +91,12 @@
       "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé », l'Iran frappera Israël en cas d'attaque...",
+      "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-10T04:50:08.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump dit que le « cessez-le-feu est terminé ..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition ..."
     },
     {
       "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
@@ -155,6 +147,38 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
     },
     {
+      "title": "Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T05:41:11.000Z",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : une attaque de missiles russes fait six blessés à Kiev..."
+    },
+    {
+      "title": "EN DIRECT - «Guerre au Moyen-Orient : Trump menace d’«anéantir et détruire complètement» l’Iran s’il tente de l’assassiner",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-11T05:52:10.000Z",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
+      "score": 95,
+      "summary": "Trump menace d’«anéantir et détruire complètement» l’Iran s’il tente de l’assassiner"
+    },
+    {
+      "title": "«Rien ne nous prépare à une telle scène» : dans les carnets intimes de Gilles Gamberi, héros de l’ombre de l’attentat de Nice",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-11T05:00:00.000Z",
+      "link": "https://www.lefigaro.fr/nice/rien-ne-nous-prepare-a-une-telle-scene-dans-les-carnets-intimes-de-gilles-gamberi-heros-de-l-ombre-de-l-attentat-de-nice-20260711",
+      "score": 95,
+      "summary": "dans les carnets intimes de Gilles Gamberi, héros de l’ombre de l’attentat de Nice"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherait à assassiner Donald Trump",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-10T23:18:24.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4234054-20260711-guerre-moyen-orient-renseignement-israelien-assure-iran-chercherait-assassiner-donald-trump?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le renseignement israélien assure que l’Iran chercherai..."
+    },
+    {
       "title": "[CYBER INT] Nouveau GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware et Spyware",
       "source": "BleepingComputer",
       "time": "2026-07-09T18:08:07.000Z",
@@ -195,14 +219,6 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Microsoft corrige la faille RoguePlanet Defender qui peut accorder d..."
     },
     {
-      "title": "[CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos malveillants d'exécuter du code dans les agents de codage AI",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T04:27:18.000Z",
-      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les failles de Symlink GhostApproval pourraient permettre aux Repos ..."
-    },
-    {
       "title": "[CYBER INT] Microsoft s'attend à plus de mises à jour de sécurité Windows à partir des failles découvertes par l'IA",
       "source": "BleepingComputer",
       "time": "2026-07-09T17:00:00.000Z",
@@ -233,14 +249,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] La police arrête 5 800 suspects dans le cadre de la répression anti-..."
-    },
-    {
-      "title": "[CYBER INT] Microsoft corrige la vulnérabilité zero-day de RoguePlanet Defender",
-      "source": "BleepingComputer",
-      "time": "2026-07-09T05:42:49.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft corrige la vulnérabilité zero-day de RoguePlanet Defender..."
     },
     {
       "title": "[CYBER INT] Une étude portant sur 281 applications VPN Android gratuites révèle des fuites de trafic, des données non cryptées et un suivi",
@@ -393,14 +401,6 @@
       "link": "https://www.franceinfo.fr/brevet/brevet-2026-decouvrez-les-resultats-officiels-pour-les-academies-de-toulouse-nantes-besancon-nancy-metz-amiens_8081558.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Brevet 2026 : La Réunion, Rouen, Caen, Nantes, Poitiers, Toulouse... Découvrez l..."
-    },
-    {
-      "title": "Le président turc Recep Tayyip Erdogan offre des revolvers gravés à leurs noms aux dirigeants présents au sommet de l'Otan",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T13:41:40.000Z",
-      "link": "https://www.franceinfo.fr/monde/turquie/le-president-turc-offre-en-cadeau-un-revolver-et-six-balles-aux-leaders-de-l-otan_8101181.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Le président turc Recep Tayyip Erdogan offre des revolvers gravés à leurs noms a..."
     }
   ]
 }
