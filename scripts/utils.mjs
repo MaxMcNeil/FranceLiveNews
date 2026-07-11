@@ -74,4 +74,4 @@ export async function translateText(text) {
         console.log(`[Traduction Locale] Erreur ou repli sur le texte original : ${e.message}`);
         return text;
     }
-}
+            }
