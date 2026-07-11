@@ -3,9 +3,10 @@ import path from "path";
 import os from "os";
 import { pipeline, env } from "@xenova/transformers"; // Import de l'IA locale et de son environnement
 
-// 🚀 Configuration impérative pour stabiliser le dossier de cache sous GitHub Actions
-const CACHE_DIR = path.join(os.homedir(), ".cache", "huggingface");
-env.allowLocalFiles = false; // Télécharge le modèle si non présent, utilise le cache sinon
+// 🚀 Configuration corrigée pour forcer la lecture locale du cache
+const CACHE_DIR = "/home/runner/.cache/huggingface";
+env.allowLocalFiles = true;   // Permet la lecture directe du cache hors-ligne
+env.allowRemoteFiles = true;  // Permet le téléchargement initial si le cache est vide
 env.cacheDir = CACHE_DIR;
 
 export const TARGET_FILE = "data/news.json";
@@ -57,7 +58,8 @@ export async function translateText(text) {
         // Initialisation du modèle au premier appel (Modèle configuré sur notre cache fixe)
         if (!translatorInstance) {
             translatorInstance = await pipeline('translation', 'Xenova/m2m100_418m', {
-                cache_dir: CACHE_DIR
+                cache_dir: CACHE_DIR,
+                local_files_only: false // Laisse chercher sur le web uniquement si le cache est vide
             });
         }
 
