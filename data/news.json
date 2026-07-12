@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:29:54.231Z",
+  "updated": "2026-07-12T02:23:28.651Z",
   "count": 50,
   "items": [
     {
@@ -9,22 +9,6 @@
       "link": "https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709",
       "score": 95,
       "summary": "Point de situation critique concernant : Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres..."
-    },
-    {
-      "title": "Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les attentats de Damas",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-09T23:24:45.000Z",
-      "link": "https://www.20minutes.fr/monde/syrie/4233895-20260710-syrie-autorites-annoncent-arrestation-suspects-lies-daesh-apres-attentats-damas?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Syrie : Les autorités annoncent l’arrestation de suspects liés à Daesh après les..."
-    },
-    {
-      "title": "La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron sont liées à l’État islamique",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-10T00:41:36.000Z",
-      "link": "https://www.lefigaro.fr/international/la-syrie-affirme-que-les-explosions-a-damas-a-cote-de-l-hotel-d-emmanuel-macron-sont-liees-a-l-etat-islamique-20260710",
-      "score": 95,
-      "summary": "Point de situation critique concernant : La Syrie affirme que les explosions à Damas à côté de l’hôtel d’Emmanuel Macron ..."
     },
     {
       "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
@@ -83,12 +67,12 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : le guide suprême iranien promet de venger son père, Ali Khamenei",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-11T11:37:03.000Z",
+      "time": "2026-07-12T01:25:03.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
       "score": 95,
-      "summary": "le guide suprême iranien promet de venger son père, Ali Khamenei"
+      "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
     },
     {
       "title": "«Rien ne nous prépare à une telle scène» : dans les carnets intimes de Gilles Gamberi, héros de l’ombre de l’attentat de Nice",
@@ -201,14 +185,6 @@
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Des frappes russes font huit morts et 29 blessés en Ukraine..."
-    },
-    {
-      "title": "Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi-finales de la Coupe du monde… Revivez le match entre la France et le Maroc",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-09T21:32:32.000Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-l-equipe-de-france-affronte-le-maroc-a-22-heures-pour-une-place-en-demi-finale-suivez-le-match-avec-nous_8099543.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Grâce à son duo de buteurs Mbappé-Dembélé, les Bleus se qualifient pour les demi..."
     },
     {
       "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres",
@@ -389,7 +365,7 @@
     {
       "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T18:50:27.000Z",
+      "time": "2026-07-11T21:28:32.000Z",
       "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "la France voit grand pour son défilé du 14-Juillet"
@@ -401,6 +377,30 @@
       "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursu..."
+    },
+    {
+      "title": "\"Il a le seum\" : Kévin Vauquelin chambre Remco Evenepoel après la défaite de la Belgique face à l’Espagne en Coupe du monde",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T14:15:49.000Z",
+      "link": "https://www.franceinfo.fr/tour-de-france/il-a-le-seum-kevin-vauquelin-chambre-remco-evenepoel-apres-la-defaite-de-la-belgique-face-a-l-espagne-en-coupe-du-monde_8104148.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Kévin Vauquelin chambre Remco Evenepoel après la défaite de la Belgique face à l’Espagne en Coupe du monde"
+    },
+    {
+      "title": "Hisae Iwaoka, l'autrice de mangas qui rêve d'une harmonie entre l'humain et la nature",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T12:30:22.000Z",
+      "link": "https://www.franceinfo.fr/culture/bd/mangas/entretien-hisae-iwaoka-l-autrice-de-mangas-qui-reve-d-une-harmonie-entre-l-humain-et-la-nature_8103359.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Hisae Iwaoka, l'autrice de mangas qui rêve d'une harmonie entre l'humain et la n..."
+    },
+    {
+      "title": "Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à la métropole Aix-Marseille pour des soupçons de favoritisme et de corruption",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-11T09:47:45.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/des-perquisitions-ont-eu-lieu-fin-juin-au-departement-des-bouches-du-rhone-et-a-la-metropole-aix-marseille-pour-des-soupcons-de-favoritisme-et-de-corruption_8103797.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à ..."
     }
   ]
 }
