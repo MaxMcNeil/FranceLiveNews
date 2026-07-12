@@ -1,30 +1,12 @@
 [
   {
-    "title": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-10T14:12:01.000Z",
-        "link": "https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres..."
-      }
-    ],
-    "summary": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres"
-  },
-  {
     "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
     "score": 95,
     "count": 5,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.franceinfo.fr/titres.rss"
+      "https://www.franceinfo.fr/titres.rss",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -52,20 +34,20 @@
         "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
       },
       {
-        "title": "Guerre au Moyen-Orient : après la reprise des hostilités dans la nuit, le chef de la diplomatie pakistanaise a appelé à la \"retenue\" lors d'un appel avec l'Iran",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-12T13:00:44.000Z",
-        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : après la reprise des hostilités dans la nuit, le chef d..."
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : le Qatar qualifie les attaques iraniennes contre son territoire et ses voisins de «dangereuse escalade»",
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine affirme que des navires circulent dans le détroit d’Ormuz",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-12T13:07:03.000Z",
+        "time": "2026-07-12T13:20:46.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
         "score": 95,
-        "summary": "le Qatar qualifie les attaques iraniennes contre son territoire et ses voisins de «dangereuse escalade»"
+        "summary": "l’armée américaine affirme que des navires circulent dans le détroit d’Ormuz"
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : L’Iran annonce la fermeture du détroit d’Ormuz, les Etats-Unis maintiennent qu’il est ouvert…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-12T07:25:50.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L’Iran annonce la fermeture du détroit d’Ormu..."
       }
     ],
     "summary": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien / Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran"
@@ -182,6 +164,25 @@
     "summary": "Guerre en Iran : Pour le nouveau guide suprême iranien, la « vengeance » pour son père est « inévitable »"
   },
   {
+    "title": "Guerre au Moyen-Orient : l'armée américaine affirme que des navires circulent dans le détroit d'Ormuz",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : l'armée américaine affirme que des navires circulent dans le détroit d'Ormuz",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-12T15:42:11.000Z",
+        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : l'armée américaine affirme que des navires circulent da..."
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : l'armée américaine affirme que des navires circulent dans le détroit d'Ormuz"
+  },
+  {
     "title": "Dix ans après le drame de Nice, c'est \"un attentat qui est complètement oublié\", déplore Anne Murris, présidente de l'association Mémorial des anges",
     "score": 95,
     "count": 1,
@@ -199,25 +200,6 @@
       }
     ],
     "summary": "Dix ans après le drame de Nice, c'est \"un attentat qui est complètement oublié\", déplore Anne Murris, présidente de l'association Mémorial des anges"
-  },
-  {
-    "title": "EN DIRECT Guerre au Moyen-Orient : Le détroit d’Ormuz qualifié de « plus important » que des « bombes atomiques », le Qatar ciblé par des frappes…",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Le détroit d’Ormuz qualifié de « plus important » que des « bombes atomiques », le Qatar ciblé par des frappes…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-12T07:25:50.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Le détroit d’Ormuz qualifié de « plus importa..."
-      }
-    ],
-    "summary": "EN DIRECT Guerre au Moyen-Orient : Le détroit d’Ormuz qualifié de « plus important » que des « bombes atomiques », le Qatar ciblé par des frappes…"
   },
   {
     "title": "A Nice, une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
@@ -248,23 +230,23 @@
     "summary": "A Nice, une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet / Dix ans de l’attentat de Nice : Une marche blanche lance les commémorations ce dimanche"
   },
   {
-    "title": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker",
-    "score": 88,
+    "title": "Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-Orient",
+    "score": 95,
     "count": 1,
     "sources": [
-      "BleepingComputer"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
-        "title": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker",
-        "source": "BleepingComputer",
-        "time": "2026-07-10T15:48:38.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'..."
+        "title": "Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-Orient",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-12T16:29:55.000Z",
+        "link": "https://www.lefigaro.fr/international/israel-sur-le-pied-de-guerre-apres-une-nouvelle-escalade-des-violences-au-moyen-orient-20260712",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-..."
       }
     ],
-    "summary": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker"
+    "summary": "Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-Orient"
   },
   {
     "title": "[CYBER INT] Une faille critique de Zimbra pourrait permettre aux courriels créés d' exécuter du code malveillant lors des sessions utilisateurs",
@@ -470,7 +452,7 @@
     "summary": "Orages dans le sud-ouest : de nombreux foyers encore privés d'électricité / Après les orages nocturnes, 5 000 foyers toujours privés d'électricité dans le Sud-Ouest"
   },
   {
-    "title": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine",
+    "title": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats",
     "score": 70,
     "count": 1,
     "sources": [
@@ -478,15 +460,15 @@
     ],
     "items": [
       {
-        "title": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine",
+        "title": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-12T12:55:56.000Z",
+        "time": "2026-07-12T16:11:58.000Z",
         "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
         "score": 70,
-        "summary": "Point de situation critique concernant : \"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\"..."
+        "summary": "Point de situation critique concernant : \"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iranie..."
       }
     ],
-    "summary": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine"
+    "summary": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats"
   },
   {
     "title": "Tour de France 2026 : la 9e étape en Corrèze raccourcie en raison de la canicule",
@@ -807,5 +789,24 @@
       }
     ],
     "summary": "\"Racisme crasseux\", \"haine banalisée\"... Des politiques français répondent à l'Espagnol Mariano Rajoy après ses propos à caractère raciste envers l'équipe de France"
+  },
+  {
+    "title": "\"Personne ne nous a prévenus\" : le mari de la Française disparue dans l'incendie meurtrier en Espagne met en cause les autorités du pays",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "\"Personne ne nous a prévenus\" : le mari de la Française disparue dans l'incendie meurtrier en Espagne met en cause les autorités du pays",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-12T14:13:52.000Z",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/personne-ne-nous-a-prevenus-le-mari-de-la-francaise-disparue-dans-l-incendie-meurtrier-en-espagne-met-en-cause-les-autorites-du-pays_8105180.html#xtor=RSS-3-[lestitres]",
+        "score": 70,
+        "summary": "le mari de la Française disparue dans l'incendie meurtrier en Espagne met en cause les autorités du pays"
+      }
+    ],
+    "summary": "\"Personne ne nous a prévenus\" : le mari de la Française disparue dans l'incendie meurtrier en Espagne met en cause les autorités du pays"
   }
 ]
