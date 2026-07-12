@@ -19,23 +19,14 @@
     "summary": "Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres"
   },
   {
-    "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
+    "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
     "score": 95,
-    "count": 3,
+    "count": 5,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.franceinfo.fr/titres.rss"
     ],
     "items": [
-      {
-        "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-10T04:50:08.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition ..."
-      },
       {
         "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -51,14 +42,38 @@
         "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-maintient-que-le-cessez-le-feu-est-termine-mais-accepte-de-negocier-avec-l-iran_8103347.html#xtor=RSS-3-[lestitres]",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"termin..."
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-12T01:25:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
+        "score": 95,
+        "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-12T05:56:47.000Z",
+        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés"
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-12T05:52:02.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
+        "score": 95,
+        "summary": "reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz"
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran / EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien"
+    "summary": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien / Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran"
   },
   {
     "title": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis",
     "score": 95,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
@@ -70,22 +85,14 @@
         "link": "https://www.lefigaro.fr/international/le-detroit-d-ormuz-epicentre-du-conflit-au-coeur-de-la-guerre-entre-l-iran-et-les-etats-unis-20260710",
         "score": 95,
         "summary": "Point de situation critique concernant : Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et l..."
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-12T01:25:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
-        "score": 95,
-        "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
       }
     ],
-    "summary": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis / EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
+    "summary": "Le détroit d’Ormuz, épicentre du conflit, au cœur de la guerre entre l’Iran et les États-Unis"
   },
   {
     "title": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes",
     "score": 95,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -97,14 +104,6 @@
         "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
-      },
-      {
-        "title": "EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-10T05:17:19.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4233880-20260710-direct-guerre-ukraine-kiev-frappe-nouveau-infrastructures-petrolieres-russes?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infli..."
       },
       {
         "title": "Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes",
@@ -123,7 +122,7 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles frappes meurtrières de Moscou et tension mémoriell..."
       }
     ],
-    "summary": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes / EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier..."
+    "summary": "Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 milliards d’euros de pertes / Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes"
   },
   {
     "title": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »",
@@ -361,25 +360,6 @@
       }
     ],
     "summary": "Des frappes russes font huit morts et 29 blessés en Ukraine"
-  },
-  {
-    "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-10T05:09:00.000Z",
-        "link": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : La tapisserie de Bayeux est arrivée au British Museum de Londres..."
-      }
-    ],
-    "summary": "La tapisserie de Bayeux est arrivée au British Museum de Londres"
   },
   {
     "title": "NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitués du camping, près de l'océan et loin des tracas",
@@ -819,5 +799,24 @@
       }
     ],
     "summary": "Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à la métropole Aix-Marseille pour des soupçons de favoritisme et de corruption"
+  },
+  {
+    "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-12T05:25:57.000Z",
+        "link": "https://www.franceinfo.fr/coupe-du-monde/l-argentine-ecarte-la-suisse-en-prolongation-et-rejoint-l-angleterre-en-demi-finales-de-la-coupe-du-monde_8104559.html#xtor=RSS-3-[lestitres]",
+        "score": 70,
+        "summary": "Point de situation critique concernant : L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-fin..."
+      }
+    ],
+    "summary": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:23:28.651Z",
+  "updated": "2026-07-12T06:30:57.915Z",
   "count": 50,
   "items": [
     {
@@ -9,14 +9,6 @@
       "link": "https://www.lefigaro.fr/international/du-vietnam-a-l-iran-pourquoi-l-amerique-n-arrive-plus-a-gagner-ses-guerres-20260709",
       "score": 95,
       "summary": "Point de situation critique concernant : Du Vietnam à l’Iran, pourquoi l’Amérique n’arrive plus à gagner ses guerres..."
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition de l'Iran », affirme Téhéran",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-10T04:50:08.000Z",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4233909-20260710-direct-guerre-moyen-orient-plan-iranien-tuer-donald-trump?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Le conflit « ne se terminera jamais avec une reddition ..."
     },
     {
       "title": "EN DIRECT - La guerre au Moyen-Orient «ne se terminera jamais avec une reddition de l’Iran», prévient le négociateur iranien",
@@ -41,14 +33,6 @@
       "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
-    },
-    {
-      "title": "EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infligé 6 milliards de dollars de pertes à la Russie depuis janvier...",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-10T05:17:19.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4233880-20260710-direct-guerre-ukraine-kiev-frappe-nouveau-infrastructures-petrolieres-russes?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Les frappes longue distance de Kiev auraient infli..."
     },
     {
       "title": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »",
@@ -123,6 +107,22 @@
       "summary": "Point de situation critique concernant : Guerre en Iran : Pour le nouveau guide suprême iranien, la « vengeance » pour so..."
     },
     {
+      "title": "Guerre au Moyen-Orient : les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-12T05:56:47.000Z",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés"
+    },
+    {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-12T05:52:02.000Z",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
+      "score": 95,
+      "summary": "reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz"
+    },
+    {
       "title": "[CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des fuites de trafic, des données non cryptées et du suivi",
       "source": "CyberPress",
       "time": "2026-07-10T10:56:23.000Z",
@@ -185,14 +185,6 @@
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Des frappes russes font huit morts et 29 blessés en Ukraine..."
-    },
-    {
-      "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-10T05:09:00.000Z",
-      "link": "https://www.franceinfo.fr/culture/patrimoine/le-transfert-de-la-tapisserie-de-bayeux-vers-le-british-museum-de-londres-a-debute_8101700.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : La tapisserie de Bayeux est arrivée au British Museum de Londres..."
     },
     {
       "title": "NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitués du camping, près de l'océan et loin des tracas",
@@ -401,6 +393,14 @@
       "link": "https://www.franceinfo.fr/faits-divers/justice-proces/des-perquisitions-ont-eu-lieu-fin-juin-au-departement-des-bouches-du-rhone-et-a-la-metropole-aix-marseille-pour-des-soupcons-de-favoritisme-et-de-corruption_8103797.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à ..."
+    },
+    {
+      "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-12T05:25:57.000Z",
+      "link": "https://www.franceinfo.fr/coupe-du-monde/l-argentine-ecarte-la-suisse-en-prolongation-et-rejoint-l-angleterre-en-demi-finales-de-la-coupe-du-monde_8104559.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-fin..."
     }
   ]
 }
