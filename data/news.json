@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T06:30:57.915Z",
+  "updated": "2026-07-12T09:23:01.621Z",
   "count": 50,
   "items": [
     {
@@ -33,14 +33,6 @@
       "link": "https://www.20minutes.fr/monde/4234041-20260710-guerre-ukraine-frappes-kiev-font-tres-mal-russie-plus-5-milliards-euros-pertes?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Les frappes de Kiev font très mal à la Russie, plus de 5 mil..."
-    },
-    {
-      "title": "Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre aux yeux »",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-10T06:32:36.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4233745-20260710-guerre-ukraine-missiles-patriot-made-in-ukraine-poudre-yeux?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Des missiles Patriot made in Ukraine ? « C’est de la poudre ..."
     },
     {
       "title": "Guerre au Moyen-Orient : Donald Trump maintient que le cessez-le-feu est \"terminé\" mais accepte de négocier avec l'Iran",
@@ -107,20 +99,36 @@
       "summary": "Point de situation critique concernant : Guerre en Iran : Pour le nouveau guide suprême iranien, la « vengeance » pour so..."
     },
     {
-      "title": "Guerre au Moyen-Orient : les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés",
+      "title": "Guerre au Moyen-Orient : après la reprise des hostilités dans la nuit, le chef de la diplomatie pakistanaise a appelé à la \"retenue\" lors d'un appel avec l'Iran",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-12T05:56:47.000Z",
+      "time": "2026-07-12T08:30:08.000Z",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-140-fois-l-iran-pendant-la-nuit-apres-l-attaque-par-teheran-d-un-navire-dans-le-detroit-d-ormuz-plusieurs-pays-du-golfe-aussi-cibles_8104715.html#xtor=RSS-3-[lestitres]",
       "score": 95,
-      "summary": "les Etats-Unis ont frappé 140 fois l'Iran pendant la nuit, après l'attaque par Téhéran d'un navire dans le détroit d'Ormuz, plusieurs pays du Golfe aussi ciblés"
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : après la reprise des hostilités dans la nuit, le chef d..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : le chef de la diplomatie pakistanaise exhorte les États-Unis et l’Iran à faire «preuve de retenue»",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-12T05:52:02.000Z",
+      "time": "2026-07-12T08:47:03.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
       "score": 95,
-      "summary": "reprise des hostilités entre les États-Unis et l’Iran après l’attaque d’un navire dans le détroit d’Ormuz"
+      "summary": "le chef de la diplomatie pakistanaise exhorte les États-Unis et l’Iran à faire «preuve de retenue»"
+    },
+    {
+      "title": "Attentat de Nice : dix ans après, \"on ne se sent pas soutenus\", déplore l'association Mémorial des Anges",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-12T08:11:34.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-dix-ans-apres-on-ne-se-sent-pas-soutenu-deplore-l-association-memorial-des-anges_8104889.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Attentat de Nice : dix ans après, \"on ne se sent pas soutenus\", déplore l'associ..."
+    },
+    {
+      "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis frappent 140 cibles iraniennes, l’Iran vise les pays du Golfe…",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-12T07:25:50.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis frappent 140 cibles iraniennes..."
     },
     {
       "title": "[CYBER INT] Une étude de 281 applications VPN gratuites pour Android révèle des fuites de trafic, des données non cryptées et du suivi",
@@ -137,14 +145,6 @@
       "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent une fausse inscription à la clé de passe Micro..."
-    },
-    {
-      "title": "[CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer plus de 5 millions de dollars des portefeuilles de crypto-monnaie",
-      "source": "CyberPress",
-      "time": "2026-07-10T09:00:05.000Z",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants exploitent la vulnérabilité \"Ill Bloom\" pour évacuer ..."
     },
     {
       "title": "[CYBER INT] Les pirates exploitent le contournement critique de l'auteur dans l'image de Gitea Docker",
@@ -245,7 +245,7 @@
     {
       "title": "\"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\" : comment la trêve entre Washington et Téhéran a volé en éclats cette semaine",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T15:13:52.000Z",
+      "time": "2026-07-12T07:39:17.000Z",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : \"L'armée américaine est prête à détruire complètement toutes les régions d'Iran\"..."
