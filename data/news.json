@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T17:53:08.702Z",
+  "updated": "2026-07-13T20:54:56.595Z",
   "count": 50,
   "items": [
     {
@@ -85,7 +85,7 @@
     {
       "title": "Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Iran et les attaques iraniennes",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-13T17:42:42.000Z",
+      "time": "2026-07-13T19:34:10.000Z",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Ir..."
@@ -99,20 +99,20 @@
       "summary": "Point de situation critique concernant : \"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attent..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump affirme vouloir instaurer une taxe de 20% sur les navires marchands dans le détroit d’Ormuz",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-13T17:38:02.000Z",
+      "time": "2026-07-13T19:27:03.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
       "score": 95,
-      "summary": "Donald Trump affirme vouloir instaurer une taxe de 20% sur les navires marchands dans le détroit d’Ormuz"
+      "summary": "les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz"
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Un opposant à Vladimir Poutine, qui critique le conflit, arrêté à Moscou…",
+      "title": "Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va s’entraîner dans les « pays voisins »",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-13T05:32:53.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4234317-20260713-direct-guerre-ukraine-trois-morts-moscou-attaques-drones-ukrainiens?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Un opposant à Vladimir Poutine, qui critique le co..."
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va ..."
     },
     {
       "title": "Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jordanie, à Bahreïn et au Koweït",
@@ -123,12 +123,12 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jo..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Trump dit prendre le contrôle d’Ormuz et annonce une taxe de 20 % sur le fret…",
+      "title": "EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocus maritime contre l’Iran ce mardi…",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-13T06:47:10.000Z",
       "link": "https://www.20minutes.fr/monde/4234322-20260713-direct-guerre-moyen-orient-etats-unis-frappent-nouveau-iran-lequel-attaque-bases-americaines-etranger?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump dit prendre le contrôle d’Ormuz et anno..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocu..."
     },
     {
       "title": "\"J'ai réussi à vaincre mes peurs\" : dix ans après l'attentat de Nice, comment les enfants rescapés ont-ils appris à revivre ?",
@@ -219,6 +219,14 @@
       "summary": "Point de situation critique concernant : Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coup..."
     },
     {
+      "title": "Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf pays européens, dont la France",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-13T20:29:24.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4234460-20260713-guerre-ukraine-sait-bouclier-antimissiles-lance-neuf-pays-europeens-dont-france?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf..."
+    },
+    {
       "title": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365",
       "source": "CyberPress",
       "time": "2026-07-13T07:30:00.000Z",
@@ -267,20 +275,28 @@
       "summary": "Point de situation critique concernant : [CYBER INT]  Récapitulation hebdomadaire: menace de fichier partagé, Citrix Blee..."
     },
     {
-      "title": "Des frappes russes font huit morts et 29 blessés en Ukraine",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T20:04:16.000Z",
-      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Des frappes russes font huit morts et 29 blessés en Ukraine..."
+      "title": "[CYBER INT] CrashStealer MacOS Malware utilise un dépositaire notarié pour passer les contrôles de gardien de porte",
+      "source": "CyberPress",
+      "time": "2026-07-13T17:36:12.000Z",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] CrashStealer MacOS Malware utilise un dépositaire notarié pour passe..."
     },
     {
-      "title": "Coupe du monde 2026 : Erling Haaland est \"une machine, une bête\", déclare l'attaquant anglais Harry Kane, qui affronte la Norvège avec les Three Lions en quarts",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T19:21:38.000Z",
-      "link": "https://www.franceinfo.fr/coupe-du-monde/directs/direct-coupe-du-monde-2026-lionel-messi-erling-haaland-harry-kane-les-stars-attendues-au-tournant-des-quarts-de-finale_8102834.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Coupe du monde 2026 : Erling Haaland est \"une machine, une bête\", déclare l'atta..."
+      "title": "[CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'installations après la découverte du collecteur dormant",
+      "source": "CyberPress",
+      "time": "2026-07-13T17:17:24.000Z",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'insta..."
+    },
+    {
+      "title": "[CYBER INT] Le nouveau malware CrashStealer se présente comme un outil de déclaration de crash d'Apple",
+      "source": "BleepingComputer",
+      "time": "2026-07-13T19:04:02.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Le nouveau malware CrashStealer se présente comme un outil de déclar..."
     },
     {
       "title": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats",
@@ -289,38 +305,6 @@
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : \"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iranie..."
-    },
-    {
-      "title": "Le taux de réussite au bac 2026 atteint 91,4% après les rattrapages, 81,6% d'admis au brevet des collèges",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T18:14:25.000Z",
-      "link": "https://www.franceinfo.fr/bac/le-taux-de-reussite-au-bac-2026-atteint-91-4-apres-les-rattrapages-81-6-d-admis-au-brevet-des-colleges_8104355.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Le taux de réussite au bac 2026 atteint 91,4% après les rattrapages, 81,6% d'adm..."
-    },
-    {
-      "title": "La Tchèque Linda Noskova remporte son premier tournoi du Grand Chelem en dominant sa compatriote Karolina Muchova en finale de Wimbledon",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T18:00:48.000Z",
-      "link": "https://www.franceinfo.fr/sports/tennis/wimbledon/la-tcheque-linda-noskova-remporte-son-premier-tournoi-du-grand-chelem-en-dominant-sa-compatriote-karolina-muchova-en-finale-de-wimbledon_8104286.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : La Tchèque Linda Noskova remporte son premier tournoi du Grand Chelem en dominan..."
-    },
-    {
-      "title": "Après les orages nocturnes, 5 000 foyers toujours privés d'électricité dans le Sud-Ouest",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T18:28:48.000Z",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/apres-les-orages-nocturnes-20-000-foyers-prives-d-electricite-dans-le-sud-ouest_8103902.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Après les orages nocturnes, 5 000 foyers toujours privés d'électricité dans le S..."
-    },
-    {
-      "title": "Incendie dans le sud de l'Espagne : une Française  \"figure parmi les personnes disparues\", annonce le ministère des Affaires étrangères français",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T20:17:36.000Z",
-      "link": "https://www.franceinfo.fr/faits-divers/incendie/incendie-dans-le-sud-de-l-espagne-une-francaise-figure-parmi-les-personnes-disparues-annonce-le-ministere-des-affaires-etrangeres-francais_8104418.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Incendie dans le sud de l'Espagne : une Française  \"figure parmi les personnes d..."
     },
     {
       "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
@@ -347,17 +331,17 @@
       "summary": "Point de situation critique concernant : Coupe du monde de foot : l'égalisation de l'Angleterre contre la Norvège facilit..."
     },
     {
-      "title": "L'incendie dans la forêt de Fontainebleau \"n'est toujours pas fixé\" et les pompiers font face à \"un nouveau départ de feu\", déclare le préfet",
+      "title": "Incendie dans la forêt de Fontainebleau : deux personnes ont été interpellées et 1 300 hectares ont été parcourus, annonce le ministre de l'Intérieur",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-13T17:21:40.000Z",
+      "time": "2026-07-13T20:33:02.000Z",
       "link": "https://www.franceinfo.fr/faits-divers/incendie/direct-incendies-les-flammes-ont-deja-parcouru-plus-de-800-hectares-dans-la-foret-de-fontainebleau-en-region-parisienne_8105603.html#xtor=RSS-3-[lestitres]",
       "score": 70,
-      "summary": "Point de situation critique concernant : L'incendie dans la forêt de Fontainebleau \"n'est toujours pas fixé\" et les pompi..."
+      "summary": "Point de situation critique concernant : Incendie dans la forêt de Fontainebleau : deux personnes ont été interpellées et..."
     },
     {
       "title": "Alerte Canicule : 26 départements placés en vigilance rouge mardi, annonce Météo-France",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-13T16:41:45.000Z",
+      "time": "2026-07-13T20:49:24.000Z",
       "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-37-departements-sont-toujours-places-en-vigilance-rouge-39-autres-sont-en-orange_8105702.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "26 départements placés en vigilance rouge mardi, annonce Météo-France"
@@ -401,6 +385,22 @@
       "link": "https://www.franceinfo.fr/sports/foot/psg/lucas-digne-va-rejoindre-le-psg-apres-la-coupe-du-monde-dix-ans-apres-son-depart-du-club_8106455.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Lucas Digne va rejoindre le PSG après la Coupe du monde, dix ans après son dépar..."
+    },
+    {
+      "title": "L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T NG, annonce Emmanuel Macron",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-13T18:54:56.000Z",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-compte-acquerir-16-avions-rafale-et-des-batteries-antiaeriennes-samp-t-ng-annonce-emmanuel-macron_8106617.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T..."
+    },
+    {
+      "title": "Le report au Sénat de l'examen d'une proposition de loi sur les violences en milieu scolaire est \"un signal alarmant\", dénonce la Ciivise",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-13T17:11:20.000Z",
+      "link": "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/le-report-au-senat-de-l-examen-d-une-proposition-de-loi-sur-les-violences-en-milieu-scolaire-est-un-signal-alarmant-denonce-la-ciivise_8106569.html#xtor=RSS-3-[lestitres]",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Le report au Sénat de l'examen d'une proposition de loi sur les violences en mil..."
     }
   ]
 }
