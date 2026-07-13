@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:51:52.466Z",
+  "updated": "2026-07-13T10:57:46.829Z",
   "count": 50,
   "items": [
     {
@@ -9,14 +9,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
       "score": 95,
       "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
-    },
-    {
-      "title": "Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-11T07:40:20.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4234074-20260711-guerre-ukraine-six-blesses-kiev-apres-attaque-missiles-russes?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Onze blessés à Kiev après une attaque de missiles russes..."
     },
     {
       "title": "Varsovie va ériger un mur du souvenir pour les victimes du \"génocide\" commis par les \"nationalistes ukrainiens\" pendant la Seconde Guerre mondiale",
@@ -93,7 +85,7 @@
     {
       "title": "Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-Orient",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-12T17:16:59.000Z",
+      "time": "2026-07-13T10:17:44.000Z",
       "link": "https://www.lefigaro.fr/international/israel-sur-le-pied-de-guerre-apres-une-nouvelle-escalade-des-violences-au-moyen-orient-20260712",
       "score": 95,
       "summary": "Point de situation critique concernant : Israël sur le pied de guerre après une nouvelle escalade des violences au Moyen-..."
@@ -115,12 +107,12 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Ce que l’on sait du futur remaniement du gouvernement de Zel..."
     },
     {
-      "title": "Guerre au Moyen-Orient : l'armée américaine annonce une nouvelle série de frappes contre \"des dizaines de cibles\" en Iran",
+      "title": "Guerre au Moyen-Orient : des explosions entendues près du détroit d'Ormuz",
       "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-13T05:15:12.000Z",
+      "time": "2026-07-13T10:17:09.000Z",
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
       "score": 95,
-      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : l'armée américaine annonce une nouvelle série de frappe..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : des explosions entendues près du détroit d'Ormuz..."
     },
     {
       "title": "\"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attentat de Nice, les victimes réclament la vérité sur les failles de sécurité",
@@ -131,20 +123,20 @@
       "summary": "Point de situation critique concernant : \"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attent..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée bahreïnie accuse l’Iran d’adopter une «attitude hostile systématique» visant les civils",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-13T06:16:03.000Z",
+      "time": "2026-07-13T10:52:40.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
       "score": 95,
-      "summary": "l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois"
+      "summary": "l’armée bahreïnie accuse l’Iran d’adopter une «attitude hostile systématique» visant les civils"
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Trois morts à Moscou dans des attaques de drones ukrainiens...",
+      "title": "EN DIRECT Guerre en Ukraine : Dix morts dans des attaques dans chaque camp, le Kremlin critique le sommet à Paris...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-13T05:32:53.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4234317-20260713-direct-guerre-ukraine-trois-morts-moscou-attaques-drones-ukrainiens?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Trois morts à Moscou dans des attaques de drones ukrainiens..."
+      "summary": "Dix morts dans des attaques dans chaque camp, le Kremlin critique le sommet à Paris..."
     },
     {
       "title": "Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jordanie, à Bahreïn et au Koweït",
@@ -155,12 +147,20 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jo..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis frappent à nouveau l'Iran, lequel attaque des bases américaines à l'étranger...",
+      "title": "EN DIRECT Guerre au Moyen-Orient : L’Iran dit poursuivre les consultations avec les médiateurs afin de « prévenir une escalade »...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-13T06:47:10.000Z",
       "link": "https://www.20minutes.fr/monde/4234322-20260713-direct-guerre-moyen-orient-etats-unis-frappent-nouveau-iran-lequel-attaque-bases-americaines-etranger?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Les Etats-Unis frappent à nouveau l'Iran, lequel attaque des bases américaines à l'étranger..."
+      "summary": "L’Iran dit poursuivre les consultations avec les médiateurs afin de « prévenir une escalade »..."
+    },
+    {
+      "title": "\"J'ai réussi à vaincre mes peurs\" : dix ans après l'attentat de Nice, comment les enfants rescapés ont-ils appris à revivre ?",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-13T08:15:48.000Z",
+      "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-ai-reussi-a-vaincre-mes-peurs-dix-ans-apres-l-attentat-de-nice-comment-les-enfants-rescapes-ont-ils-appris-a-revivre_8073671.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "dix ans après l'attentat de Nice, comment les enfants rescapés ont-ils appris à revivre ?"
     },
     {
       "title": "[CYBER INT] L'Australie met en garde contre une campagne mondiale visant les plateformes CMS vulnérables",
@@ -171,20 +171,36 @@
       "summary": "Point de situation critique concernant : [CYBER INT] L'Australie met en garde contre une campagne mondiale visant les pla..."
     },
     {
+      "title": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365",
+      "source": "CyberPress",
+      "time": "2026-07-13T07:30:00.000Z",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilgin..."
+    },
+    {
+      "title": "[CYBER INT] iCagenda et Balbooa Forms Joomla Faibles exploités comme jour zéro",
+      "source": "CyberPress",
+      "time": "2026-07-13T05:36:02.000Z",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] iCagenda et Balbooa Forms Joomla Faibles exploités comme jour zéro..."
+    },
+    {
+      "title": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques",
+      "source": "BleepingComputer",
+      "time": "2026-07-13T09:32:23.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques ..."
+    },
+    {
       "title": "Des frappes russes font huit morts et 29 blessés en Ukraine",
       "source": "https://www.franceinfo.fr/titres.rss",
       "time": "2026-07-11T20:04:16.000Z",
       "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-de-missiles-russes-fait-six-blesses-a-kiev_8103680.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Des frappes russes font huit morts et 29 blessés en Ukraine..."
-    },
-    {
-      "title": "NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitués du camping, près de l'océan et loin des tracas",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T10:12:48.000Z",
-      "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-c-est-une-deuxieme-vie-ici-la-parenthese-doree-des-habitues-du-camping-pres-de-l-ocean-et-loin-des-tracas_8086847.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : NOS JOURS HEUREUX. \"C'est une deuxième vie ici\" : la parenthèse dorée des habitu..."
     },
     {
       "title": "Canicule : 26 millions de Français seront concernés par la vigilance rouge à partir de dimanche midi",
@@ -355,14 +371,6 @@
       "summary": "la France voit grand pour son défilé du 14-Juillet"
     },
     {
-      "title": "Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursup",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T10:20:05.000Z",
-      "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/plus-de-126-000-candidats-sont-encore-en-attente-d-une-proposition-sur-parcoursup_8103926.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Plus de 126 000 candidats sont encore en attente d'une proposition sur Parcoursu..."
-    },
-    {
       "title": "\"Il a le seum\" : Kévin Vauquelin chambre Remco Evenepoel après la défaite de la Belgique face à l’Espagne en Coupe du monde",
       "source": "https://www.franceinfo.fr/titres.rss",
       "time": "2026-07-11T14:15:49.000Z",
@@ -377,14 +385,6 @@
       "link": "https://www.franceinfo.fr/culture/bd/mangas/entretien-hisae-iwaoka-l-autrice-de-mangas-qui-reve-d-une-harmonie-entre-l-humain-et-la-nature_8103359.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : Hisae Iwaoka, l'autrice de mangas qui rêve d'une harmonie entre l'humain et la n..."
-    },
-    {
-      "title": "Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à la métropole Aix-Marseille pour des soupçons de favoritisme et de corruption",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T09:47:45.000Z",
-      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/des-perquisitions-ont-eu-lieu-fin-juin-au-departement-des-bouches-du-rhone-et-a-la-metropole-aix-marseille-pour-des-soupcons-de-favoritisme-et-de-corruption_8103797.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Des perquisitions ont eu lieu fin juin au département des Bouches-du-Rhône et à ..."
     },
     {
       "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",
