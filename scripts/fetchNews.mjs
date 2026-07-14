@@ -4,8 +4,13 @@ import { cleanEncoding, readNewsData, writeNewsData, isCyberItem, MAX_AGE_MS } f
 const parser = new Parser();
 
 const RSS_FEEDS = [
-    "https://www.franceinfo.fr/titres.rss",
+    "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
     "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+    "https://www.lemonde.fr/justice/rss_full.xml",
+    "https://www.lemonde.fr/police/rss_full.xml",
+    "https://www.lemonde.fr/societe/rss_full.xml",
+    "https://www.franceinfo.fr/faits-divers.rss",
+    "https://www.franceinfo.fr/titres.rss",
     "https://www.20minutes.fr/feeds/rss-une.xml"
 ];
 
