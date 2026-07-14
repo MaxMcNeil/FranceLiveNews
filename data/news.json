@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-13T20:54:56.595Z",
+  "updated": "2026-07-14T02:03:36.696Z",
   "count": 50,
   "items": [
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-12T01:25:03.000Z",
-      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
-      "score": 95,
-      "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
-    },
     {
       "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran",
       "source": "https://www.franceinfo.fr/titres.rss",
@@ -99,12 +91,12 @@
       "summary": "Point de situation critique concernant : \"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attent..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-13T19:27:03.000Z",
+      "time": "2026-07-13T23:49:03.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
       "score": 95,
-      "summary": "les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz"
+      "summary": "l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
     },
     {
       "title": "Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va s’entraîner dans les « pays voisins »",
@@ -123,12 +115,12 @@
       "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jo..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocus maritime contre l’Iran ce mardi…",
+      "title": "Guerre au Moyen-Orient : Malgré les frappes, Trump estime qu'un accord avec Téhéran est « encore possible »",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-13T06:47:10.000Z",
       "link": "https://www.20minutes.fr/monde/4234322-20260713-direct-guerre-moyen-orient-etats-unis-frappent-nouveau-iran-lequel-attaque-bases-americaines-etranger?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocu..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Malgré les frappes, Trump estime qu'un accord avec Téhé..."
     },
     {
       "title": "\"J'ai réussi à vaincre mes peurs\" : dix ans après l'attentat de Nice, comment les enfants rescapés ont-ils appris à revivre ?",
@@ -227,6 +219,22 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf..."
     },
     {
+      "title": "Dix ans après l'attentat de Nice, grandir malgré l'horreur",
+      "source": "https://www.franceinfo.fr/titres.rss",
+      "time": "2026-07-13T21:09:14.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/dix-ans-apres-l-attentat-de-nice-grandir-malgre-l-horreur_8106740.html#xtor=RSS-3-[lestitres]",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, grandir malgré l'horreur..."
+    },
+    {
+      "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-13T23:32:21.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
+    },
+    {
       "title": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365",
       "source": "CyberPress",
       "time": "2026-07-13T07:30:00.000Z",
@@ -305,14 +313,6 @@
       "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-est-prete-a-detruire-completement-toutes-les-regions-d-iran-comment-la-treve-entre-washington-et-teheran-a-vole-en-eclats-cette-semaine_8103818.html#xtor=RSS-3-[lestitres]",
       "score": 70,
       "summary": "Point de situation critique concernant : \"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iranie..."
-    },
-    {
-      "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
-      "source": "https://www.franceinfo.fr/titres.rss",
-      "time": "2026-07-11T21:28:32.000Z",
-      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
-      "score": 70,
-      "summary": "la France voit grand pour son défilé du 14-Juillet"
     },
     {
       "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",

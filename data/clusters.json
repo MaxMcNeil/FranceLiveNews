@@ -1,22 +1,14 @@
 [
   {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
+    "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran",
     "score": 95,
-    "count": 6,
+    "count": 8,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.franceinfo.fr/titres.rss",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-12T01:25:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-etats-unis-iran-liban-israel-detroit-ormuz-donald-trump-cessez-le-feu-oman-20260711",
-        "score": 95,
-        "summary": "l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes"
-      },
       {
         "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran",
         "source": "https://www.franceinfo.fr/titres.rss",
@@ -34,31 +26,55 @@
         "summary": "l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois"
       },
       {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-13T19:27:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
+        "title": "Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de l’Iran",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-12T07:25:50.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "les États-Unis vont reprendre le blocus des ports iraniens, quatre explosions entendues près du détroit d’Ormuz"
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de..."
       },
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocus maritime contre l’Iran ce mardi…",
+        "title": "Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Iran et les attaques iraniennes",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-13T19:34:10.000Z",
+        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Ir..."
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-13T23:49:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
+        "score": 95,
+        "summary": "l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jordanie, à Bahreïn et au Koweït",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-13T05:37:57.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234316-20260713-guerre-moyen-orient-iran-annonce-avoir-frappe-bases-americaines-jordanie-bahrein-koweit?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jo..."
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Malgré les frappes, Trump estime qu'un accord avec Téhéran est « encore possible »",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-13T06:47:10.000Z",
         "link": "https://www.20minutes.fr/monde/4234322-20260713-direct-guerre-moyen-orient-etats-unis-frappent-nouveau-iran-lequel-attaque-bases-americaines-etranger?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'armée américaine annonce le retour du blocu..."
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Malgré les frappes, Trump estime qu'un accord avec Téhé..."
       },
       {
-        "title": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-13T14:06:48.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-veut-devenir-l-ange-gardien-du-detroit-d-ormuz-et-souhaite-etre-remunere-pour-cela-20260713",
+        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-13T23:32:21.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»"
+        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
       }
     ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’Iran referme le détroit d’Ormuz, les États-Unis lancent de nouvelles frappes / Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran"
+    "summary": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran / EN DIRECT - Guerre au Moyen-Orient : l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois"
   },
   {
     "title": "Dix ans après le drame de Nice, c'est \"un attentat qui est complètement oublié\", déplore Anne Murris, présidente de l'association Mémorial des anges",
@@ -78,42 +94,6 @@
       }
     ],
     "summary": "Dix ans après le drame de Nice, c'est \"un attentat qui est complètement oublié\", déplore Anne Murris, présidente de l'association Mémorial des anges"
-  },
-  {
-    "title": "Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de l’Iran",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de l’Iran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-12T07:25:50.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de..."
-      },
-      {
-        "title": "Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Iran et les attaques iraniennes",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T19:34:10.000Z",
-        "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-l-armee-americaine-annonce-une-nouvelle-serie-de-frappes-contre-des-dizaines-de-cibles-en-iran_8105657.html#xtor=RSS-3-[lestitres]",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Ir..."
-      },
-      {
-        "title": "Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jordanie, à Bahreïn et au Koweït",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-13T05:37:57.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234316-20260713-guerre-moyen-orient-iran-annonce-avoir-frappe-bases-americaines-jordanie-bahrein-koweit?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran annonce avoir frappé des bases américaines en Jo..."
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de l’Iran / Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Iran et les attaques iraniennes"
   },
   {
     "title": "A Nice, une marche blanche lance les commémorations des dix ans de l'attentat du 14 juillet",
@@ -192,7 +172,7 @@
   {
     "title": "\"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attentat de Nice, les victimes réclament la vérité sur les failles de sécurité",
     "score": 95,
-    "count": 5,
+    "count": 6,
     "sources": [
       "https://www.franceinfo.fr/titres.rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -237,6 +217,14 @@
         "link": "https://www.lefigaro.fr/nice/il-y-a-dix-ans-quelques-heures-apres-l-attentat-de-nice-l-exfiltration-secrete-de-la-fille-de-barack-obama-20260713",
         "score": 95,
         "summary": "Point de situation critique concernant : Quelques heures après l’attentat de Nice, l’exfiltration secrète de la fille de ..."
+      },
+      {
+        "title": "Dix ans après l'attentat de Nice, grandir malgré l'horreur",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-13T21:09:14.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/dix-ans-apres-l-attentat-de-nice-grandir-malgre-l-horreur_8106740.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, grandir malgré l'horreur..."
       }
     ],
     "summary": "\"Je voudrais que ces gens se retrouvent devant un juge\" : dix ans après l'attentat de Nice, les victimes réclament la vérité sur les failles de sécurité / \"J'ai réussi à vaincre mes peurs\" : dix ans après l'attentat de Nice, comment les enfants rescapés ont-ils appris à revivre ?"
@@ -296,6 +284,25 @@
       }
     ],
     "summary": "EN DIRECT - Coupe du monde 2026 : une minute de silence sera respectée avant France-Espagne, pour les dix ans de l’attentat djihadiste de Nice / Une minute de silence observée avant la demi-finale de l'équipe de France en Coupe du monde pour commémorer les dix ans de l'attentat de Nice"
+  },
+  {
+    "title": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-13T14:06:48.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-veut-devenir-l-ange-gardien-du-detroit-d-ormuz-et-souhaite-etre-remunere-pour-cela-20260713",
+        "score": 95,
+        "summary": "Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»"
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»"
   },
   {
     "title": "Attentat de Nice : « Quelque part entre le deuil et l’Histoire »… Dix ans après, l’attaque reste ancrée dans la ville",
@@ -530,25 +537,6 @@
       }
     ],
     "summary": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats"
-  },
-  {
-    "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-11T21:28:32.000Z",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "la France voit grand pour son défilé du 14-Juillet"
-      }
-    ],
-    "summary": "6 800 hommes et femmes, 315 véhicules, 193 chevaux : la France voit grand pour son défilé du 14-Juillet"
   },
   {
     "title": "L'Argentine écarte la Suisse en prolongation et rejoint l'Angleterre en demi-finales de la Coupe du monde",
