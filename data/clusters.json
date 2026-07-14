@@ -2,15 +2,16 @@
   {
     "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
     "score": 95,
-    "count": 3,
+    "count": 4,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T17:11:18.384Z",
+        "time": "2026-07-14T20:57:05.376Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -18,7 +19,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T17:11:18.384Z",
+        "time": "2026-07-14T20:57:05.376Z",
         "link": "https://www.leparisien.fr/alpes-maritimes-06/attentat-du-14-juillet-a-nice-ceremonie-spectacle-le-programme-de-lhommage-aux-victimes-13-07-2026-R25ZV6XRMJE4VLRLH7OYQB75JI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage ..."
@@ -26,10 +27,18 @@
       {
         "title": "Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, des victimes se disent « complètement ignorées »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T17:11:18.384Z",
+        "time": "2026-07-14T20:57:05.376Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-du-14-juillet-a-nice-dix-ans-apres-les-commemorations-ont-debute-des-victimes-se-disent-completement-ignorees-12-07-2026-E4F5KQ3WX5HTXMT6EZPVPXQZZY.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, de..."
+      },
+      {
+        "title": "Attentat de Nice : « Pour toujours dans notre mémoire »… Macron rend hommage aux victimes",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-14T19:17:07.000Z",
+        "link": "https://www.20minutes.fr/societe/4234533-20260714-attentat-nice-toujours-memoire-macron-rend-hommage-victimes?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Attentat de Nice : « Pour toujours dans notre mémoire »… Macron rend hommage aux..."
       }
     ],
     "summary": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité / Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes"
@@ -48,7 +57,7 @@
       {
         "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T17:11:18.384Z",
+        "time": "2026-07-14T20:57:05.376Z",
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
@@ -110,12 +119,12 @@
         "summary": "Emmanuel Macron préside une « cérémonie mémorielle » à Nice, dix ans après l’attentat de la Promenade des Anglais"
       },
       {
-        "title": "Dix ans après, recueillement à Nice et au Mondial en mémoire des victimes de l’attentat du 14-Juillet",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-14T14:01:02.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/07/14/dix-ans-apres-recueillement-a-nice-et-au-mondial-en-memoire-des-victimes-de-l-attentat-du-14-juillet_6723318_3224.html",
+        "title": "Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T18:39:24.000Z",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-ceremonie-d-hommage-pleine-d-emotion-10-ans-apres-l-attentat-de-nice_8107940.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 95,
-        "summary": "Point de situation critique concernant : Dix ans après, recueillement à Nice et au Mondial en mémoire des victimes de l’a..."
+        "summary": "Point de situation critique concernant : Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice..."
       }
     ],
     "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla"
@@ -131,7 +140,7 @@
       {
         "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T17:11:18.384Z",
+        "time": "2026-07-14T20:57:05.376Z",
         "link": "https://www.leparisien.fr/faits-divers/projet-dattentat-lors-de-lufc-a-la-maison-blanche-huit-personnes-desormais-inculpees-13-07-2026-VPGOYZL4UNEFPCSSC2P6B2OSQU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais i..."
@@ -142,9 +151,10 @@
   {
     "title": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -154,9 +164,17 @@
         "link": "https://www.lemonde.fr/societe/article/2026/07/13/le-temoignage-rare-de-laurent-raviot-president-du-proces-de-l-attentat-du-14-juillet-a-nice-entre-emotion-doutes-et-reflexions-sur-la-justice-antiterroriste_6723123_3224.html",
         "score": 95,
         "summary": "Point de situation critique concernant : Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Ju..."
+      },
+      {
+        "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T18:56:06.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments mar..."
       }
     ],
-    "summary": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste"
+    "summary": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste / Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet"
   },
   {
     "title": "France-Espagne : une minute de silence sera observée avant le match en hommage aux victimes de l’attentat de Nice en 2016",
@@ -185,12 +203,12 @@
         "summary": "Point de situation critique concernant : Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coup..."
       },
       {
-        "title": "DIRECT. Attentat de Nice : une minute de silence observée lors des commémorations, dix ans après l'attaque sur la promenade des Anglais",
+        "title": "Attentat de Nice : la nation rend hommage aux victimes",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T17:05:31.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
+        "time": "2026-07-14T19:52:14.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-la-nation-rend-hommage-aux-victimes_8108009.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 95,
-        "summary": "Point de situation critique concernant : DIRECT. Attentat de Nice : une minute de silence observée lors des commémoration..."
+        "summary": "la nation rend hommage aux victimes"
       }
     ],
     "summary": "France-Espagne : une minute de silence sera observée avant le match en hommage aux victimes de l’attentat de Nice en 2016 / Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coupe du monde"
@@ -280,30 +298,56 @@
     "summary": "Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chemin des enfants témoins de l’attaque"
   },
   {
-    "title": "EN DIRECT Guerre au Moyen-Orient : Donald Trump renonce à son projet de taxe de 20 % sur les navires passant par le détroit d'Ormuz...",
+    "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran...",
     "score": 95,
-    "count": 1,
+    "count": 4,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Donald Trump renonce à son projet de taxe de 20 % sur les navires passant par le détroit d'Ormuz...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-14T07:39:17.000Z",
         "link": "https://www.20minutes.fr/monde/etats-unis/4234478-20260714-direct-guerre-moyen-orient-explosions-bahrein-missile-frappe-navire-large-oman?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Donald Trump renonce à son projet de taxe de ..."
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouv..."
+      },
+      {
+        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-13T23:32:21.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran accuse les États-Unis d’avoir «démantelé» le protocole d’accord",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-14T19:24:11.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-missiles-detroit-ormuz-donald-trump-bahrein-emirats-arabes-unis-20260714",
+        "score": 95,
+        "summary": "l’Iran accuse les États-Unis d’avoir «démantelé» le protocole d’accord"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-14T05:41:25.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
+        "score": 95,
+        "summary": "l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
       }
     ],
-    "summary": "EN DIRECT Guerre au Moyen-Orient : Donald Trump renonce à son projet de taxe de 20 % sur les navires passant par le détroit d'Ormuz..."
+    "summary": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran... / Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
   },
   {
     "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -313,9 +357,17 @@
         "link": "https://www.20minutes.fr/arts-stars/4233810-20260714-documentaire-comment-suivre-filmer-emmanuel-macron-temps-guerre-guy-lagache-explique?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy..."
+      },
+      {
+        "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T20:55:40.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire..."
       }
     ],
-    "summary": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique"
+    "summary": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique / Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais"
   },
   {
     "title": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise",
@@ -343,25 +395,6 @@
       }
     ],
     "summary": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise / Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf pays européens, dont la France"
-  },
-  {
-    "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-13T23:32:21.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
-      }
-    ],
-    "summary": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
   },
   {
     "title": "Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va s’entraîner dans les « pays voisins »",
@@ -421,7 +454,26 @@
     "summary": "Héloïse Heuls : « Dix ans après les attentats de Nice, comment le djihadisme s’est réinventé »"
   },
   {
-    "title": "Guerre en Ukraine : Zelensky et de militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
+    "title": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-07-14T14:01:02.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/07/14/dix-ans-apres-recueillement-a-nice-et-au-mondial-en-memoire-des-victimes-de-l-attentat-du-14-juillet_6723318_3224.html",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoir..."
+      }
+    ],
+    "summary": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais"
+  },
+  {
+    "title": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
     "score": 95,
     "count": 1,
     "sources": [
@@ -429,15 +481,15 @@
     ],
     "items": [
       {
-        "title": "Guerre en Ukraine : Zelensky et de militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
+        "title": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-14T16:32:36.000Z",
         "link": "https://www.20minutes.fr/monde/ukraine/4234511-20260714-guerre-ukraine-zelensky-militaires-kiev-champs-elysees-russie-bien-embetee-mer-azov?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky et de militaires de Kiev sur les Champs-Elysées et ..."
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et..."
       }
     ],
-    "summary": "Guerre en Ukraine : Zelensky et de militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov"
+    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov"
   },
   {
     "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
@@ -584,7 +636,7 @@
   {
     "title": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques",
     "score": 88,
-    "count": 2,
+    "count": 1,
     "sources": [
       "BleepingComputer"
     ],
@@ -596,17 +648,9 @@
         "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques ..."
-      },
-      {
-        "title": "[CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Commerce Cloud",
-        "source": "BleepingComputer",
-        "time": "2026-07-14T11:42:21.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Comm..."
       }
     ],
-    "summary": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques / [CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Commerce Cloud"
+    "summary": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques"
   },
   {
     "title": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé",
@@ -653,81 +697,5 @@
       }
     ],
     "summary": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites"
-  },
-  {
-    "title": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre",
-        "source": "BleepingComputer",
-        "time": "2026-07-14T12:49:56.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre"
-  },
-  {
-    "title": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA",
-        "source": "BleepingComputer",
-        "time": "2026-07-14T12:49:00.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évit..."
-      }
-    ],
-    "summary": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA"
-  },
-  {
-    "title": "[CYBER INT] Les défauts de RabbitMQ pourraient fuir les secrets de l'Auth et exposer les métadonnées de la file d'attente des locataires",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Les défauts de RabbitMQ pourraient fuir les secrets de l'Auth et exposer les métadonnées de la file d'attente des locataires",
-        "source": "CyberPress",
-        "time": "2026-07-14T13:48:07.000Z",
-        "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les défauts de RabbitMQ pourraient fuir les secrets de l'Auth et exp..."
-      }
-    ],
-    "summary": "[CYBER INT] Les défauts de RabbitMQ pourraient fuir les secrets de l'Auth et exposer les métadonnées de la file d'attente des locataires"
-  },
-  {
-    "title": "[CYBER INT] Progress confirme une faille de jour zéro derrière la fermeture de la zone de stockage",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Progress confirme une faille de jour zéro derrière la fermeture de la zone de stockage",
-        "source": "BleepingComputer",
-        "time": "2026-07-14T16:08:47.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Progress confirme une faille de jour zéro derrière la fermeture de l..."
-      }
-    ],
-    "summary": "[CYBER INT] Progress confirme une faille de jour zéro derrière la fermeture de la zone de stockage"
   }
 ]
