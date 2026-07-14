@@ -2,7 +2,7 @@
   {
     "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran",
     "score": 95,
-    "count": 9,
+    "count": 8,
     "sources": [
       "https://www.franceinfo.fr/titres.rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -24,14 +24,6 @@
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-americains-et-iraniens-reprennent-les-hostilites-apres-l-attaque-d-un-navire-dans-le-detroit-d-ormuz-20260712",
         "score": 95,
         "summary": "l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de l’Iran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-12T07:25:50.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234138-20260712-direct-guerre-moyen-orient-etats-unis-frappent-140-cibles-iraniennes-iran-cible-pays-golfe?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Un mort et deux blessés dans des attaques sur le sud de..."
       },
       {
         "title": "Guerre au Moyen-Orient : l'ONU met en garde contre les frappes américaines en Iran et les attaques iraniennes",
@@ -74,12 +66,12 @@
         "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
       },
       {
-        "title": "Guerre au Moyen-Orient : les Etats-Unis frappent l'Iran pour la troisième nuit de suite, avant de rétablir un blocus des ports iraniens",
+        "title": "Guerre au Moyen-Orient : les Etats-Unis frappent l'Iran pour la troisième nuit de suite, avant de rétablir un blocus des ports iraniens",
         "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-14T05:46:31.000Z",
+        "time": "2026-07-14T09:32:42.000Z",
         "link": "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-les-etats-unis-frappent-l-iran-pour-la-troisieme-nuit-de-suite-avant-de-retablir-un-blocus-des-ports-iraniens_8107154.html#xtor=RSS-3-[lestitres]",
         "score": 95,
-        "summary": "les Etats-Unis frappent l'Iran pour la troisième nuit de suite, avant de rétablir un blocus des ports iraniens"
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : les Etats-Unis frappent l'Iran pour la troisième nuit d..."
       }
     ],
     "summary": "Guerre au Moyen-Orient : les Etats-Unis annoncent une nouvelle salve de frappes contre l'Iran / EN DIRECT - Guerre au Moyen-Orient : l’Iran affirme que les frappes américaines ont «réduit à néant» les efforts diplomatiques des derniers mois"
@@ -304,9 +296,10 @@
   {
     "title": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -316,9 +309,17 @@
         "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-veut-devenir-l-ange-gardien-du-detroit-d-ormuz-et-souhaite-etre-remunere-pour-cela-20260713",
         "score": 95,
         "summary": "Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»"
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Cinq explosions entendues près du détroit d’Ormuz autour de Bandar Abbas…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-14T07:39:17.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234478-20260714-direct-guerre-moyen-orient-explosions-bahrein-missile-frappe-navire-large-oman?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Cinq explosions entendues près du détroit d’O..."
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela»"
+    "summary": "Guerre au Moyen-Orient : Donald Trump veut devenir «l’ange gardien» du détroit d’Ormuz et souhaite «être rémunéré pour cela» / EN DIRECT Guerre au Moyen-Orient : Cinq explosions entendues près du détroit d’Ormuz autour de Bandar Abbas…"
   },
   {
     "title": "Attentat de Nice : « Quelque part entre le deuil et l’Histoire »… Dix ans après, l’attaque reste ancrée dans la ville",
@@ -359,7 +360,7 @@
     "summary": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli"
   },
   {
-    "title": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, Le Kremlin ironise",
+    "title": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise",
     "score": 95,
     "count": 2,
     "sources": [
@@ -367,7 +368,7 @@
     ],
     "items": [
       {
-        "title": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, Le Kremlin ironise",
+        "title": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-13T17:27:49.000Z",
         "link": "https://www.20minutes.fr/monde/ukraine/4234376-20260713-guerre-ukraine-europe-degaine-bouclier-contre-missiles-russes-kremlin-ironise?at_medium=display&at_campaign=149",
@@ -383,12 +384,88 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf..."
       }
     ],
-    "summary": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, Le Kremlin ironise / Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf pays européens, dont la France"
+    "summary": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise / Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf pays européens, dont la France"
+  },
+  {
+    "title": "Explosions de lumière, statue de la Liberté et drones équipés de LED... Revivez le traditionnel feu d'artifice du 14-Juillet à Paris",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/titres.rss"
+    ],
+    "items": [
+      {
+        "title": "Explosions de lumière, statue de la Liberté et drones équipés de LED... Revivez le traditionnel feu d'artifice du 14-Juillet à Paris",
+        "source": "https://www.franceinfo.fr/titres.rss",
+        "time": "2026-07-14T06:18:14.000Z",
+        "link": "https://www.franceinfo.fr/france/14-juillet/video-explosions-de-lumiere-statue-de-la-liberte-et-drones-equipes-de-led-revivez-le-traditionnel-feu-d-artifice-du-14-juillet-a-paris_8107178.html#xtor=RSS-3-[lestitres]",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Explosions de lumière, statue de la Liberté et drones équipés de LED... Revivez ..."
+      }
+    ],
+    "summary": "Explosions de lumière, statue de la Liberté et drones équipés de LED... Revivez le traditionnel feu d'artifice du 14-Juillet à Paris"
+  },
+  {
+    "title": "«C’est la guerre des étoiles, préparez-vous à un grand 14 juillet»: France-Espagne, le décryptage en vidéo de nos envoyés spéciaux à Dallas",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "«C’est la guerre des étoiles, préparez-vous à un grand 14 juillet»: France-Espagne, le décryptage en vidéo de nos envoyés spéciaux à Dallas",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-14T08:00:00.000Z",
+        "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/c-est-la-guerre-des-etoiles-preparez-vous-a-un-grand-14-juillet-france-espagne-le-decryptage-en-video-de-nos-envoyes-speciaux-a-dallas-20260714",
+        "score": 95,
+        "summary": "Point de situation critique concernant : «C’est la guerre des étoiles, préparez-vous à un grand 14 juillet»: France-Espag..."
+      }
+    ],
+    "summary": "«C’est la guerre des étoiles, préparez-vous à un grand 14 juillet»: France-Espagne, le décryptage en vidéo de nos envoyés spéciaux à Dallas"
+  },
+  {
+    "title": "Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chemin des enfants témoins de l’attaque",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chemin des enfants témoins de l’attaque",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-14T05:02:39.000Z",
+        "link": "https://www.20minutes.fr/societe/4233957-20260714-dix-ans-attentat-nice-traumatisme-remplit-vie-long-chemin-enfants-temoins-attaque?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chem..."
+      }
+    ],
+    "summary": "Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chemin des enfants témoins de l’attaque"
+  },
+  {
+    "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-14T06:32:36.000Z",
+        "link": "https://www.20minutes.fr/arts-stars/4233810-20260714-documentaire-comment-suivre-filmer-emmanuel-macron-temps-guerre-guy-lagache-explique?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy..."
+      }
+    ],
+    "summary": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique"
   },
   {
     "title": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "CyberPress"
     ],
@@ -400,9 +477,17 @@
         "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilgin..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une année d'activité de ShinyHunters",
+        "source": "CyberPress",
+        "time": "2026-07-14T06:19:24.000Z",
+        "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une anné..."
       }
     ],
-    "summary": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365"
+    "summary": "[CYBER INT] Un serveur mal configuré révèle trois opérations de phishing Evilginx ciblant Microsoft 365 / [CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une année d'activité de ShinyHunters"
   },
   {
     "title": "[CYBER INT] iCagenda et Balbooa Forms Joomla Faibles exploités comme jour zéro",
@@ -536,6 +621,25 @@
     "summary": "[CYBER INT] CrashStealer MacOS Malware utilise un dépositaire notarié pour passer les contrôles de gardien de porte / [CYBER INT] Le nouveau malware CrashStealer se présente comme un outil de déclaration de crash d'Apple"
   },
   {
+    "title": "[CYBER INT] Grok Build télécharge des référentiels Git entiers dans le stockage xAI, pas seulement des fichiers qu'il lit",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Grok Build télécharge des référentiels Git entiers dans le stockage xAI, pas seulement des fichiers qu'il lit",
+        "source": "CyberPress",
+        "time": "2026-07-14T09:02:48.000Z",
+        "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Grok Build télécharge des référentiels Git entiers dans le stockage ..."
+      }
+    ],
+    "summary": "[CYBER INT] Grok Build télécharge des référentiels Git entiers dans le stockage xAI, pas seulement des fichiers qu'il lit"
+  },
+  {
     "title": "\"Nous avions un accord avec eux. Ils cédaient sur tout, et d'un coup, les Iraniens ont frappé un navire\" : comment la trêve entre Washington et Téhéran a volé en éclats",
     "score": 70,
     "count": 1,
@@ -591,138 +695,5 @@
       }
     ],
     "summary": "Incendie dans la forêt de Fontainebleau : deux personnes ont été interpellées et 1 300 hectares ont été parcourus, annonce le ministre de l'Intérieur"
-  },
-  {
-    "title": "Alerte Canicule : 26 départements placés en vigilance rouge mardi, annonce Météo-France",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Alerte Canicule : 26 départements placés en vigilance rouge mardi, annonce Météo-France",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T20:49:24.000Z",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/direct-canicule-37-departements-sont-toujours-places-en-vigilance-rouge-39-autres-sont-en-orange_8105702.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "26 départements placés en vigilance rouge mardi, annonce Météo-France"
-      }
-    ],
-    "summary": "Alerte Canicule : 26 départements placés en vigilance rouge mardi, annonce Météo-France"
-  },
-  {
-    "title": "\"Quand je suis entrée, il m'a sauté dessus comme une bête sauvage\" : une ancienne Miss accuse Donald Trump d'agression sexuelle",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Quand je suis entrée, il m'a sauté dessus comme une bête sauvage\" : une ancienne Miss accuse Donald Trump d'agression sexuelle",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T12:48:05.000Z",
-        "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-je-suis-entree-il-m-a-sautee-dessus-comme-une-bete-sauvage-une-ancienne-miss-europe-accuse-donald-trump-d-agression-sexuelle_7942754.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "une ancienne Miss accuse Donald Trump d'agression sexuelle"
-      }
-    ],
-    "summary": "\"Quand je suis entrée, il m'a sauté dessus comme une bête sauvage\" : une ancienne Miss accuse Donald Trump d'agression sexuelle"
-  },
-  {
-    "title": "Infiltrations, sabotages et espionnage : ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Infiltrations, sabotages et espionnage : ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T17:30:42.000Z",
-        "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/infiltrations-sabotages-et-espionnage-ce-que-l-on-sait-de-la-vaste-operation-cyber-russe-qui-touche-la-france-et-une-dizaine-de-pays-europeens_8105945.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens"
-      }
-    ],
-    "summary": "Infiltrations, sabotages et espionnage : ce que l'on sait de la \"vaste opération cyber russe\", qui touche la France et une dizaine de pays européens"
-  },
-  {
-    "title": "\"On va perdre de 2 à 3°C dans toutes les régions de l'Hexagone\" : à partir de quand les températures vont-elles diminuer ?",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "\"On va perdre de 2 à 3°C dans toutes les régions de l'Hexagone\" : à partir de quand les températures vont-elles diminuer ?",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T16:50:02.000Z",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/on-va-perdre-de-2-a-3-c-dans-toutes-les-regions-de-l-hexagone-a-partir-de-quand-les-temperatures-vont-elles-diminuer_8106182.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "à partir de quand les températures vont-elles diminuer ?"
-      }
-    ],
-    "summary": "\"On va perdre de 2 à 3°C dans toutes les régions de l'Hexagone\" : à partir de quand les températures vont-elles diminuer ?"
-  },
-  {
-    "title": "Dernier défilé d'Emmanuel Macron, démonstrations militaires inédites, 7 000 policiers mobilisés... Ce qu'il faut savoir sur l'édition 2026 du défilé du 14-Juillet",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Dernier défilé d'Emmanuel Macron, démonstrations militaires inédites, 7 000 policiers mobilisés... Ce qu'il faut savoir sur l'édition 2026 du défilé du 14-Juillet",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T15:04:32.000Z",
-        "link": "https://www.franceinfo.fr/france/14-juillet/dernier-defile-d-emmanuel-macron-demonstrations-militaires-inedites-7-000-policiers-mobilises-ce-qu-il-faut-savoir-sur-l-edition-2026-du-defile-du-14-juillet_8105975.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Dernier défilé d'Emmanuel Macron, démonstrations militaires inédites, 7 000 poli..."
-      }
-    ],
-    "summary": "Dernier défilé d'Emmanuel Macron, démonstrations militaires inédites, 7 000 policiers mobilisés... Ce qu'il faut savoir sur l'édition 2026 du défilé du 14-Juillet"
-  },
-  {
-    "title": "Lucas Digne va rejoindre le PSG après la Coupe du monde, dix ans après son départ du club",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "Lucas Digne va rejoindre le PSG après la Coupe du monde, dix ans après son départ du club",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T15:45:26.000Z",
-        "link": "https://www.franceinfo.fr/sports/foot/psg/lucas-digne-va-rejoindre-le-psg-apres-la-coupe-du-monde-dix-ans-apres-son-depart-du-club_8106455.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Lucas Digne va rejoindre le PSG après la Coupe du monde, dix ans après son dépar..."
-      }
-    ],
-    "summary": "Lucas Digne va rejoindre le PSG après la Coupe du monde, dix ans après son départ du club"
-  },
-  {
-    "title": "L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T NG, annonce Emmanuel Macron",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/titres.rss"
-    ],
-    "items": [
-      {
-        "title": "L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T NG, annonce Emmanuel Macron",
-        "source": "https://www.franceinfo.fr/titres.rss",
-        "time": "2026-07-13T18:54:56.000Z",
-        "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-compte-acquerir-16-avions-rafale-et-des-batteries-antiaeriennes-samp-t-ng-annonce-emmanuel-macron_8106617.html#xtor=RSS-3-[lestitres]",
-        "score": 70,
-        "summary": "Point de situation critique concernant : L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T..."
-      }
-    ],
-    "summary": "L'Ukraine compte acquérir 16 avions Rafale et des batteries antiaériennes SAMP/T NG, annonce Emmanuel Macron"
   }
 ]
