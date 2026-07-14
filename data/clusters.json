@@ -10,7 +10,7 @@
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -18,7 +18,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/alpes-maritimes-06/attentat-du-14-juillet-a-nice-ceremonie-spectacle-le-programme-de-lhommage-aux-victimes-13-07-2026-R25ZV6XRMJE4VLRLH7OYQB75JI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage ..."
@@ -26,7 +26,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, des victimes se disent « complètement ignorées »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-du-14-juillet-a-nice-dix-ans-apres-les-commemorations-ont-debute-des-victimes-se-disent-completement-ignorees-12-07-2026-E4F5KQ3WX5HTXMT6EZPVPXQZZY.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, de..."
@@ -37,17 +37,18 @@
   {
     "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
     "score": 95,
-    "count": 5,
+    "count": 7,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
         "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
@@ -55,7 +56,7 @@
       {
         "title": "VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla",
         "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-14T10:00:05.000Z",
+        "time": "2026-07-14T10:00:00.000Z",
         "link": "https://www.lemonde.fr/societe/video/2026/07/14/dix-ans-apres-le-14-juillet-2016-la-lente-reconstruction-d-audrey-borla-a-la-suite-de-la-perte-de-sa-s-ur-jumelle-dans-l-attentat-de-nice-on-m-a-privee-de-mon-adolescence_6723289_3224.html",
         "score": 95,
         "summary": "Point de situation critique concernant : VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, ..."
@@ -83,6 +84,22 @@
         "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/dix-ans-apres-l-attentat-de-nice-grandir-malgre-l-horreur_8106740.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 95,
         "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, les enfants qui ont vécu l'attaque combattent ..."
+      },
+      {
+        "title": "Le pays le plus meurtri d’Europe : dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-14T13:23:02.000Z",
+        "link": "https://www.lefigaro.fr/actualite-france/le-pays-le-plus-meurtri-d-europe-dix-ans-apres-l-attentat-de-nice-le-terrible-bilan-humain-du-terrorisme-islamiste-en-france-20260714",
+        "score": 95,
+        "summary": "dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France"
+      },
+      {
+        "title": "Quelques heures après l’attentat de Nice, l’exfiltration secrète de la fille de Barack Obama",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-13T17:39:46.000Z",
+        "link": "https://www.lefigaro.fr/nice/il-y-a-dix-ans-quelques-heures-apres-l-attentat-de-nice-l-exfiltration-secrete-de-la-fille-de-barack-obama-20260713",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Quelques heures après l’attentat de Nice, l’exfiltration secrète de la fille de ..."
       }
     ],
     "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla"
@@ -98,7 +115,7 @@
       {
         "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/projet-dattentat-lors-de-lufc-a-la-maison-blanche-huit-personnes-desormais-inculpees-13-07-2026-VPGOYZL4UNEFPCSSC2P6B2OSQU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais i..."
@@ -333,6 +350,25 @@
     "summary": "Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va s’entraîner dans les « pays voisins »"
   },
   {
+    "title": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-13T14:43:40.000Z",
+        "link": "https://www.lefigaro.fr/nice/c-est-un-peu-la-double-peine-dix-ans-apres-l-attentat-djihadiste-du-14-juillet-le-deuil-amer-des-nicois-meurtris-par-l-oubli-20260713",
+        "score": 95,
+        "summary": "dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli"
+      }
+    ],
+    "summary": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli"
+  },
+  {
     "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
     "score": 88,
     "count": 1,
@@ -477,7 +513,7 @@
   {
     "title": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "BleepingComputer"
     ],
@@ -489,9 +525,101 @@
         "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques ..."
+      },
+      {
+        "title": "[CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Commerce Cloud",
+        "source": "BleepingComputer",
+        "time": "2026-07-14T11:42:21.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Comm..."
       }
     ],
-    "summary": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques"
+    "summary": "[CYBER INT] Les États-Unis et leurs alliés mettent en garde contre les attaques russes contre les infrastructures critiques / [CYBER INT] SAP met en garde contre les défauts critiques dans NetWeaver et Commerce Cloud"
+  },
+  {
+    "title": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé",
+    "score": 88,
+    "count": 2,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé",
+        "source": "CyberPress",
+        "time": "2026-07-14T12:46:18.000Z",
+        "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaqu..."
+      },
+      {
+        "title": "[CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'entrée Microsoft volées",
+        "source": "CyberPress",
+        "time": "2026-07-14T11:21:35.000Z",
+        "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'e..."
+      }
+    ],
+    "summary": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé / [CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'entrée Microsoft volées"
+  },
+  {
+    "title": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites",
+        "source": "CyberPress",
+        "time": "2026-07-14T11:55:00.000Z",
+        "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle d..."
+      }
+    ],
+    "summary": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites"
+  },
+  {
+    "title": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre",
+        "source": "BleepingComputer",
+        "time": "2026-07-14T12:49:56.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de..."
+      }
+    ],
+    "summary": "[CYBER INT] Microsoft Entra ID obtient l'authentification par défaut des clés de passe à partir de septembre"
+  },
+  {
+    "title": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA",
+        "source": "BleepingComputer",
+        "time": "2026-07-14T12:49:00.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évit..."
+      }
+    ],
+    "summary": "[CYBER INT] De nouveaux kits de phishing ciblent les comptes Microsoft 365, évitant les MFA"
   },
   {
     "title": "Un animateur périscolaire filmait les enfants dans les toilettes : 158 victimes recensées et 2,5 millions de fichiers découverts à Sydney",
@@ -504,7 +632,7 @@
       {
         "title": "Un animateur périscolaire filmait les enfants dans les toilettes : 158 victimes recensées et 2,5 millions de fichiers découverts à Sydney",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/un-animateur-periscolaire-filmait-les-enfants-dans-les-toilettes-158-victimes-recensees-et-25-millions-de-fichiers-decouverts-a-sydney-14-07-2026-VCOGAU52XVHD7K535WAVPOODDY.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un animateur périscolaire filmait les enfants dans les toilettes : 158 victimes ..."
@@ -523,7 +651,7 @@
       {
         "title": "Maroc : le journaliste franco-marocain Ali Lmrabet en garde à vue pour « propos diffamatoires »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/maroc-le-journaliste-franco-marocain-ali-lmrabet-en-garde-a-vue-pour-propos-diffamatoires-14-07-2026-AKQVJUFYNJDJBOT2LIGGWACVYA.php",
         "score": 70,
         "summary": "le journaliste franco-marocain Ali Lmrabet en garde à vue pour « propos diffamatoires »"
@@ -542,7 +670,7 @@
       {
         "title": "« C’est dur, il me reste 10 000 € à payer » : la détresse des habitants après l’incendie de 15 voitures sur un parking de Saint-Gratien",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/cest-dur-il-me-reste-10-000-a-payer-la-detresse-des-habitants-apres-lincendie-de-15-voitures-sur-un-parking-de-saint-gratien-14-07-2026-JG5IF7QCAFGQNG3GLQGTWZONKM.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « C’est dur, il me reste 10 000 € à payer » : la détresse des habitants après l’..."
@@ -561,7 +689,7 @@
       {
         "title": "Fêtes de San Fermin en Espagne : 57 blessés lors des lâchers de taureaux à Pampelune",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/fetes-de-san-fermin-en-espagne-57-blesses-lors-des-lachers-de-taureaux-a-pampelune-14-07-2026-INSMQGM7DNAUPIF3M4B5BYIULE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Fêtes de San Fermin en Espagne : 57 blessés lors des lâchers de taureaux à Pampe..."
@@ -580,7 +708,7 @@
       {
         "title": "« Les secours sont arrivés » : une vingtaine de personnes victimes d’une intoxication alimentaire pendant un festival",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/maine-et-loire-49/les-secours-sont-arrives-une-vingtaine-de-personnes-victimes-dune-intoxication-alimentaire-pendant-un-festival-14-07-2026-2R4RLVZYFZBPVEOUMUM7K357YQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Les secours sont arrivés » : une vingtaine de personnes victimes d’une intoxic..."
@@ -599,7 +727,7 @@
       {
         "title": "Pas-de-Calais : une femme retrouvée tuée à l’arme blanche dans un meublé de tourisme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/pas-de-calais-62/pas-de-calais-une-femme-retrouvee-tuee-a-larme-blanche-dans-un-meuble-de-tourisme-14-07-2026-WGLDAEFFLVGRXK2XMBZMYJJHOQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Pas-de-Calais : une femme retrouvée tuée à l’arme blanche dans un meublé de tour..."
@@ -618,7 +746,7 @@
       {
         "title": "Il droguait ses victimes aux somnifères : un prédateur sexuel de 68 ans accusé de 22 viols à Berlin, d’autres victimes potentielles recherchées",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/allemagne-un-homme-de-68-ans-accuse-davoir-drogue-viole-et-filme-de-nombreuses-femmes-rencontrees-en-ligne-14-07-2026-MNCKL77RS5F6PJBQISLJQWP6FQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Il droguait ses victimes aux somnifères : un prédateur sexuel de 68 ans accusé d..."
@@ -637,172 +765,12 @@
       {
         "title": "Indre : plus de 70 chiens sauvés par la SPA chez un particulier « dépassé par les événements »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
+        "time": "2026-07-14T13:30:11.895Z",
         "link": "https://www.leparisien.fr/faits-divers/indre-plus-de-70-chiens-sauves-par-la-spa-chez-un-particulier-depasse-par-les-evenements-14-07-2026-5HGFI452PRESRCTONHL2SS6244.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Indre : plus de 70 chiens sauvés par la SPA chez un particulier « dépassé par le..."
       }
     ],
     "summary": "Indre : plus de 70 chiens sauvés par la SPA chez un particulier « dépassé par les événements »"
-  },
-  {
-    "title": "Coups de couteau sur l’A 13 dans les Yvelines : l’auteur de l’agression déclaré pénalement irresponsable",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Coups de couteau sur l’A 13 dans les Yvelines : l’auteur de l’agression déclaré pénalement irresponsable",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/yvelines-78/coups-de-couteau-sur-la-13-dans-les-yvelines-lauteur-de-lagression-declare-penalement-irresponsable-14-07-2026-N4VYLJ34YZDKTAJD37EEHLI3UM.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Coups de couteau sur l’A 13 dans les Yvelines : l’auteur de l’agression déclaré ..."
-      }
-    ],
-    "summary": "Coups de couteau sur l’A 13 dans les Yvelines : l’auteur de l’agression déclaré pénalement irresponsable"
-  },
-  {
-    "title": "« Ils n’avaient aucune chance » : un septuagénaire britannique a vu sa femme et ses amis disparaître dans les flammes en Espagne",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Ils n’avaient aucune chance » : un septuagénaire britannique a vu sa femme et ses amis disparaître dans les flammes en Espagne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/faits-divers/ils-navaient-aucune-chance-un-septuagenaire-britannique-a-vu-sa-femme-et-ses-amis-disparaitre-dans-les-flammes-en-espagne-14-07-2026-EMCOSQUBSZHYZFO2DQA24MPXNU.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Ils n’avaient aucune chance » : un septuagénaire britannique a vu sa femme et ..."
-      }
-    ],
-    "summary": "« Ils n’avaient aucune chance » : un septuagénaire britannique a vu sa femme et ses amis disparaître dans les flammes en Espagne"
-  },
-  {
-    "title": "Incendies dans la forêt de Fontainebleau : un jeune de 18 ans interpellé avec un briquet sur lui et les mains couvertes de suie",
-    "score": 70,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Incendies dans la forêt de Fontainebleau : un jeune de 18 ans interpellé avec un briquet sur lui et les mains couvertes de suie",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/faits-divers/incendies-dans-la-foret-de-fontainebleau-un-jeune-de-18-ans-interpelle-avec-un-briquet-sur-lui-et-les-mains-couvertes-de-suie-14-07-2026-VPRQW6G6ZJCP5EYB56JPLDLYYA.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Incendies dans la forêt de Fontainebleau : un jeune de 18 ans interpellé avec un..."
-      },
-      {
-        "title": "DIRECT. Incendies : quelque 2 050 hectares parcourus par les flammes dans la forêt de Fontainebleau",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/faits-divers/incendies-plus-de-1300-hectares-parcourus-a-fontainebleau-des-interpellations-partout-en-france-14-07-2026-7XYOPLEOZJC3LISB53ZJMMNEPU.php",
-        "score": 70,
-        "summary": "quelque 2 050 hectares parcourus par les flammes dans la forêt de Fontainebleau"
-      }
-    ],
-    "summary": "Incendies dans la forêt de Fontainebleau : un jeune de 18 ans interpellé avec un briquet sur lui et les mains couvertes de suie / DIRECT. Incendies : quelque 2 050 hectares parcourus par les flammes dans la forêt de Fontainebleau"
-  },
-  {
-    "title": "« Cela n’a aucun sens » : les avocats vent debout contre le projet de salle d’audience à Fleury-Mérogis",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Cela n’a aucun sens » : les avocats vent debout contre le projet de salle d’audience à Fleury-Mérogis",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/essonne-91/cela-na-aucun-sens-les-avocats-vent-debout-contre-le-projet-de-salle-daudience-a-fleury-merogis-14-07-2026-R3CANZYSF5D7NHG2TCJ5GS4SQI.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Cela n’a aucun sens » : les avocats vent debout contre le projet de salle d’au..."
-      }
-    ],
-    "summary": "« Cela n’a aucun sens » : les avocats vent debout contre le projet de salle d’audience à Fleury-Mérogis"
-  },
-  {
-    "title": "« Il n’y a pas de meilleur exemple que la France» : la réponse de Lamine Yamal aux propos racistes de l’ancien Premier ministre espagnol",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Il n’y a pas de meilleur exemple que la France» : la réponse de Lamine Yamal aux propos racistes de l’ancien Premier ministre espagnol",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/sports/football/coupe-du-monde/il-ny-a-pas-de-meilleur-exemple-que-la-france-la-reponse-de-lamine-yamal-aux-propos-racistes-de-lancien-premier-ministre-espagnol-14-07-2026-YFPHCEALGZHSRKY274SV5GGNMM.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Il n’y a pas de meilleur exemple que la France» : la réponse de Lamine Yamal a..."
-      }
-    ],
-    "summary": "« Il n’y a pas de meilleur exemple que la France» : la réponse de Lamine Yamal aux propos racistes de l’ancien Premier ministre espagnol"
-  },
-  {
-    "title": "Incendies : « Le réchauffement climatique progresse plus vite que la capacité des forêts à s’adapter »",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Incendies : « Le réchauffement climatique progresse plus vite que la capacité des forêts à s’adapter »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/faits-divers/incendies-le-rechauffement-climatique-progresse-plus-vite-que-la-capacite-des-forets-a-sadapter-14-07-2026-VPP3GNWFJBGQNLVHUFDXML3PEI.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Incendies : « Le réchauffement climatique progresse plus vite que la capacité de..."
-      }
-    ],
-    "summary": "Incendies : « Le réchauffement climatique progresse plus vite que la capacité des forêts à s’adapter »"
-  },
-  {
-    "title": "Refus d’obtempérer, rodéo urbain… Plongée au cœur des missions du quotidien de la Brav-M",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Refus d’obtempérer, rodéo urbain… Plongée au cœur des missions du quotidien de la Brav-M",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/hauts-de-seine-92/refus-dobtemperer-rodeo-urbain-plongee-au-coeur-des-missions-du-quotidien-de-la-brav-m-14-07-2026-A6L6ND3CWJBJBGJ45THI3ABS2M.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Refus d’obtempérer, rodéo urbain… Plongée au cœur des missions du quotidien de l..."
-      }
-    ],
-    "summary": "Refus d’obtempérer, rodéo urbain… Plongée au cœur des missions du quotidien de la Brav-M"
-  },
-  {
-    "title": "Guadeloupe : ils avaient volé des armes chez les douaniers pendant les émeutes de 2021, ils sont condamnés à des peines de prison",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Guadeloupe : ils avaient volé des armes chez les douaniers pendant les émeutes de 2021, ils sont condamnés à des peines de prison",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T11:10:05.716Z",
-        "link": "https://www.leparisien.fr/faits-divers/guadeloupe-ils-avaient-vole-des-armes-chez-les-douaniers-pendant-les-emeutes-de-2021-ils-sont-condamnes-a-des-peines-de-prison-14-07-2026-3USDJ2GP5NHOBBTBZFHKG2DEKA.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Guadeloupe : ils avaient volé des armes chez les douaniers pendant les émeutes d..."
-      }
-    ],
-    "summary": "Guadeloupe : ils avaient volé des armes chez les douaniers pendant les émeutes de 2021, ils sont condamnés à des peines de prison"
   }
 ]
