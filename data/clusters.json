@@ -11,7 +11,7 @@
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T13:28:01.236Z",
+        "time": "2026-07-15T17:14:10.595Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -19,7 +19,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T13:28:01.236Z",
+        "time": "2026-07-15T17:14:10.595Z",
         "link": "https://www.leparisien.fr/alpes-maritimes-06/attentat-du-14-juillet-a-nice-ceremonie-spectacle-le-programme-de-lhommage-aux-victimes-13-07-2026-R25ZV6XRMJE4VLRLH7OYQB75JI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage ..."
@@ -57,7 +57,7 @@
       {
         "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T13:28:01.236Z",
+        "time": "2026-07-15T17:14:10.595Z",
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
@@ -155,71 +155,6 @@
       }
     ],
     "summary": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées"
-  },
-  {
-    "title": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-07-13T17:00:03.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/07/13/le-temoignage-rare-de-laurent-raviot-president-du-proces-de-l-attentat-du-14-juillet-a-nice-entre-emotion-doutes-et-reflexions-sur-la-justice-antiterroriste_6723123_3224.html",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Ju..."
-      },
-      {
-        "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T18:56:06.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments mar..."
-      }
-    ],
-    "summary": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste / Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet"
-  },
-  {
-    "title": "France-Espagne : une minute de silence sera observée avant le match en hommage aux victimes de l’attentat de Nice en 2016",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "France-Espagne : une minute de silence sera observée avant le match en hommage aux victimes de l’attentat de Nice en 2016",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-13T16:48:29.000Z",
-        "link": "https://www.lemonde.fr/sport/article/2026/07/13/france-espagne-une-minute-de-silence-sera-observee-avant-le-match-en-hommage-aux-victimes-de-l-attentat-de-nice-en-2016_6723121_3242.html",
-        "score": 95,
-        "summary": "Point de situation critique concernant : France-Espagne : une minute de silence sera observée avant le match en hommage a..."
-      },
-      {
-        "title": "Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coupe du monde",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-13T16:29:20.000Z",
-        "link": "https://www.20minutes.fr/sport/4234440-20260713-attentat-nice-minute-silence-avant-match-france-espagne-coupe-monde?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coup..."
-      },
-      {
-        "title": "Attentat de Nice : la nation rend hommage aux victimes",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T19:52:14.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-la-nation-rend-hommage-aux-victimes_8108009.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "la nation rend hommage aux victimes"
-      }
-    ],
-    "summary": "France-Espagne : une minute de silence sera observée avant le match en hommage aux victimes de l’attentat de Nice en 2016 / Attentat de Nice : Une minute de silence avant le match France-Espagne à la Coupe du monde"
   },
   {
     "title": "Attentat du 14-Juillet à Nice : ces images \"ne me quitteront jamais\", témoigne Christian Estrosi, 10 ans après",
@@ -416,25 +351,6 @@
     "summary": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
   },
   {
-    "title": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-13T14:43:40.000Z",
-        "link": "https://www.lefigaro.fr/nice/c-est-un-peu-la-double-peine-dix-ans-apres-l-attentat-djihadiste-du-14-juillet-le-deuil-amer-des-nicois-meurtris-par-l-oubli-20260713",
-        "score": 95,
-        "summary": "dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli"
-      }
-    ],
-    "summary": "«C’est un peu la double peine» : dix ans après l’attentat djihadiste du 14 juillet, le deuil amer des Niçois, meurtris par l’oubli"
-  },
-  {
     "title": "Héloïse Heuls : « Dix ans après les attentats de Nice, comment le djihadisme s’est réinventé »",
     "score": 95,
     "count": 1,
@@ -475,7 +391,7 @@
   {
     "title": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -487,17 +403,24 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4234511-20260714-guerre-ukraine-zelensky-militaires-kiev-champs-elysees-russie-bien-embetee-mer-azov?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : La Russie accusée de préparer des sabotages d’infrastructures dans des pays de l’Otan…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-15T06:05:18.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234566-20260715-direct-guerre-ukraine-trois-morts-attaques-russes-navires-sud-mer-noire?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : La Russie accusée de préparer des sabotages d’infr..."
       }
     ],
-    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov"
+    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov / EN DIRECT Guerre en Ukraine : La Russie accusée de préparer des sabotages d’infrastructures dans des pays de l’Otan…"
   },
   {
     "title": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
     "score": 95,
-    "count": 4,
+    "count": 3,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -511,18 +434,10 @@
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la fin d’une «série de frappes matinales contre l’Iran»",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T12:43:02.000Z",
+        "time": "2026-07-15T14:52:29.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains-20260715",
         "score": 95,
         "summary": "l’armée américaine annonce la fin d’une «série de frappes matinales contre l’Iran»"
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Le détroit d'Ormuz fermé, les Etats-Unis confirment une série de frappes sur l'Iran...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-15T05:09:22.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Le détroit d'Ormuz fermé, les Etats-Unis confirment une série de frappes sur l'Iran..."
       },
       {
         "title": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien",
@@ -536,9 +451,47 @@
     "summary": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la fin d’une «série de frappes matinales contre l’Iran»"
   },
   {
-    "title": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban",
+    "title": "Attentat de Nice : la nation rend hommage aux victimes",
     "score": 95,
     "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Attentat de Nice : la nation rend hommage aux victimes",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T19:52:14.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-la-nation-rend-hommage-aux-victimes_8108009.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "la nation rend hommage aux victimes"
+      }
+    ],
+    "summary": "Attentat de Nice : la nation rend hommage aux victimes"
+  },
+  {
+    "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T18:56:06.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments mar..."
+      }
+    ],
+    "summary": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet"
+  },
+  {
+    "title": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban",
+    "score": 95,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -550,28 +503,17 @@
         "link": "https://www.20minutes.fr/monde/israel/4234535-20260715-guerre-moyen-orient-rome-israel-dit-pret-avancer-retrait-sud-liban?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du..."
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban"
-  },
-  {
-    "title": "EN DIRECT Guerre en Ukraine : Six morts dans des attaques russes, des ports et navires pris pour cible...",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
+      },
       {
-        "title": "EN DIRECT Guerre en Ukraine : Six morts dans des attaques russes, des ports et navires pris pour cible...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : Le détroit d'Ormuz fermé, Israël accepte de se retirer de certaines zones du Liban...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-15T06:05:18.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4234566-20260715-direct-guerre-ukraine-trois-morts-attaques-russes-navires-sud-mer-noire?at_medium=display&at_campaign=149",
+        "time": "2026-07-15T05:09:22.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Six morts dans des attaques russes, des ports et navires pris pour cible..."
+        "summary": "Le détroit d'Ormuz fermé, Israël accepte de se retirer de certaines zones du Liban..."
       }
     ],
-    "summary": "EN DIRECT Guerre en Ukraine : Six morts dans des attaques russes, des ports et navires pris pour cible..."
+    "summary": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban / EN DIRECT Guerre au Moyen-Orient : Le détroit d'Ormuz fermé, Israël accepte de se retirer de certaines zones du Liban..."
   },
   {
     "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
@@ -584,7 +526,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T13:28:01.236Z",
+        "time": "2026-07-15T17:14:10.595Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -610,6 +552,25 @@
       }
     ],
     "summary": "Un \"espace mémoriel\" dédié à l'attentat de Nice au musée Masséna \"dès cet automne\", annonce le maire Éric Ciotti"
+  },
+  {
+    "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-15T14:30:00.000Z",
+        "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
+        "score": 95,
+        "summary": "Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
   },
   {
     "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
@@ -671,7 +632,7 @@
   {
     "title": "[CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'installations après la découverte du collecteur dormant",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "CyberPress"
     ],
@@ -683,8 +644,35 @@
         "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'insta..."
+      },
+      {
+        "title": "[CYBER INT] Un chercheur a abandonné les nouvelles heures de poC de Windows Zéro Jour après le patch de Microsoft mardi",
+        "source": "CyberPress",
+        "time": "2026-07-15T11:07:07.000Z",
+        "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Un chercheur a abandonné les nouvelles heures de poC de Windows Zéro..."
       }
     ],
-    "summary": "[CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'installations après la découverte du collecteur dormant"
+    "summary": "[CYBER INT] Google et Microsoft ont retiré le ModHeader avec 1,6 million d'installations après la découverte du collecteur dormant / [CYBER INT] Un chercheur a abandonné les nouvelles heures de poC de Windows Zéro Jour après le patch de Microsoft mardi"
+  },
+  {
+    "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
+        "source": "CyberPress",
+        "time": "2026-07-15T13:18:53.000Z",
+        "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs dé..."
+      }
+    ],
+    "summary": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques"
   }
 ]
