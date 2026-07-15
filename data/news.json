@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T06:12:10.507Z",
+  "updated": "2026-07-15T09:59:02.240Z",
   "count": 49,
   "items": [
     {
       "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-15T06:12:08.737Z",
+      "time": "2026-07-15T09:59:01.231Z",
       "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -13,7 +13,7 @@
     {
       "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-15T06:12:08.737Z",
+      "time": "2026-07-15T09:59:01.231Z",
       "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
       "score": 95,
       "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
@@ -21,7 +21,7 @@
     {
       "title": "Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-15T06:12:08.737Z",
+      "time": "2026-07-15T09:59:01.231Z",
       "link": "https://www.leparisien.fr/alpes-maritimes-06/attentat-du-14-juillet-a-nice-ceremonie-spectacle-le-programme-de-lhommage-aux-victimes-13-07-2026-R25ZV6XRMJE4VLRLH7OYQB75JI.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage ..."
@@ -29,7 +29,7 @@
     {
       "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-15T06:12:08.737Z",
+      "time": "2026-07-15T09:59:01.231Z",
       "link": "https://www.leparisien.fr/faits-divers/projet-dattentat-lors-de-lufc-a-la-maison-blanche-huit-personnes-desormais-inculpees-13-07-2026-VPGOYZL4UNEFPCSSC2P6B2OSQU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais i..."
@@ -37,14 +37,14 @@
     {
       "title": "Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, des victimes se disent « complètement ignorées »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-15T06:12:08.737Z",
+      "time": "2026-07-15T09:59:01.231Z",
       "link": "https://www.leparisien.fr/faits-divers/attentat-du-14-juillet-a-nice-dix-ans-apres-les-commemorations-ont-debute-des-victimes-se-disent-completement-ignorees-12-07-2026-E4F5KQ3WX5HTXMT6EZPVPXQZZY.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, de..."
     },
     {
       "title": "Le témoignage rare de Laurent Raviot, président du procès de l’attentat du 14-Juillet à Nice, entre émotion, doutes et réflexions sur la justice antiterroriste",
-      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "source": "https://www.lemonde.fr/justice/rss_full.xml",
       "time": "2026-07-13T17:00:03.000Z",
       "link": "https://www.lemonde.fr/societe/article/2026/07/13/le-temoignage-rare-de-laurent-raviot-president-du-proces-de-l-attentat-du-14-juillet-a-nice-entre-emotion-doutes-et-reflexions-sur-la-justice-antiterroriste_6723123_3224.html",
       "score": 95,
@@ -323,12 +323,36 @@
       "summary": "Frappes américaines en Iran, des attaques dans les pays du Golfe, le détroit d'Ormuz fermé..."
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Trois morts dans des attaques russes sur des navires dans le sud et en mer Noire...",
+      "title": "EN DIRECT Guerre en Ukraine : Six morts dans des attaques russes, des ports et navires pris pour cible...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-15T06:05:18.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4234566-20260715-direct-guerre-ukraine-trois-morts-attaques-russes-navires-sud-mer-noire?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Trois morts dans des attaques russes sur des navires dans le sud et en mer Noire..."
+      "summary": "Six morts dans des attaques russes, des ports et navires pris pour cible..."
+    },
+    {
+      "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-15T09:59:01.231Z",
+      "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
+      "score": 95,
+      "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
+    },
+    {
+      "title": "Un \"espace mémoriel\" dédié à l'attentat de Nice au musée Masséna \"dès cet automne\", annonce le maire Éric Ciotti",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-07-15T09:12:20.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/un-espace-memoriel-dedie-a-l-attentat-de-nice-au-musee-massena-des-cet-automne-annonce-le-maire-eric-ciotti_8108594.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Un \"espace mémoriel\" dédié à l'attentat de Nice au musée Masséna \"dès cet automn..."
+    },
+    {
+      "title": "Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\"",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-07-15T08:02:37.000Z",
+      "link": "https://www.franceinfo.fr/france/14-juillet/attentat-du-14-juillet-a-nice-une-policiere-municipale-en-charge-de-la-supervision-des-cameras-ce-soir-la-denonce-un-scandale-d-etat_8107412.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 95,
+      "summary": "une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\""
     },
     {
       "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
@@ -369,30 +393,6 @@
       "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT]  Récapitulation hebdomadaire: menace de fichier partagé, Citrix Blee..."
-    },
-    {
-      "title": "[CYBER INT] Microsoft commence à tester le système de recherche Windows plus propre sans publicité",
-      "source": "BleepingComputer",
-      "time": "2026-07-14T10:47:23.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft commence à tester le système de recherche Windows plus pro..."
-    },
-    {
-      "title": "[CYBER INT] Le nouveau malware CrashStealer se présente comme un outil de déclaration de crash d'Apple",
-      "source": "BleepingComputer",
-      "time": "2026-07-13T19:04:02.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Le nouveau malware CrashStealer se présente comme un outil de déclar..."
-    },
-    {
-      "title": "[CYBER INT] L'UE sanctionne les pirates informatiques militaires russes du GRU pour cyberattaques",
-      "source": "BleepingComputer",
-      "time": "2026-07-13T11:19:05.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L'UE sanctionne les pirates informatiques militaires russes du GRU p..."
     }
   ]
 }
