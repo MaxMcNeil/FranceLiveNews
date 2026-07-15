@@ -11,7 +11,7 @@
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T20:57:05.376Z",
+        "time": "2026-07-15T02:01:08.698Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -19,7 +19,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T20:57:05.376Z",
+        "time": "2026-07-15T02:01:08.698Z",
         "link": "https://www.leparisien.fr/alpes-maritimes-06/attentat-du-14-juillet-a-nice-ceremonie-spectacle-le-programme-de-lhommage-aux-victimes-13-07-2026-R25ZV6XRMJE4VLRLH7OYQB75JI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage ..."
@@ -27,7 +27,7 @@
       {
         "title": "Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, des victimes se disent « complètement ignorées »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T20:57:05.376Z",
+        "time": "2026-07-15T02:01:08.698Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-du-14-juillet-a-nice-dix-ans-apres-les-commemorations-ont-debute-des-victimes-se-disent-completement-ignorees-12-07-2026-E4F5KQ3WX5HTXMT6EZPVPXQZZY.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, de..."
@@ -46,7 +46,7 @@
   {
     "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
     "score": 95,
-    "count": 9,
+    "count": 10,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.lemonde.fr/societe/rss_full.xml",
@@ -57,7 +57,7 @@
       {
         "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T20:57:05.376Z",
+        "time": "2026-07-15T02:01:08.698Z",
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
@@ -125,6 +125,14 @@
         "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-ceremonie-d-hommage-pleine-d-emotion-10-ans-apres-l-attentat-de-nice_8107940.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 95,
         "summary": "Point de situation critique concernant : Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice..."
+      },
+      {
+        "title": "Dix ans après l'attentat de Nice, l'hommage aux victimes",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T21:00:13.000Z",
+        "link": "https://www.franceinfo.fr/france/14-juillet/dix-ans-apres-l-attentat-de-nice-l-hommage-aux-victimes_8108036.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, l'hommage aux victimes..."
       }
     ],
     "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla"
@@ -140,7 +148,7 @@
       {
         "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-14T20:57:05.376Z",
+        "time": "2026-07-15T02:01:08.698Z",
         "link": "https://www.leparisien.fr/faits-divers/projet-dattentat-lors-de-lufc-a-la-maison-blanche-huit-personnes-desormais-inculpees-13-07-2026-VPGOYZL4UNEFPCSSC2P6B2OSQU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais i..."
@@ -298,48 +306,32 @@
     "summary": "Dix ans de l’attentat de Nice : « Ce traumatisme remplit une vie »… Le long chemin des enfants témoins de l’attaque"
   },
   {
-    "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran...",
+    "title": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran...",
     "score": 95,
-    "count": 4,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran...",
+        "title": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-14T07:39:17.000Z",
         "link": "https://www.20minutes.fr/monde/etats-unis/4234478-20260714-direct-guerre-moyen-orient-explosions-bahrein-missile-frappe-navire-large-oman?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouv..."
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électr..."
       },
       {
-        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-13T23:32:21.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran accuse les États-Unis d’avoir «démantelé» le protocole d’accord",
+        "title": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-14T19:24:11.000Z",
+        "time": "2026-07-15T00:45:03.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-missiles-detroit-ormuz-donald-trump-bahrein-emirats-arabes-unis-20260714",
         "score": 95,
-        "summary": "l’Iran accuse les États-Unis d’avoir «démantelé» le protocole d’accord"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-14T05:41:25.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
-        "score": 95,
-        "summary": "l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
+        "summary": "Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques"
       }
     ],
-    "summary": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis annoncent avoir lancé une nouvelle salve de frappes contre l'Iran... / Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
+    "summary": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran... / EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques"
   },
   {
     "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
@@ -361,7 +353,7 @@
       {
         "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T20:55:40.000Z",
+        "time": "2026-07-15T01:58:36.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire..."
@@ -395,6 +387,25 @@
       }
     ],
     "summary": "Guerre en Ukraine : L’Europe dégaine son « bouclier » contre les missiles russes, le Kremlin ironise / Guerre en Ukraine : Ce que l’on sait du « bouclier » antimissiles lancé par neuf pays européens, dont la France"
+  },
+  {
+    "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-13T23:32:21.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
+      }
+    ],
+    "summary": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
   },
   {
     "title": "Guerre en Ukraine : En attendant la paix, la force de réassurance européenne va s’entraîner dans les « pays voisins »",
@@ -490,6 +501,44 @@
       }
     ],
     "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov"
+  },
+  {
+    "title": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-14T05:41:25.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-les-frappes-americaines-ont-reduit-a-neant-les-efforts-diplomatiques-des-derniers-mois-20260713",
+        "score": 95,
+        "summary": "l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé une nouvelle salve de frappes contre l’Iran"
+  },
+  {
+    "title": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-14T22:24:52.000Z",
+        "link": "https://www.20minutes.fr/monde/israel/4234535-20260715-guerre-moyen-orient-rome-israel-dit-pret-avancer-retrait-sud-liban?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du..."
+      }
+    ],
+    "summary": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban"
   },
   {
     "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
@@ -655,7 +704,7 @@
   {
     "title": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé",
     "score": 88,
-    "count": 2,
+    "count": 1,
     "sources": [
       "CyberPress"
     ],
@@ -667,35 +716,8 @@
         "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaqu..."
-      },
-      {
-        "title": "[CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'entrée Microsoft volées",
-        "source": "CyberPress",
-        "time": "2026-07-14T11:21:35.000Z",
-        "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'e..."
       }
     ],
-    "summary": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé / [CYBER INT] OAuth Spoofing permet aux attaquants de valider les informations d'entrée Microsoft volées"
-  },
-  {
-    "title": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites",
-        "source": "CyberPress",
-        "time": "2026-07-14T11:55:00.000Z",
-        "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle d..."
-      }
-    ],
-    "summary": "[CYBER INT] Une étude sur 85 extensions de portefeuille cryptographique révèle des fuites d'adresse et des risques de suivi entre sites"
+    "summary": "[CYBER INT] 11 anciens UEFI Shims sous Microsoft pourraient permettre aux attaquants de contourner le démarrage sécurisé"
   }
 ]
