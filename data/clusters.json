@@ -2,10 +2,9 @@
   {
     "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
     "score": 95,
-    "count": 4,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -31,14 +30,6 @@
         "link": "https://www.leparisien.fr/faits-divers/attentat-du-14-juillet-a-nice-dix-ans-apres-les-commemorations-ont-debute-des-victimes-se-disent-completement-ignorees-12-07-2026-E4F5KQ3WX5HTXMT6EZPVPXQZZY.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat du 14 juillet à Nice : dix ans après, les commémorations ont débuté, de..."
-      },
-      {
-        "title": "Attentat de Nice : « Pour toujours dans notre mémoire »… Macron rend hommage aux victimes",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-14T19:17:07.000Z",
-        "link": "https://www.20minutes.fr/societe/4234533-20260714-attentat-nice-toujours-memoire-macron-rend-hommage-victimes?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Attentat de Nice : « Pour toujours dans notre mémoire »… Macron rend hommage aux..."
       }
     ],
     "summary": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité / Attentat du 14 juillet à Nice : cérémonie, spectacle… Le programme de l’hommage aux victimes"
@@ -46,7 +37,7 @@
   {
     "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
     "score": 95,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss"
@@ -61,14 +52,6 @@
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
       },
       {
-        "title": "Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T18:39:24.000Z",
-        "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-ceremonie-d-hommage-pleine-d-emotion-10-ans-apres-l-attentat-de-nice_8107940.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice..."
-      },
-      {
         "title": "Dix ans après l'attentat de Nice, l'hommage aux victimes",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
         "time": "2026-07-14T21:00:13.000Z",
@@ -77,7 +60,7 @@
         "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, l'hommage aux victimes..."
       }
     ],
-    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / Une cérémonie d'hommage pleine d'émotion 10 ans après l'attentat de Nice"
+    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / Dix ans après l'attentat de Nice, l'hommage aux victimes"
   },
   {
     "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
@@ -159,53 +142,15 @@
         "summary": "les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie"
       },
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : L'armée américaine bombarde l’île de Qeshm près du détroit d’Ormuz...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis frappent l’Iran pour la cinquième nuit consécutive...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-16T05:27:33.000Z",
         "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "L'armée américaine bombarde l’île de Qeshm près du détroit d’Ormuz..."
+        "summary": "Les Etats-Unis frappent l’Iran pour la cinquième nuit consécutive..."
       }
     ],
     "summary": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
-  },
-  {
-    "title": "Attentat de Nice : la nation rend hommage aux victimes",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Attentat de Nice : la nation rend hommage aux victimes",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T19:52:14.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-de-nice-la-nation-rend-hommage-aux-victimes_8108009.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "la nation rend hommage aux victimes"
-      }
-    ],
-    "summary": "Attentat de Nice : la nation rend hommage aux victimes"
-  },
-  {
-    "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T18:56:06.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/survol-de-la-patrouille-de-france-discours-d-emmanuel-macron-les-moments-marquants-de-la-ceremonie-a-nice-pour-les-10-ans-de-l-attentat-du-14-juillet_8107928.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments mar..."
-      }
-    ],
-    "summary": "Survol de la Patrouille de France, discours d'Emmanuel Macron... Les moments marquants de la cérémonie à Nice pour les 10 ans de l'attentat du 14-Juillet"
   },
   {
     "title": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban",
@@ -248,7 +193,7 @@
   {
     "title": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -263,6 +208,14 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission..."
       },
       {
+        "title": "Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-16T05:42:32.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier minist..."
+      },
+      {
         "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-07-16T09:19:33.000Z",
@@ -271,7 +224,7 @@
         "summary": "opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
       }
     ],
-    "summary": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission / Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
+    "summary": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission / Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky"
   },
   {
     "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
@@ -284,7 +237,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -388,44 +341,6 @@
     "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
   },
   {
-    "title": "EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouvernemental à Kiev, Zelensky appelle à « l’unité »…",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouvernemental à Kiev, Zelensky appelle à « l’unité »…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-16T05:42:32.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouv..."
-      }
-    ],
-    "summary": "EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouvernemental à Kiev, Zelensky appelle à « l’unité »…"
-  },
-  {
-    "title": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-16T12:51:35.000Z",
-        "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-de-foret-fontainebleau-pompiers-arrestations-20260716",
-        "score": 95,
-        "summary": "la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron"
-      }
-    ],
-    "summary": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron"
-  },
-  {
     "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
     "score": 95,
     "count": 1,
@@ -436,13 +351,32 @@
       {
         "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
         "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-16T13:00:14.000Z",
+        "time": "2026-07-16T13:00:09.000Z",
         "link": "https://www.lemonde.fr/sciences/article/2026/07/16/en-gerant-des-epidemies-de-facon-aussi-peu-democratique-on-degrade-le-systeme-les-lecons-de-l-infectiologue-xavier-lescure-apres-les-crises-du-hantavirus-et-d-ebola_6723805_1650684.html",
         "score": 95,
         "summary": "Point de situation critique concernant : « En gérant des épidémies de façon aussi peu démocratique, on dégrade le système..."
       }
     ],
     "summary": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola"
+  },
+  {
+    "title": "Guerre en Ukraine : Un limogeage qui ne passe pas à Kiev et des négociations avec la Russie dans l’impasse",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : Un limogeage qui ne passe pas à Kiev et des négociations avec la Russie dans l’impasse",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-16T17:37:29.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234789-20260716-guerre-ukraine-dissensions-armee-ukrainienne-negociations-impasse?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Un limogeage qui ne passe pas à Kiev et des négociations ave..."
+      }
+    ],
+    "summary": "Guerre en Ukraine : Un limogeage qui ne passe pas à Kiev et des négociations avec la Russie dans l’impasse"
   },
   {
     "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
@@ -519,39 +453,21 @@
     "summary": "[CYBER INT] Deux SonicWall SMA 1000 Zéro-Days exploité, l'un pourrait activer les commandes de l'administrateur"
   },
   {
-    "title": "[CYBER INT] Microsoft patches enregistrer 622 défauts, y compris deux jours zéro sous attaque active",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft patches enregistrer 622 défauts, y compris deux jours zéro sous attaque active",
-        "source": "CyberPress",
-        "time": "2026-07-14T20:25:47.000Z",
-        "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft patches enregistrer 622 défauts, y compris deux jours zéro..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft patches enregistrer 622 défauts, y compris deux jours zéro sous attaque active"
-  },
-  {
-    "title": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données",
+    "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
     "score": 88,
     "count": 2,
     "sources": [
+      "BleepingComputer",
       "CyberPress"
     ],
     "items": [
       {
-        "title": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données",
-        "source": "CyberPress",
-        "time": "2026-07-14T18:17:57.000Z",
-        "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+        "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
+        "source": "BleepingComputer",
+        "time": "2026-07-15T20:16:02.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou m..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de..."
       },
       {
         "title": "[CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre la prise de compte",
@@ -562,26 +478,7 @@
         "summary": "Point de situation critique concernant : [CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre l..."
       }
     ],
-    "summary": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données / [CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre la prise de compte"
-  },
-  {
-    "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
-        "source": "BleepingComputer",
-        "time": "2026-07-15T20:16:02.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de..."
-      }
-    ],
-    "summary": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique"
+    "summary": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique / [CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre la prise de compte"
   },
   {
     "title": "[CYBER INT] Google Gemini CLI abusé comme un agent de piratage, opérateur de botnet malveillant",
@@ -603,7 +500,7 @@
     "summary": "[CYBER INT] Google Gemini CLI abusé comme un agent de piratage, opérateur de botnet malveillant"
   },
   {
-    "title": "[CYBER INT] L'OpenAI® GPT-Red automatise le test d'injection rapide pour durcir le GPT-5.6 Sol",
+    "title": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol",
     "score": 88,
     "count": 1,
     "sources": [
@@ -611,15 +508,15 @@
     ],
     "items": [
       {
-        "title": "[CYBER INT] L'OpenAI® GPT-Red automatise le test d'injection rapide pour durcir le GPT-5.6 Sol",
+        "title": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol",
         "source": "CyberPress",
         "time": "2026-07-16T08:42:31.000Z",
         "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] L'OpenAI® GPT-Red automatise le test d'injection rapide pour durcir ..."
+        "summary": "Point de situation critique concernant : [CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir..."
       }
     ],
-    "summary": "[CYBER INT] L'OpenAI® GPT-Red automatise le test d'injection rapide pour durcir le GPT-5.6 Sol"
+    "summary": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol"
   },
   {
     "title": "[CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des jetons d'IA, zéro jour dehors",
@@ -679,6 +576,44 @@
     "summary": "[CYBER INT] La CISA ordonne aux fédéraux de corriger la faille d' Oracle exploitée d'ici samedi."
   },
   {
+    "title": "[CYBER INT] Claude Chrome extension défaut permet des extensions malveillantes déclencher des actions d'IA",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Claude Chrome extension défaut permet des extensions malveillantes déclencher des actions d'IA",
+        "source": "BleepingComputer",
+        "time": "2026-07-16T19:26:07.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Claude Chrome extension défaut permet des extensions malveillantes d..."
+      }
+    ],
+    "summary": "[CYBER INT] Claude Chrome extension défaut permet des extensions malveillantes déclencher des actions d'IA"
+  },
+  {
+    "title": "EN DIRECT - Incendies à Fontainebleau : des travaux à l’origine du feu principal",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT - Incendies à Fontainebleau : des travaux à l’origine du feu principal",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T20:47:03.000Z",
+        "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-de-foret-fontainebleau-pompiers-arrestations-20260716",
+        "score": 70,
+        "summary": "des travaux à l’origine du feu principal"
+      }
+    ],
+    "summary": "EN DIRECT - Incendies à Fontainebleau : des travaux à l’origine du feu principal"
+  },
+  {
     "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
     "score": 70,
     "count": 1,
@@ -689,7 +624,7 @@
       {
         "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/faits-divers/des-passagers-dun-vol-easyjet-bloques-plusieurs-heures-sur-le-tarmac-dun-aeroport-de-londres-faute-de-carburant-16-07-2026-OPZQL2FPWJAJBJQ2FQLQM7K44I.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aérop..."
@@ -708,7 +643,7 @@
       {
         "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/oise-60/accident-de-quad-pres-de-beauvais-le-passager-est-decede-le-bilan-salourdit-a-deux-morts-16-07-2026-CXVEIBOCQRFMTAPJRUYVDMUEAI.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit ..."
@@ -727,7 +662,7 @@
       {
         "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/faits-divers/les-filles-sont-terrifiees-deux-adolescentes-parviennent-a-faire-fuir-un-americain-qui-tentait-de-les-agresser-dans-un-parc-16-07-2026-6HHGKBVQMRCE3PRQ2TY7FHLJZE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un A..."
@@ -746,7 +681,7 @@
       {
         "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
@@ -765,12 +700,88 @@
       {
         "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T17:11:30.975Z",
+        "time": "2026-07-16T20:53:39.325Z",
         "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
       }
     ],
     "summary": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes"
+  },
+  {
+    "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T20:53:39.325Z",
+        "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
+        "score": 70,
+        "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
+      }
+    ],
+    "summary": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
+  },
+  {
+    "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T20:53:39.325Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lan..."
+      }
+    ],
+    "summary": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?"
+  },
+  {
+    "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T20:53:39.325Z",
+        "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-reconnaitre-cela-nefface-ni-les-faits-ni-son-attitude-ensuite-16-07-2026-KHMOO4LNYZD2JDVGVMO5A7YDLY.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude en..."
+      }
+    ],
+    "summary": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »"
+  },
+  {
+    "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T20:53:39.325Z",
+        "link": "https://www.leparisien.fr/faits-divers/elle-a-vu-un-telephone-sous-la-cabine-a-paris-un-homme-en-garde-a-vue-pour-avoir-filme-une-femme-a-son-insu-a-la-piscine-16-07-2026-DD2UCM4XHRDLVI73HMV34EBNBU.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : « Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pou..."
+      }
+    ],
+    "summary": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine"
   }
 ]
