@@ -11,7 +11,7 @@
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T20:56:59.307Z",
+        "time": "2026-07-16T02:10:22.282Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -297,25 +297,6 @@
     "summary": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique / Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais"
   },
   {
-    "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-13T23:32:21.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234467-20260714-etats-unis-partent-guerre-contre-cour-penale-internationale-bete-noire?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête..."
-      }
-    ],
-    "summary": "Les Etats-Unis partent en guerre contre la Cour pénale internationale, leur bête noire"
-  },
-  {
     "title": "Héloïse Heuls : « Dix ans après les attentats de Nice, comment le djihadisme s’est réinventé »",
     "score": 95,
     "count": 1,
@@ -392,7 +373,7 @@
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T19:44:03.000Z",
+        "time": "2026-07-15T23:35:03.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains-20260715",
         "score": 95,
         "summary": "l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
@@ -503,7 +484,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-15T20:56:59.307Z",
+        "time": "2026-07-16T02:10:22.282Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -541,7 +522,7 @@
       {
         "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T14:30:00.000Z",
+        "time": "2026-07-15T21:54:08.000Z",
         "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
         "score": 95,
         "summary": "Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
@@ -567,6 +548,25 @@
       }
     ],
     "summary": "Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un sursis financier pour Moscou"
+  },
+  {
+    "title": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-15T22:31:46.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-une-serie-d-explosions-entendue-a-kiev-apres-une-alerte-aux-missiles-balistiques-20260716",
+        "score": 95,
+        "summary": "une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
+      }
+    ],
+    "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
   },
   {
     "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
