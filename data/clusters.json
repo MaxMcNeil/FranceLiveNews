@@ -46,7 +46,7 @@
   {
     "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
     "score": 95,
-    "count": 5,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -60,14 +60,6 @@
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
-      },
-      {
-        "title": "Le pays le plus meurtri d’Europe : dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-14T13:23:02.000Z",
-        "link": "https://www.lefigaro.fr/actualite-france/le-pays-le-plus-meurtri-d-europe-dix-ans-apres-l-attentat-de-nice-le-terrible-bilan-humain-du-terrorisme-islamiste-en-france-20260714",
-        "score": 95,
-        "summary": "dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France"
       },
       {
         "title": "EN DIRECT - 14 Juillet : Emmanuel Macron préside une « cérémonie mémorielle » à Nice, dix ans après l’attentat de la Promenade des Anglais",
@@ -94,7 +86,7 @@
         "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, l'hommage aux victimes..."
       }
     ],
-    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / Le pays le plus meurtri d’Europe : dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France"
+    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / EN DIRECT - 14 Juillet : Emmanuel Macron préside une « cérémonie mémorielle » à Nice, dix ans après l’attentat de la Promenade des Anglais"
   },
   {
     "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
@@ -198,15 +190,15 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et..."
       },
       {
-        "title": "EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainiennes, des manifestations à Kiev…",
+        "title": "EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouvernemental à Kiev, Zelensky appelle à « l’unité »…",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-16T05:42:32.000Z",
         "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainien..."
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouv..."
       }
     ],
-    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov / EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainiennes, des manifestations à Kiev…"
+    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov / EN DIRECT Guerre en Ukraine : Du grabuge dans l'armée autour du remaniement gouvernemental à Kiev, Zelensky appelle à « l’unité »…"
   },
   {
     "title": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques",
@@ -250,12 +242,12 @@
         "summary": "les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie"
       },
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis bombardent à nouveau, l'Iran réplique en Jordanie, au Koweït et à Bahreïn...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : L'Iran menace les pays du Golfe et dénonce « l'attaque barbare » des Etats-Unis...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-16T05:27:33.000Z",
         "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Les Etats-Unis bombardent à nouveau, l'Iran réplique en Jordanie, au Koweït et à Bahreïn..."
+        "summary": "L'Iran menace les pays du Golfe et dénonce « l'attaque barbare » des Etats-Unis..."
       }
     ],
     "summary": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
@@ -339,9 +331,10 @@
   {
     "title": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -351,9 +344,17 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4234566-20260715-direct-guerre-ukraine-trois-morts-attaques-russes-navires-sud-mer-noire?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission..."
+      },
+      {
+        "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T09:19:33.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-oppose-au-limogeage-du-ministre-de-la-defense-le-numero-deux-de-l-armee-de-l-air-demissionne-20260716",
+        "score": 95,
+        "summary": "opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
       }
     ],
-    "summary": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission"
+    "summary": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission / Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
   },
   {
     "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
@@ -366,7 +367,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T10:05:10.463Z",
+        "time": "2026-07-16T13:41:37.350Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -468,6 +469,44 @@
       }
     ],
     "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
+  },
+  {
+    "title": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T12:51:35.000Z",
+        "link": "https://www.lefigaro.fr/meteo/en-direct-canicule-incendies-feux-de-foret-fontainebleau-pompiers-arrestations-20260716",
+        "score": 95,
+        "summary": "la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron"
+      }
+    ],
+    "summary": "EN DIRECT - Incendies : la France «n’a jamais été confrontée à cette situation» depuis «la fin de la Seconde Guerre mondiale», souligne Emmanuel Macron"
+  },
+  {
+    "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-07-16T13:00:14.000Z",
+        "link": "https://www.lemonde.fr/sciences/article/2026/07/16/en-gerant-des-epidemies-de-facon-aussi-peu-democratique-on-degrade-le-systeme-les-lecons-de-l-infectiologue-xavier-lescure-apres-les-crises-du-hantavirus-et-d-ebola_6723805_1650684.html",
+        "score": 95,
+        "summary": "Point de situation critique concernant : « En gérant des épidémies de façon aussi peu démocratique, on dégrade le système..."
+      }
+    ],
+    "summary": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola"
   },
   {
     "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
@@ -666,79 +705,41 @@
     "summary": "[CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des jetons d'IA, zéro jour dehors"
   },
   {
-    "title": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar",
-    "score": 70,
+    "title": "[CYBER INT] Windows 11 24H2 Home et Pro atteignent la fin de la prise en charge dans 90 jours",
+    "score": 88,
     "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "BleepingComputer"
     ],
     "items": [
       {
-        "title": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T10:05:10.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/direct-affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-sur-le-lieu-indique-par-cedric-jubillar-16-07-2026-E5YMNUYKGNHIDLYANBHJNEVM4Y.php",
-        "score": 70,
-        "summary": "des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar"
+        "title": "[CYBER INT] Windows 11 24H2 Home et Pro atteignent la fin de la prise en charge dans 90 jours",
+        "source": "BleepingComputer",
+        "time": "2026-07-16T11:59:24.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Windows 11 24H2 Home et Pro atteignent la fin de la prise en charge ..."
       }
     ],
-    "summary": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar"
+    "summary": "[CYBER INT] Windows 11 24H2 Home et Pro atteignent la fin de la prise en charge dans 90 jours"
   },
   {
-    "title": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison",
-    "score": 70,
+    "title": "[CYBER INT] La CISA ordonne aux fédéraux de corriger la faille d' Oracle exploitée d'ici samedi.",
+    "score": 88,
     "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "BleepingComputer"
     ],
     "items": [
       {
-        "title": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T10:05:10.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/condamne-pour-trafic-sexuel-jusquen-2046-r-kelly-demande-a-donald-trump-de-reduire-sa-peine-de-prison-16-07-2026-6BYPQBYY7RG3RA6XZFGQJKRQZI.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de ré..."
+        "title": "[CYBER INT] La CISA ordonne aux fédéraux de corriger la faille d' Oracle exploitée d'ici samedi.",
+        "source": "BleepingComputer",
+        "time": "2026-07-16T10:56:03.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La CISA ordonne aux fédéraux de corriger la faille d' Oracle exploit..."
       }
     ],
-    "summary": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison"
-  },
-  {
-    "title": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T10:05:10.463Z",
-        "link": "https://www.leparisien.fr/faits-divers/meurtre-de-delphine-jubillar-des-fouilles-en-cours-dans-le-tarn-au-lendemain-de-laudition-de-cedric-jubillar-16-07-2026-O5SLTNH4JBCVPLQMXJBKZR4LAA.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain d..."
-      }
-    ],
-    "summary": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric"
-  },
-  {
-    "title": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T10:05:10.463Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-de-fontainebleau-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire-16-07-2026-DL3COZW3IJECLCNC6EJFC6MQIM.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Incendies de Fontainebleau : les deux suspects mis en examen et placés en détent..."
-      }
-    ],
-    "summary": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire"
+    "summary": "[CYBER INT] La CISA ordonne aux fédéraux de corriger la faille d' Oracle exploitée d'ici samedi."
   }
 ]
