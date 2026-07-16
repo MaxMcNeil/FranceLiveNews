@@ -11,7 +11,7 @@
       {
         "title": "Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles failles du dispositif de sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T06:14:25.093Z",
+        "time": "2026-07-16T10:05:10.463Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-nice-les-victimes-esperent-toujours-un-proces-sur-les-eventuelles-failles-du-dispositif-de-securite-14-07-2026-ZWBY6F32ZZC2XHUCPFHLO6YFWI.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : les victimes espèrent toujours un procès sur les éventuelles ..."
@@ -46,12 +46,11 @@
   {
     "title": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés",
     "score": 95,
-    "count": 7,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -61,22 +60,6 @@
         "link": "https://www.leparisien.fr/faits-divers/la-douleur-il-faut-vivre-avec-dix-ans-apres-lattentat-de-nice-le-recit-sans-concession-de-deux-hommes-endeuilles-13-07-2026-W7TRIQL2ZJCTXAM2EVCPXSAL6I.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit ..."
-      },
-      {
-        "title": "VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-14T10:00:00.000Z",
-        "link": "https://www.lemonde.fr/societe/video/2026/07/14/dix-ans-apres-le-14-juillet-2016-la-lente-reconstruction-d-audrey-borla-a-la-suite-de-la-perte-de-sa-s-ur-jumelle-dans-l-attentat-de-nice-on-m-a-privee-de-mon-adolescence_6723289_3224.html",
-        "score": 95,
-        "summary": "Point de situation critique concernant : VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, ..."
-      },
-      {
-        "title": "Dix ans après l'attentat de Nice, les enfants qui ont vécu l'attaque combattent toujours leurs traumatismes",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T07:45:58.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/dix-ans-apres-l-attentat-de-nice-grandir-malgre-l-horreur_8106740.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, les enfants qui ont vécu l'attaque combattent ..."
       },
       {
         "title": "Le pays le plus meurtri d’Europe : dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France",
@@ -111,7 +94,7 @@
         "summary": "Point de situation critique concernant : Dix ans après l'attentat de Nice, l'hommage aux victimes..."
       }
     ],
-    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / VIDEO - « On m’a privée de mon adolescence » : 10 ans après l’attentat de Nice, la lente reconstruction d’Audrey Borla"
+    "summary": "« La douleur, il faut vivre avec » : dix ans après l’attentat de Nice, le récit sans concession de deux hommes endeuillés / Le pays le plus meurtri d’Europe : dix ans après l’attentat de Nice, le terrible bilan humain du terrorisme islamiste en France"
   },
   {
     "title": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées",
@@ -131,135 +114,6 @@
       }
     ],
     "summary": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées"
-  },
-  {
-    "title": "Attentat du 14-Juillet à Nice : ces images \"ne me quitteront jamais\", témoigne Christian Estrosi, 10 ans après",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Attentat du 14-Juillet à Nice : ces images \"ne me quitteront jamais\", témoigne Christian Estrosi, 10 ans après",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T09:24:34.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/attentat-du-14-juillet-a-nice-ces-images-ne-me-quitteront-jamais-temoigne-christian-estrosi-10-ans-apres_8107205.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "ces images \"ne me quitteront jamais\", témoigne Christian Estrosi, 10 ans après"
-      },
-      {
-        "title": "Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\"",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-15T08:02:37.000Z",
-        "link": "https://www.franceinfo.fr/france/14-juillet/attentat-du-14-juillet-a-nice-une-policiere-municipale-en-charge-de-la-supervision-des-cameras-ce-soir-la-denonce-un-scandale-d-etat_8107412.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\""
-      }
-    ],
-    "summary": "Attentat du 14-Juillet à Nice : ces images \"ne me quitteront jamais\", témoigne Christian Estrosi, 10 ans après / Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\""
-  },
-  {
-    "title": "\"Psychologiquement, ça a tout changé\" : une victime de l'attentat de Nice témoigne",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "\"Psychologiquement, ça a tout changé\" : une victime de l'attentat de Nice témoigne",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T08:00:02.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/psychologiquement-ca-a-tout-change-une-victime-de-l-attentat-de-nice-temoigne_8106197.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "une victime de l'attentat de Nice témoigne"
-      },
-      {
-        "title": "\"Des fois, j'aurais préféré rester sous les roues\" : victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T14:33:56.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/des-fois-j-aurais-prefere-rester-sous-les-roues-victime-et-temoins-de-l-attentat-de-nice-ils-racontent-la-nuit-qui-les-hantent-encore_8107670.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore"
-      }
-    ],
-    "summary": "\"Psychologiquement, ça a tout changé\" : une victime de l'attentat de Nice témoigne / \"Des fois, j'aurais préféré rester sous les roues\" : victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore"
-  },
-  {
-    "title": "Attentat de Nice : les souvenirs poignants de ce médecin urgentiste",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Attentat de Nice : les souvenirs poignants de ce médecin urgentiste",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-14T08:00:02.000Z",
-        "link": "https://www.franceinfo.fr/replay-radio/attentat-de-nice-les-enfants-du-14-juillet/attentat-de-nice-les-souvenirs-poignants-de-ce-medecin-urgentiste_8106386.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "les souvenirs poignants de ce médecin urgentiste"
-      }
-    ],
-    "summary": "Attentat de Nice : les souvenirs poignants de ce médecin urgentiste"
-  },
-  {
-    "title": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran...",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-14T07:39:17.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234478-20260714-direct-guerre-moyen-orient-explosions-bahrein-missile-frappe-navire-large-oman?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électr..."
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T00:45:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-missiles-detroit-ormuz-donald-trump-bahrein-emirats-arabes-unis-20260714",
-        "score": 95,
-        "summary": "Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques"
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : Trump brandit la menace de frapper des centrales électriques en Iran... / EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques"
-  },
-  {
-    "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-14T06:32:36.000Z",
-        "link": "https://www.20minutes.fr/arts-stars/4233810-20260714-documentaire-comment-suivre-filmer-emmanuel-macron-temps-guerre-guy-lagache-explique?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy..."
-      },
-      {
-        "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-15T06:07:02.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire..."
-      }
-    ],
-    "summary": "Documentaire : Comment suivre et filmer Emmanuel Macron en temps de guerre ? Guy Lagache nous explique / Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais"
   },
   {
     "title": "Héloïse Heuls : « Dix ans après les attentats de Nice, comment le djihadisme s’est réinventé »",
@@ -283,9 +137,10 @@
   {
     "title": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -295,14 +150,41 @@
         "link": "https://www.lemonde.fr/societe/article/2026/07/14/dix-ans-apres-recueillement-a-nice-et-au-mondial-en-memoire-des-victimes-de-l-attentat-du-14-juillet_6723318_3224.html",
         "score": 95,
         "summary": "Point de situation critique concernant : Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoir..."
+      },
+      {
+        "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-15T06:07:02.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire..."
       }
     ],
-    "summary": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais"
+    "summary": "Attentat de Nice : « Nous n’avons oublié aucun nom, aucun visage, aucune histoire », déclare Emmanuel Macron, dix ans après l’attaque sur la promenade des Anglais / Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais"
+  },
+  {
+    "title": "\"Des fois, j'aurais préféré rester sous les roues\" : victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "\"Des fois, j'aurais préféré rester sous les roues\" : victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-14T14:33:56.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/des-fois-j-aurais-prefere-rester-sous-les-roues-victime-et-temoins-de-l-attentat-de-nice-ils-racontent-la-nuit-qui-les-hantent-encore_8107670.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore"
+      }
+    ],
+    "summary": "\"Des fois, j'aurais préféré rester sous les roues\" : victime et témoins de l'attentat de Nice, ils racontent la nuit qui les hantent encore"
   },
   {
     "title": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -314,9 +196,69 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4234511-20260714-guerre-ukraine-zelensky-militaires-kiev-champs-elysees-russie-bien-embetee-mer-azov?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainiennes, des manifestations à Kiev…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-16T05:42:32.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainien..."
       }
     ],
-    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov"
+    "summary": "Guerre en Ukraine : Zelensky et des militaires de Kiev sur les Champs-Elysées et la Russie bien embêtée en mer d’Azov / EN DIRECT Guerre en Ukraine : Trois morts en Russie après des attaques ukrainiennes, des manifestations à Kiev…"
+  },
+  {
+    "title": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques",
+    "score": 95,
+    "count": 5,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-15T00:45:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-missiles-detroit-ormuz-donald-trump-bahrein-emirats-arabes-unis-20260714",
+        "score": 95,
+        "summary": "Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques"
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-15T23:35:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains-20260715",
+        "score": 95,
+        "summary": "l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-15T21:54:08.000Z",
+        "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
+        "score": 95,
+        "summary": "Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T05:58:52.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-detroit-ormuz-teheran-donald-trump-koweit-bahrein-20260716",
+        "score": 95,
+        "summary": "les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie"
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis bombardent à nouveau, l'Iran réplique en Jordanie, au Koweït et à Bahreïn...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-16T05:27:33.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Les Etats-Unis bombardent à nouveau, l'Iran réplique en Jordanie, au Koweït et à Bahreïn..."
+      }
+    ],
+    "summary": "EN DIRECT - Guerre au Moyen-Orient : Téhéran accuse Washington d’avoir «démantelé» le protocole d’accord, Trump menace de frapper des centrales électriques / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
   },
   {
     "title": "Attentat de Nice : la nation rend hommage aux victimes",
@@ -376,22 +318,13 @@
     "summary": "Guerre au Moyen-Orient : A Rome, Israël se dit prêt à avancer sur son retrait du sud du Liban"
   },
   {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
+    "title": "Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran",
     "score": 95,
-    "count": 5,
+    "count": 1,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T23:35:03.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains-20260715",
-        "score": 95,
-        "summary": "l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
-      },
       {
         "title": "Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
@@ -399,33 +332,9 @@
         "link": "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T10:31:50.000Z",
-        "link": "https://www.lefigaro.fr/international/les-etats-unis-ont-lance-la-premiere-attaque-de-drones-marins-d-attaque-unidirectionnels-contre-un-port-iranien-20260713",
-        "score": 95,
-        "summary": "pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien"
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-16T05:58:52.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-detroit-ormuz-teheran-donald-trump-koweit-bahrein-20260716",
-        "score": 95,
-        "summary": "les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie"
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis bombardent à nouveau, l'Iran réplique au Koweït et à Bahreïn...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-16T05:27:33.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Les Etats-Unis bombardent à nouveau, l'Iran réplique au Koweït et à Bahreïn..."
       }
     ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran / Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran"
+    "summary": "Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran"
   },
   {
     "title": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission",
@@ -457,7 +366,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-16T06:14:25.093Z",
+        "time": "2026-07-16T10:05:10.463Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -485,7 +394,26 @@
     "summary": "Un \"espace mémoriel\" dédié à l'attentat de Nice au musée Masséna \"dès cet automne\", annonce le maire Éric Ciotti"
   },
   {
-    "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
+    "title": "Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\"",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\"",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-15T08:02:37.000Z",
+        "link": "https://www.franceinfo.fr/france/14-juillet/attentat-du-14-juillet-a-nice-une-policiere-municipale-en-charge-de-la-supervision-des-cameras-ce-soir-la-denonce-un-scandale-d-etat_8107412.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 95,
+        "summary": "une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\""
+      }
+    ],
+    "summary": "Attentat du 14-Juillet à Nice : une policière municipale en charge de la supervision des caméras ce soir-là dénonce \"un scandale d'État\""
+  },
+  {
+    "title": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien",
     "score": 95,
     "count": 1,
     "sources": [
@@ -493,15 +421,15 @@
     ],
     "items": [
       {
-        "title": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?",
+        "title": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-15T21:54:08.000Z",
-        "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-donald-trump-aurait-il-vraiment-pu-taxer-les-navires-dans-le-detroit-d-ormuz-comme-il-l-envisageait-20260715",
+        "time": "2026-07-15T10:31:50.000Z",
+        "link": "https://www.lefigaro.fr/international/les-etats-unis-ont-lance-la-premiere-attaque-de-drones-marins-d-attaque-unidirectionnels-contre-un-port-iranien-20260713",
         "score": 95,
-        "summary": "Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
+        "summary": "pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien"
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Donald Trump aurait-il vraiment pu taxer les navires dans le détroit d’Ormuz, comme il l’envisageait ?"
+    "summary": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien"
   },
   {
     "title": "Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un sursis financier pour Moscou",
@@ -525,10 +453,9 @@
   {
     "title": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques",
     "score": 95,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -538,62 +465,17 @@
         "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-une-serie-d-explosions-entendue-a-kiev-apres-une-alerte-aux-missiles-balistiques-20260716",
         "score": 95,
         "summary": "une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
-      },
-      {
-        "title": "EN DIRECT Guerre en Ukraine: Des attaques russes nocturnes à Kiev et à Kharkiv, au moins deux morts...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-16T05:42:32.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine: Des attaques russes nocturnes à Kiev et à Kharkiv, ..."
       }
     ],
-    "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques / EN DIRECT Guerre en Ukraine: Des attaques russes nocturnes à Kiev et à Kharkiv, au moins deux morts..."
-  },
-  {
-    "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit",
-        "source": "CyberPress",
-        "time": "2026-07-14T09:02:48.000Z",
-        "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stoc..."
-      }
-    ],
-    "summary": "[CYBER INT] Grok construit des référentiels Git entiers téléchargés pour le stockage xAI, pas seulement des fichiers qu'il lit"
-  },
-  {
-    "title": "[CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une année d'activité de ShinyHunters",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une année d'activité de ShinyHunters",
-        "source": "CyberPress",
-        "time": "2026-07-14T06:19:24.000Z",
-        "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une anné..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft Maps Trois pistes d'attaque de Salesforce liées à une année d'activité de ShinyHunters"
+    "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
   },
   {
     "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
     "score": 88,
-    "count": 1,
+    "count": 3,
     "sources": [
-      "CyberPress"
+      "CyberPress",
+      "BleepingComputer"
     ],
     "items": [
       {
@@ -603,9 +485,25 @@
         "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs dé..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft: Certains PC Dell ont été fermés après les dernières mises à jour de Windows",
+        "source": "BleepingComputer",
+        "time": "2026-07-15T08:26:48.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft: Certains PC Dell ont été fermés après les dernières mises..."
+      },
+      {
+        "title": "[CYBER INT] SonicWall avertit des défauts SMA1000 exploités dans les attaques de jour zéro, correction maintenant",
+        "source": "BleepingComputer",
+        "time": "2026-07-14T21:23:24.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] SonicWall avertit des défauts SMA1000 exploités dans les attaques de..."
       }
     ],
-    "summary": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques"
+    "summary": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques / [CYBER INT] Microsoft: Certains PC Dell ont été fermés après les dernières mises à jour de Windows"
   },
   {
     "title": "[CYBER INT] Un chercheur a abandonné les nouvelles heures de poC de Windows Zéro Jour après le patch de Microsoft mardi",
@@ -667,7 +565,7 @@
   {
     "title": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "CyberPress"
     ],
@@ -679,9 +577,17 @@
         "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou m..."
+      },
+      {
+        "title": "[CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre la prise de compte",
+        "source": "CyberPress",
+        "time": "2026-07-16T07:22:44.000Z",
+        "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre l..."
       }
     ],
-    "summary": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données"
+    "summary": "[CYBER INT] SAP patches CVSS 9.9 NetWeaver ABAP Faille qui pourrait exposer ou modifier les données / [CYBER INT] Zoom patches une faille critique de Windows qui pourrait permettre la prise de compte"
   },
   {
     "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
@@ -720,5 +626,119 @@
       }
     ],
     "summary": "[CYBER INT] Google Gemini CLI abusé comme un agent de piratage, opérateur de botnet malveillant"
+  },
+  {
+    "title": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol",
+        "source": "CyberPress",
+        "time": "2026-07-16T08:42:31.000Z",
+        "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir..."
+      }
+    ],
+    "summary": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol"
+  },
+  {
+    "title": "[CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des jetons d'IA, zéro jour dehors",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des jetons d'IA, zéro jour dehors",
+        "source": "BleepingComputer",
+        "time": "2026-07-15T14:01:11.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des j..."
+      }
+    ],
+    "summary": "[CYBER INT] Nous avons construit une machine automatique de vulnérabilité: des jetons d'IA, zéro jour dehors"
+  },
+  {
+    "title": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T10:05:10.463Z",
+        "link": "https://www.leparisien.fr/faits-divers/direct-affaire-delphine-jubillar-des-ossements-non-identifies-decouverts-sur-le-lieu-indique-par-cedric-jubillar-16-07-2026-E5YMNUYKGNHIDLYANBHJNEVM4Y.php",
+        "score": 70,
+        "summary": "des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar"
+      }
+    ],
+    "summary": "DIRECT. Affaire Delphine Jubillar : des ossements non identifiés découverts sur le lieu indiqué par Cédric Jubillar"
+  },
+  {
+    "title": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T10:05:10.463Z",
+        "link": "https://www.leparisien.fr/faits-divers/condamne-pour-trafic-sexuel-jusquen-2046-r-kelly-demande-a-donald-trump-de-reduire-sa-peine-de-prison-16-07-2026-6BYPQBYY7RG3RA6XZFGQJKRQZI.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de ré..."
+      }
+    ],
+    "summary": "Condamné pour trafic sexuel jusqu’en 2046, R. Kelly demande à Donald Trump de réduire sa peine de prison"
+  },
+  {
+    "title": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T10:05:10.463Z",
+        "link": "https://www.leparisien.fr/faits-divers/meurtre-de-delphine-jubillar-des-fouilles-en-cours-dans-le-tarn-au-lendemain-de-laudition-de-cedric-jubillar-16-07-2026-O5SLTNH4JBCVPLQMXJBKZR4LAA.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain d..."
+      }
+    ],
+    "summary": "Meurtre de Delphine Jubillar : des fouilles en cours dans le Tarn au lendemain de l’audition de son mari Cédric"
+  },
+  {
+    "title": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-16T10:05:10.463Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-de-fontainebleau-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire-16-07-2026-DL3COZW3IJECLCNC6EJFC6MQIM.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Incendies de Fontainebleau : les deux suspects mis en examen et placés en détent..."
+      }
+    ],
+    "summary": "Incendies de Fontainebleau : les deux suspects mis en examen et placés en détention provisoire"
   }
 ]
