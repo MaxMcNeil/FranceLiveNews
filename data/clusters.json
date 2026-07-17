@@ -73,28 +73,9 @@
     "summary": "Projet d’attentat lors de l’UFC à la Maison-Blanche : huit personnes désormais inculpées"
   },
   {
-    "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-15T06:07:02.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-au-camion-a-nice/direct-attentat-de-nice-suivez-les-commemorations-en-presence-d-emmanuel-macron-dix-ans-apres-l-attaque-sur-la-promenade-des-anglais_8086829.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire..."
-      }
-    ],
-    "summary": "Attentat de Nice : \"Nous n'avons oublié aucun nom, aucun visage, aucune histoire\", déclare Emmanuel Macron dix ans après l'attaque sur la promenade des Anglais"
-  },
-  {
     "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran",
     "score": 95,
-    "count": 5,
+    "count": 7,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -107,14 +88,6 @@
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-affirme-que-le-detroit-d-ormuz-restera-ferme-jusqu-a-la-fin-des-actes-d-agression-americains-20260715",
         "score": 95,
         "summary": "l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-15T05:09:22.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4234553-20260715-direct-guerre-moyen-orient-frappes-americaines-iran-trump-menace-detruire-centrales-electriques?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran"
       },
       {
         "title": "Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien",
@@ -139,45 +112,33 @@
         "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Aéroport, ponts... L'armée américaine frappe des infrastructures stratégiques en Iran"
-      }
-    ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran / Guerre au Moyen-Orient : Le détroit d'Ormuz (presque) fermé, de nouvelles frappes américaines sur l'Iran"
-  },
-  {
-    "title": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-15T06:05:18.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4234566-20260715-direct-guerre-ukraine-trois-morts-attaques-russes-navires-sud-mer-noire?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission..."
       },
       {
-        "title": "Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-16T05:42:32.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier minist..."
-      },
-      {
-        "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
+        "title": "Guerre au Moyen-Orient : l’Iran dit avoir attaqué une base militaire en Syrie, les bombardements américains continuent",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-16T09:19:33.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-oppose-au-limogeage-du-ministre-de-la-defense-le-numero-deux-de-l-armee-de-l-air-demissionne-20260716",
+        "time": "2026-07-17T05:42:29.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-l-iran-dit-avoir-attaque-une-base-militaire-en-syrie-les-bombardements-americains-continuent-20260717",
         "score": 95,
-        "summary": "opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
+        "summary": "l’Iran dit avoir attaqué une base militaire en Syrie, les bombardements américains continuent"
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Les Etats-Unis frappent des infrastructures en Iran, le Koweït et le Qatar ciblés par des drones...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-17T05:00:20.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4234929-20260717-direct-guerre-moyen-orient-etats-unis-frappent-infrastructures-iran-koweit-qatar-cibles-drones?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Les Etats-Unis frappent des infrastructures en Iran, le Koweït et le Qatar ciblés par des drones..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : Deux morts dans des frappes russes sur Odessa, des manifs pour soutenir le ministre limogé…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-17T05:06:42.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234910-20260717-direct-guerre-ukraine-deux-morts-frappes-russes-odessa-manifs-soutenir-ministre-limoge?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Deux morts dans des frappes russes sur Odessa, des..."
       }
     ],
-    "summary": "Guerre en Ukraine : Le ministre ukrainien de la Défense annonce sa démission / Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky"
+    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine dit avoir lancé une nouvelle vague de frappes contre l’Iran / Guerre au Moyen-Orient : pour la première fois, les États-Unis ont lancé une attaque de drones navals contre un port iranien"
   },
   {
     "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
@@ -190,7 +151,7 @@
       {
         "title": "« C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux-roues en libre-service à Rouen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.109Z",
+        "time": "2026-07-17T06:12:49.097Z",
         "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
@@ -258,7 +219,7 @@
   {
     "title": "Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un sursis financier pour Moscou",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -270,9 +231,17 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4234617-20260715-guerre-ukraine-pays-otan-alerte-sabotages-russes-sursis-financier-moscou?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un surs..."
+      },
+      {
+        "title": "Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-16T05:42:32.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier minist..."
       }
     ],
-    "summary": "Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un sursis financier pour Moscou"
+    "summary": "Guerre en Ukraine : Des pays de l’Otan en alerte aux sabotages russes et un sursis financier pour Moscou / Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky"
   },
   {
     "title": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques",
@@ -292,6 +261,33 @@
       }
     ],
     "summary": "Guerre en Ukraine : une série d'explosions entendue à Kiev après une alerte aux missiles balistiques"
+  },
+  {
+    "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
+    "score": 95,
+    "count": 2,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T09:19:33.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-oppose-au-limogeage-du-ministre-de-la-defense-le-numero-deux-de-l-armee-de-l-air-demissionne-20260716",
+        "score": 95,
+        "summary": "opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne"
+      },
+      {
+        "title": "Guerre en Ukraine : de nouvelles frappes russes sur Odessa font deux morts et huit blessés",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-16T23:16:39.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-de-nouvelles-frappes-russes-sur-odessa-font-deux-morts-et-huit-blesses-20260717",
+        "score": 95,
+        "summary": "de nouvelles frappes russes sur Odessa font deux morts et huit blessés"
+      }
+    ],
+    "summary": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne / Guerre en Ukraine : de nouvelles frappes russes sur Odessa font deux morts et huit blessés"
   },
   {
     "title": "« En gérant des épidémies de façon aussi peu démocratique, on dégrade le système » : les leçons de l’infectiologue Xavier Lescure après les crises du hantavirus et d’Ebola",
@@ -330,25 +326,6 @@
       }
     ],
     "summary": "Guerre en Ukraine : Un limogeage qui ne passe pas à Kiev et des négociations avec la Russie dans l’impasse"
-  },
-  {
-    "title": "Guerre en Ukraine : de nouvelles frappes russes sur Odessa font deux morts et huit blessés",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : de nouvelles frappes russes sur Odessa font deux morts et huit blessés",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-16T23:16:39.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-de-nouvelles-frappes-russes-sur-odessa-font-deux-morts-et-huit-blesses-20260717",
-        "score": 95,
-        "summary": "de nouvelles frappes russes sur Odessa font deux morts et huit blessés"
-      }
-    ],
-    "summary": "Guerre en Ukraine : de nouvelles frappes russes sur Odessa font deux morts et huit blessés"
   },
   {
     "title": "[CYBER INT] Firefox, Chrome, Adobe et VMware mises à jour corrigent plusieurs défauts de sécurité critiques",
@@ -396,25 +373,6 @@
       }
     ],
     "summary": "[CYBER INT] Un chercheur a abandonné les nouvelles heures de poC de Windows Zéro Jour après le patch de Microsoft mardi"
-  },
-  {
-    "title": "[CYBER INT] Deux SonicWall SMA 1000 Zéro-Days exploité, l'un pourrait activer les commandes de l'administrateur",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Deux SonicWall SMA 1000 Zéro-Days exploité, l'un pourrait activer les commandes de l'administrateur",
-        "source": "CyberPress",
-        "time": "2026-07-15T05:30:21.000Z",
-        "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Deux SonicWall SMA 1000 Zéro-Days exploité, l'un pourrait activer le..."
-      }
-    ],
-    "summary": "[CYBER INT] Deux SonicWall SMA 1000 Zéro-Days exploité, l'un pourrait activer les commandes de l'administrateur"
   },
   {
     "title": "[CYBER INT] Zoom met en garde contre la vulnérabilité de la prise de contrôle de compte critique",
@@ -588,7 +546,7 @@
       {
         "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/des-passagers-dun-vol-easyjet-bloques-plusieurs-heures-sur-le-tarmac-dun-aeroport-de-londres-faute-de-carburant-16-07-2026-OPZQL2FPWJAJBJQ2FQLQM7K44I.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aérop..."
@@ -607,7 +565,7 @@
       {
         "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/oise-60/accident-de-quad-pres-de-beauvais-le-passager-est-decede-le-bilan-salourdit-a-deux-morts-16-07-2026-CXVEIBOCQRFMTAPJRUYVDMUEAI.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit ..."
@@ -626,7 +584,7 @@
       {
         "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/les-filles-sont-terrifiees-deux-adolescentes-parviennent-a-faire-fuir-un-americain-qui-tentait-de-les-agresser-dans-un-parc-16-07-2026-6HHGKBVQMRCE3PRQ2TY7FHLJZE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un A..."
@@ -645,7 +603,7 @@
       {
         "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
@@ -664,7 +622,7 @@
       {
         "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
@@ -672,7 +630,7 @@
       {
         "title": "Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralyser complètement » les transports londoniens",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/prison-ferme-pour-les-deux-jeunes-surdoues-du-piratage-qui-auraient-pu-paralyser-completement-les-transports-londoniens-16-07-2026-LSPRA3QANFH75KOGYPOALFUA6Y.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralys..."
@@ -691,7 +649,7 @@
       {
         "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
         "score": 70,
         "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
@@ -710,7 +668,7 @@
       {
         "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lan..."
@@ -729,7 +687,7 @@
       {
         "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-reconnaitre-cela-nefface-ni-les-faits-ni-son-attitude-ensuite-16-07-2026-KHMOO4LNYZD2JDVGVMO5A7YDLY.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude en..."
@@ -748,7 +706,7 @@
       {
         "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-a-vu-un-telephone-sous-la-cabine-a-paris-un-homme-en-garde-a-vue-pour-avoir-filme-une-femme-a-son-insu-a-la-piscine-16-07-2026-DD2UCM4XHRDLVI73HMV34EBNBU.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pou..."
@@ -767,7 +725,7 @@
       {
         "title": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/je-ne-me-laisserai-pas-intimider-le-maire-dales-recoit-a-son-domicile-deux-balles-signees-dz-mafia-les-murs-de-sa-maison-tagues-17-07-2026-EOU62WHN4ZFHPPUD67P5SGIDRM.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deu..."
@@ -786,12 +744,31 @@
       {
         "title": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-17T02:13:36.108Z",
+        "time": "2026-07-17T06:12:49.096Z",
         "link": "https://www.leparisien.fr/faits-divers/doubs-un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-filles-de-11-et-12-ans-16-07-2026-6LBUM73MKNHDPBINF7PIH4XKOQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois fil..."
       }
     ],
     "summary": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans"
+  },
+  {
+    "title": "Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans le Lot après la chute d’un arbre",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans le Lot après la chute d’un arbre",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-17T06:12:49.096Z",
+        "link": "https://www.leparisien.fr/faits-divers/plus-de-5-heures-de-retard-un-train-sncf-intercites-toulouse-paris-bloque-dans-le-lot-apres-la-chute-dun-arbre-17-07-2026-7HQH36BUH5GH5MYVKPQINH7HTY.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans ..."
+      }
+    ],
+    "summary": "Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans le Lot après la chute d’un arbre"
   }
 ]
