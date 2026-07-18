@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T02:04:30.777Z",
+  "updated": "2026-07-18T06:06:50.519Z",
   "count": 49,
   "items": [
     {
@@ -17,30 +17,6 @@
       "link": "https://www.leparisien.fr/seine-maritime-76/cest-comme-si-on-avait-invente-le-velo-jetable-explosion-des-vols-de-deux-roues-en-libre-service-a-rouen-15-07-2026-QZMFDYVXI5CXNKZEIZTCZDSTVE.php",
       "score": 95,
       "summary": "Point de situation critique concernant : « C’est comme si on avait inventé le vélo jetable » : explosion des vols de deux..."
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-16T05:58:52.000Z",
-      "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-etats-unis-detroit-ormuz-teheran-donald-trump-koweit-bahrein-20260716",
-      "score": 95,
-      "summary": "les gardiens de la révolution déclare avoir frappé une base américaine en Jordanie"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Aéroport, ponts... L'armée américaine frappe des infrastructures stratégiques en Iran",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-16T05:27:33.000Z",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4234708-20260716-direct-guerre-moyen-orient-etats-unis-bombardent-nouveau-iran-replique-koweit-bahrein?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Aéroport, ponts... L'armée américaine frappe des infrastructures stratégiques en Iran"
-    },
-    {
-      "title": "Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier ministre pour Zelensky",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-16T05:42:32.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4234706-20260716-direct-guerre-ukraine-attaques-russes-nocturnes-kiev-kharkiv-moins-deux-morts?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Du grabuge dans l’armée de Kiev et un nouveau Premier minist..."
     },
     {
       "title": "Guerre en Ukraine : opposé au limogeage du ministre de la Défense, le numéro deux de l’armée de l’air démissionne",
@@ -93,7 +69,7 @@
     {
       "title": "« Notre survie relève du miracle » : après l’explosion à Monaco, Vadim Ermolaev sort du silence et accuse le renseignement ukrainien",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/notre-survie-releve-du-miracle-apres-lexplosion-a-monaco-vadim-ermolaev-sort-du-silence-et-accuse-le-renseignement-ukrainien-17-07-2026-HSGLWJPIAFCWZOLVYT6EWR343E.php",
       "score": 95,
       "summary": "Point de situation critique concernant : « Notre survie relève du miracle » : après l’explosion à Monaco, Vadim Ermolaev ..."
@@ -109,7 +85,7 @@
     {
       "title": "Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassinat",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-lukraine-diffuse-une-video-montrant-la-tentative-dassassinat-17-07-2026-QF5FW43GXRGOHPWYLNXPVJWOXQ.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassi..."
@@ -121,6 +97,14 @@
       "link": "https://www.20minutes.fr/monde/ukraine/4235010-20260717-guerre-ukraine-remaniement-zelensky-inquiete-ue-russie-met-detracteurs?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Le remaniement de Zelensky inquiète l’UE, la Russie met ses ..."
+    },
+    {
+      "title": "Aux rendez-vous des rescapés d’attentats : « Ici, les gens ont envie de se dire les uns aux autres, “je suis vivant” »",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-07-18T04:00:48.000Z",
+      "link": "https://www.lemonde.fr/m-le-mag/article/2026/07/18/aux-rendez-vous-des-rescapes-d-attentats-ici-les-gens-ont-envie-de-se-dire-les-uns-aux-autres-je-suis-vivant_6724359_4500055.html",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Aux rendez-vous des rescapés d’attentats : « Ici, les gens ont envie de se dire ..."
     },
     {
       "title": "[CYBER INT] OpenAI s GPT-Red automatise le test par injection rapide pour durcir le GPT-5.6 Sol",
@@ -245,7 +229,7 @@
     {
       "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/des-passagers-dun-vol-easyjet-bloques-plusieurs-heures-sur-le-tarmac-dun-aeroport-de-londres-faute-de-carburant-16-07-2026-OPZQL2FPWJAJBJQ2FQLQM7K44I.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aérop..."
@@ -253,7 +237,7 @@
     {
       "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/oise-60/accident-de-quad-pres-de-beauvais-le-passager-est-decede-le-bilan-salourdit-a-deux-morts-16-07-2026-CXVEIBOCQRFMTAPJRUYVDMUEAI.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit ..."
@@ -261,7 +245,7 @@
     {
       "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/les-filles-sont-terrifiees-deux-adolescentes-parviennent-a-faire-fuir-un-americain-qui-tentait-de-les-agresser-dans-un-parc-16-07-2026-6HHGKBVQMRCE3PRQ2TY7FHLJZE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un A..."
@@ -269,7 +253,7 @@
     {
       "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
@@ -277,7 +261,7 @@
     {
       "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
@@ -285,7 +269,7 @@
     {
       "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
       "score": 70,
       "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
@@ -293,7 +277,7 @@
     {
       "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lan..."
@@ -301,7 +285,7 @@
     {
       "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-reconnaitre-cela-nefface-ni-les-faits-ni-son-attitude-ensuite-16-07-2026-KHMOO4LNYZD2JDVGVMO5A7YDLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude en..."
@@ -309,7 +293,7 @@
     {
       "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/elle-a-vu-un-telephone-sous-la-cabine-a-paris-un-homme-en-garde-a-vue-pour-avoir-filme-une-femme-a-son-insu-a-la-piscine-16-07-2026-DD2UCM4XHRDLVI73HMV34EBNBU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pou..."
@@ -317,7 +301,7 @@
     {
       "title": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/je-ne-me-laisserai-pas-intimider-le-maire-dales-recoit-a-son-domicile-deux-balles-signees-dz-mafia-les-murs-de-sa-maison-tagues-17-07-2026-EOU62WHN4ZFHPPUD67P5SGIDRM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deu..."
@@ -325,7 +309,7 @@
     {
       "title": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/doubs-un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-filles-de-11-et-12-ans-16-07-2026-6LBUM73MKNHDPBINF7PIH4XKOQ.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois fil..."
@@ -333,7 +317,7 @@
     {
       "title": "Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralyser complètement » les transports londoniens",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/prison-ferme-pour-les-deux-jeunes-surdoues-du-piratage-qui-auraient-pu-paralyser-completement-les-transports-londoniens-16-07-2026-LSPRA3QANFH75KOGYPOALFUA6Y.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralys..."
@@ -341,7 +325,7 @@
     {
       "title": "Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans le Lot après la chute d’un arbre",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/plus-de-5-heures-de-retard-un-train-sncf-intercites-toulouse-paris-bloque-dans-le-lot-apres-la-chute-dun-arbre-17-07-2026-7HQH36BUH5GH5MYVKPQINH7HTY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans ..."
@@ -349,7 +333,7 @@
     {
       "title": "Carcassonne : une violente fusillade fait un mort et quatre blessés sur un point de deal ",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/carcassonne-une-violente-fusillade-fait-un-mort-et-quatre-blesses-sur-un-point-de-deal-17-07-2026-2QQHNZRTGJB7FPDZLBZ3DVKVLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Carcassonne : une violente fusillade fait un mort et quatre blessés sur un point..."
@@ -357,7 +341,7 @@
     {
       "title": "Clermont-Ferrand : l’homme suspecté d’avoir attaqué plusieurs passants au couteau écroué après avoir été hospitalisé",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/clermont-ferrand-lhomme-suspecte-davoir-attaque-plusieurs-passants-au-couteau-ecroue-apres-avoir-ete-hospitalise-17-07-2026-55T47EYF6ZAH3C6HZ5QWZIZ7RM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Clermont-Ferrand : l’homme suspecté d’avoir attaqué plusieurs passants au coutea..."
@@ -365,7 +349,7 @@
     {
       "title": "Paris : une plaque hommage à un couple de Justes dégradée pendant la période de commémorations de la rafle du Vel’ d’Hiv’",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/paris-75/paris-75012/paris-une-plaque-hommage-a-un-couple-de-justes-degradee-pendant-la-periode-de-commemorations-de-la-rafle-du-vel-dhiv-17-07-2026-2JVNG377MZC4TJZK7DRCB6SQVI.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Paris : une plaque hommage à un couple de Justes dégradée pendant la période de ..."
@@ -373,7 +357,7 @@
     {
       "title": "Pérou : disparition inquiétante d’un Français de 30 ans, les autorités locales ouvrent une enquête",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/perou-disparition-inquietante-dun-francais-de-30-ans-les-autorites-locales-ouvrent-une-enquete-17-07-2026-A3ONCKSICZCDBDM3MURER2VJZY.php",
       "score": 70,
       "summary": "disparition inquiétante d’un Français de 30 ans, les autorités locales ouvrent une enquête"
@@ -381,7 +365,7 @@
     {
       "title": "Procès Athanor : les têtes pensantes de l’officine criminelle condamnés à 25 et 30 ans de prison",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/proces-athanor-les-francs-macons-a-la-tete-de-lofficine-criminelle-condamnes-a-25-et-30-ans-de-prison-17-07-2026-YZRUEAB6DNAOTPOESO5HFJE25A.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Procès Athanor : les têtes pensantes de l’officine criminelle condamnés à 25 et ..."
@@ -389,10 +373,26 @@
     {
       "title": "Nord : 200 personnes se rassemblent en l’honneur d’Auphélie, 17 ans, victime d’une chute mortelle après le match France-Maroc",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-18T02:04:28.579Z",
+      "time": "2026-07-18T06:06:49.380Z",
       "link": "https://www.leparisien.fr/faits-divers/nord-200-personnes-se-rassemblent-en-lhonneur-dauphelie-17-ans-victime-dune-chute-mortelle-apres-le-match-france-maroc-17-07-2026-BZREVGSZSFGCLDEK6FAR3FDTBI.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Nord : 200 personnes se rassemblent en l’honneur d’Auphélie, 17 ans, victime d’u..."
+    },
+    {
+      "title": "Ivry-sur-Seine : des policiers secourent une escort-girl en train de se faire violer dans un parking",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-18T06:06:49.380Z",
+      "link": "https://www.leparisien.fr/val-de-marne-94/ivry-sur-seine-des-policiers-secourent-une-escort-girl-en-train-de-se-faire-violer-dans-un-parking-18-07-2026-OVGH6FQGEBGNRL75XY3O2X6YQM.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Ivry-sur-Seine : des policiers secourent une escort-girl en train de se faire vi..."
+    },
+    {
+      "title": "Un séisme de magnitude 5 secoue le sud-est de la Turquie",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-18T06:06:49.380Z",
+      "link": "https://www.leparisien.fr/faits-divers/un-seisme-de-magnitude-5-secoue-le-sud-est-de-la-turquie-18-07-2026-76SZJCLZZ5D2BIHH3PP2BUK4LI.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Un séisme de magnitude 5 secoue le sud-est de la Turquie..."
     }
   ]
 }
