@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-19T20:43:11.622Z",
+  "updated": "2026-07-20T02:35:01.154Z",
   "count": 49,
   "items": [
     {
       "title": "« Notre survie relève du miracle » : après l’explosion à Monaco, Vadim Ermolaev sort du silence et accuse le renseignement ukrainien",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/notre-survie-releve-du-miracle-apres-lexplosion-a-monaco-vadim-ermolaev-sort-du-silence-et-accuse-le-renseignement-ukrainien-17-07-2026-HSGLWJPIAFCWZOLVYT6EWR343E.php",
       "score": 95,
       "summary": "Point de situation critique concernant : « Notre survie relève du miracle » : après l’explosion à Monaco, Vadim Ermolaev ..."
@@ -13,7 +13,7 @@
     {
       "title": "Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassinat",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-lukraine-diffuse-une-video-montrant-la-tentative-dassassinat-17-07-2026-QF5FW43GXRGOHPWYLNXPVJWOXQ.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassi..."
@@ -171,6 +171,14 @@
       "summary": "Point de situation critique concernant : À Kiev, une nuit de bombardements massifs sur fond de crise politique..."
     },
     {
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump affirme frapper l’Iran «très durement» pour venger les militaires américains tués",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-20T02:20:02.000Z",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
+      "score": 95,
+      "summary": "Trump affirme frapper l’Iran «très durement» pour venger les militaires américains tués"
+    },
+    {
       "title": "[CYBER INT] Microsoft met en garde contre une augmentation des attaques de vol d'ACR contre les clients",
       "source": "BleepingComputer",
       "time": "2026-07-18T14:17:19.000Z",
@@ -203,9 +211,17 @@
       "summary": "Point de situation critique concernant : [CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir ..."
     },
     {
+      "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
+      "source": "CyberPress",
+      "time": "2026-07-19T20:42:49.000Z",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleu..."
+    },
+    {
       "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/des-passagers-dun-vol-easyjet-bloques-plusieurs-heures-sur-le-tarmac-dun-aeroport-de-londres-faute-de-carburant-16-07-2026-OPZQL2FPWJAJBJQ2FQLQM7K44I.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aérop..."
@@ -213,7 +229,7 @@
     {
       "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/oise-60/accident-de-quad-pres-de-beauvais-le-passager-est-decede-le-bilan-salourdit-a-deux-morts-16-07-2026-CXVEIBOCQRFMTAPJRUYVDMUEAI.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit ..."
@@ -221,7 +237,7 @@
     {
       "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/les-filles-sont-terrifiees-deux-adolescentes-parviennent-a-faire-fuir-un-americain-qui-tentait-de-les-agresser-dans-un-parc-16-07-2026-6HHGKBVQMRCE3PRQ2TY7FHLJZE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un A..."
@@ -229,7 +245,7 @@
     {
       "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
@@ -237,7 +253,7 @@
     {
       "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
@@ -245,7 +261,7 @@
     {
       "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
       "score": 70,
       "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
@@ -253,7 +269,7 @@
     {
       "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lan..."
@@ -261,7 +277,7 @@
     {
       "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-reconnaitre-cela-nefface-ni-les-faits-ni-son-attitude-ensuite-16-07-2026-KHMOO4LNYZD2JDVGVMO5A7YDLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude en..."
@@ -269,7 +285,7 @@
     {
       "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/elle-a-vu-un-telephone-sous-la-cabine-a-paris-un-homme-en-garde-a-vue-pour-avoir-filme-une-femme-a-son-insu-a-la-piscine-16-07-2026-DD2UCM4XHRDLVI73HMV34EBNBU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pou..."
@@ -277,7 +293,7 @@
     {
       "title": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/je-ne-me-laisserai-pas-intimider-le-maire-dales-recoit-a-son-domicile-deux-balles-signees-dz-mafia-les-murs-de-sa-maison-tagues-17-07-2026-EOU62WHN4ZFHPPUD67P5SGIDRM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deu..."
@@ -285,7 +301,7 @@
     {
       "title": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/doubs-un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-filles-de-11-et-12-ans-16-07-2026-6LBUM73MKNHDPBINF7PIH4XKOQ.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois fil..."
@@ -293,7 +309,7 @@
     {
       "title": "Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralyser complètement » les transports londoniens",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/prison-ferme-pour-les-deux-jeunes-surdoues-du-piratage-qui-auraient-pu-paralyser-completement-les-transports-londoniens-16-07-2026-LSPRA3QANFH75KOGYPOALFUA6Y.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralys..."
@@ -301,7 +317,7 @@
     {
       "title": "Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans le Lot après la chute d’un arbre",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/plus-de-5-heures-de-retard-un-train-sncf-intercites-toulouse-paris-bloque-dans-le-lot-apres-la-chute-dun-arbre-17-07-2026-7HQH36BUH5GH5MYVKPQINH7HTY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Plus de 5 heures de retard… Un train SNCF Intercités Toulouse-Paris bloqué dans ..."
@@ -309,7 +325,7 @@
     {
       "title": "Carcassonne : une violente fusillade fait un mort et quatre blessés sur un point de deal ",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/carcassonne-une-violente-fusillade-fait-un-mort-et-quatre-blesses-sur-un-point-de-deal-17-07-2026-2QQHNZRTGJB7FPDZLBZ3DVKVLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Carcassonne : une violente fusillade fait un mort et quatre blessés sur un point..."
@@ -317,7 +333,7 @@
     {
       "title": "Clermont-Ferrand : l’homme suspecté d’avoir attaqué plusieurs passants au couteau écroué après avoir été hospitalisé",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/clermont-ferrand-lhomme-suspecte-davoir-attaque-plusieurs-passants-au-couteau-ecroue-apres-avoir-ete-hospitalise-17-07-2026-55T47EYF6ZAH3C6HZ5QWZIZ7RM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Clermont-Ferrand : l’homme suspecté d’avoir attaqué plusieurs passants au coutea..."
@@ -325,7 +341,7 @@
     {
       "title": "Une femme meurt défenestrée à Nancy, son compagnon placé en garde à vue puis libéré",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/une-femme-meurt-defenestree-a-nancy-son-compagnon-place-en-garde-a-vue-puis-libere-18-07-2026-O72I6JD43NC73HYWGLXZP6QNLU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Une femme meurt défenestrée à Nancy, son compagnon placé en garde à vue puis lib..."
@@ -333,7 +349,7 @@
     {
       "title": "Marche blanche après la mort d’Aymen, poignardé à Paris : « Je veux qu’on ne l’oublie pas et qu’on retrouve le tueur »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/marche-blanche-apres-la-mort-daymen-poignarde-a-paris-je-veux-quon-ne-loublie-pas-et-quon-retrouve-le-tueur-18-07-2026-UHTWFGIUKBGEPF3ASZR37H7EVM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Marche blanche après la mort d’Aymen, poignardé à Paris : « Je veux qu’on ne l’o..."
@@ -341,7 +357,7 @@
     {
       "title": "Essonne : la foudre frappe une maison en pleine nuit, un couple de personnes âgées sauvé des flammes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/essonne-91/mennecy-91540/essonne-la-foudre-frappe-une-maison-en-pleine-nuit-un-couple-de-personnes-agees-sauve-des-flammes-18-07-2026-33LJ4MRD6RDPNPUOJKSJLP6G6M.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Essonne : la foudre frappe une maison en pleine nuit, un couple de personnes âgé..."
@@ -349,7 +365,7 @@
     {
       "title": "Renvoyée de l’hôpital, une Américaine accouche quelques minutes plus tard sur le parking d’un casino",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/renvoyee-de-lhopital-une-americaine-accouche-quelques-minutes-plus-tard-sur-le-parking-dun-casino-19-07-2026-P6C62BVXFNB3DHA3AB37SLMBOU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Renvoyée de l’hôpital, une Américaine accouche quelques minutes plus tard sur le..."
@@ -357,7 +373,7 @@
     {
       "title": "Les pompiers mobilisés pour venir en aide à des jeunes coincés en haut de la cathédrale d’Orléans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/loiret-45/les-pompiers-mobilises-pour-venir-en-aide-a-des-jeunes-coinces-en-haut-de-la-cathedrale-dorleans-19-07-2026-BXQYIWVTDNFJ3FVUQYEQUSGVMA.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Les pompiers mobilisés pour venir en aide à des jeunes coincés en haut de la cat..."
@@ -365,7 +381,7 @@
     {
       "title": "L’eau contaminée, plus de 1 500 personnes souffrent de troubles gastro-intestinaux dans une petite ville de Macédoine du Nord",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/faits-divers/leau-contaminee-plus-de-1-500-personnes-souffrent-de-troubles-gastro-intestinaux-dans-une-petite-ville-de-macedoine-du-nord-19-07-2026-FDWQLG2KONHJDESRJQSN5Q6EII.php",
       "score": 70,
       "summary": "Point de situation critique concernant : L’eau contaminée, plus de 1 500 personnes souffrent de troubles gastro-intestina..."
@@ -373,26 +389,10 @@
     {
       "title": "Cachan : un homme armé d’un couteau interpellé après avoir menacé les forces de l’ordre",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
+      "time": "2026-07-20T02:34:59.436Z",
       "link": "https://www.leparisien.fr/val-de-marne-94/cachan-un-homme-arme-dun-couteau-interpelle-apres-avoir-menace-les-forces-de-lordre-19-07-2026-V26WD72PHRGTDEGIVC2EARPENA.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Cachan : un homme armé d’un couteau interpellé après avoir menacé les forces de ..."
-    },
-    {
-      "title": "« Maintenant, elle sait que son père frappe sa maman » : à Limeil, son ex l’agresse puis part avec leur fille de trois ans",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
-      "link": "https://www.leparisien.fr/val-de-marne-94/maintenant-elle-sait-que-son-pere-frappe-sa-maman-a-limeil-son-ex-lagresse-puis-part-avec-leur-fille-de-trois-ans-19-07-2026-ZXD5W4FVUBHSBFSMCWK3R7JMBU.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : « Maintenant, elle sait que son père frappe sa maman » : à Limeil, son ex l’agre..."
-    },
-    {
-      "title": "Mantes-la-Jolie : un mort et plusieurs blessés après une rixe à l’arme blanche en centre-ville",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-19T20:43:10.077Z",
-      "link": "https://www.leparisien.fr/yvelines-78/mantes-la-jolie-un-mort-et-plusieurs-blesses-apres-une-rixe-a-larme-blanche-en-centre-ville-19-07-2026-H3MH6OIXONBP3LCCABXIAM3J5M.php",
-      "score": 70,
-      "summary": "un mort et plusieurs blessés après une rixe à l’arme blanche en centre-ville"
     }
   ]
 }
