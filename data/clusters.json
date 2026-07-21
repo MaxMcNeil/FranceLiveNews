@@ -40,7 +40,7 @@
   {
     "title": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ?",
     "score": 95,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
@@ -60,36 +60,9 @@
         "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
         "score": 95,
         "summary": "l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran attaque des radars et des systèmes de défense américains en riposte à des frappes",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-21T10:21:46.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
-        "score": 95,
-        "summary": "l’Iran attaque des radars et des systèmes de défense américains en riposte à des frappes"
       }
     ],
     "summary": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ? / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-  },
-  {
-    "title": "En Iran, les durs du régime imposent leur tempo pour continuer la guerre",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "En Iran, les durs du régime imposent leur tempo pour continuer la guerre",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-19T10:34:36.000Z",
-        "link": "https://www.lefigaro.fr/international/en-iran-les-durs-du-regime-imposent-leur-tempo-pour-continuer-la-guerre-20260719",
-        "score": 95,
-        "summary": "Point de situation critique concernant : En Iran, les durs du régime imposent leur tempo pour continuer la guerre..."
-      }
-    ],
-    "summary": "En Iran, les durs du régime imposent leur tempo pour continuer la guerre"
   },
   {
     "title": "À Kiev, une nuit de bombardements massifs sur fond de crise politique",
@@ -113,7 +86,7 @@
   {
     "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
     "score": 95,
-    "count": 5,
+    "count": 6,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -144,6 +117,14 @@
         "summary": "un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
       },
       {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : le Koweït accuse l’Iran d’avoir frappé lundi plusieurs centrales électriques et usines de traitement d’eau",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T12:47:03.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
+        "score": 95,
+        "summary": "le Koweït accuse l’Iran d’avoir frappé lundi plusieurs centrales électriques et usines de traitement d’eau"
+      },
+      {
         "title": "Guerre au Moyen-Orient : sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-07-21T05:29:30.000Z",
@@ -152,12 +133,12 @@
         "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
       },
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Trump veut « faire payer » l’Iran pour la mort des soldats américains, de nouvelles frappes nocturnes...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : L'Iran frappe des bases américaines, des centrales électriques touchées au Koweït...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-21T05:17:54.000Z",
         "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump veut « faire payer » l’Iran pour la mor..."
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'Iran frappe des bases américaines, des cent..."
       }
     ],
     "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran"
@@ -238,7 +219,7 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-21T10:23:28.100Z",
+        "time": "2026-07-21T13:31:43.623Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -325,7 +306,7 @@
   {
     "title": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky",
     "score": 95,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -337,45 +318,28 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni to..."
-      },
+      }
+    ],
+    "summary": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky"
+  },
+  {
+    "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
       {
-        "title": "EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelensky, multiples attaques entre belligérants...",
+        "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-21T06:24:54.000Z",
         "link": "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelen..."
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de ti..."
       }
     ],
-    "summary": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky / EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelensky, multiples attaques entre belligérants..."
-  },
-  {
-    "title": "[CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir l'accès à la racine",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "CyberPress",
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir l'accès à la racine",
-        "source": "CyberPress",
-        "time": "2026-07-19T13:18:56.000Z",
-        "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir ..."
-      },
-      {
-        "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
-        "source": "BleepingComputer",
-        "time": "2026-07-20T22:23:23.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciel..."
-      }
-    ],
-    "summary": "[CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir l'accès à la racine / [CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés"
+    "summary": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France..."
   },
   {
     "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
@@ -521,6 +485,25 @@
       }
     ],
     "summary": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050"
+  },
+  {
+    "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
+        "source": "BleepingComputer",
+        "time": "2026-07-20T22:23:23.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciel..."
+      }
+    ],
+    "summary": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés"
   },
   {
     "title": "[CYBER INT] Cursor, Codex, Gémeaux CLI, Antigravité frappé par une boîte à sable s'échappe",
@@ -768,5 +751,43 @@
       }
     ],
     "summary": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine"
+  },
+  {
+    "title": "Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au premier semestre 2027",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au premier semestre 2027",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-21T13:31:43.622Z",
+        "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-le-proces-de-cedric-jubillar-prevu-en-septembre-renvoye-au-premier-semestre-2027-21-07-2026-7N4NVHJYONC6JAO5UIGGCYIJ2Y.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au pr..."
+      }
+    ],
+    "summary": "Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au premier semestre 2027"
+  },
+  {
+    "title": "Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement une piétonne de 23 ans",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement une piétonne de 23 ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-21T13:31:43.622Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-japonais-chute-du-12e-etage-survit-miraculeusement-mais-percute-mortellement-une-pietonne-de-23-ans-21-07-2026-UM5DSPLRAJAXTARQ7MI63Y262Y.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement..."
+      }
+    ],
+    "summary": "Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement une piétonne de 23 ans"
   }
 ]
