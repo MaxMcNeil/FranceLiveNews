@@ -29,7 +29,7 @@
       {
         "title": "Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassinat",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-21T06:27:23.825Z",
+        "time": "2026-07-21T10:23:28.100Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-lukraine-diffuse-une-video-montrant-la-tentative-dassassinat-17-07-2026-QF5FW43GXRGOHPWYLNXPVJWOXQ.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassi..."
@@ -40,7 +40,7 @@
   {
     "title": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ?",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
@@ -60,108 +60,17 @@
         "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
         "score": 95,
         "summary": "l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran attaque des radars et des systèmes de défense américains en riposte à des frappes",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T10:21:46.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
+        "score": 95,
+        "summary": "l’Iran attaque des radars et des systèmes de défense américains en riposte à des frappes"
       }
     ],
     "summary": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ? / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-  },
-  {
-    "title": "Guerre en Ukraine : Kiev bombardée au lendemain d’attaques ukrainiennes dévastatrices en Russie",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Kiev bombardée au lendemain d’attaques ukrainiennes dévastatrices en Russie",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-19T06:48:24.000Z",
-        "link": "https://www.lefigaro.fr/international/ukraine-de-puissantes-explosions-entendues-a-kiev-20260719",
-        "score": 95,
-        "summary": "Kiev bombardée au lendemain d’attaques ukrainiennes dévastatrices en Russie"
-      }
-    ],
-    "summary": "Guerre en Ukraine : Kiev bombardée au lendemain d’attaques ukrainiennes dévastatrices en Russie"
-  },
-  {
-    "title": "Guerre en Ukraine : Volodymyr Zelensky va-t-il se séparer du commandant en chef de l’armée, le général Syrsky ?",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Volodymyr Zelensky va-t-il se séparer du commandant en chef de l’armée, le général Syrsky ?",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-19T09:21:23.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-va-t-il-se-separer-du-commandant-en-chef-de-l-armee-le-general-syrsky-20260719",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Volodymyr Zelensky va-t-il se séparer du commandant en chef ..."
-      },
-      {
-        "title": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-20T17:32:36.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni to..."
-      }
-    ],
-    "summary": "Guerre en Ukraine : Volodymyr Zelensky va-t-il se séparer du commandant en chef de l’armée, le général Syrsky ? / Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky"
-  },
-  {
-    "title": "Guerre au Moyen-Orient : L’Iran dit avoir stoppé plusieurs navires dans le détroit d’Ormuz",
-    "score": 95,
-    "count": 5,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : L’Iran dit avoir stoppé plusieurs navires dans le détroit d’Ormuz",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-19T07:46:12.000Z",
-        "link": "https://www.20minutes.fr/monde/israel/4235177-20260719-direct-guerre-moyen-orient-etats-unis-frappe-iran-punir-mort-deux-militaires-teheran-riposte?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’Iran dit avoir stoppé plusieurs navires dans le détro..."
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-21T01:47:02.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
-        "score": 95,
-        "summary": "l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-20T05:22:37.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235358-20260720-guerre-moyen-orient-direct-trump-frappe-iran-tres-durement-riposte-jordanie-koweit?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes c..."
-      },
-      {
-        "title": "Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T08:18:52.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
-        "score": 95,
-        "summary": "un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Donald Trump veut « faire payer » l’Iran pour la mort des soldats américains…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-21T05:17:54.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Donald Trump veut « faire payer » l’Iran pour..."
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : L’Iran dit avoir stoppé plusieurs navires dans le détroit d’Ormuz / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
   },
   {
     "title": "En Iran, les durs du régime imposent leur tempo pour continuer la guerre",
@@ -202,9 +111,61 @@
     "summary": "À Kiev, une nuit de bombardements massifs sur fond de crise politique"
   },
   {
+    "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
+    "score": 95,
+    "count": 5,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T01:47:02.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
+        "score": 95,
+        "summary": "l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-20T05:22:37.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235358-20260720-guerre-moyen-orient-direct-trump-frappe-iran-tres-durement-riposte-jordanie-koweit?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes c..."
+      },
+      {
+        "title": "Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-20T08:18:52.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
+        "score": 95,
+        "summary": "un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T05:29:30.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
+        "score": 95,
+        "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Trump veut « faire payer » l’Iran pour la mort des soldats américains, de nouvelles frappes nocturnes...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-21T05:17:54.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump veut « faire payer » l’Iran pour la mor..."
+      }
+    ],
+    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran"
+  },
+  {
     "title": "Guerre au Moyen-Orient : Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun",
     "score": 95,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
@@ -224,14 +185,6 @@
         "link": "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
         "score": 95,
         "summary": "les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-21T05:29:30.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-sous-pression-pour-desarmer-le-hezbollah-le-president-libanais-joseph-aoun-recu-par-donald-trump-ce-mardi-a-la-maison-blanche-20260721",
-        "score": 95,
-        "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
       }
     ],
     "summary": "Guerre au Moyen-Orient : Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun / Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
@@ -285,7 +238,7 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-21T06:27:23.825Z",
+        "time": "2026-07-21T10:23:28.100Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -370,23 +323,31 @@
     "summary": "Colombie : le président élu assure être la cible d'un attentat"
   },
   {
-    "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran cible des installations de défense américaines et avertit Washington d’attaques «encore plus puissantes» à venir",
+    "title": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran cible des installations de défense américaines et avertit Washington d’attaques «encore plus puissantes» à venir",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-21T05:25:02.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
+        "title": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-20T17:32:36.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "l’Iran cible des installations de défense américaines et avertit Washington d’attaques «encore plus puissantes» à venir"
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni to..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelensky, multiples attaques entre belligérants...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-21T06:24:54.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelen..."
       }
     ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’Iran cible des installations de défense américaines et avertit Washington d’attaques «encore plus puissantes» à venir"
+    "summary": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky / EN DIRECT Guerre en Ukraine : Le Nouveau Premier ministre anglais soutient Zelensky, multiples attaques entre belligérants..."
   },
   {
     "title": "[CYBER INT] SonicWall SMA Zéro-Jours exploité avant la divulgation pour obtenir l'accès à la racine",
@@ -419,7 +380,7 @@
   {
     "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
     "score": 88,
-    "count": 3,
+    "count": 4,
     "sources": [
       "CyberPress",
       "BleepingComputer"
@@ -448,6 +409,14 @@
         "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les at..."
+      },
+      {
+        "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
+        "source": "CyberPress",
+        "time": "2026-07-21T06:29:26.000Z",
+        "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécu..."
       }
     ],
     "summary": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code / [CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction"
@@ -491,7 +460,7 @@
   {
     "title": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "BleepingComputer"
     ],
@@ -503,9 +472,17 @@
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server ..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T09:05:50.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les ..."
       }
     ],
-    "summary": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services"
+    "summary": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services / [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS"
   },
   {
     "title": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell",
@@ -563,6 +540,63 @@
       }
     ],
     "summary": "[CYBER INT] Cursor, Codex, Gémeaux CLI, Antigravité frappé par une boîte à sable s'échappe"
+  },
+  {
+    "title": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse",
+        "source": "CyberPress",
+        "time": "2026-07-21T08:59:30.000Z",
+        "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploit..."
+      }
+    ],
+    "summary": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse"
+  },
+  {
+    "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T10:12:24.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransom..."
+      }
+    ],
+    "summary": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin"
+  },
+  {
+    "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T08:06:26.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non o..."
+      }
+    ],
+    "summary": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels"
   },
   {
     "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
@@ -643,7 +677,7 @@
   {
     "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
     "score": 70,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -655,17 +689,9 @@
         "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
-      },
-      {
-        "title": "Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralyser complètement » les transports londoniens",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T13:59:04.020Z",
-        "link": "https://www.leparisien.fr/faits-divers/prison-ferme-pour-les-deux-jeunes-surdoues-du-piratage-qui-auraient-pu-paralyser-completement-les-transports-londoniens-16-07-2026-LSPRA3QANFH75KOGYPOALFUA6Y.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralys..."
       }
     ],
-    "summary": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes / Prison ferme pour les deux jeunes surdoués du piratage qui « auraient pu paralyser complètement » les transports londoniens"
+    "summary": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes"
   },
   {
     "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
@@ -742,43 +768,5 @@
       }
     ],
     "summary": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine"
-  },
-  {
-    "title": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T13:59:04.020Z",
-        "link": "https://www.leparisien.fr/faits-divers/je-ne-me-laisserai-pas-intimider-le-maire-dales-recoit-a-son-domicile-deux-balles-signees-dz-mafia-les-murs-de-sa-maison-tagues-17-07-2026-EOU62WHN4ZFHPPUD67P5SGIDRM.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deu..."
-      }
-    ],
-    "summary": "« Je ne me laisserai pas intimider » : le maire d’Alès reçoit à son domicile deux balles signées DZ Mafia, les murs de sa maison tagués"
-  },
-  {
-    "title": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T13:59:04.020Z",
-        "link": "https://www.leparisien.fr/faits-divers/doubs-un-animateur-scout-mis-en-examen-pour-agressions-sexuelles-sur-trois-filles-de-11-et-12-ans-16-07-2026-6LBUM73MKNHDPBINF7PIH4XKOQ.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois fil..."
-      }
-    ],
-    "summary": "Doubs : un animateur scout mis en examen pour agressions sexuelles sur trois filles de 11 et 12 ans"
   }
 ]
