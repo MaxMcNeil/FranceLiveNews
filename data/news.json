@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T13:31:44.878Z",
+  "updated": "2026-07-21T17:16:18.085Z",
   "count": 49,
   "items": [
     {
@@ -33,14 +33,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
       "score": 95,
       "summary": "l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-    },
-    {
-      "title": "À Kiev, une nuit de bombardements massifs sur fond de crise politique",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-19T16:33:16.000Z",
-      "link": "https://www.lefigaro.fr/international/a-kiev-une-nuit-de-bombardements-massifs-sur-fond-de-crise-politique-20260719",
-      "score": 95,
-      "summary": "Point de situation critique concernant : À Kiev, une nuit de bombardements massifs sur fond de crise politique..."
     },
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
@@ -101,7 +93,7 @@
     {
       "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-21T13:31:43.623Z",
+      "time": "2026-07-21T17:16:15.563Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -147,12 +139,12 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni to..."
     },
     {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : le Koweït accuse l’Iran d’avoir frappé lundi plusieurs centrales électriques et usines de traitement d’eau",
+      "title": "EN DIRECT - Guerre au Moyen-Orient : Trump affirme que les États-Unis n’en ont «pas fini du tout» avec l’Iran",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-21T12:47:03.000Z",
+      "time": "2026-07-21T16:20:55.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-les-gardiens-de-la-revolution-affirment-avoir-vise-des-cibles-militaires-americaines-a-bahrein-et-au-koweit-20260721",
       "score": 95,
-      "summary": "le Koweït accuse l’Iran d’avoir frappé lundi plusieurs centrales électriques et usines de traitement d’eau"
+      "summary": "Trump affirme que les États-Unis n’en ont «pas fini du tout» avec l’Iran"
     },
     {
       "title": "Guerre au Moyen-Orient : sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche",
@@ -163,12 +155,12 @@
       "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : L'Iran frappe des bases américaines, des centrales électriques touchées au Koweït...",
+      "title": "EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït, Trump menace les Houthis...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-21T05:17:54.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'Iran frappe des bases américaines, des cent..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït,..."
     },
     {
       "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
@@ -307,6 +299,54 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non o..."
     },
     {
+      "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
+      "source": "CyberPress",
+      "time": "2026-07-21T15:09:28.000Z",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les ..."
+    },
+    {
+      "title": "[CYBER INT] Critical SharePoint RCE CVE-2026-50522 sous exploitation active après la mise en œuvre publique",
+      "source": "CyberPress",
+      "time": "2026-07-21T14:57:51.000Z",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Critical SharePoint RCE CVE-2026-50522 sous exploitation active aprè..."
+    },
+    {
+      "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
+      "source": "CyberPress",
+      "time": "2026-07-21T14:04:57.000Z",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'aut..."
+    },
+    {
+      "title": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS",
+      "source": "CyberPress",
+      "time": "2026-07-21T13:18:31.000Z",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnéra..."
+    },
+    {
+      "title": "[CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer des webshells",
+      "source": "BleepingComputer",
+      "time": "2026-07-21T16:41:50.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer de..."
+    },
+    {
+      "title": "[CYBER INT] Résolution des lacunes en matière d'identité dans la sécurité des infrastructures critiques",
+      "source": "BleepingComputer",
+      "time": "2026-07-21T14:00:10.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Résolution des lacunes en matière d'identité dans la sécurité des in..."
+    },
+    {
       "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "time": "2026-07-20T10:48:47.489Z",
@@ -353,46 +393,6 @@
       "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
       "score": 70,
       "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
-    },
-    {
-      "title": "Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lancée par la Fondation du patrimoine ?",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-20T13:59:04.020Z",
-      "link": "https://www.leparisien.fr/seine-et-marne-77/incendies-en-foret-de-fontainebleau-a-quoi-va-servir-la-collecte-durgence-lancee-par-la-fondation-du-patrimoine-16-07-2026-D5Y5656PW5CNHNELSFWLAKO2XQ.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Incendies en forêt de Fontainebleau : à quoi va servir la cagnotte d’urgence lan..."
-    },
-    {
-      "title": "Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude ensuite »",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-20T13:59:04.020Z",
-      "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-reconnaitre-cela-nefface-ni-les-faits-ni-son-attitude-ensuite-16-07-2026-KHMOO4LNYZD2JDVGVMO5A7YDLY.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Affaire Jubillar : « Reconnaître, cela n’efface ni les faits, ni son attitude en..."
-    },
-    {
-      "title": "« Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pour avoir filmé une femme à son insu à la piscine",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-20T13:59:04.020Z",
-      "link": "https://www.leparisien.fr/faits-divers/elle-a-vu-un-telephone-sous-la-cabine-a-paris-un-homme-en-garde-a-vue-pour-avoir-filme-une-femme-a-son-insu-a-la-piscine-16-07-2026-DD2UCM4XHRDLVI73HMV34EBNBU.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : « Elle a vu un téléphone sous la cabine » : à Paris, un homme en garde à vue pou..."
-    },
-    {
-      "title": "Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au premier semestre 2027",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-21T13:31:43.622Z",
-      "link": "https://www.leparisien.fr/faits-divers/affaire-jubillar-le-proces-de-cedric-jubillar-prevu-en-septembre-renvoye-au-premier-semestre-2027-21-07-2026-7N4NVHJYONC6JAO5UIGGCYIJ2Y.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Affaire Jubillar : le procès de Cédric Jubillar prévu en septembre renvoyé au pr..."
-    },
-    {
-      "title": "Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement une piétonne de 23 ans",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-21T13:31:43.622Z",
-      "link": "https://www.leparisien.fr/faits-divers/un-japonais-chute-du-12e-etage-survit-miraculeusement-mais-percute-mortellement-une-pietonne-de-23-ans-21-07-2026-UM5DSPLRAJAXTARQ7MI63Y262Y.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Un Japonais chute du 12e étage, survit miraculeusement mais percute mortellement..."
     }
   ]
 }
