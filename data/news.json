@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T17:16:18.085Z",
+  "updated": "2026-07-21T21:04:19.544Z",
   "count": 49,
   "items": [
     {
@@ -17,22 +17,6 @@
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-lukraine-diffuse-une-video-montrant-la-tentative-dassassinat-17-07-2026-QF5FW43GXRGOHPWYLNXPVJWOXQ.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassi..."
-    },
-    {
-      "title": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ?",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-19T19:36:03.000Z",
-      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-combien-de-militaires-americains-ont-perdu-la-vie-depuis-le-debut-du-conflit-20260718",
-      "score": 95,
-      "summary": "combien de militaires américains sont morts depuis le début du conflit ?"
-    },
-    {
-      "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-19T19:57:02.000Z",
-      "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
-      "score": 95,
-      "summary": "l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
     },
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
@@ -93,7 +77,7 @@
     {
       "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-21T17:16:15.563Z",
+      "time": "2026-07-21T21:04:16.654Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -155,28 +139,36 @@
       "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït, Trump menace les Houthis...",
+      "title": "EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût de la guerre et veut 67 milliards de rallonge...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-21T05:17:54.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït,..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût ..."
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
+      "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-21T06:24:54.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de ti..."
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel ent..."
     },
     {
-      "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
-      "source": "CyberPress",
-      "time": "2026-07-19T20:42:49.000Z",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleu..."
+      "title": "Guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-21T20:48:26.000Z",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
+      "score": 95,
+      "summary": "Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky"
+    },
+    {
+      "title": "Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-21T17:27:36.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs ré..."
     },
     {
       "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
@@ -347,6 +339,22 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Résolution des lacunes en matière d'identité dans la sécurité des in..."
     },
     {
+      "title": "[CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses réelles dans les journaux de messagerie",
+      "source": "CyberPress",
+      "time": "2026-07-21T18:46:32.000Z",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses ..."
+    },
+    {
+      "title": "[CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de la machine",
+      "source": "BleepingComputer",
+      "time": "2026-07-21T20:06:55.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
+    },
+    {
       "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "time": "2026-07-20T10:48:47.489Z",
@@ -385,14 +393,6 @@
       "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
-    },
-    {
-      "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-20T13:59:04.020Z",
-      "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
-      "score": 70,
-      "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
     }
   ]
 }

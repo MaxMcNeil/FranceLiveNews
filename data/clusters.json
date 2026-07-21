@@ -38,33 +38,6 @@
     "summary": "Explosion à Monaco : l’Ukraine diffuse une vidéo montrant la tentative d’assassinat"
   },
   {
-    "title": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ?",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ?",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-19T19:36:03.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-combien-de-militaires-americains-ont-perdu-la-vie-depuis-le-debut-du-conflit-20260718",
-        "score": 95,
-        "summary": "combien de militaires américains sont morts depuis le début du conflit ?"
-      },
-      {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-19T19:57:02.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-iran-quatre-petroliers-stoppes-dans-le-detroit-deux-sautent-sur-des-mines-selon-les-gardiens-de-la-revolution-20260718",
-        "score": 95,
-        "summary": "l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : combien de militaires américains sont morts depuis le début du conflit ? / EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce la mort d’un de ses militaires dans le nord de l’Irak"
-  },
-  {
     "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
     "score": 95,
     "count": 6,
@@ -114,12 +87,12 @@
         "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
       },
       {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït, Trump menace les Houthis...",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-21T05:17:54.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
+        "title": "Guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T20:48:26.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Des centrales électriques touchées au Koweït,..."
+        "summary": "Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky"
       }
     ],
     "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran"
@@ -173,7 +146,7 @@
   {
     "title": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -185,9 +158,17 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4235363-20260720-direct-guerre-ukraine-attaque-drones-region-moscou-degats-plusieurs-blesses?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des bless..."
+      },
+      {
+        "title": "Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-21T17:27:36.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs ré..."
       }
     ],
-    "summary": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou"
+    "summary": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou / Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche"
   },
   {
     "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
@@ -200,7 +181,7 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-21T17:16:15.563Z",
+        "time": "2026-07-21T21:04:16.654Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -304,7 +285,7 @@
     "summary": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky"
   },
   {
-    "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
+    "title": "EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût de la guerre et veut 67 milliards de rallonge...",
     "score": 95,
     "count": 1,
     "sources": [
@@ -312,33 +293,43 @@
     ],
     "items": [
       {
-        "title": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France...",
+        "title": "EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût de la guerre et veut 67 milliards de rallonge...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-21T05:17:54.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût ..."
+      }
+    ],
+    "summary": "EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût de la guerre et veut 67 milliards de rallonge..."
+  },
+  {
+    "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-21T06:24:54.000Z",
         "link": "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
         "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de ti..."
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel ent..."
       }
     ],
-    "summary": "EN DIRECT Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France..."
+    "summary": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France"
   },
   {
-    "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
+    "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
     "score": 88,
-    "count": 4,
+    "count": 1,
     "sources": [
-      "CyberPress",
-      "BleepingComputer"
+      "CyberPress"
     ],
     "items": [
-      {
-        "title": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code",
-        "source": "CyberPress",
-        "time": "2026-07-19T20:42:49.000Z",
-        "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleu..."
-      },
       {
         "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
         "source": "CyberPress",
@@ -346,25 +337,9 @@
         "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ ..."
-      },
-      {
-        "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
-        "source": "BleepingComputer",
-        "time": "2026-07-20T09:29:20.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les at..."
-      },
-      {
-        "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
-        "source": "CyberPress",
-        "time": "2026-07-21T06:29:26.000Z",
-        "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécu..."
       }
     ],
-    "summary": "[CYBER INT] Une vulnérabilité critique de NGINX peut faire couler les travailleurs et peut permettre l'exécution à distance du code / [CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction"
+    "summary": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction"
   },
   {
     "title": "[CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet de huit ordinateurs de cliniques dentaires",
@@ -457,6 +432,25 @@
     "summary": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell"
   },
   {
+    "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
+        "source": "BleepingComputer",
+        "time": "2026-07-20T09:29:20.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les at..."
+      }
+    ],
+    "summary": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques"
+  },
+  {
     "title": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050",
     "score": 88,
     "count": 1,
@@ -542,14 +536,22 @@
     "summary": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse / [CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer des webshells"
   },
   {
-    "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
+    "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
     "score": 88,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "BleepingComputer",
-      "CyberPress"
+      "CyberPress",
+      "BleepingComputer"
     ],
     "items": [
+      {
+        "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
+        "source": "CyberPress",
+        "time": "2026-07-21T06:29:26.000Z",
+        "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécu..."
+      },
       {
         "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
         "source": "BleepingComputer",
@@ -559,15 +561,15 @@
         "summary": "Point de situation critique concernant : [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransom..."
       },
       {
-        "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
-        "source": "CyberPress",
-        "time": "2026-07-21T14:04:57.000Z",
-        "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+        "title": "[CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de la machine",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T20:06:55.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
         "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'aut..."
+        "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
       }
     ],
-    "summary": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin / [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial"
+    "summary": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié / [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin"
   },
   {
     "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
@@ -608,6 +610,25 @@
     "summary": "[CYBER INT] Critical SharePoint RCE CVE-2026-50522 sous exploitation active après la mise en œuvre publique"
   },
   {
+    "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
+        "source": "CyberPress",
+        "time": "2026-07-21T14:04:57.000Z",
+        "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'aut..."
+      }
+    ],
+    "summary": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial"
+  },
+  {
     "title": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS",
     "score": 88,
     "count": 1,
@@ -644,6 +665,25 @@
       }
     ],
     "summary": "[CYBER INT] Résolution des lacunes en matière d'identité dans la sécurité des infrastructures critiques"
+  },
+  {
+    "title": "[CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses réelles dans les journaux de messagerie",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses réelles dans les journaux de messagerie",
+        "source": "CyberPress",
+        "time": "2026-07-21T18:46:32.000Z",
+        "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses ..."
+      }
+    ],
+    "summary": "[CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses réelles dans les journaux de messagerie"
   },
   {
     "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
@@ -739,24 +779,5 @@
       }
     ],
     "summary": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes"
-  },
-  {
-    "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T13:59:04.020Z",
-        "link": "https://www.leparisien.fr/paris-75/grosse-fumee-un-incendie-en-cours-dans-le-xviie-arrondissement-de-paris-les-pompiers-sur-place-16-07-2026-IGSODSVVMFC4LEWIXW7N4NFYYY.php",
-        "score": 70,
-        "summary": "un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
-      }
-    ],
-    "summary": "« Grosse fumée » : un appartement ravagé par les flammes dans le XVIIe arrondissement de Paris, l’immeuble évacué"
   }
 ]
