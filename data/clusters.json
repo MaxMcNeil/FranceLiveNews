@@ -89,7 +89,7 @@
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : Trump menace de détruire «un pont ou une centrale électrique» après chaque tir iranien dans le détroit d’Ormuz",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-22T13:12:06.000Z",
+        "time": "2026-07-22T15:42:03.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
         "score": 95,
         "summary": "Trump menace de détruire «un pont ou une centrale électrique» après chaque tir iranien dans le détroit d’Ormuz"
@@ -124,51 +124,13 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T13:42:06.499Z",
+        "time": "2026-07-22T17:15:32.706Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
       }
     ],
     "summary": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe"
-  },
-  {
-    "title": "Du Koweït aux Émirats arabes unis, la guerre au Moyen-Orient fait dérailler la croissance des pétromonarchies",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Du Koweït aux Émirats arabes unis, la guerre au Moyen-Orient fait dérailler la croissance des pétromonarchies",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T14:38:58.000Z",
-        "link": "https://www.lefigaro.fr/flash-eco/du-koweit-aux-emirats-arabes-unis-la-guerre-au-moyen-orient-fait-derailler-la-croissance-des-petromonarchies-20260720",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Du Koweït aux Émirats arabes unis, la guerre au Moyen-Orient fait dérailler la c..."
-      }
-    ],
-    "summary": "Du Koweït aux Émirats arabes unis, la guerre au Moyen-Orient fait dérailler la croissance des pétromonarchies"
-  },
-  {
-    "title": "« C’était une année pour rien » : à l’Assemblée, après la crise politique, une année d’apathie législative",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "« C’était une année pour rien » : à l’Assemblée, après la crise politique, une année d’apathie législative",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T16:15:00.000Z",
-        "link": "https://www.lefigaro.fr/politique/c-etait-une-annee-pour-rien-a-l-assemblee-apres-la-crise-politique-une-annee-d-apathie-legislative-20260720",
-        "score": 95,
-        "summary": "Point de situation critique concernant : « C’était une année pour rien » : à l’Assemblée, après la crise politique, une a..."
-      }
-    ],
-    "summary": "« C’était une année pour rien » : à l’Assemblée, après la crise politique, une année d’apathie législative"
   },
   {
     "title": "Guerre au Moyen-Orient : les houthistes yéménites annoncent un blocus maritime de Riyad",
@@ -328,22 +290,14 @@
     "summary": "Guerre au Moyen-Orient : le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire"
   },
   {
-    "title": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050",
+    "title": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives",
     "score": 88,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "CyberPress",
-      "BleepingComputer"
+      "BleepingComputer",
+      "CyberPress"
     ],
     "items": [
-      {
-        "title": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050",
-        "source": "CyberPress",
-        "time": "2026-07-20T14:33:43.000Z",
-        "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements d..."
-      },
       {
         "title": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives",
         "source": "BleepingComputer",
@@ -351,9 +305,25 @@
         "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pou..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T09:05:50.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les ..."
+      },
+      {
+        "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
+        "source": "CyberPress",
+        "time": "2026-07-22T06:38:45.000Z",
+        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
       }
     ],
-    "summary": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050 / [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives"
+    "summary": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives / [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS"
   },
   {
     "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
@@ -424,7 +394,7 @@
   {
     "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
     "score": 88,
-    "count": 3,
+    "count": 4,
     "sources": [
       "CyberPress",
       "BleepingComputer"
@@ -453,37 +423,17 @@
         "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
+      },
+      {
+        "title": "[CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichiers serveurs arbitraires sans authentification",
+        "source": "CyberPress",
+        "time": "2026-07-22T12:36:36.000Z",
+        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichi..."
       }
     ],
     "summary": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié / [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin"
-  },
-  {
-    "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "BleepingComputer",
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T09:05:50.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les ..."
-      },
-      {
-        "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
-        "source": "CyberPress",
-        "time": "2026-07-22T06:38:45.000Z",
-        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS / [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA"
   },
   {
     "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
@@ -702,7 +652,7 @@
       {
         "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T13:42:06.499Z",
+        "time": "2026-07-22T17:15:32.706Z",
         "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -721,7 +671,7 @@
       {
         "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T13:42:06.499Z",
+        "time": "2026-07-22T17:15:32.706Z",
         "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -732,7 +682,7 @@
   {
     "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
     "score": 70,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -740,12 +690,39 @@
       {
         "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T13:42:06.499Z",
+        "time": "2026-07-22T17:15:32.706Z",
         "link": "https://www.leparisien.fr/faits-divers/mise-en-danger-de-la-vie-dautrui-et-travail-dissimule-12-enfants-decouverts-entasses-dans-une-voiture-au-sous-sol-dune-creche-illegale-a-yerres-22-07-2026-6FD7EPQ7H5DRFOPEYVHLSB6ORI.php",
         "score": 70,
         "summary": "12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
+      },
+      {
+        "title": "« Il y avait quelque chose de louche… » Les cachotteries de Siham, gérante de la crèche illégale à Yerres",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T17:15:32.705Z",
+        "link": "https://www.leparisien.fr/essonne-91/il-y-avait-quelque-chose-de-louche-les-cachotteries-de-siham-gerante-de-la-creche-illegale-a-yerres-22-07-2026-46M5OB6QWJBQRO7MPIU6S2LEMU.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : « Il y avait quelque chose de louche… » Les cachotteries de Siham, gérante de la..."
       }
     ],
-    "summary": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
+    "summary": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres / « Il y avait quelque chose de louche… » Les cachotteries de Siham, gérante de la crèche illégale à Yerres"
+  },
+  {
+    "title": "Paris : deux hommes interpellés pour une tentative de « train surfing » sur la ligne 6 du métro",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Paris : deux hommes interpellés pour une tentative de « train surfing » sur la ligne 6 du métro",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T17:15:32.706Z",
+        "link": "https://www.leparisien.fr/paris-75/paris-deux-hommes-interpelles-pour-une-tentative-de-train-surfing-sur-la-ligne-6-du-metro-22-07-2026-O7LMZSDTTJAIPH3WDRU4ZSGCSA.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Paris : deux hommes interpellés pour une tentative de « train surfing » sur la l..."
+      }
+    ],
+    "summary": "Paris : deux hommes interpellés pour une tentative de « train surfing » sur la ligne 6 du métro"
   }
 ]
