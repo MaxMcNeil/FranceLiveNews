@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:15:34.457Z",
+  "updated": "2026-07-22T21:03:54.054Z",
   "count": 49,
   "items": [
     {
@@ -35,28 +35,12 @@
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
     },
     {
-      "title": "Guerre au Moyen-Orient : les houthistes yéménites annoncent un blocus maritime de Riyad",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-20T20:42:49.000Z",
-      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-houthistes-yemenites-annoncent-un-blocus-maritime-de-riyad-20260720",
-      "score": 95,
-      "summary": "les houthistes yéménites annoncent un blocus maritime de Riyad"
-    },
-    {
       "title": "Colombie : le président élu assure être la cible d'un attentat",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "time": "2026-07-20T22:28:24.000Z",
       "link": "https://www.lefigaro.fr/international/colombie-le-president-elu-assure-etre-la-cible-d-un-attentat-20260721",
       "score": 95,
       "summary": "le président élu assure être la cible d'un attentat"
-    },
-    {
-      "title": "Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni toujours à « 100 % » derrière Zelensky",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-20T17:32:36.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4235478-20260720-guerre-ukraine-nouvelles-victimes-civiles-deux-cotes-royaume-uni-toujours-100-derriere-zelensky?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouvelles victimes civiles des deux côtés, le Royaume-Uni to..."
     },
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : Trump affirme que les États-Unis n’en ont «pas fini du tout» avec l’Iran",
@@ -147,20 +131,20 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les man..."
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Le Russe Lavrov affirme qu'il rencontrer l'Américain Rubio jeudi...",
+      "title": "Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etats-Unis",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-22T06:13:49.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4235688-20260722-direct-guerre-ukraine-zelensky-remplace-commandant-chef-armee-huit-blesses-russie?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Le Russe Lavrov affirme qu'il rencontrer l'Américain Rubio jeudi..."
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etat..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Total remet le plafonnement, Trump menace les infrastructures civiles iraniennes…",
+      "title": "EN DIRECT Guerre au Moyen-Orient : L’Iran menace d’une riposte « puissante » en cas d’attaques sur ses infrastructures civiles…",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-22T05:22:30.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Total remet le plafonnement, Trump menace les..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L’Iran menace d’une riposte « puissante » en ..."
     },
     {
       "title": "Guerre au Moyen-Orient : le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire",
@@ -171,12 +155,28 @@
       "summary": "le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire"
     },
     {
-      "title": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives",
-      "source": "BleepingComputer",
-      "time": "2026-07-20T17:43:01.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pou..."
+      "title": "Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire iranien que Trump veut bombarder",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-22T20:55:20.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4235864-20260722-guerre-moyen-orient-dit-tout-mont-kolang-site-nucleaire-iranien-trump-veut-bombarder?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire ..."
+    },
+    {
+      "title": "Guerre en Ukraine : Un nouveau chef de l’armée à Kiev, le Kremlin s’en moque",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-22T17:27:36.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4235852-20260722-guerre-ukraine-nouveau-chef-armee-kiev-kremlin-moque?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Un nouveau chef de l’armée à Kiev, le Kremlin s’en moque..."
+    },
+    {
+      "title": "Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie »",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-22T19:37:04.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4235861-20260722-guerre-ukraine-zelensky-relance-dialogue-emissaires-trump-redynamiser-diplomatie?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump po..."
     },
     {
       "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
@@ -331,12 +331,12 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Pourquoi les SOC modernes ont besoin de détections multicouches..."
     },
     {
-      "title": "[CYBER INT] L'Agence CISA ordonne une action urgente en cas de défaut de Langflow RCE exploité activement",
+      "title": "[CYBER INT] L' CISA ordonne une action urgente en cas de défaut de Langflow RCE exploité activement",
       "source": "BleepingComputer",
       "time": "2026-07-22T11:43:28.000Z",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
       "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L'Agence CISA ordonne une action urgente en cas de défaut de Langflo..."
+      "summary": "Point de situation critique concernant : [CYBER INT] L' CISA ordonne une action urgente en cas de défaut de Langflow RCE ..."
     },
     {
       "title": "[CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 2019 en octobre",
@@ -355,9 +355,33 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichi..."
     },
     {
+      "title": "[CYBER INT] GitHub réduit les paiements de primes de bugs publics, transfère les meilleures récompenses au niveau VIP",
+      "source": "CyberPress",
+      "time": "2026-07-22T18:37:42.000Z",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] GitHub réduit les paiements de primes de bugs publics, transfère les..."
+    },
+    {
+      "title": "[CYBER INT] Une faille de définition instantanée d'Ubuntu pourrait donner aux utilisateurs locaux des installations de bureau par défaut",
+      "source": "CyberPress",
+      "time": "2026-07-22T18:07:16.000Z",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Une faille de définition instantanée d'Ubuntu pourrait donner aux ut..."
+    },
+    {
+      "title": "[CYBER INT] Adobe Acrobat Extension Faille de laisser les sites malveillants lire les données Web WhatsApp",
+      "source": "CyberPress",
+      "time": "2026-07-22T15:01:21.000Z",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Adobe Acrobat Extension Faille de laisser les sites malveillants lir..."
+    },
+    {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T17:15:32.706Z",
+      "time": "2026-07-22T21:03:51.973Z",
       "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -365,34 +389,10 @@
     {
       "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T17:15:32.706Z",
+      "time": "2026-07-22T21:03:51.973Z",
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
-    },
-    {
-      "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T17:15:32.706Z",
-      "link": "https://www.leparisien.fr/faits-divers/mise-en-danger-de-la-vie-dautrui-et-travail-dissimule-12-enfants-decouverts-entasses-dans-une-voiture-au-sous-sol-dune-creche-illegale-a-yerres-22-07-2026-6FD7EPQ7H5DRFOPEYVHLSB6ORI.php",
-      "score": 70,
-      "summary": "12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
-    },
-    {
-      "title": "« Il y avait quelque chose de louche… » Les cachotteries de Siham, gérante de la crèche illégale à Yerres",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T17:15:32.705Z",
-      "link": "https://www.leparisien.fr/essonne-91/il-y-avait-quelque-chose-de-louche-les-cachotteries-de-siham-gerante-de-la-creche-illegale-a-yerres-22-07-2026-46M5OB6QWJBQRO7MPIU6S2LEMU.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : « Il y avait quelque chose de louche… » Les cachotteries de Siham, gérante de la..."
-    },
-    {
-      "title": "Paris : deux hommes interpellés pour une tentative de « train surfing » sur la ligne 6 du métro",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T17:15:32.706Z",
-      "link": "https://www.leparisien.fr/paris-75/paris-deux-hommes-interpelles-pour-une-tentative-de-train-surfing-sur-la-ligne-6-du-metro-22-07-2026-O7LMZSDTTJAIPH3WDRU4ZSGCSA.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Paris : deux hommes interpellés pour une tentative de « train surfing » sur la l..."
     }
   ]
 }
