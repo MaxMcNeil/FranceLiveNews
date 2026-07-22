@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T21:04:19.544Z",
+  "updated": "2026-07-22T02:12:12.808Z",
   "count": 49,
   "items": [
     {
@@ -77,7 +77,7 @@
     {
       "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-21T21:04:16.654Z",
+      "time": "2026-07-22T02:12:11.572Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -139,12 +139,12 @@
       "summary": "sous pression pour désarmer le Hezbollah, le président libanais Joseph Aoun reçu par Donald Trump ce mardi à la Maison-Blanche"
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût de la guerre et veut 67 milliards de rallonge...",
+      "title": "Guerre au Moyen-Orient : L'armée américaine mène une nouvelle vague de frappes pour affaiblir l'Iran",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-21T05:17:54.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4235516-20260721-direct-guerre-moyen-orient-donald-trump-veut-faire-payer-iran-mort-soldats-americains?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Pete Hegseth évalue à 37,5 milliards le coût ..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L'armée américaine mène une nouvelle vague de frappes p..."
     },
     {
       "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
@@ -355,6 +355,14 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
     },
     {
+      "title": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur",
+      "source": "BleepingComputer",
+      "time": "2026-07-21T23:07:33.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le déve..."
+    },
+    {
       "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "time": "2026-07-20T10:48:47.489Z",
@@ -385,14 +393,6 @@
       "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
-    },
-    {
-      "title": "Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigeant de la société d’autoroutes",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-20T10:48:47.489Z",
-      "link": "https://www.leparisien.fr/faits-divers/effondrement-du-pont-de-genes-prison-ferme-pour-32-accuses-dont-lex-dirigeant-de-la-societe-dautoroutes-16-07-2026-6PKA4TXOLRH2VD4TXAJA5EZFK4.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Effondrement du pont de Gênes : prison ferme pour 32 accusés, dont l’ex-dirigean..."
     }
   ]
 }
