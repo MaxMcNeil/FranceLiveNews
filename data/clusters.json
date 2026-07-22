@@ -40,7 +40,7 @@
   {
     "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
     "score": 95,
-    "count": 7,
+    "count": 10,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -53,14 +53,6 @@
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
         "score": 95,
         "summary": "l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-20T05:22:37.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235358-20260720-guerre-moyen-orient-direct-trump-frappe-iran-tres-durement-riposte-jordanie-koweit?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes c..."
       },
       {
         "title": "Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»",
@@ -101,26 +93,50 @@
         "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
         "score": 95,
         "summary": "Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky"
+      },
+      {
+        "title": "EN DIRECT - Guerre au Moyen-Orient : nouvelles frappes américaines en Iran, Donald Trump n’en a «pas fini du tout» avec le conflit",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-22T05:42:00.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
+        "score": 95,
+        "summary": "nouvelles frappes américaines en Iran, Donald Trump n’en a «pas fini du tout» avec le conflit"
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-22T05:39:38.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-affirme-vouloir-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun-20260722",
+        "score": 95,
+        "summary": "Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun"
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : Zelensky remplace le commandant en chef de l'armée, huit blessés en Russie...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-22T06:13:49.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235688-20260722-direct-guerre-ukraine-zelensky-remplace-commandant-chef-armee-huit-blesses-russie?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Zelensky remplace le commandant en chef de l'armée, huit blessés en Russie..."
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Ormuz créerait un « dangereux précédent », estime Marco Rubio…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-22T05:22:30.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Orm..."
       }
     ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : L’armée américaine mène une nouvelle série de frappes contre l’Iran, Trump menace Téhéran"
+    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
   },
   {
-    "title": "Guerre au Moyen-Orient : Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun",
+    "title": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient",
     "score": 95,
-    "count": 2,
+    "count": 1,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
-      {
-        "title": "Guerre au Moyen-Orient : Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T05:53:46.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-marco-rubio-felicite-le-liban-pour-sa-demarche-vers-la-paix-apres-une-rencontre-avec-joseph-aoun-20260720",
-        "score": 95,
-        "summary": "Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun"
-      },
       {
         "title": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -130,26 +146,7 @@
         "summary": "les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Marco Rubio félicite le Liban pour sa «démarche vers la paix» après une rencontre avec Joseph Aoun / Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
-  },
-  {
-    "title": "« J’ai songé aux anxiolytiques »… Entre crises d’angoisse et panique, la canicule laisse de vrais traumatismes",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "« J’ai songé aux anxiolytiques »… Entre crises d’angoisse et panique, la canicule laisse de vrais traumatismes",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-20T05:32:36.000Z",
-        "link": "https://www.20minutes.fr/sante/4234749-20260720-songe-anxiolytiques-entre-crises-angoisse-panique-canicule-laisse-vrais-traumatismes?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : « J’ai songé aux anxiolytiques »… Entre crises d’angoisse et panique, la canicul..."
-      }
-    ],
-    "summary": "« J’ai songé aux anxiolytiques »… Entre crises d’angoisse et panique, la canicule laisse de vrais traumatismes"
+    "summary": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
   },
   {
     "title": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou",
@@ -189,7 +186,7 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T02:12:11.572Z",
+        "time": "2026-07-22T06:26:04.004Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -295,7 +292,7 @@
   {
     "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -307,9 +304,55 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4235515-20260721-direct-guerre-ukraine-nouveau-premier-ministre-anglais-soutient-zelensky-multiples-attaques-entre-belligerants?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel ent..."
+      },
+      {
+        "title": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-22T05:32:37.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235595-20260722-guerre-ukraine-deux-ecoles-heurtent-comment-interpreter-manifestations-soutien-fedorov?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les man..."
       }
     ],
-    "summary": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France"
+    "summary": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France / Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov"
+  },
+  {
+    "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-22T05:19:33.000Z",
+        "link": "https://www.lefigaro.fr/conjoncture/le-ministre-americain-de-la-defense-estime-que-la-guerre-en-iran-a-coute-jusqu-a-present-37-5-milliards-de-dollars-aux-etats-unis-20260722",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à..."
+      }
+    ],
+    "summary": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis"
+  },
+  {
+    "title": "La guerre de Donald Trump en Iran met le Pentagone sous pression financière",
+    "score": 95,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "La guerre de Donald Trump en Iran met le Pentagone sous pression financière",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-21T17:30:00.000Z",
+        "link": "https://www.lefigaro.fr/international/la-guerre-de-donald-trump-en-iran-met-le-pentagone-sous-pression-financiere-20260721",
+        "score": 95,
+        "summary": "Point de situation critique concernant : La guerre de Donald Trump en Iran met le Pentagone sous pression financière..."
+      }
+    ],
+    "summary": "La guerre de Donald Trump en Iran met le Pentagone sous pression financière"
   },
   {
     "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
@@ -692,81 +735,5 @@
       }
     ],
     "summary": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur"
-  },
-  {
-    "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T10:48:47.489Z",
-        "link": "https://www.leparisien.fr/faits-divers/des-passagers-dun-vol-easyjet-bloques-plusieurs-heures-sur-le-tarmac-dun-aeroport-de-londres-faute-de-carburant-16-07-2026-OPZQL2FPWJAJBJQ2FQLQM7K44I.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aérop..."
-      }
-    ],
-    "summary": "Des passagers d’un vol EasyJet bloqués plusieurs heures sur le tarmac d’un aéroport de Londres faute de carburant"
-  },
-  {
-    "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T10:48:47.489Z",
-        "link": "https://www.leparisien.fr/oise-60/accident-de-quad-pres-de-beauvais-le-passager-est-decede-le-bilan-salourdit-a-deux-morts-16-07-2026-CXVEIBOCQRFMTAPJRUYVDMUEAI.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit ..."
-      }
-    ],
-    "summary": "Accident de quad près de Beauvais : le passager est décédé, le bilan s’alourdit à deux morts"
-  },
-  {
-    "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T10:48:47.489Z",
-        "link": "https://www.leparisien.fr/faits-divers/les-filles-sont-terrifiees-deux-adolescentes-parviennent-a-faire-fuir-un-americain-qui-tentait-de-les-agresser-dans-un-parc-16-07-2026-6HHGKBVQMRCE3PRQ2TY7FHLJZE.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un A..."
-      }
-    ],
-    "summary": "« Les filles sont terrifiées » : deux adolescentes parviennent à faire fuir un Américain qui tentait de les agresser dans un parc"
-  },
-  {
-    "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
-    "score": 70,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-20T10:48:47.489Z",
-        "link": "https://www.leparisien.fr/paris-75/atteinte-a-la-dignite-humaine-les-gangs-bangs-de-la-factory-a-paris-interdits-par-le-conseil-detat-16-07-2026-3WEP7ETEL5G5RN7NW7NVNQ4OPU.php",
-        "score": 70,
-        "summary": "Point de situation critique concernant : « Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interd..."
-      }
-    ],
-    "summary": "« Atteinte à la dignité humaine » : les gangs bangs de la Factory à Paris interdits par le Conseil d’État"
   }
 ]
