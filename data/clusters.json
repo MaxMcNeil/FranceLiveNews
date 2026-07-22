@@ -40,7 +40,7 @@
   {
     "title": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran",
     "score": 95,
-    "count": 10,
+    "count": 8,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -53,14 +53,6 @@
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-trump-affirme-frapper-l-iran-tres-durement-pour-venger-les-militaires-americains-tues-20260720",
         "score": 95,
         "summary": "l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
-      },
-      {
-        "title": "Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T08:18:52.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
-        "score": 95,
-        "summary": "un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
       },
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : Trump affirme que les États-Unis n’en ont «pas fini du tout» avec l’Iran",
@@ -117,63 +109,9 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4235688-20260722-direct-guerre-ukraine-zelensky-remplace-commandant-chef-armee-huit-blesses-russie?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Zelensky remplace le commandant en chef de l'armée, huit blessés en Russie..."
-      },
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Ormuz créerait un « dangereux précédent », estime Marco Rubio…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-22T05:22:30.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Orm..."
       }
     ],
-    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
-  },
-  {
-    "title": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-20T10:07:02.000Z",
-        "link": "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
-        "score": 95,
-        "summary": "les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
-      }
-    ],
-    "summary": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
-  },
-  {
-    "title": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-20T07:11:29.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235363-20260720-direct-guerre-ukraine-attaque-drones-region-moscou-degats-plusieurs-blesses?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des bless..."
-      },
-      {
-        "title": "Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-21T17:27:36.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs ré..."
-      }
-    ],
-    "summary": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou / Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche"
+    "summary": "EN DIRECT - Guerre au Moyen-Orient : l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran / EN DIRECT - Guerre au Moyen-Orient : Trump affirme que les États-Unis n’en ont «pas fini du tout» avec l’Iran"
   },
   {
     "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
@@ -186,7 +124,7 @@
       {
         "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-22T06:26:04.004Z",
+        "time": "2026-07-22T10:23:31.329Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -292,7 +230,7 @@
   {
     "title": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -306,6 +244,14 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel ent..."
       },
       {
+        "title": "Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-21T17:27:36.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs ré..."
+      },
+      {
         "title": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov",
         "source": "https://www.20minutes.fr/feeds/rss-une.xml",
         "time": "2026-07-22T05:32:37.000Z",
@@ -314,7 +260,7 @@
         "summary": "Point de situation critique concernant : Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les man..."
       }
     ],
-    "summary": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France / Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov"
+    "summary": "Guerre en Ukraine : Un navire de guerre russe a mené un exercice de tir réel entre l'Angleterre et la France / Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche"
   },
   {
     "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
@@ -355,67 +301,23 @@
     "summary": "La guerre de Donald Trump en Iran met le Pentagone sous pression financière"
   },
   {
-    "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
-    "score": 88,
+    "title": "EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien global », dit son Premier ministre...",
+    "score": 95,
     "count": 1,
     "sources": [
-      "CyberPress"
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
-        "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
-        "source": "CyberPress",
-        "time": "2026-07-20T09:10:56.000Z",
-        "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ ..."
+        "title": "EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien global », dit son Premier ministre...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-22T05:22:30.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien globa..."
       }
     ],
-    "summary": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction"
-  },
-  {
-    "title": "[CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet de huit ordinateurs de cliniques dentaires",
-    "score": 88,
-    "count": 4,
-    "sources": [
-      "CyberPress",
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet de huit ordinateurs de cliniques dentaires",
-        "source": "CyberPress",
-        "time": "2026-07-20T09:07:11.000Z",
-        "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet d..."
-      },
-      {
-        "title": "[CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine",
-        "source": "CyberPress",
-        "time": "2026-07-20T12:13:39.000Z",
-        "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la log..."
-      },
-      {
-        "title": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives",
-        "source": "BleepingComputer",
-        "time": "2026-07-20T17:43:01.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pou..."
-      },
-      {
-        "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
-        "source": "CyberPress",
-        "time": "2026-07-21T15:09:28.000Z",
-        "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les ..."
-      }
-    ],
-    "summary": "[CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet de huit ordinateurs de cliniques dentaires / [CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine"
+    "summary": "EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien global », dit son Premier ministre..."
   },
   {
     "title": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services",
@@ -445,49 +347,31 @@
     "summary": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services / [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS"
   },
   {
-    "title": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell",
-        "source": "BleepingComputer",
-        "time": "2026-07-20T10:06:17.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC..."
-      }
-    ],
-    "summary": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell"
-  },
-  {
-    "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
-        "source": "BleepingComputer",
-        "time": "2026-07-20T09:29:20.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les at..."
-      }
-    ],
-    "summary": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques"
-  },
-  {
-    "title": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050",
+    "title": "[CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine",
     "score": 88,
     "count": 1,
     "sources": [
       "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine",
+        "source": "CyberPress",
+        "time": "2026-07-20T12:13:39.000Z",
+        "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la log..."
+      }
+    ],
+    "summary": "[CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine"
+  },
+  {
+    "title": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050",
+    "score": 88,
+    "count": 2,
+    "sources": [
+      "CyberPress",
+      "BleepingComputer"
     ],
     "items": [
       {
@@ -497,9 +381,17 @@
         "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements d..."
+      },
+      {
+        "title": "[CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives",
+        "source": "BleepingComputer",
+        "time": "2026-07-20T17:43:01.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pou..."
       }
     ],
-    "summary": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050"
+    "summary": "[CYBER INT] HollowGraph cache des fichiers volés dans Microsoft 365 événements datés de 2050 / [CYBER INT] Nouveau logiciel malveillant HollowGraph utilise Microsoft Graph pour les communications C2 furtives"
   },
   {
     "title": "[CYBER INT] SonicWall SMA1000 exploité comme jour zéro pour pousser des logiciels malveillants personnalisés",
@@ -623,6 +515,49 @@
     "summary": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels"
   },
   {
+    "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
+    "score": 88,
+    "count": 4,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
+        "source": "CyberPress",
+        "time": "2026-07-21T15:09:28.000Z",
+        "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les ..."
+      },
+      {
+        "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
+        "source": "CyberPress",
+        "time": "2026-07-21T14:04:57.000Z",
+        "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'aut..."
+      },
+      {
+        "title": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS",
+        "source": "CyberPress",
+        "time": "2026-07-21T13:18:31.000Z",
+        "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnéra..."
+      },
+      {
+        "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
+        "source": "CyberPress",
+        "time": "2026-07-22T06:38:45.000Z",
+        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
+      }
+    ],
+    "summary": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles / [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial"
+  },
+  {
     "title": "[CYBER INT] Critical SharePoint RCE CVE-2026-50522 sous exploitation active après la mise en œuvre publique",
     "score": 88,
     "count": 1,
@@ -640,44 +575,6 @@
       }
     ],
     "summary": "[CYBER INT] Critical SharePoint RCE CVE-2026-50522 sous exploitation active après la mise en œuvre publique"
-  },
-  {
-    "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial",
-        "source": "CyberPress",
-        "time": "2026-07-21T14:04:57.000Z",
-        "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'aut..."
-      }
-    ],
-    "summary": "[CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial"
-  },
-  {
-    "title": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS",
-        "source": "CyberPress",
-        "time": "2026-07-21T13:18:31.000Z",
-        "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnéra..."
-      }
-    ],
-    "summary": "[CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnérabilités XSS"
   },
   {
     "title": "[CYBER INT] Résolution des lacunes en matière d'identité dans la sécurité des infrastructures critiques",
@@ -735,5 +632,119 @@
       }
     ],
     "summary": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur"
+  },
+  {
+    "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
+        "source": "CyberPress",
+        "time": "2026-07-22T04:57:52.000Z",
+        "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires ..."
+      }
+    ],
+    "summary": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA"
+  },
+  {
+    "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T10:23:31.329Z",
+        "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
+      }
+    ],
+    "summary": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »"
+  },
+  {
+    "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T10:23:31.329Z",
+        "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
+      }
+    ],
+    "summary": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine"
+  },
+  {
+    "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T10:23:31.329Z",
+        "link": "https://www.leparisien.fr/faits-divers/mise-en-danger-de-la-vie-dautrui-et-travail-dissimule-12-enfants-decouverts-entasses-dans-une-voiture-au-sous-sol-dune-creche-illegale-a-yerres-22-07-2026-6FD7EPQ7H5DRFOPEYVHLSB6ORI.php",
+        "score": 70,
+        "summary": "12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
+      }
+    ],
+    "summary": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
+  },
+  {
+    "title": "Accusée de triple infanticide, une Américaine plaide non coupable et évoque une dépression post-partum",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Accusée de triple infanticide, une Américaine plaide non coupable et évoque une dépression post-partum",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T10:23:31.329Z",
+        "link": "https://www.leparisien.fr/faits-divers/accusee-de-triple-infanticide-une-americaine-plaide-non-coupable-et-evoque-une-depression-post-partum-22-07-2026-PI2APVU2J5F7PC7ZIBTCOQVFXQ.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Accusée de triple infanticide, une Américaine plaide non coupable et évoque une ..."
+      }
+    ],
+    "summary": "Accusée de triple infanticide, une Américaine plaide non coupable et évoque une dépression post-partum"
+  },
+  {
+    "title": "Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants forme les enquêteurs au narcotrafic 2.0",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants forme les enquêteurs au narcotrafic 2.0",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-22T10:23:31.329Z",
+        "link": "https://www.leparisien.fr/faits-divers/annuaires-messagerie-cryptees-meet-up-comment-loffice-antistupefiants-forme-les-enqueteurs-au-narcotrafic-20-22-07-2026-FBEYWA6WURGI3G27BEELJ5OCVM.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants f..."
+      }
+    ],
+    "summary": "Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants forme les enquêteurs au narcotrafic 2.0"
   }
 ]

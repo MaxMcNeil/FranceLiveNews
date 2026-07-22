@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T06:26:05.454Z",
+  "updated": "2026-07-22T10:23:32.612Z",
   "count": 49,
   "items": [
     {
@@ -27,33 +27,9 @@
       "summary": "l’armée américaine annonce avoir lancé de nouvelles frappes contre l’Iran, Trump menace Téhéran"
     },
     {
-      "title": "Carburants : les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-20T10:07:02.000Z",
-      "link": "https://www.lefigaro.fr/flash-eco/carburant-les-prix-a-la-pompe-en-forte-hausse-apres-la-reprise-du-conflit-au-moyen-orient-20260720",
-      "score": 95,
-      "summary": "les prix à la pompe en forte hausse après la reprise de la guerre au Moyen-Orient"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-20T08:18:52.000Z",
-      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-navire-en-feu-dans-le-detroit-d-ormuz-apres-avoir-ete-frappe-par-un-projectile-20260720",
-      "score": 95,
-      "summary": "un navire en feu dans le détroit d'Ormuz après avoir été frappé par «un projectile»"
-    },
-    {
-      "title": "Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des blessés aussi dans la région de Moscou",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-20T07:11:29.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4235363-20260720-direct-guerre-ukraine-attaque-drones-region-moscou-degats-plusieurs-blesses?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Cinq morts en Russie après une attaque sur un bus, des bless..."
-    },
-    {
       "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-22T06:26:04.004Z",
+      "time": "2026-07-22T10:23:31.329Z",
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
@@ -195,28 +171,12 @@
       "summary": "Zelensky remplace le commandant en chef de l'armée, huit blessés en Russie..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Ormuz créerait un « dangereux précédent », estime Marco Rubio…",
+      "title": "EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien global », dit son Premier ministre...",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-22T05:22:30.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Autoriser l’Iran à contrôler le détroit d’Orm..."
-    },
-    {
-      "title": "[CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ créées d' exécuter le code pendant l' extraction",
-      "source": "CyberPress",
-      "time": "2026-07-20T09:10:56.000Z",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Une nouvelle vulnérabilité 7-Zip pourrait permettre aux archives XZ ..."
-    },
-    {
-      "title": "[CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet de huit ordinateurs de cliniques dentaires",
-      "source": "CyberPress",
-      "time": "2026-07-20T09:07:11.000Z",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Un pirate russe utilise Google Gemini CLI pour contrôler le botnet d..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Le Liban œuvre à « un retrait israélien globa..."
     },
     {
       "title": "[CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server Update Services",
@@ -225,22 +185,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] Microsoft confirme les retards de synchronisation de Windows Server ..."
-    },
-    {
-      "title": "[CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC Dell",
-      "source": "BleepingComputer",
-      "time": "2026-07-20T10:06:17.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Windows KB5121767 OOB mise à jour corrige les pannes sur certains PC..."
-    },
-    {
-      "title": "[CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les attaques",
-      "source": "BleepingComputer",
-      "time": "2026-07-20T09:29:20.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] ServiceNow critique défaut d' exécution de code exploité dans les at..."
     },
     {
       "title": "[CYBER INT] Le renseignement russe a piraté les caméras IP pour espionner la logistique militaire dans les États de l'OTAN et en Ukraine",
@@ -393,6 +337,62 @@
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le déve..."
+    },
+    {
+      "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
+      "source": "CyberPress",
+      "time": "2026-07-22T06:38:45.000Z",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
+      "source": "CyberPress",
+      "time": "2026-07-22T04:57:52.000Z",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires ..."
+    },
+    {
+      "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-22T10:23:31.329Z",
+      "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
+    },
+    {
+      "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-22T10:23:31.329Z",
+      "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
+    },
+    {
+      "title": "« Certains étaient en pleurs » : 12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-22T10:23:31.329Z",
+      "link": "https://www.leparisien.fr/faits-divers/mise-en-danger-de-la-vie-dautrui-et-travail-dissimule-12-enfants-decouverts-entasses-dans-une-voiture-au-sous-sol-dune-creche-illegale-a-yerres-22-07-2026-6FD7EPQ7H5DRFOPEYVHLSB6ORI.php",
+      "score": 70,
+      "summary": "12 enfants découverts entassés dans une voiture au sous-sol d’une crèche illégale à Yerres"
+    },
+    {
+      "title": "Accusée de triple infanticide, une Américaine plaide non coupable et évoque une dépression post-partum",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-22T10:23:31.329Z",
+      "link": "https://www.leparisien.fr/faits-divers/accusee-de-triple-infanticide-une-americaine-plaide-non-coupable-et-evoque-une-depression-post-partum-22-07-2026-PI2APVU2J5F7PC7ZIBTCOQVFXQ.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Accusée de triple infanticide, une Américaine plaide non coupable et évoque une ..."
+    },
+    {
+      "title": "Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants forme les enquêteurs au narcotrafic 2.0",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-22T10:23:31.329Z",
+      "link": "https://www.leparisien.fr/faits-divers/annuaires-messagerie-cryptees-meet-up-comment-loffice-antistupefiants-forme-les-enqueteurs-au-narcotrafic-20-22-07-2026-FBEYWA6WURGI3G27BEELJ5OCVM.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Annuaires, messageries cryptées, « meet-up »… Comment l’Office antistupéfiants f..."
     }
   ]
 }
