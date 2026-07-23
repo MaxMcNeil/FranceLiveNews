@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:18:36.433Z",
+  "updated": "2026-07-23T21:00:29.396Z",
   "count": 49,
   "items": [
     {
@@ -9,22 +9,6 @@
       "link": "https://www.leparisien.fr/faits-divers/explosion-a-monaco-vadim-ermolaev-dit-navoir-eu-aucune-raison-de-se-penser-menace-avant-lattaque-a-la-bombe-20-07-2026-KPTTKZUISNFSRM5DMAVH6O3BMU.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se pense..."
-    },
-    {
-      "title": "Guerre en Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-21T20:48:26.000Z",
-      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-annonce-le-depart-du-commandant-en-chef-de-l-armee-oleksandr-syrsky-20260721",
-      "score": 95,
-      "summary": "Volodymyr Zelensky annonce le départ du commandant en chef de l’armée Oleksandr Syrsky"
-    },
-    {
-      "title": "Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs réels dans la Manche",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-21T17:27:36.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4235660-20260721-guerre-ukraine-important-incendie-mer-noire-russie-navigue-tirs-reels-manche?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Important incendie en mer Noire, la Russie navigue à tirs ré..."
     },
     {
       "title": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes",
@@ -49,14 +33,6 @@
       "link": "https://www.lefigaro.fr/conjoncture/le-ministre-americain-de-la-defense-estime-que-la-guerre-en-iran-a-coute-jusqu-a-present-37-5-milliards-de-dollars-aux-etats-unis-20260722",
       "score": 95,
       "summary": "Point de situation critique concernant : Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à..."
-    },
-    {
-      "title": "La guerre de Donald Trump en Iran met le Pentagone sous pression financière",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-21T17:30:00.000Z",
-      "link": "https://www.lefigaro.fr/international/la-guerre-de-donald-trump-en-iran-met-le-pentagone-sous-pression-financiere-20260721",
-      "score": 95,
-      "summary": "Point de situation critique concernant : La guerre de Donald Trump en Iran met le Pentagone sous pression financière..."
     },
     {
       "title": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov",
@@ -117,7 +93,7 @@
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : «Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-23T16:49:03.000Z",
+      "time": "2026-07-23T19:58:02.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
       "score": 95,
       "summary": "«Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran"
@@ -147,12 +123,12 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourq..."
     },
     {
-      "title": "EN DIRECT Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis...",
+      "title": "Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-23T06:02:37.000Z",
       "link": "https://www.20minutes.fr/monde/ukraine/4235878-20260723-direct-guerre-ukraine-rencontre-entre-lavrov-rubio-zelensky-renoue-etats-unis?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis..."
+      "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis"
     },
     {
       "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
@@ -195,20 +171,44 @@
       "summary": "en Gironde, aux côtés des pompiers qui luttent contre un incendie « imprévisible » menaçant la presqu’île du Cap Ferret"
     },
     {
-      "title": "[CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses réelles dans les journaux de messagerie",
-      "source": "CyberPress",
-      "time": "2026-07-21T18:46:32.000Z",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Apple répare cacher mon bug de messagerie qui a exposé des adresses ..."
+      "title": "Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril de Brent bondit de 8%",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-23T19:07:49.000Z",
+      "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-les-cours-du-petrole-accelerent-leur-hausse-le-baril-de-brent-bondit-de-8-20260723",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril d..."
     },
     {
-      "title": "[CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de la machine",
-      "source": "BleepingComputer",
-      "time": "2026-07-21T20:06:55.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
+      "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-23T19:34:30.000Z",
+      "link": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
+      "score": 95,
+      "summary": "la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats"
+    },
+    {
+      "title": "Guerre en Ukraine : la fuite en avant de Vladimir Poutine",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-23T18:00:00.000Z",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : la fuite en avant de Vladimir Poutine..."
+    },
+    {
+      "title": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-23T17:50:16.000Z",
+      "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
+      "score": 95,
+      "summary": "« Le prix de la guerre de Poutine »"
+    },
+    {
+      "title": "Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions européennes au rabais",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-23T17:27:05.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4236052-20260723-guerre-ukraine-rubio-lavrov-discutent-nouveau-paquet-sanctions-europeennes-rabais?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions eu..."
     },
     {
       "title": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur",
@@ -363,9 +363,17 @@
       "summary": "Point de situation critique concernant : [CYBER INT] L'arrêt de Microsoft 365 affecte les équipes, SharePoint et d'autres..."
     },
     {
+      "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
+      "source": "CyberPress",
+      "time": "2026-07-23T18:36:08.000Z",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler d..."
+    },
+    {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T17:18:34.474Z",
+      "time": "2026-07-23T21:00:28.109Z",
       "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -373,7 +381,7 @@
     {
       "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T17:18:34.474Z",
+      "time": "2026-07-23T21:00:28.109Z",
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -381,18 +389,10 @@
     {
       "title": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T17:18:34.474Z",
+      "time": "2026-07-23T21:00:28.109Z",
       "link": "https://www.leparisien.fr/faits-divers/un-ancien-depute-suisse-poursuivi-pour-avoir-drogue-filme-et-agresse-son-ex-femme-a-140-reprises-la-perpetuite-requise-23-07-2026-4QGPA3FWXVHZ5NWGANBCYRHPLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-fem..."
-    },
-    {
-      "title": "Affaire Epstein : comment ses victimes ont été réduites au silence",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T17:18:34.474Z",
-      "link": "https://www.leparisien.fr/podcasts/code-source/affaire-epstein-comment-ses-victimes-ont-ete-reduites-au-silence-23-07-2026-KPE4WMKFXFE3BLYCMW2KFDRF7E.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : Affaire Epstein : comment ses victimes ont été réduites au silence..."
     }
   ]
 }
