@@ -89,7 +89,7 @@
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran attaque des sites militaires américains au Koweït et en Jordanie",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T06:27:03.000Z",
+        "time": "2026-07-23T10:04:03.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
         "score": 95,
         "summary": "l’Iran attaque des sites militaires américains au Koweït et en Jordanie"
@@ -171,9 +171,10 @@
   {
     "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
     "score": 95,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -191,6 +192,14 @@
         "link": "https://www.lefigaro.fr/international/37-5-milliards-ce-que-coute-vraiment-la-guerre-en-iran-comparee-aux-precedents-conflits-des-etats-unis-et-aux-budgets-militaires-de-l-otan-20260723",
         "score": 95,
         "summary": "Point de situation critique concernant : Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des Ét..."
+      },
+      {
+        "title": "L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend et Zidane bientôt présenté",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-23T10:00:18.000Z",
+        "link": "https://www.20minutes.fr/societe/4235928-20260723-info-midi-2-minutes-evacuations-gironde-guerre-iran-etend-zidane-bientot-presente?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend ..."
       }
     ],
     "summary": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis / Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des États-Unis et aux budgets militaires de l’Otan"
@@ -291,130 +300,31 @@
     "summary": "Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourquoi l'armée ukrainienne change de visage"
   },
   {
-    "title": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "CyberPress",
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse",
-        "source": "CyberPress",
-        "time": "2026-07-21T08:59:30.000Z",
-        "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploit..."
-      },
-      {
-        "title": "[CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer des webshells",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T16:41:50.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer de..."
-      }
-    ],
-    "summary": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse / [CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer des webshells"
-  },
-  {
-    "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
-    "score": 88,
-    "count": 4,
-    "sources": [
-      "CyberPress",
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
-        "source": "CyberPress",
-        "time": "2026-07-21T06:29:26.000Z",
-        "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécu..."
-      },
-      {
-        "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T10:12:24.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransom..."
-      },
-      {
-        "title": "[CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de la machine",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T20:06:55.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
-      },
-      {
-        "title": "[CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichiers serveurs arbitraires sans authentification",
-        "source": "CyberPress",
-        "time": "2026-07-22T12:36:36.000Z",
-        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichi..."
-      }
-    ],
-    "summary": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié / [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin"
-  },
-  {
-    "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "BleepingComputer",
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T09:05:50.000Z",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les ..."
-      },
-      {
-        "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
-        "source": "CyberPress",
-        "time": "2026-07-22T06:38:45.000Z",
-        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS / [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA"
-  },
-  {
-    "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
-    "score": 88,
+    "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
+    "score": 95,
     "count": 1,
     "sources": [
-      "BleepingComputer"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
-        "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T08:06:26.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non o..."
+        "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-23T08:44:04.000Z",
+        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-pourquoi-kiev-cible-le-geant-russe-du-commerce-en-ligne-wildberries-20260723",
+        "score": 95,
+        "summary": "pourquoi Kiev cible le géant russe du commerce en ligne Wildberries"
       }
     ],
-    "summary": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels"
+    "summary": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries"
   },
   {
     "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
     "score": 88,
-    "count": 3,
+    "count": 7,
     "sources": [
-      "CyberPress"
+      "CyberPress",
+      "BleepingComputer"
     ],
     "items": [
       {
@@ -440,6 +350,38 @@
         "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Zimbra patches Injection de commande SNMP critique et quatre vulnéra..."
+      },
+      {
+        "title": "[CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer des webshells",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T16:41:50.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Failles critiques de wp2shell WordPress exploitées pour installer de..."
+      },
+      {
+        "title": "[CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de la machine",
+        "source": "BleepingComputer",
+        "time": "2026-07-21T20:06:55.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Faille critique de SharePoint RCE exploitée pour voler les clés de l..."
+      },
+      {
+        "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
+        "source": "CyberPress",
+        "time": "2026-07-22T06:38:45.000Z",
+        "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
+      },
+      {
+        "title": "[CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichiers serveurs arbitraires sans authentification",
+        "source": "CyberPress",
+        "time": "2026-07-22T12:36:36.000Z",
+        "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichi..."
       }
     ],
     "summary": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles / [CYBER INT] Les attaquants de ransomware Qilin exploitent le contournement d'authentification de PAN-OS pour un accès initial"
@@ -580,7 +522,7 @@
   {
     "title": "[CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 2019 en octobre",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "BleepingComputer"
     ],
@@ -592,9 +534,17 @@
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 20..."
+      },
+      {
+        "title": "[CYBER INT] Microsoft travaille à résoudre le problème de quarantaine de la boîte aux lettres Exchange Online",
+        "source": "BleepingComputer",
+        "time": "2026-07-23T09:20:10.000Z",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft travaille à résoudre le problème de quarantaine de la boît..."
       }
     ],
-    "summary": "[CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 2019 en octobre"
+    "summary": "[CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 2019 en octobre / [CYBER INT] Microsoft travaille à résoudre le problème de quarantaine de la boîte aux lettres Exchange Online"
   },
   {
     "title": "[CYBER INT] GitHub réduit les paiements de primes de bugs publics, transfère les meilleures récompenses au niveau VIP",
@@ -654,6 +604,44 @@
     "summary": "[CYBER INT] Adobe Acrobat Extension Faille de laisser les sites malveillants lire les données Web WhatsApp"
   },
   {
+    "title": "[CYBER INT] Parches de vérification de point exploitées Faille de la console intelligente permettant l'accès complet à l'administrateur",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Parches de vérification de point exploitées Faille de la console intelligente permettant l'accès complet à l'administrateur",
+        "source": "CyberPress",
+        "time": "2026-07-23T06:34:36.000Z",
+        "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Parches de vérification de point exploitées Faille de la console int..."
+      }
+    ],
+    "summary": "[CYBER INT] Parches de vérification de point exploitées Faille de la console intelligente permettant l'accès complet à l'administrateur"
+  },
+  {
+    "title": "[CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour zéro",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour zéro",
+        "source": "BleepingComputer",
+        "time": "2026-07-23T08:13:07.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour ..."
+      }
+    ],
+    "summary": "[CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour zéro"
+  },
+  {
     "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
     "score": 70,
     "count": 1,
@@ -664,7 +652,7 @@
       {
         "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T06:29:08.955Z",
+        "time": "2026-07-23T10:17:09.029Z",
         "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -683,7 +671,7 @@
       {
         "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T06:29:08.955Z",
+        "time": "2026-07-23T10:17:09.029Z",
         "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -692,7 +680,7 @@
     "summary": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine"
   },
   {
-    "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée",
+    "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une vidéo affirmant être de la DZ Mafia dément toute responsabilité",
     "score": 70,
     "count": 1,
     "sources": [
@@ -700,15 +688,15 @@
     ],
     "items": [
       {
-        "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée",
+        "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une vidéo affirmant être de la DZ Mafia dément toute responsabilité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T06:29:08.955Z",
+        "time": "2026-07-23T10:17:09.029Z",
         "link": "https://www.leparisien.fr/faits-divers/menaces-contre-le-maire-dales-la-piste-de-trafiquants-locaux-privilegiee-22-07-2026-5AITHGX6SZG7XPX4ZM2MAAWV7I.php",
         "score": 70,
-        "summary": "Point de situation critique concernant : Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée..."
+        "summary": "Point de situation critique concernant : Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une..."
       }
     ],
-    "summary": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée"
+    "summary": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une vidéo affirmant être de la DZ Mafia dément toute responsabilité"
   },
   {
     "title": "Aéroport Charles-de-Gaulle : incendie dans un entrepôt à proximité de l’aéroport de Roissy, pas d’incidence sur les vols",
@@ -721,7 +709,7 @@
       {
         "title": "Aéroport Charles-de-Gaulle : incendie dans un entrepôt à proximité de l’aéroport de Roissy, pas d’incidence sur les vols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T06:29:08.955Z",
+        "time": "2026-07-23T10:17:09.029Z",
         "link": "https://www.leparisien.fr/faits-divers/aeroport-charles-de-gaulle-incendie-dans-un-entrepot-a-proximite-de-laeroport-de-roissy-pas-dincidence-sur-les-vols-22-07-2026-OTXV2YUCK5CHPCA2MQLVAUJU3Q.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Aéroport Charles-de-Gaulle : incendie dans un entrepôt à proximité de l’aéroport..."
@@ -740,7 +728,7 @@
       {
         "title": "« Une agression gratuite » : un détenu de la prison de Mulhouse condamné à 3 ans de prison pour avoir blessé des surveillants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T06:29:08.955Z",
+        "time": "2026-07-23T10:17:09.029Z",
         "link": "https://www.leparisien.fr/faits-divers/une-agression-gratuite-un-detenu-de-la-prison-de-mulhouse-condamne-a-3-ans-de-prison-pour-avoir-blesse-des-surveillants-22-07-2026-7LHILQJR4JBY5KUSTAIJMNUH4E.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Une agression gratuite » : un détenu de la prison de Mulhouse condamné à 3 ans..."

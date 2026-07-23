@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T06:29:10.575Z",
+  "updated": "2026-07-23T10:17:10.116Z",
   "count": 49,
   "items": [
     {
@@ -133,7 +133,7 @@
     {
       "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran attaque des sites militaires américains au Koweït et en Jordanie",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-23T06:27:03.000Z",
+      "time": "2026-07-23T10:04:03.000Z",
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
       "score": 95,
       "summary": "l’Iran attaque des sites militaires américains au Koweït et en Jordanie"
@@ -171,44 +171,20 @@
       "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis..."
     },
     {
-      "title": "[CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploitation publique des carburants est scannée en masse",
-      "source": "CyberPress",
-      "time": "2026-07-21T08:59:30.000Z",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L'exploitation de WordPress wp2shell augmente à mesure que l'exploit..."
+      "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-23T08:44:04.000Z",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-pourquoi-kiev-cible-le-geant-russe-du-commerce-en-ligne-wildberries-20260723",
+      "score": 95,
+      "summary": "pourquoi Kiev cible le géant russe du commerce en ligne Wildberries"
     },
     {
-      "title": "[CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécution de code non authentifié",
-      "source": "CyberPress",
-      "time": "2026-07-21T06:29:26.000Z",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Service critiqueNow Faille de plateforme d'IA exploitée pour l'exécu..."
-    },
-    {
-      "title": "[CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransomware Qilin",
-      "source": "BleepingComputer",
-      "time": "2026-07-21T10:12:24.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Une faille VPN de Palo Alto critique exploitée par le gang de ransom..."
-    },
-    {
-      "title": "[CYBER INT] Microsoft partage des corrections manuelles pour les retards et les délais de synchronisation de WSUS",
-      "source": "BleepingComputer",
-      "time": "2026-07-21T09:05:50.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft partage des corrections manuelles pour les retards et les ..."
-    },
-    {
-      "title": "[CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non officiels",
-      "source": "BleepingComputer",
-      "time": "2026-07-21T08:06:26.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Windows LegacyHive Zero-Day défaut est gratuit, des correctifs non o..."
+      "title": "L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend et Zidane bientôt présenté",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-23T10:00:18.000Z",
+      "link": "https://www.20minutes.fr/societe/4235928-20260723-info-midi-2-minutes-evacuations-gironde-guerre-iran-etend-zidane-bientot-presente?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend ..."
     },
     {
       "title": "[CYBER INT] Google lance Gemini 3.5 Flash Cyber AI pour trouver et corriger les vulnérabilités logicielles",
@@ -355,9 +331,33 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Adobe Acrobat Extension Faille de laisser les sites malveillants lir..."
     },
     {
+      "title": "[CYBER INT] Parches de vérification de point exploitées Faille de la console intelligente permettant l'accès complet à l'administrateur",
+      "source": "CyberPress",
+      "time": "2026-07-23T06:34:36.000Z",
+      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Parches de vérification de point exploitées Faille de la console int..."
+    },
+    {
+      "title": "[CYBER INT] Microsoft travaille à résoudre le problème de quarantaine de la boîte aux lettres Exchange Online",
+      "source": "BleepingComputer",
+      "time": "2026-07-23T09:20:10.000Z",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft travaille à résoudre le problème de quarantaine de la boît..."
+    },
+    {
+      "title": "[CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour zéro",
+      "source": "BleepingComputer",
+      "time": "2026-07-23T08:13:07.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Check Point met en garde contre les attaques de SmartConsole à jour ..."
+    },
+    {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T06:29:08.955Z",
+      "time": "2026-07-23T10:17:09.029Z",
       "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -365,23 +365,23 @@
     {
       "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T06:29:08.955Z",
+      "time": "2026-07-23T10:17:09.029Z",
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
     },
     {
-      "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée",
+      "title": "Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une vidéo affirmant être de la DZ Mafia dément toute responsabilité",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T06:29:08.955Z",
+      "time": "2026-07-23T10:17:09.029Z",
       "link": "https://www.leparisien.fr/faits-divers/menaces-contre-le-maire-dales-la-piste-de-trafiquants-locaux-privilegiee-22-07-2026-5AITHGX6SZG7XPX4ZM2MAAWV7I.php",
       "score": 70,
-      "summary": "Point de situation critique concernant : Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée..."
+      "summary": "Point de situation critique concernant : Menaces contre le maire d’Alès : la piste de trafiquants locaux privilégiée, une..."
     },
     {
       "title": "Aéroport Charles-de-Gaulle : incendie dans un entrepôt à proximité de l’aéroport de Roissy, pas d’incidence sur les vols",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T06:29:08.955Z",
+      "time": "2026-07-23T10:17:09.029Z",
       "link": "https://www.leparisien.fr/faits-divers/aeroport-charles-de-gaulle-incendie-dans-un-entrepot-a-proximite-de-laeroport-de-roissy-pas-dincidence-sur-les-vols-22-07-2026-OTXV2YUCK5CHPCA2MQLVAUJU3Q.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aéroport Charles-de-Gaulle : incendie dans un entrepôt à proximité de l’aéroport..."
@@ -389,7 +389,7 @@
     {
       "title": "« Une agression gratuite » : un détenu de la prison de Mulhouse condamné à 3 ans de prison pour avoir blessé des surveillants",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-23T06:29:08.955Z",
+      "time": "2026-07-23T10:17:09.029Z",
       "link": "https://www.leparisien.fr/faits-divers/une-agression-gratuite-un-detenu-de-la-prison-de-mulhouse-condamne-a-3-ans-de-prison-pour-avoir-blesse-des-surveillants-22-07-2026-7LHILQJR4JBY5KUSTAIJMNUH4E.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Une agression gratuite » : un détenu de la prison de Mulhouse condamné à 3 ans..."
