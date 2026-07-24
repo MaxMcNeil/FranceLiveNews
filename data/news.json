@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T06:24:39.551Z",
-  "count": 49,
+  "updated": "2026-07-24T10:14:09.379Z",
+  "count": 50,
   "items": [
     {
       "title": "Explosion à Monaco : Vadim Ermolaev dit n’avoir eu « aucune raison » de se penser menacé avant l’attaque à la bombe",
@@ -17,14 +17,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
       "score": 95,
       "summary": "les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes"
-    },
-    {
-      "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-22T09:57:06.000Z",
-      "link": "https://www.lefigaro.fr/conjoncture/le-ministre-americain-de-la-defense-estime-que-la-guerre-en-iran-a-coute-jusqu-a-present-37-5-milliards-de-dollars-aux-etats-unis-20260722",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à..."
     },
     {
       "title": "Guerre au Moyen-Orient : le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire",
@@ -195,12 +187,12 @@
       "summary": "l’Iran revendique des frappes au Bahreïn et en Jordanie après la «13e nuit» consécutive de bombardements américains"
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Colère de Téhéran sur le vœu de Trump d’utiliser les fonds iraniens gelés…",
+      "title": "EN DIRECT Guerre au Moyen-Orient : L'Iran appelle les civils du Moyen-Orient à se tenir éloignés des forces américaines…",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-24T04:46:05.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4236089-20260724-direct-guerre-moyen-orient-colere-teheran-v-u-trump-utiliser-fonds-iraniens-geles?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Colère de Téhéran sur le vœu de Trump d’utili..."
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : L'Iran appelle les civils du Moyen-Orient à s..."
     },
     {
       "title": "EN DIRECT Guerre en Ukraine : L’ex-ministre ukrainien de la Défense insiste pour reprendre ses fonctions...",
@@ -211,12 +203,28 @@
       "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : L’ex-ministre ukrainien de la Défense insiste pour..."
     },
     {
-      "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
-      "source": "CyberPress",
-      "time": "2026-07-22T06:38:45.000Z",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
+      "title": "Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein direct qui a blessé un pompier",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-24T10:06:01.000Z",
+      "link": "https://www.lefigaro.fr/bordeaux/incendies-au-cap-ferret-les-images-de-l-explosion-d-une-bonbonne-de-gaz-en-plein-direct-qui-a-blesse-un-pompier-20260724",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein..."
+    },
+    {
+      "title": "Guerre en Ukraine : la Roumanie abat pour la première fois un drone sur son territoire",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-24T09:44:18.000Z",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-roumanie-abat-pour-la-premiere-fois-un-drone-sur-son-territoire-20260724",
+      "score": 95,
+      "summary": "la Roumanie abat pour la première fois un drone sur son territoire"
+    },
+    {
+      "title": "« Paillassonnages », « rafalages » et « jambisations » : la guerre des points de deal, épicentre des violences armées",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-07-24T09:00:01.000Z",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/24/paillassonnages-rafalages-et-jambisations-la-guerre-des-points-de-deal-epicentre-des-violences-armees_6731481_3224.html",
+      "score": 95,
+      "summary": "Point de situation critique concernant : « Paillassonnages », « rafalages » et « jambisations » : la guerre des points de..."
     },
     {
       "title": "[CYBER INT] Pourquoi les SOC modernes ont besoin de détections multicouches",
@@ -355,9 +363,17 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler d..."
     },
     {
+      "title": "[CYBER INT] Les agents de Kimi K3 ont trouvé Redis Zero-Days et construit une exploitation RCE, disent les chercheurs",
+      "source": "CyberPress",
+      "time": "2026-07-24T06:58:27.000Z",
+      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Les agents de Kimi K3 ont trouvé Redis Zero-Days et construit une ex..."
+    },
+    {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T06:24:38.604Z",
+      "time": "2026-07-24T10:14:08.386Z",
       "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -365,7 +381,7 @@
     {
       "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T06:24:38.604Z",
+      "time": "2026-07-24T10:14:08.386Z",
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -373,26 +389,18 @@
     {
       "title": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T06:24:38.604Z",
+      "time": "2026-07-24T10:14:08.386Z",
       "link": "https://www.leparisien.fr/faits-divers/un-ancien-depute-suisse-poursuivi-pour-avoir-drogue-filme-et-agresse-son-ex-femme-a-140-reprises-la-perpetuite-requise-23-07-2026-4QGPA3FWXVHZ5NWGANBCYRHPLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-fem..."
     },
     {
-      "title": "« Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les Ehpad, des disparitions banalisées",
+      "title": "« Regarde, on m’a volé mon alliance ! » : d’étranges disparitions dans les Ehpad",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T06:24:38.603Z",
+      "time": "2026-07-24T10:14:08.386Z",
       "link": "https://www.leparisien.fr/essonne-91/regarde-on-ma-vole-mon-alliance-bijoux-vetements-parfums-dans-les-ehpad-des-disparitions-banalisees-24-07-2026-FF4MOHW5GZHT5ESFVRMMJK2KOA.php",
       "score": 70,
-      "summary": "Point de situation critique concernant : « Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les E..."
-    },
-    {
-      "title": "États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « Allah Akbar »",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T06:24:38.604Z",
-      "link": "https://www.leparisien.fr/faits-divers/etats-unis-deux-personnes-blessees-au-couteau-a-new-york-lhomme-a-crie-allah-akbar-24-07-2026-RTSV4OVJSNAODBAGP2GOGR3B7U.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « All..."
+      "summary": "Point de situation critique concernant : « Regarde, on m’a volé mon alliance ! » : d’étranges disparitions dans les Ehpad..."
     }
   ]
 }
