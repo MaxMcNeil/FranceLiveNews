@@ -21,7 +21,7 @@
   {
     "title": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes",
     "score": 95,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -50,6 +50,14 @@
         "link": "https://www.lefigaro.fr/international/37-5-milliards-ce-que-coute-vraiment-la-guerre-en-iran-comparee-aux-precedents-conflits-des-etats-unis-et-aux-budgets-militaires-de-l-otan-20260723",
         "score": 95,
         "summary": "Point de situation critique concernant : Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des Ét..."
+      },
+      {
+        "title": "Guerre au Moyen-Orient : Nouvelles frappes de l’armée américaine sur des cibles militaires iraniennes",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-23T05:12:37.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Nouvelles frappes de l’armée américaine sur des cibles ..."
       }
     ],
     "summary": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes / Guerre au Moyen-Orient : Les Houthis ciblent deux navires en mer Rouge, nouvelle série de frappes américaines"
@@ -73,7 +81,7 @@
       {
         "title": "EN DIRECT - Guerre au Moyen-Orient : «Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T19:58:02.000Z",
+        "time": "2026-07-23T23:37:02.000Z",
         "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
         "score": 95,
         "summary": "«Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran"
@@ -237,25 +245,6 @@
     "summary": "Guerre en Ukraine : Un nouveau chef de l’armée à Kiev, le Kremlin s’en moque / Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourquoi l'armée ukrainienne change de visage"
   },
   {
-    "title": "EN DIRECT Guerre au Moyen-Orient : Frappe américaine sur l’île de Qeshm, le Royaume-Uni condamne les attaques houthis…",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "EN DIRECT Guerre au Moyen-Orient : Frappe américaine sur l’île de Qeshm, le Royaume-Uni condamne les attaques houthis…",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-23T05:12:37.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Frappe américaine sur l’île de Qeshm, le Roya..."
-      }
-    ],
-    "summary": "EN DIRECT Guerre au Moyen-Orient : Frappe américaine sur l’île de Qeshm, le Royaume-Uni condamne les attaques houthis…"
-  },
-  {
     "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
     "score": 95,
     "count": 1,
@@ -397,22 +386,32 @@
     "summary": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »"
   },
   {
-    "title": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur",
-    "score": 88,
-    "count": 2,
+    "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
+    "score": 95,
+    "count": 1,
     "sources": [
-      "BleepingComputer",
-      "CyberPress"
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
-        "title": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur",
-        "source": "BleepingComputer",
-        "time": "2026-07-21T23:07:33.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le déve..."
-      },
+        "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-23T23:07:27.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : UE, Chine… Trump poursuit la guerre économique avec ses droits de douane..."
+      }
+    ],
+    "summary": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane"
+  },
+  {
+    "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
+    "score": 88,
+    "count": 2,
+    "sources": [
+      "CyberPress"
+    ],
+    "items": [
       {
         "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
         "source": "CyberPress",
@@ -420,9 +419,17 @@
         "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les s..."
+      },
+      {
+        "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
+        "source": "CyberPress",
+        "time": "2026-07-23T18:36:08.000Z",
+        "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler d..."
       }
     ],
-    "summary": "[CYBER INT] La police démantèle la plateforme de phishing Kratos, arrête le développeur / [CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA"
+    "summary": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA / [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA"
   },
   {
     "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
@@ -696,25 +703,6 @@
     "summary": "[CYBER INT] L'arrêt de Microsoft 365 affecte les équipes, SharePoint et d'autres services"
   },
   {
-    "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
-        "source": "CyberPress",
-        "time": "2026-07-23T18:36:08.000Z",
-        "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler d..."
-      }
-    ],
-    "summary": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA"
-  },
-  {
     "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
     "score": 70,
     "count": 1,
@@ -725,7 +713,7 @@
       {
         "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T21:00:28.109Z",
+        "time": "2026-07-24T02:16:10.276Z",
         "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -744,7 +732,7 @@
       {
         "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T21:00:28.109Z",
+        "time": "2026-07-24T02:16:10.276Z",
         "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -763,7 +751,7 @@
       {
         "title": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-23T21:00:28.109Z",
+        "time": "2026-07-24T02:16:10.276Z",
         "link": "https://www.leparisien.fr/faits-divers/un-ancien-depute-suisse-poursuivi-pour-avoir-drogue-filme-et-agresse-son-ex-femme-a-140-reprises-la-perpetuite-requise-23-07-2026-4QGPA3FWXVHZ5NWGANBCYRHPLY.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-fem..."
