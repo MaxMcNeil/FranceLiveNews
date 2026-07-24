@@ -21,7 +21,7 @@
   {
     "title": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes",
     "score": 95,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -36,12 +36,12 @@
         "summary": "les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes"
       },
       {
-        "title": "Guerre au Moyen-Orient : Les Houthis ciblent deux navires en mer Rouge, nouvelle série de frappes américaines",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-22T05:22:30.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4235689-20260722-direct-guerre-moyen-orient-autoriser-iran-controler-detroit-ormuz-creerait-dangereux-precedent-estime-marco-rubio?at_medium=display&at_campaign=149",
+        "title": "Guerre au Moyen-Orient : l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-24T04:23:08.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
         "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Les Houthis ciblent deux navires en mer Rouge, nouvelle..."
+        "summary": "l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes"
       },
       {
         "title": "Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des États-Unis et aux budgets militaires de l’Otan",
@@ -58,36 +58,17 @@
         "link": "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Nouvelles frappes de l’armée américaine sur des cibles ..."
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes / Guerre au Moyen-Orient : Les Houthis ciblent deux navires en mer Rouge, nouvelle série de frappes américaines"
-  },
-  {
-    "title": "Guerre au Moyen-Orient : Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-22T05:39:38.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-donald-trump-affirme-vouloir-beaucoup-aider-le-liban-en-recevant-le-president-joseph-aoun-20260722",
-        "score": 95,
-        "summary": "Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun"
       },
       {
-        "title": "EN DIRECT - Guerre au Moyen-Orient : «Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran",
+        "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran revendique des frappes au Bahreïn et en Jordanie après la «13e nuit» consécutive de bombardements américains",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T23:37:02.000Z",
-        "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
+        "time": "2026-07-24T06:16:02.000Z",
+        "link": "https://www.lefigaro.fr/international/en-direct-conflit-guerre-moyen-orient-iran-etats-unis-frappes-armee-americaine-yemen-houthistes-liban-israel-koweit-20260724",
         "score": 95,
-        "summary": "«Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran"
+        "summary": "l’Iran revendique des frappes au Bahreïn et en Jordanie après la «13e nuit» consécutive de bombardements américains"
       }
     ],
-    "summary": "Guerre au Moyen-Orient : Donald Trump affirme vouloir «beaucoup aider» le Liban en recevant le président Joseph Aoun / EN DIRECT - Guerre au Moyen-Orient : «Ils n’ont pas encore assez souffert», Donald Trump veut reprendre des opérations majeures en Iran"
+    "summary": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes / Guerre au Moyen-Orient : l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes"
   },
   {
     "title": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis",
@@ -118,60 +99,6 @@
     "summary": "Le ministre américain de la Défense estime que la guerre en Iran a coûté jusqu’à présent 37,5 milliards de dollars aux États-Unis / L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend et Zidane bientôt présenté"
   },
   {
-    "title": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-22T05:32:37.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235595-20260722-guerre-ukraine-deux-ecoles-heurtent-comment-interpreter-manifestations-soutien-fedorov?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les man..."
-      }
-    ],
-    "summary": "Guerre en Ukraine : « Deux écoles qui se heurtent »… Comment interpréter les manifestations de soutien à Fedorov"
-  },
-  {
-    "title": "Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etats-Unis",
-    "score": 95,
-    "count": 3,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etats-Unis",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-22T06:13:49.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235688-20260722-direct-guerre-ukraine-zelensky-remplace-commandant-chef-armee-huit-blesses-russie?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etat..."
-      },
-      {
-        "title": "Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie »",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-22T19:37:04.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235861-20260722-guerre-ukraine-zelensky-relance-dialogue-emissaires-trump-redynamiser-diplomatie?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump po..."
-      },
-      {
-        "title": "Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-23T06:02:37.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4235878-20260723-direct-guerre-ukraine-rencontre-entre-lavrov-rubio-zelensky-renoue-etats-unis?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis"
-      }
-    ],
-    "summary": "Guerre en Ukraine : Volodymyr Zelensky veut relancer la diplomatie avec les Etats-Unis / Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie »"
-  },
-  {
     "title": "Guerre au Moyen-Orient : le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire",
     "score": 95,
     "count": 1,
@@ -193,7 +120,7 @@
   {
     "title": "Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire iranien que Trump veut bombarder",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -205,9 +132,17 @@
         "link": "https://www.20minutes.fr/monde/etats-unis/4235864-20260722-guerre-moyen-orient-dit-tout-mont-kolang-site-nucleaire-iranien-trump-veut-bombarder?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire ..."
+      },
+      {
+        "title": "EN DIRECT Guerre au Moyen-Orient : Colère de Téhéran sur le vœu de Trump d’utiliser les fonds iraniens gelés…",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-24T04:46:05.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4236089-20260724-direct-guerre-moyen-orient-colere-teheran-v-u-trump-utiliser-fonds-iraniens-geles?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Colère de Téhéran sur le vœu de Trump d’utili..."
       }
     ],
-    "summary": "Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire iranien que Trump veut bombarder"
+    "summary": "Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire iranien que Trump veut bombarder / EN DIRECT Guerre au Moyen-Orient : Colère de Téhéran sur le vœu de Trump d’utiliser les fonds iraniens gelés…"
   },
   {
     "title": "Guerre en Ukraine : Un nouveau chef de l’armée à Kiev, le Kremlin s’en moque",
@@ -243,6 +178,49 @@
       }
     ],
     "summary": "Guerre en Ukraine : Un nouveau chef de l’armée à Kiev, le Kremlin s’en moque / Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourquoi l'armée ukrainienne change de visage"
+  },
+  {
+    "title": "Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie »",
+    "score": 95,
+    "count": 4,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie »",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-22T19:37:04.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235861-20260722-guerre-ukraine-zelensky-relance-dialogue-emissaires-trump-redynamiser-diplomatie?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump po..."
+      },
+      {
+        "title": "Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-23T06:02:37.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4235878-20260723-direct-guerre-ukraine-rencontre-entre-lavrov-rubio-zelensky-renoue-etats-unis?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis"
+      },
+      {
+        "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-23T23:07:27.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : UE, Chine… Trump poursuit la guerre économique avec ses droits de douane..."
+      },
+      {
+        "title": "EN DIRECT Guerre en Ukraine : L’ex-ministre ukrainien de la Défense insiste pour reprendre ses fonctions...",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-24T03:32:25.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4236087-20260724-direct-guerre-ukraine-ex-ministre-ukrainien-defense-insiste-reprendre-fonctions?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : L’ex-ministre ukrainien de la Défense insiste pour..."
+      }
+    ],
+    "summary": "Guerre en Ukraine : Zelensky relance le dialogue avec les émissaires de Trump pour « redynamiser la diplomatie » / Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis"
   },
   {
     "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
@@ -386,25 +364,6 @@
     "summary": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »"
   },
   {
-    "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-23T23:07:27.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4236068-20260724-ue-chine-trump-poursuit-guerre-economique-droits-douane?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : UE, Chine… Trump poursuit la guerre économique avec ses droits de douane..."
-      }
-    ],
-    "summary": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane"
-  },
-  {
     "title": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA",
     "score": 88,
     "count": 2,
@@ -430,34 +389,6 @@
       }
     ],
     "summary": "[CYBER INT] La police démantèle le kit de phishing Kratos conçu pour voler les sessions Microsoft 365 et contourner les MFA / [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA"
-  },
-  {
-    "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "CyberPress",
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA",
-        "source": "CyberPress",
-        "time": "2026-07-22T04:57:52.000Z",
-        "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires ..."
-      },
-      {
-        "title": "[CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine",
-        "source": "BleepingComputer",
-        "time": "2026-07-23T11:40:16.000Z",
-        "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir..."
-      }
-    ],
-    "summary": "[CYBER INT] Microsoft Azure DevOps MCP Faille permet de cacher les commentaires de relations publiques Hijack les agents d' avis d' IA / [CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine"
   },
   {
     "title": "[CYBER INT] Pourquoi les SOC modernes ont besoin de détections multicouches",
@@ -665,6 +596,25 @@
     "summary": "[CYBER INT] Google ajoute la récupération de vidéos selfie pour les utilisateurs bloqués de leurs comptes / [CYBER INT] L'UE condamne Google à une amende de 1 milliard de dollars pour violation de la loi antitrust sur les recherches et les boutiques d'applications"
   },
   {
+    "title": "[CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine",
+    "score": 88,
+    "count": 1,
+    "sources": [
+      "BleepingComputer"
+    ],
+    "items": [
+      {
+        "title": "[CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine",
+        "source": "BleepingComputer",
+        "time": "2026-07-23T11:40:16.000Z",
+        "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir..."
+      }
+    ],
+    "summary": "[CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine"
+  },
+  {
     "title": "[CYBER INT] Claude Cowork Fault pourrait laisser l'agent d'IA échapper à sa machine à sous et accéder aux fichiers Mac",
     "score": 88,
     "count": 1,
@@ -713,7 +663,7 @@
       {
         "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-24T02:16:10.276Z",
+        "time": "2026-07-24T06:24:38.604Z",
         "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -732,7 +682,7 @@
       {
         "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-24T02:16:10.276Z",
+        "time": "2026-07-24T06:24:38.604Z",
         "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -751,12 +701,50 @@
       {
         "title": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-24T02:16:10.276Z",
+        "time": "2026-07-24T06:24:38.604Z",
         "link": "https://www.leparisien.fr/faits-divers/un-ancien-depute-suisse-poursuivi-pour-avoir-drogue-filme-et-agresse-son-ex-femme-a-140-reprises-la-perpetuite-requise-23-07-2026-4QGPA3FWXVHZ5NWGANBCYRHPLY.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-fem..."
       }
     ],
     "summary": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise"
+  },
+  {
+    "title": "« Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les Ehpad, des disparitions banalisées",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les Ehpad, des disparitions banalisées",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-24T06:24:38.603Z",
+        "link": "https://www.leparisien.fr/essonne-91/regarde-on-ma-vole-mon-alliance-bijoux-vetements-parfums-dans-les-ehpad-des-disparitions-banalisees-24-07-2026-FF4MOHW5GZHT5ESFVRMMJK2KOA.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : « Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les E..."
+      }
+    ],
+    "summary": "« Regarde, on m’a volé mon alliance ! » : bijoux, vêtements, parfums… Dans les Ehpad, des disparitions banalisées"
+  },
+  {
+    "title": "États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « Allah Akbar »",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « Allah Akbar »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-24T06:24:38.604Z",
+        "link": "https://www.leparisien.fr/faits-divers/etats-unis-deux-personnes-blessees-au-couteau-a-new-york-lhomme-a-crie-allah-akbar-24-07-2026-RTSV4OVJSNAODBAGP2GOGR3B7U.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « All..."
+      }
+    ],
+    "summary": "États-Unis : deux personnes blessées au couteau à New York, l’homme a crié « Allah Akbar »"
   }
 ]
