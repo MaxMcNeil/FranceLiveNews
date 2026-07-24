@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:14:09.379Z",
+  "updated": "2026-07-24T13:28:48.228Z",
   "count": 50,
   "items": [
     {
@@ -17,14 +17,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
       "score": 95,
       "summary": "les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-22T12:56:32.000Z",
-      "link": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-parlement-bulgare-autorise-le-deploiement-d-avions-ravitailleurs-americains-sur-son-territoire-20260722",
-      "score": 95,
-      "summary": "le Parlement bulgare autorise le déploiement d'avions-ravitailleurs américains sur son territoire"
     },
     {
       "title": "Guerre au Moyen-Orient : On vous dit tout sur le mont Kolang, le site nucléaire iranien que Trump veut bombarder",
@@ -227,36 +219,28 @@
       "summary": "Point de situation critique concernant : « Paillassonnages », « rafalages » et « jambisations » : la guerre des points de..."
     },
     {
-      "title": "[CYBER INT] Pourquoi les SOC modernes ont besoin de détections multicouches",
-      "source": "CyberPress",
-      "time": "2026-07-22T11:25:35.000Z",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Pourquoi les SOC modernes ont besoin de détections multicouches..."
+      "title": "EN DIRECT Guerre en Ukraine : La Russie réplique après avoir été attaquée par Kiev, au moins 11 morts...",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-24T03:32:25.000Z",
+      "link": "https://www.20minutes.fr/monde/ukraine/4236087-20260724-direct-guerre-ukraine-cinq-personnes-tuees-bombes-guidees-russes-explosions-saint-petersbourg?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre en Ukraine : La Russie réplique après avoir été attaquée par Ki..."
     },
     {
-      "title": "[CYBER INT] L' CISA ordonne une action urgente en cas de défaut de Langflow RCE exploité activement",
-      "source": "BleepingComputer",
-      "time": "2026-07-22T11:43:28.000Z",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L' CISA ordonne une action urgente en cas de défaut de Langflow RCE ..."
+      "title": "EN DIRECT Guerre au Moyen-Orient : Deux Israéliens tués dans des violences en Cisjordanie, où l'armée prépare « une vaste opération »",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-24T04:46:05.000Z",
+      "link": "https://www.20minutes.fr/monde/etats-unis/4236089-20260724-direct-guerre-moyen-orient-iran-appelle-civils-moyen-orient-tenir-eloignes-forces-americaines?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Deux Israéliens tués dans des violences en Ci..."
     },
     {
-      "title": "[CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 2019 en octobre",
-      "source": "BleepingComputer",
-      "time": "2026-07-22T10:44:52.000Z",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Microsoft va arrêter les mises à jour de sécurité Exchange 2016 / 20..."
-    },
-    {
-      "title": "[CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichiers serveurs arbitraires sans authentification",
-      "source": "CyberPress",
-      "time": "2026-07-22T12:36:36.000Z",
-      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Les pirates utilisent la faille du moulin à vent pour lire des fichi..."
+      "title": "Guerre au Moyen-Orient : Ormuz, Malacca, Bab-el-mandeb… La carte des détroits stratégiques mondiaux",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-24T09:33:58.000Z",
+      "link": "https://www.20minutes.fr/monde/yemen/4236102-20260724-guerre-moyen-orient-ormuz-malacca-bab-el-mandeb-carte-detroits-strategiques-mondiaux?at_medium=display&at_campaign=149",
+      "score": 95,
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Ormuz, Malacca, Bab-el-mandeb… La carte des détroits st..."
     },
     {
       "title": "[CYBER INT] GitHub réduit les paiements de primes de bugs publics, transfère les meilleures récompenses au niveau VIP",
@@ -371,9 +355,33 @@
       "summary": "Point de situation critique concernant : [CYBER INT] Les agents de Kimi K3 ont trouvé Redis Zero-Days et construit une ex..."
     },
     {
+      "title": "[CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'espace de travail malveillants via un lien de phishing",
+      "source": "CyberPress",
+      "time": "2026-07-24T11:53:55.000Z",
+      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'esp..."
+    },
+    {
+      "title": "[CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des commandes en tant que SYSTEM sur les serveurs de Microsoft",
+      "source": "CyberPress",
+      "time": "2026-07-24T11:45:17.000Z",
+      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des ..."
+    },
+    {
+      "title": "[CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre de la répression de \"The Com\"",
+      "source": "BleepingComputer",
+      "time": "2026-07-24T12:56:53.000Z",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
+      "score": 88,
+      "summary": "Point de situation critique concernant : [CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre..."
+    },
+    {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T10:14:08.386Z",
+      "time": "2026-07-24T13:28:46.855Z",
       "link": "https://www.leparisien.fr/faits-divers/aveux-de-cedric-jubillar-un-avocat-de-la-famille-de-delphine-se-dit-horrifie-et-denonce-une-nouvelle-fable-22-07-2026-OP7UMSQKZBDBZGCXIDOULHGWC4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié..."
@@ -381,7 +389,7 @@
     {
       "title": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-de-Seine",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T10:14:08.386Z",
+      "time": "2026-07-24T13:28:46.855Z",
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
@@ -389,18 +397,10 @@
     {
       "title": "Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-femme à 140 reprises, la perpétuité requise",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T10:14:08.386Z",
+      "time": "2026-07-24T13:28:46.855Z",
       "link": "https://www.leparisien.fr/faits-divers/un-ancien-depute-suisse-poursuivi-pour-avoir-drogue-filme-et-agresse-son-ex-femme-a-140-reprises-la-perpetuite-requise-23-07-2026-4QGPA3FWXVHZ5NWGANBCYRHPLY.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Un ancien député suisse poursuivi pour avoir drogué, filmé et agressé son ex-fem..."
-    },
-    {
-      "title": "« Regarde, on m’a volé mon alliance ! » : d’étranges disparitions dans les Ehpad",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T10:14:08.386Z",
-      "link": "https://www.leparisien.fr/essonne-91/regarde-on-ma-vole-mon-alliance-bijoux-vetements-parfums-dans-les-ehpad-des-disparitions-banalisees-24-07-2026-FF4MOHW5GZHT5ESFVRMMJK2KOA.php",
-      "score": 70,
-      "summary": "Point de situation critique concernant : « Regarde, on m’a volé mon alliance ! » : d’étranges disparitions dans les Ehpad..."
     }
   ]
 }
