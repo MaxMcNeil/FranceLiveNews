@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-25T02:14:13.965Z",
+  "updated": "2026-07-25T06:14:46.806Z",
   "count": 50,
   "items": [
-    {
-      "title": "Guerre au Moyen-Orient : les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-23T04:03:20.000Z",
-      "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-nouvelles-frappes-americaines-en-iran-donald-trump-n-en-a-pas-fini-du-tout-avec-le-conflit-20260722",
-      "score": 95,
-      "summary": "les États-Unis lancent une nouvelle série de frappes contre des cibles militaires iraniennes"
-    },
     {
       "title": "Guerre au Moyen-Orient : l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -17,38 +9,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
       "score": 95,
       "summary": "l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes"
-    },
-    {
-      "title": "Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des États-Unis et aux budgets militaires de l’Otan",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-23T05:59:21.000Z",
-      "link": "https://www.lefigaro.fr/international/37-5-milliards-ce-que-coute-vraiment-la-guerre-en-iran-comparee-aux-precedents-conflits-des-etats-unis-et-aux-budgets-militaires-de-l-otan-20260723",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Ce que coûte vraiment la guerre en Iran, comparée aux précédents conflits des Ét..."
-    },
-    {
-      "title": "Guerre au Moyen-Orient : Nouvelles frappes de l’armée américaine sur des cibles militaires iraniennes",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-23T05:12:37.000Z",
-      "link": "https://www.20minutes.fr/monde/etats-unis/4235880-20260723-direct-guerre-moyen-orient-attaque-houthis-mer-rouge-menaces-teheran-contre-etats-unis?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Nouvelles frappes de l’armée américaine sur des cibles ..."
-    },
-    {
-      "title": "Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourquoi l'armée ukrainienne change de visage",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-23T05:02:37.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4235726-20260723-guerre-ukraine-boucher-limoge-profit-heros-guerre-pourquoi-armee-ukrainienne-change-visage?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : Guerre en Ukraine : Le « boucher » limogé au profit d'un héros de guerre...Pourq..."
-    },
-    {
-      "title": "Guerre en Ukraine : Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-23T06:02:37.000Z",
-      "link": "https://www.20minutes.fr/monde/ukraine/4235878-20260723-direct-guerre-ukraine-rencontre-entre-lavrov-rubio-zelensky-renoue-etats-unis?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Rencontre entre Lavrov et Rubio, Zelensky renoue avec les Etats-Unis"
     },
     {
       "title": "Guerre en Ukraine : pourquoi Kiev cible le géant russe du commerce en ligne Wildberries",
@@ -221,7 +181,7 @@
     {
       "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T02:14:12.623Z",
+      "time": "2026-07-25T06:14:45.365Z",
       "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-mort-et-quatre-blesses-graves-dans-lexplosion-dune-distillerie-une-enquete-ouverte-24-07-2026-3SCDN6G75JGUDG6ELFRVAEJUHE.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie..."
@@ -241,6 +201,22 @@
       "link": "https://www.20minutes.fr/monde/ukraine/4236218-20260724-guerre-ukraine-nouveaux-bombardements-meurtriers-pres-kiev-sanctions-contournees-georgie?at_medium=display&at_campaign=149",
       "score": 95,
       "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanction..."
+    },
+    {
+      "title": "Guerre en Ukraine : deux morts dans une frappe de drones sur Soumy",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-24T22:44:36.000Z",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-deux-morts-dans-une-frappe-de-drones-sur-soumy-20260725",
+      "score": 95,
+      "summary": "deux morts dans une frappe de drones sur Soumy"
+    },
+    {
+      "title": "Tour Montparnasse : le maire de Paris convoque une réunion de crise pour sauver la rénovation à 800 millions d’euros",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-25T05:37:19.000Z",
+      "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-convoque-une-reunion-de-crise-pour-sauver-la-renovation-a-800-millions-d-euros-20260725",
+      "score": 95,
+      "summary": "le maire de Paris convoque une réunion de crise pour sauver la rénovation à 800 millions d’euros"
     },
     {
       "title": "[CYBER INT] Parches de vérification de point exploitées Faille de la console intelligente permettant l'accès complet à l'administrateur",
@@ -401,6 +377,30 @@
       "link": "https://www.leparisien.fr/faits-divers/daniel-siad-rabatteur-presume-de-jeffrey-epstein-retrouve-mort-dans-les-hauts-de-seine-22-07-2026-72EMQRPWWVH6PIQWP2UJW5WYEE.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort dans les Hauts-..."
+    },
+    {
+      "title": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T06:14:45.365Z",
+      "link": "https://www.leparisien.fr/oise-60/elle-a-subi-la-meme-chose-que-gisele-pelicot-le-combat-de-jeanne-qui-accuse-son-ex-mari-de-viols-sur-elle-et-sa-fille-25-07-2026-FSIXF3NEHZFABAXGIHOMVJ4FVM.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : « Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accu..."
+    },
+    {
+      "title": "Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp Nou, le stade de Barcelone",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T06:14:45.365Z",
+      "link": "https://www.leparisien.fr/faits-divers/football-un-ouvrier-de-54-ans-decede-apres-un-accident-sur-le-chantier-du-camp-nou-le-stade-de-barcelone-24-07-2026-YSQEM5TVIBCEDF5YFFAFCJRP3E.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp..."
+    },
+    {
+      "title": "Incendies : mais que va-t-il rester des Landes et de la Gironde ?",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T06:14:45.365Z",
+      "link": "https://www.leparisien.fr/video/actualites/meteo-climat/incendies-mais-que-va-t-il-rester-des-landes-et-de-la-gironde-24-07-2026-BMVHUJABZNAQVDDF7ZKWRASNGQ.php",
+      "score": 70,
+      "summary": "mais que va-t-il rester des Landes et de la Gironde ?"
     }
   ]
 }
