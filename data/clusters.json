@@ -27,25 +27,6 @@
     "summary": "Guerre au Moyen-Orient : l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes / EN DIRECT - Guerre au Moyen-Orient : l’Iran revendique des frappes au Bahreïn et en Jordanie après la «13e nuit» consécutive de bombardements américains"
   },
   {
-    "title": "Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril de Brent bondit de 8%",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril de Brent bondit de 8%",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T19:07:49.000Z",
-        "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-les-cours-du-petrole-accelerent-leur-hausse-le-baril-de-brent-bondit-de-8-20260723",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril d..."
-      }
-    ],
-    "summary": "Guerre au Moyen-Orient : les cours du pétrole accélèrent leur hausse, le baril de Brent bondit de 8%"
-  },
-  {
     "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
     "score": 95,
     "count": 1,
@@ -63,71 +44,6 @@
       }
     ],
     "summary": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats"
-  },
-  {
-    "title": "Guerre en Ukraine : la fuite en avant de Vladimir Poutine",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : la fuite en avant de Vladimir Poutine",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T18:00:00.000Z",
-        "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-fuite-en-avant-de-vladimir-poutine-20260723",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : la fuite en avant de Vladimir Poutine..."
-      }
-    ],
-    "summary": "Guerre en Ukraine : la fuite en avant de Vladimir Poutine"
-  },
-  {
-    "title": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »",
-    "score": 95,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-23T17:50:16.000Z",
-        "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-le-prix-de-la-guerre-de-poutine-20260723",
-        "score": 95,
-        "summary": "« Le prix de la guerre de Poutine »"
-      }
-    ],
-    "summary": "L’éditorial de Patrick Saint-Paul : « Le prix de la guerre de Poutine »"
-  },
-  {
-    "title": "Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions européennes au rabais",
-    "score": 95,
-    "count": 2,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml"
-    ],
-    "items": [
-      {
-        "title": "Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions européennes au rabais",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-23T17:27:05.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4236052-20260723-guerre-ukraine-rubio-lavrov-discutent-nouveau-paquet-sanctions-europeennes-rabais?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions eu..."
-      },
-      {
-        "title": "Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanctions contournées par la Géorgie",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-07-24T17:27:36.000Z",
-        "link": "https://www.20minutes.fr/monde/ukraine/4236218-20260724-guerre-ukraine-nouveaux-bombardements-meurtriers-pres-kiev-sanctions-contournees-georgie?at_medium=display&at_campaign=149",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanction..."
-      }
-    ],
-    "summary": "Guerre en Ukraine : Rubio et Lavrov discutent, un nouveau paquet de sanctions européennes au rabais / Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanctions contournées par la Géorgie"
   },
   {
     "title": "UE, Chine… Trump poursuit la guerre économique avec ses droits de douane",
@@ -225,9 +141,10 @@
   {
     "title": "Guerre en Ukraine : la Roumanie abat pour la première fois un drone sur son territoire",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -237,9 +154,17 @@
         "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-roumanie-abat-pour-la-premiere-fois-un-drone-sur-son-territoire-20260724",
         "score": 95,
         "summary": "la Roumanie abat pour la première fois un drone sur son territoire"
+      },
+      {
+        "title": "Guerre en Ukraine : Les morts s’accumulent des deux côtés, la Roumanie abat des drones",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-25T17:20:06.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4236273-20260725-guerre-ukraine-morts-accumulent-deux-cotes-roumanie-abat-drones?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Les morts s’accumulent des deux côtés, la Roumanie abat des ..."
       }
     ],
-    "summary": "Guerre en Ukraine : la Roumanie abat pour la première fois un drone sur son territoire"
+    "summary": "Guerre en Ukraine : la Roumanie abat pour la première fois un drone sur son territoire / Guerre en Ukraine : Les morts s’accumulent des deux côtés, la Roumanie abat des drones"
   },
   {
     "title": "« Paillassonnages », « rafalages » et « jambisations » : la guerre des points de deal, épicentre des violences armées",
@@ -263,7 +188,7 @@
   {
     "title": "Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts après plusieurs frappes",
     "score": 95,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -275,9 +200,17 @@
         "link": "https://www.20minutes.fr/monde/ukraine/4236087-20260724-direct-guerre-ukraine-cinq-personnes-tuees-bombes-guidees-russes-explosions-saint-petersbourg?at_medium=display&at_campaign=149",
         "score": 95,
         "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts a..."
+      },
+      {
+        "title": "Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanctions contournées par la Géorgie",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-24T17:27:36.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4236218-20260724-guerre-ukraine-nouveaux-bombardements-meurtriers-pres-kiev-sanctions-contournees-georgie?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanction..."
       }
     ],
-    "summary": "Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts après plusieurs frappes"
+    "summary": "Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts après plusieurs frappes / Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanctions contournées par la Géorgie"
   },
   {
     "title": "Guerre au Moyen-Orient : Ormuz, Malacca, Bab-el-mandeb… La carte des détroits stratégiques mondiaux",
@@ -318,7 +251,7 @@
       {
         "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-mort-et-quatre-blesses-graves-dans-lexplosion-dune-distillerie-une-enquete-ouverte-24-07-2026-3SCDN6G75JGUDG6ELFRVAEJUHE.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie..."
@@ -394,7 +327,7 @@
       {
         "title": "Incendies : à Beauvau, dans le huis clos de la cellule de crise où le ministre Laurent Nuñez suit la situation en temps réel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/incendies-a-beauvau-dans-le-huis-clos-de-la-cellule-de-crise-ou-le-ministre-laurent-nunez-suit-la-situation-en-temps-reel-25-07-2026-DBBDKCRRTNBRBE7IRTRTY4SJKM.php",
         "score": 95,
         "summary": "Point de situation critique concernant : Incendies : à Beauvau, dans le huis clos de la cellule de crise où le ministre L..."
@@ -403,32 +336,23 @@
     "summary": "Incendies : à Beauvau, dans le huis clos de la cellule de crise où le ministre Laurent Nuñez suit la situation en temps réel"
   },
   {
-    "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
-    "score": 88,
-    "count": 2,
+    "title": "Guerre au Moyen-Orient : Les Houthis frappent des installations saoudiennes en Mer Rouge ",
+    "score": 95,
+    "count": 1,
     "sources": [
-      "CyberPress",
-      "BleepingComputer"
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
-        "title": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA",
-        "source": "CyberPress",
-        "time": "2026-07-23T18:36:08.000Z",
-        "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler d..."
-      },
-      {
-        "title": "[CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comptes Microsoft 365",
-        "source": "BleepingComputer",
-        "time": "2026-07-24T17:50:37.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comp..."
+        "title": "Guerre au Moyen-Orient : Les Houthis frappent des installations saoudiennes en Mer Rouge ",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-07-25T07:59:57.000Z",
+        "link": "https://www.20minutes.fr/monde/etats-unis/4236242-20260725-direct-guerre-moyen-orient-trump-brandit-menace-offensive-massive-contre-iran-arabie-saoudite-cible-houthis?at_medium=display&at_campaign=149",
+        "score": 95,
+        "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Les Houthis frappent des installations saoudiennes en M..."
       }
     ],
-    "summary": "[CYBER INT] Le groupe russe d'espionnage a exploité Zimbra Zero-Day pour voler des courriels et des codes 2FA / [CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comptes Microsoft 365"
+    "summary": "Guerre au Moyen-Orient : Les Houthis frappent des installations saoudiennes en Mer Rouge "
   },
   {
     "title": "[CYBER INT] Les agents de Kimi K3 ont trouvé Redis Zero-Days et construit une exploitation RCE, disent les chercheurs",
@@ -517,7 +441,7 @@
   {
     "title": "[CYBER INT] Microsoft attribue la faute d'une panne massive de Microsoft 365 à une erreur de maintenance",
     "score": 88,
-    "count": 1,
+    "count": 2,
     "sources": [
       "BleepingComputer"
     ],
@@ -529,9 +453,17 @@
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
         "score": 88,
         "summary": "Point de situation critique concernant : [CYBER INT] Microsoft attribue la faute d'une panne massive de Microsoft 365 à u..."
+      },
+      {
+        "title": "[CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comptes Microsoft 365",
+        "source": "BleepingComputer",
+        "time": "2026-07-24T17:50:37.000Z",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+        "score": 88,
+        "summary": "Point de situation critique concernant : [CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comp..."
       }
     ],
-    "summary": "[CYBER INT] Microsoft attribue la faute d'une panne massive de Microsoft 365 à une erreur de maintenance"
+    "summary": "[CYBER INT] Microsoft attribue la faute d'une panne massive de Microsoft 365 à une erreur de maintenance / [CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comptes Microsoft 365"
   },
   {
     "title": "[CYBER INT] Vulnérabilité RCE Fastjson 1.x ciblée dans les attaques sans patch disponible",
@@ -620,7 +552,7 @@
       {
         "title": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/oise-60/elle-a-subi-la-meme-chose-que-gisele-pelicot-le-combat-de-jeanne-qui-accuse-son-ex-mari-de-viols-sur-elle-et-sa-fille-25-07-2026-FSIXF3NEHZFABAXGIHOMVJ4FVM.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accu..."
@@ -639,7 +571,7 @@
       {
         "title": "Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp Nou, le stade de Barcelone",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/football-un-ouvrier-de-54-ans-decede-apres-un-accident-sur-le-chantier-du-camp-nou-le-stade-de-barcelone-24-07-2026-YSQEM5TVIBCEDF5YFFAFCJRP3E.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp..."
@@ -658,7 +590,7 @@
       {
         "title": "Incendies : mais que va-t-il rester des Landes et de la Gironde ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/video/actualites/meteo-climat/incendies-mais-que-va-t-il-rester-des-landes-et-de-la-gironde-24-07-2026-BMVHUJABZNAQVDDF7ZKWRASNGQ.php",
         "score": 70,
         "summary": "mais que va-t-il rester des Landes et de la Gironde ?"
@@ -677,7 +609,7 @@
       {
         "title": "Al Seckel, le sulfureux beau-frère escroc de Ghislaine Maxwell, chargé de blanchir Jeffrey Epstein en ligne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/al-seckel-le-sulfureux-beau-frere-escroc-de-ghislaine-maxwell-charge-de-blanchir-jeffrey-epstein-en-ligne-25-07-2026-RZNI2ELFFJAFFJRSXOBGESJ4L4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Al Seckel, le sulfureux beau-frère escroc de Ghislaine Maxwell, chargé de blanch..."
@@ -696,7 +628,7 @@
       {
         "title": "Un mort, 2 500 coups de feu… « El Diablo », le narcotrafiquant le plus recherché du Costa Rica, arrêté lors d’une opération spectaculaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/un-mort-2-500-coups-de-feu-el-diablo-le-narcotrafiquant-le-plus-recherche-du-costa-rica-arrete-lors-dune-operation-spectaculaire-25-07-2026-XXS3NEKYABBFZMKKPD3YZEED6M.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un mort, 2 500 coups de feu… « El Diablo », le narcotrafiquant le plus recherché..."
@@ -715,7 +647,7 @@
       {
         "title": "« Reclus, c’est pas une vie  » : l’histoire et la mort  mystérieuses d’André Claude et sa soeur Béatrice, les villageois fantômes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/reclus-cest-pas-une-vie-lhistoire-et-la-mort-mysterieuses-dandre-claude-et-sa-soeur-beatrice-les-villageois-fantomes-25-07-2026-A7AH6R4SMFFP7FM3HPSN3YZVJY.php",
         "score": 70,
         "summary": "l’histoire et la mort  mystérieuses d’André Claude et sa soeur Béatrice, les villageois fantômes"
@@ -734,7 +666,7 @@
       {
         "title": "Des pompiers « épuisés » et la crainte « d’autres morts » : les soldats du feu racontent la lutte éprouvante contre les incendies",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/des-pompiers-epuises-et-la-crainte-dautres-morts-les-soldats-du-feu-racontent-la-lutte-eprouvante-contre-les-incendies-25-07-2026-ML3RKDWZ6ZFZZLUXALZ4N33YVA.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Des pompiers « épuisés » et la crainte « d’autres morts » : les soldats du feu r..."
@@ -753,7 +685,7 @@
       {
         "title": "Un jeune de 19 ans se noie dans la Marne à Noisiel, le 18e décès depuis mai en Seine-et-Marne ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/un-jeune-de-19-ans-se-noie-dans-la-marne-a-noisiel-le-18e-deces-depuis-mai-en-seine-et-marne-24-07-2026-DQZIZBNIIND45KLOQQYEIACENM.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un jeune de 19 ans se noie dans la Marne à Noisiel, le 18e décès depuis mai en S..."
@@ -772,7 +704,7 @@
       {
         "title": "« Un sacré personnage » : Aurélie Preston, un Ange de la téléréalité bientôt devant la justice criminelle ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/un-sacre-personnage-aurelie-preston-un-ange-de-la-telerealite-bientot-devant-la-justice-criminelle-25-07-2026-UNB333OUBRARRDEIUGCFBM7YR4.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Un sacré personnage » : Aurélie Preston, un Ange de la téléréalité bientôt dev..."
@@ -791,7 +723,7 @@
       {
         "title": "Un bateau de police percute un pont sur la Tamise en pleine intervention à Londres, quatre agents gravement blessés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/un-bateau-de-police-percute-un-pont-sur-la-tamise-en-pleine-intervention-a-londres-quatre-agents-gravement-blesses-25-07-2026-4G32KUYU4RHWFMKYMNMXSS6P7I.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Un bateau de police percute un pont sur la Tamise en pleine intervention à Londr..."
@@ -810,7 +742,7 @@
       {
         "title": "« Notre objectif, sauver vos vies » : en Espagne, le « pire incendie de l’histoire » dans la région de Madrid ravage 25 000 ha",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/notre-objectif-sauver-vos-vies-en-espagne-le-pire-incendie-de-lhistoire-dans-la-region-de-madrid-ravage-25-000-ha-25-07-2026-VH7Q4UMVM5ATHPFDNTW4MQ4GXA.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Notre objectif, sauver vos vies » : en Espagne, le « pire incendie de l’histoi..."
@@ -829,7 +761,7 @@
       {
         "title": "« Urgent, cherche logement » : pour venir en aide aux évacués des incendies, un internaute lance une plate-forme d’entraide d’hébergements",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
         "score": 70,
         "summary": "Point de situation critique concernant : « Urgent, cherche logement » : pour venir en aide aux évacués des incendies, un ..."
@@ -848,7 +780,7 @@
       {
         "title": "Ivry : un piéton percuté par le rétroviseur d’un bus de la RATP, le conducteur roulait sans permis et sous stupéfiants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.852Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/ivry-un-pieton-percute-par-le-retroviseur-dun-bus-de-la-ratp-le-conducteur-roulait-sans-permis-et-sous-stupefiants-25-07-2026-U5RK5RUZINDH3KSRY2ACLRS7RQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Ivry : un piéton percuté par le rétroviseur d’un bus de la RATP, le conducteur r..."
@@ -867,12 +799,69 @@
       {
         "title": "Incendies : près de 98 000 ha brûlés en France, un « record historique » en France",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-25T16:55:55.853Z",
+        "time": "2026-07-25T20:46:23.394Z",
         "link": "https://www.leparisien.fr/faits-divers/incendies-pres-de-98-000-ha-brules-en-france-un-record-historique-en-france-25-07-2026-UOVLV4JI7JGNXGUC26OFNLRCEQ.php",
         "score": 70,
         "summary": "Point de situation critique concernant : Incendies : près de 98 000 ha brûlés en France, un « record historique » en Fran..."
       }
     ],
     "summary": "Incendies : près de 98 000 ha brûlés en France, un « record historique » en France"
+  },
+  {
+    "title": "Incendies : environ 3 000 habitants de Biscarrosse autorisés à rentrer chez eux ce samedi soir",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Incendies : environ 3 000 habitants de Biscarrosse autorisés à rentrer chez eux ce samedi soir",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-25T20:46:23.393Z",
+        "link": "https://www.leparisien.fr/landes-40/incendies-environ-3-000-habitants-de-biscarrosse-autorises-a-rentrer-chez-eux-ce-samedi-soir-25-07-2026-DSEU2EWLBBCNFCRS3QA4XIENB4.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Incendies : environ 3 000 habitants de Biscarrosse autorisés à rentrer chez eux ..."
+      }
+    ],
+    "summary": "Incendies : environ 3 000 habitants de Biscarrosse autorisés à rentrer chez eux ce samedi soir"
+  },
+  {
+    "title": "Incendie en Gironde : qu’est-ce qu’un « orage de feu », ce phénomène météorologique extrême très peu observé en France ?",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Incendie en Gironde : qu’est-ce qu’un « orage de feu », ce phénomène météorologique extrême très peu observé en France ?",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-25T20:46:23.394Z",
+        "link": "https://www.leparisien.fr/faits-divers/incendie-en-gironde-quest-ce-quun-orage-de-feu-ce-phenomene-meteorologique-extreme-observe-pour-la-premiere-fois-en-france-25-07-2026-FFIH7OLSSNGI3LFT4PXJI5HUX4.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Incendie en Gironde : qu’est-ce qu’un « orage de feu », ce phénomène météorologi..."
+      }
+    ],
+    "summary": "Incendie en Gironde : qu’est-ce qu’un « orage de feu », ce phénomène météorologique extrême très peu observé en France ?"
+  },
+  {
+    "title": "Un petit avion s’écrase sur une maison dans le nord de l’Allemagne, au moins un mort et une personne disparue",
+    "score": 70,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Un petit avion s’écrase sur une maison dans le nord de l’Allemagne, au moins un mort et une personne disparue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-25T20:46:23.394Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-petit-avion-secrase-sur-une-maison-dans-le-nord-de-lallemagne-au-moins-un-mort-et-une-personne-disparue-25-07-2026-6XPV2H2C2RFMVLB2TPIZTYNLPI.php",
+        "score": 70,
+        "summary": "Point de situation critique concernant : Un petit avion s’écrase sur une maison dans le nord de l’Allemagne, au moins un ..."
+      }
+    ],
+    "summary": "Un petit avion s’écrase sur une maison dans le nord de l’Allemagne, au moins un mort et une personne disparue"
   }
 ]
