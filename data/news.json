@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:43:43.063Z",
+  "updated": "2026-07-25T13:16:18.757Z",
   "count": 50,
   "items": [
     {
@@ -9,14 +9,6 @@
       "link": "https://www.lefigaro.fr/international/en-direct-guerre-moyen-orient-conflit-iran-nucleaire-etats-unis-liban-israel-koweit-arabie-saoudite-houthis-yemen-ormuz-detroit-20260723",
       "score": 95,
       "summary": "l’armée américaine mène une nouvelle série de frappes sur des cibles militaires iraniennes"
-    },
-    {
-      "title": "L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend et Zidane bientôt présenté",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-23T10:00:18.000Z",
-      "link": "https://www.20minutes.fr/societe/4235928-20260723-info-midi-2-minutes-evacuations-gironde-guerre-iran-etend-zidane-bientot-presente?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : L’info du midi en 2 minutes : Evacuations en Gironde, la guerre en Iran s’étend ..."
     },
     {
       "title": "Pétrole : la guerre au Moyen-Orient fait bondir le baril de Brent au-dessus de la barre symbolique des 100 dollars",
@@ -165,7 +157,7 @@
     {
       "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-mort-et-quatre-blesses-graves-dans-lexplosion-dune-distillerie-une-enquete-ouverte-24-07-2026-3SCDN6G75JGUDG6ELFRVAEJUHE.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie..."
@@ -201,30 +193,6 @@
       "link": "https://immobilier.lefigaro.fr/article/tour-montparnasse-le-maire-de-paris-convoque-une-reunion-de-crise-pour-sauver-la-renovation-a-800-millions-d-euros-20260725",
       "score": 95,
       "summary": "le maire de Paris convoque une réunion de crise pour sauver la rénovation à 800 millions d’euros"
-    },
-    {
-      "title": "[CYBER INT] Google ajoute la récupération de vidéos selfie pour les utilisateurs bloqués de leurs comptes",
-      "source": "CyberPress",
-      "time": "2026-07-23T10:00:00.000Z",
-      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] Google ajoute la récupération de vidéos selfie pour les utilisateurs..."
-    },
-    {
-      "title": "[CYBER INT] L'UE condamne Google à une amende de 1 milliard de dollars pour violation de la loi antitrust sur les recherches et les boutiques d'applications",
-      "source": "BleepingComputer",
-      "time": "2026-07-23T12:33:19.000Z",
-      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] L'UE condamne Google à une amende de 1 milliard de dollars pour viol..."
-    },
-    {
-      "title": "[CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir des privilèges de racine",
-      "source": "BleepingComputer",
-      "time": "2026-07-23T11:40:16.000Z",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "score": 88,
-      "summary": "Point de situation critique concernant : [CYBER INT] La nouvelle faille de RefluXFS Linux permet aux attaquants d'obtenir..."
     },
     {
       "title": "[CYBER INT] Claude Cowork Fault pourrait laisser l'agent d'IA échapper à sa machine à sous et accéder aux fichiers Mac",
@@ -341,7 +309,7 @@
     {
       "title": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/oise-60/elle-a-subi-la-meme-chose-que-gisele-pelicot-le-combat-de-jeanne-qui-accuse-son-ex-mari-de-viols-sur-elle-et-sa-fille-25-07-2026-FSIXF3NEHZFABAXGIHOMVJ4FVM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : « Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accu..."
@@ -349,7 +317,7 @@
     {
       "title": "Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp Nou, le stade de Barcelone",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/football-un-ouvrier-de-54-ans-decede-apres-un-accident-sur-le-chantier-du-camp-nou-le-stade-de-barcelone-24-07-2026-YSQEM5TVIBCEDF5YFFAFCJRP3E.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Football : un ouvrier de 54 ans décède après un accident sur le chantier du Camp..."
@@ -357,7 +325,7 @@
     {
       "title": "Incendies : mais que va-t-il rester des Landes et de la Gironde ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/video/actualites/meteo-climat/incendies-mais-que-va-t-il-rester-des-landes-et-de-la-gironde-24-07-2026-BMVHUJABZNAQVDDF7ZKWRASNGQ.php",
       "score": 70,
       "summary": "mais que va-t-il rester des Landes et de la Gironde ?"
@@ -365,7 +333,7 @@
     {
       "title": "Al Seckel, le sulfureux beau-frère escroc de Ghislaine Maxwell, chargé de blanchir Jeffrey Epstein en ligne",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/al-seckel-le-sulfureux-beau-frere-escroc-de-ghislaine-maxwell-charge-de-blanchir-jeffrey-epstein-en-ligne-25-07-2026-RZNI2ELFFJAFFJRSXOBGESJ4L4.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Al Seckel, le sulfureux beau-frère escroc de Ghislaine Maxwell, chargé de blanch..."
@@ -373,7 +341,7 @@
     {
       "title": "Un mort, 2 500 coups de feu… « El Diablo », le narcotrafiquant le plus recherché du Costa Rica, arrêté lors d’une opération spectaculaire",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/un-mort-2-500-coups-de-feu-el-diablo-le-narcotrafiquant-le-plus-recherche-du-costa-rica-arrete-lors-dune-operation-spectaculaire-25-07-2026-XXS3NEKYABBFZMKKPD3YZEED6M.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Un mort, 2 500 coups de feu… « El Diablo », le narcotrafiquant le plus recherché..."
@@ -381,7 +349,7 @@
     {
       "title": "« Reclus, c’est pas une vie  » : l’histoire et la mort  mystérieuses d’André Claude et sa soeur Béatrice, les villageois fantômes",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/reclus-cest-pas-une-vie-lhistoire-et-la-mort-mysterieuses-dandre-claude-et-sa-soeur-beatrice-les-villageois-fantomes-25-07-2026-A7AH6R4SMFFP7FM3HPSN3YZVJY.php",
       "score": 70,
       "summary": "l’histoire et la mort  mystérieuses d’André Claude et sa soeur Béatrice, les villageois fantômes"
@@ -389,7 +357,7 @@
     {
       "title": "Des pompiers « épuisés » et la crainte « d’autres morts » : les soldats du feu racontent la lutte éprouvante contre les incendies",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/faits-divers/des-pompiers-epuises-et-la-crainte-dautres-morts-les-soldats-du-feu-racontent-la-lutte-eprouvante-contre-les-incendies-25-07-2026-ML3RKDWZ6ZFZZLUXALZ4N33YVA.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Des pompiers « épuisés » et la crainte « d’autres morts » : les soldats du feu r..."
@@ -397,10 +365,42 @@
     {
       "title": "Un jeune de 19 ans se noie dans la Marne à Noisiel, le 18e décès depuis mai en Seine-et-Marne ",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-25T09:43:41.682Z",
+      "time": "2026-07-25T13:16:17.040Z",
       "link": "https://www.leparisien.fr/seine-et-marne-77/un-jeune-de-19-ans-se-noie-dans-la-marne-a-noisiel-le-18e-deces-depuis-mai-en-seine-et-marne-24-07-2026-DQZIZBNIIND45KLOQQYEIACENM.php",
       "score": 70,
       "summary": "Point de situation critique concernant : Un jeune de 19 ans se noie dans la Marne à Noisiel, le 18e décès depuis mai en S..."
+    },
+    {
+      "title": "« Un sacré personnage » : Aurélie Preston, un Ange de la téléréalité bientôt devant la justice criminelle ?",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T13:16:17.040Z",
+      "link": "https://www.leparisien.fr/faits-divers/un-sacre-personnage-aurelie-preston-un-ange-de-la-telerealite-bientot-devant-la-justice-criminelle-25-07-2026-UNB333OUBRARRDEIUGCFBM7YR4.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : « Un sacré personnage » : Aurélie Preston, un Ange de la téléréalité bientôt dev..."
+    },
+    {
+      "title": "Un bateau de police percute un pont sur la Tamise en pleine intervention à Londres, quatre agents gravement blessés",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T13:16:17.040Z",
+      "link": "https://www.leparisien.fr/faits-divers/un-bateau-de-police-percute-un-pont-sur-la-tamise-en-pleine-intervention-a-londres-quatre-agents-gravement-blesses-25-07-2026-4G32KUYU4RHWFMKYMNMXSS6P7I.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Un bateau de police percute un pont sur la Tamise en pleine intervention à Londr..."
+    },
+    {
+      "title": "« Notre objectif, sauver vos vies » : en Espagne, le « pire incendie de l’histoire » dans la région de Madrid ravage 25 000 ha",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T13:16:17.040Z",
+      "link": "https://www.leparisien.fr/faits-divers/notre-objectif-sauver-vos-vies-en-espagne-le-pire-incendie-de-lhistoire-dans-la-region-de-madrid-ravage-25-000-ha-25-07-2026-VH7Q4UMVM5ATHPFDNTW4MQ4GXA.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : « Notre objectif, sauver vos vies » : en Espagne, le « pire incendie de l’histoi..."
+    },
+    {
+      "title": "« Urgent, cherche logement » : pour venir en aide aux évacués des incendies, un internaute lance une plate-forme d’entraide d’hébergements",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-25T13:16:17.040Z",
+      "link": "https://www.leparisien.fr/gironde-33/urgent-cherche-logement-une-plate-forme-dentraide-dhebergements-lancee-pour-venir-en-aide-aux-evacues-des-incendies-25-07-2026-6HJS3QA36RFFZIYNUTMD27J3CY.php",
+      "score": 70,
+      "summary": "Point de situation critique concernant : « Urgent, cherche logement » : pour venir en aide aux évacués des incendies, un ..."
     }
   ]
 }
