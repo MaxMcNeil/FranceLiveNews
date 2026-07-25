@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:59:48.014Z",
+  "updated": "2026-07-25T02:14:13.965Z",
   "count": 50,
   "items": [
     {
@@ -195,12 +195,12 @@
       "summary": "Point de situation critique concernant : Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts a..."
     },
     {
-      "title": "EN DIRECT Guerre au Moyen-Orient : Trump dit que les dirigeants iraniens deviennent « de plus en plus sérieux » dans les discussions...",
+      "title": "Guerre au Moyen-Orient : Trump maintient la pression sur l'Iran et n'exclut pas une « attaque massive »",
       "source": "https://www.20minutes.fr/feeds/rss-une.xml",
       "time": "2026-07-24T04:46:05.000Z",
       "link": "https://www.20minutes.fr/monde/etats-unis/4236089-20260724-direct-guerre-moyen-orient-iran-appelle-civils-moyen-orient-tenir-eloignes-forces-americaines?at_medium=display&at_campaign=149",
       "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Guerre au Moyen-Orient : Trump dit que les dirigeants iraniens devienn..."
+      "summary": "Point de situation critique concernant : Guerre au Moyen-Orient : Trump maintient la pression sur l'Iran et n'exclut pas ..."
     },
     {
       "title": "Guerre au Moyen-Orient : Ormuz, Malacca, Bab-el-mandeb… La carte des détroits stratégiques mondiaux",
@@ -221,7 +221,7 @@
     {
       "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-24T20:59:45.743Z",
+      "time": "2026-07-25T02:14:12.623Z",
       "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-mort-et-quatre-blesses-graves-dans-lexplosion-dune-distillerie-une-enquete-ouverte-24-07-2026-3SCDN6G75JGUDG6ELFRVAEJUHE.php",
       "score": 95,
       "summary": "Point de situation critique concernant : Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie..."
@@ -229,18 +229,10 @@
     {
       "title": "« Après quelques heures, si personne ne se manifeste, nous les retirons » : en Grèce, sur l’île de Kos, la guerre des transats, symptôme d’un tourisme de masse à bout de souffle",
       "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-24T20:46:36.000Z",
+      "time": "2026-07-24T21:59:52.000Z",
       "link": "https://www.lefigaro.fr/conjoncture/apres-quelques-heures-si-personne-ne-se-manifeste-nous-les-retirons-en-grece-sur-l-ile-de-kos-la-guerre-des-transats-symptome-d-un-tourisme-de-masse-a-bout-de-souffle-20260724",
       "score": 95,
       "summary": "Point de situation critique concernant : « Après quelques heures, si personne ne se manifeste, nous les retirons » : en G..."
-    },
-    {
-      "title": "EN DIRECT Incendies : Le feu se dirige vers Bordeaux, Lecornu convoque une cellule interministérielle de crise…",
-      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-      "time": "2026-07-24T04:01:57.000Z",
-      "link": "https://www.20minutes.fr/planete/4236088-20260724-direct-incendies-35-000-personnes-evacuees-gironde-camping-plus-50-maisons-ravagees-flammes?at_medium=display&at_campaign=149",
-      "score": 95,
-      "summary": "Point de situation critique concernant : EN DIRECT Incendies : Le feu se dirige vers Bordeaux, Lecornu convoque une cellu..."
     },
     {
       "title": "Guerre en Ukraine : Nouveaux bombardements meurtriers près de Kiev, des sanctions contournées par la Géorgie",
@@ -385,6 +377,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "score": 88,
       "summary": "Point de situation critique concernant : [CYBER INT] Des pirates ont détourné le DNS Wi-Fi de l'hôtel pour voler des comp..."
+    },
+    {
+      "title": "Incendies : Plus de 140.000 personnes évacuées et 22.000 hectares brûlés, Bordeaux sous la menace",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-24T04:01:57.000Z",
+      "link": "https://www.20minutes.fr/planete/4236088-20260724-direct-incendies-35-000-personnes-evacuees-gironde-camping-plus-50-maisons-ravagees-flammes?at_medium=display&at_campaign=149",
+      "score": 70,
+      "summary": "Point de situation critique concernant : Incendies : Plus de 140.000 personnes évacuées et 22.000 hectares brûlés, Bordea..."
     },
     {
       "title": "Aveux de Cédric Jubillar : un avocat de la famille de Delphine se dit « horrifié » et dénonce « une nouvelle fable »",
