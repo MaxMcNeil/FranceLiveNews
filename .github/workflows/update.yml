@@ -35,11 +35,25 @@ jobs:
       run: node scripts/fetchCyber.mjs
       timeout-minutes: 10
 
-    - run: node scripts/fetchNews.mjs
-    - run: node scripts/refineNews.mjs
-    - run: node scripts/clusterNews.mjs
-    - run: node scripts/timeline.mjs
-    - run: node scripts/summarize.mjs
+    - name: Fetch General News
+      run: node scripts/fetchNews.mjs
+      timeout-minutes: 5
+
+    - name: Refine News
+      run: node scripts/refineNews.mjs
+      timeout-minutes: 5
+
+    - name: Cluster News
+      run: node scripts/clusterNews.mjs
+      timeout-minutes: 5
+
+    - name: Timeline
+      run: node scripts/timeline.mjs
+      timeout-minutes: 5
+
+    - name: Summarize
+      run: node scripts/summarize.mjs
+      timeout-minutes: 5
 
     - name: Commit changes
       run: |
