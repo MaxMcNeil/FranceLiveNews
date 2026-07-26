@@ -1,7 +1,9 @@
 import Parser from "rss-parser";
 import { cleanEncoding, readNewsData, writeNewsData, isCyberItem, MAX_AGE_MS } from "./utils.mjs";
 
-const parser = new Parser();
+// timeout: 8s max par requête HTTP sous-jacente (évite qu'un flux mort ne bloque tout)
+const parser = new Parser({ timeout: 8000 });
+const FEED_TIMEOUT_MS = 10000; // garde-fou supplémentaire côté script
 
 const RSS_FEEDS = [
     // Faits divers / justice / police
@@ -84,6 +86,13 @@ function getScore(title) {
     return 72; // Score de base suffisant pour passer le filtre >= 65 de refineNews
 }
 
+function withTimeout(promise, ms) {
+    return Promise.race([
+        promise,
+        new Promise((resolve) => setTimeout(() => resolve([]), ms))
+    ]);
+}
+
 async function fetchRSS(url) {
     try {
         const feed = await parser.parseURL(url);
@@ -111,11 +120,12 @@ async function run() {
         i => isCyberItem(i) && now - new Date(i.time).getTime() < MAX_AGE_MS
     );
 
-    let newItems = [];
-    for (const url of RSS_FEEDS) {
-        const fetched = await fetchRSS(url);
-        newItems = newItems.concat(fetched);
-    }
+    // Traitement EN PARALLÈLE : chaque flux est borné à FEED_TIMEOUT_MS,
+    // un flux lent ou mort ne peut plus bloquer les 21 autres.
+    const results = await Promise.all(
+        RSS_FEEDS.map(url => withTimeout(fetchRSS(url), FEED_TIMEOUT_MS))
+    );
+    let newItems = results.flat();
 
     // 🛡️ SÉCURITÉ : Si le réseau a échoué (0 nouveau), on garde l'existant sans le décimer
     if (newItems.length === 0 && existingNews.length > 0) {
@@ -130,6 +140,10 @@ async function run() {
     const finalItems = [...allNews, ...existingCyber].sort((a, b) => b.score - a.score);
     writeNewsData(finalItems);
     console.log("✔ Flux actualités générales mis à jour.");
+
+    // SÉCURITÉ CRITIQUE : Tue proprement le processus pour empêcher GitHub de freezer
+    // (des sockets de flux lents peuvent rester ouverts en arrière-plan sinon)
+    process.exit(0);
 }
 
 run();

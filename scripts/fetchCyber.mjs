@@ -2,7 +2,8 @@ import axios from "axios";
 import Parser from "rss-parser";
 import { cleanEncoding, readNewsData, writeNewsData, isCyberItem, MAX_AGE_MS, translateText } from "./utils.mjs";
 
-const parser = new Parser();
+// timeout: 8s max par requête HTTP sous-jacente (évite qu'un flux mort ne bloque tout)
+const parser = new Parser({ timeout: 8000 });
 const RANSOM_LIVE_API = "https://api.ransomware.live/recent";
 
 const INTERNATIONAL_CYBER_FEEDS = [
