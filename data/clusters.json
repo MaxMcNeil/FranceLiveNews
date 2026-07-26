@@ -10,7 +10,7 @@
       {
         "title": "Scandale de la crèche d’Yerres : « Je veux la vérité », la mère du bébé secoué accuse les assistantes et porte plainte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/scandale-de-la-creche-dyerres-je-veux-la-verite-la-mere-du-bebe-secoue-accuse-les-assistantes-et-porte-plainte-24-07-2026-D6JJH2VUYZHURECJ2AKUUNCQQY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Scandale de la crèche d’Yerres : « Je veux la vérité », la mère du bébé secoué a..."
@@ -21,29 +21,38 @@
   {
     "title": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
         "title": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-un-mort-et-trois-blesses-apres-une-rixe-dans-le-xe-arrondissement-une-personne-en-garde-a-vue-24-07-2026-KEH6EDFVBJHL3A5LQDKDZ2F4C4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une p..."
       },
       {
+        "title": "En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 bouteilles de grands crus dans une maison évacuée en raison des incendies",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-26T11:06:57.000Z",
+        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-un-homme-soupconne-du-vol-de-44-bouteilles-de-grands-crus-dans-une-maison-evacuee-a-eysines-interpelle_8122859.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 boute..."
+      },
+      {
         "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-mort-et-quatre-blesses-graves-dans-lexplosion-dune-distillerie-une-enquete-ouverte-24-07-2026-3SCDN6G75JGUDG6ELFRVAEJUHE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie..."
       }
     ],
-    "summary": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue / Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte"
+    "summary": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue / En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 bouteilles de grands crus dans une maison évacuée en raison des incendies"
   },
   {
     "title": "Britannique tuée en Dordogne en 2025 : une septuagénaire mise en examen",
@@ -56,7 +65,7 @@
       {
         "title": "Britannique tuée en Dordogne en 2025 : une septuagénaire mise en examen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/britannique-tuee-en-dordogne-en-2025-une-septuagenaire-mise-en-examen-23-07-2026-P53343RFX5DONNBF6CAARZBXSE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Britannique tuée en Dordogne en 2025 : une septuagénaire mise en examen..."
@@ -84,7 +93,7 @@
       {
         "title": "Nord : un directeur d’école mis en examen et incarcéré pour agressions sexuelles sur mineurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/nord-un-directeur-decole-mis-en-examen-et-incarcere-pour-agressions-sexuelles-sur-mineurs-23-07-2026-QMXQROC7QVFKLF5VYXDOKEMP5U.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nord : un directeur d’école mis en examen et incarcéré pour agressions sexuelles..."
@@ -131,42 +140,42 @@
     "summary": "Le divorce le plus cher de l'histoire: un milliardaire de la tech coréen condamné à verser 540 millions d'euros à son ex-femme, en reconnaissance de son travail domestique"
   },
   {
-    "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
-    "score": 95,
+    "title": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne",
+    "score": 97,
     "count": 1,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
-        "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-24T10:03:32.000Z",
-        "link": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
-        "score": 95,
-        "summary": "la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats"
+        "title": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-07-26T11:25:24.000Z",
+        "link": "https://www.sudouest.fr/dordogne/deux-hommes-deja-condamnes-par-la-justice-interpelles-par-la-police-apres-des-vols-en-dordogne-30068844.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Deux hommes déjà condamnés par la justice, interpellés par la police après des v..."
       }
     ],
-    "summary": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats"
+    "summary": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne"
   },
   {
-    "title": "Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein direct qui a blessé un pompier",
-    "score": 95,
+    "title": "Incendie en Gironde : 44 bouteilles de grands crus volées dans une maison évacuée, un suspect en garde à vue",
+    "score": 97,
     "count": 1,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
-        "title": "Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein direct qui a blessé un pompier",
+        "title": "Incendie en Gironde : 44 bouteilles de grands crus volées dans une maison évacuée, un suspect en garde à vue",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-07-24T10:06:01.000Z",
-        "link": "https://www.lefigaro.fr/bordeaux/incendies-au-cap-ferret-les-images-de-l-explosion-d-une-bonbonne-de-gaz-en-plein-direct-qui-a-blesse-un-pompier-20260724",
-        "score": 95,
-        "summary": "Point de situation critique concernant : Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein..."
+        "time": "2026-07-26T10:19:10.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/incendie-en-gironde-44-bouteilles-de-grands-crus-volees-dans-une-maison-evacuee-un-suspect-en-garde-a-vue-20260726",
+        "score": 97,
+        "summary": "44 bouteilles de grands crus volées dans une maison évacuée, un suspect en garde à vue"
       }
     ],
-    "summary": "Incendie au Cap Ferret: les images de l’explosion d’une bonbonne de gaz en plein direct qui a blessé un pompier"
+    "summary": "Incendie en Gironde : 44 bouteilles de grands crus volées dans une maison évacuée, un suspect en garde à vue"
   },
   {
     "title": "Guadeloupe : une explosion dans une distillerie fait cinq blessés graves",
@@ -237,7 +246,7 @@
       {
         "title": "Pas-de-Calais : un surveillant de collège mis en examen pour viol sur deux élèves",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.556Z",
         "link": "https://www.leparisien.fr/nord-59/pas-de-calais-un-surveillant-de-college-mis-en-examen-pour-viol-sur-deux-eleves-25-07-2026-NSMEXJZMXRBKZK3VX3JQZROUTQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Pas-de-Calais : un surveillant de collège mis en examen pour viol sur deux élève..."
@@ -245,7 +254,7 @@
       {
         "title": "Ex-conseiller municipal FN à Nice, un kinésithérapeute mis en examen pour viol et agressions sexuelles sur six patientes au Pays basque",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/ex-conseiller-municipal-fn-a-nice-un-kinesitherapeute-mis-en-examen-pour-viol-et-agressions-sexuelles-sur-six-patientes-au-pays-basque-24-07-2026-VNTU4JPXFBEFZMVWZJ6SH3BBLQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Ex-conseiller municipal FN à Nice, un kinésithérapeute mis en examen pour viol e..."
@@ -253,7 +262,7 @@
       {
         "title": "Handball : Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/sports/handball/handball-cesson-rennes-met-a-pied-un-joueur-mis-en-examen-pour-viol-sur-sa-compagne-23-07-2026-PJ56PS7XPNB6JHU25HTAAMW44E.php",
         "score": 90,
         "summary": "Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne"
@@ -280,32 +289,13 @@
       {
         "title": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.556Z",
         "link": "https://www.leparisien.fr/oise-60/elle-a-subi-la-meme-chose-que-gisele-pelicot-le-combat-de-jeanne-qui-accuse-son-ex-mari-de-viols-sur-elle-et-sa-fille-25-07-2026-FSIXF3NEHZFABAXGIHOMVJ4FVM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accu..."
       }
     ],
     "summary": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille"
-  },
-  {
-    "title": "Yvelines : récidiviste, il écope de huit ans de prison pour une agression sexuelle dans le parking d’une gare",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Yvelines : récidiviste, il écope de huit ans de prison pour une agression sexuelle dans le parking d’une gare",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
-        "link": "https://www.leparisien.fr/yvelines-78/yvelines-recidiviste-il-ecope-de-huit-ans-de-prison-pour-une-agression-sexuelle-dans-le-parking-dune-gare-24-07-2026-PCQ2KEFJS5FN5GQXCQRCHA5ZY4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Yvelines : récidiviste, il écope de huit ans de prison pour une agression sexuel..."
-      }
-    ],
-    "summary": "Yvelines : récidiviste, il écope de huit ans de prison pour une agression sexuelle dans le parking d’une gare"
   },
   {
     "title": "Femme tuée par balle dans les Hautes-Alpes : son oncle, mis en examen, affirme que le coup est parti par accident",
@@ -318,7 +308,7 @@
       {
         "title": "Femme tuée par balle dans les Hautes-Alpes : son oncle, mis en examen, affirme que le coup est parti par accident",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/femme-tuee-par-balle-dans-les-hautes-alpes-son-oncle-mis-en-examen-affirme-que-le-coup-est-parti-par-accident-24-07-2026-DC5XVGGP5BADJOPSK6YL5AH6CM.php",
         "score": 90,
         "summary": "son oncle, mis en examen, affirme que le coup est parti par accident"
@@ -337,7 +327,7 @@
       {
         "title": "Somme : un septuagénaire écroué pour des viols et agressions sexuelles sur 17 enfants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/somme-un-septuagenaire-ecroue-pour-des-viols-et-agressions-sexuelles-sur-17-enfants-24-07-2026-CKZPRXSRTBFJLJCQXQULNMYZZQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Somme : un septuagénaire écroué pour des viols et agressions sexuelles sur 17 en..."
@@ -356,7 +346,7 @@
       {
         "title": "Un maire de la Sarthe violemment agressé après avoir rappelé à l’ordre un conducteur dangereux",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/un-maire-de-la-sarthe-violemment-agresse-apres-avoir-rappele-a-lordre-un-conducteur-dangereux-24-07-2026-LCQJDP3QYJCXBKGAH3FYT5PUQE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un maire de la Sarthe violemment agressé après avoir rappelé à l’ordre un conduc..."
@@ -375,7 +365,7 @@
       {
         "title": "Des touristes flamands découvrent que leur Airbnb de Troyes a été mis sous scellés pour « tentative de meurtre »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/des-touristes-flamands-decouvrent-que-leur-airbnb-de-troyes-a-ete-mis-sous-scelles-pour-tentative-de-meurtre-24-07-2026-4CL7DWNWWZG6FOB67DXS5QVKVU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Des touristes flamands découvrent que leur Airbnb de Troyes a été mis sous scell..."
@@ -386,21 +376,30 @@
   {
     "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/ils-nous-ont-violees-tous-les-deux-ghislaine-maxwell-et-jeffrey-epstein-dans-le-vice-et-dans-le-crime-24-07-2026-IP2CNZY4KFEVZG45B3FTJBI4QY.php",
         "score": 90,
         "summary": "Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
+      },
+      {
+        "title": "« Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholique, dix ans après son assassinat dans l’église de Saint-Etienne-du-Rouvray",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-07-26T10:31:24.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/07/26/assassinat-du-pere-hamel-en-2016-la-france-rend-hommage-au-pretre-tue-dans-un-attentat-a-saint-etienne-du-rouvray_6733251_3224.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholiqu..."
       }
     ],
-    "summary": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
+    "summary": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime / « Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholique, dix ans après son assassinat dans l’église de Saint-Etienne-du-Rouvray"
   },
   {
     "title": "25 ans de réclusion pour le meurtrier schizophrène de Michel, retraité tué de 18 coups de couteau à Trappes",
@@ -413,7 +412,7 @@
       {
         "title": "25 ans de réclusion pour le meurtrier schizophrène de Michel, retraité tué de 18 coups de couteau à Trappes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.414Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/25-ans-de-reclusion-pour-le-meurtrier-schizophrene-de-michel-retraite-tue-de-18-coups-de-couteau-a-trappes-24-07-2026-3XXDULKJIVD2JKDBF4J7ITN5LA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : 25 ans de réclusion pour le meurtrier schizophrène de Michel, retraité tué de 18..."
@@ -432,7 +431,7 @@
       {
         "title": "« Regarde, on m’a volé mon alliance ! » : partout en France, d’étranges disparitions dans les Ehpad",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/essonne-91/regarde-on-ma-vole-mon-alliance-bijoux-vetements-parfums-dans-les-ehpad-des-disparitions-banalisees-24-07-2026-FF4MOHW5GZHT5ESFVRMMJK2KOA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Regarde, on m’a volé mon alliance ! » : partout en France, d’étranges disparit..."
@@ -451,7 +450,7 @@
       {
         "title": "Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/viol-dune-octogenaire-a-rennes-un-mineur-isole-mis-en-examen-et-incarcere-23-07-2026-7WINMY5GFBHNPNLMRPMON66JHQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré..."
@@ -470,7 +469,7 @@
       {
         "title": "Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après une sortie en bateau avec ses amis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/mystere-autour-du-deces-de-nolan-wells-un-jeune-americain-retrouve-mort-apres-une-sortie-en-bateau-avec-ses-amis-23-07-2026-O4QAIVNCHBERZDMQED3I4LUEH4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après u..."
@@ -489,7 +488,7 @@
       {
         "title": "Wyylde : c’est quoi ce site Internet aux 5 millions d’utilisateurs, soupçonné d’avoir hébergé des vidéos de viols en direct ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/faits-divers/wyylde-cest-quoi-ce-site-internet-aux-5-millions-dutilisateurs-soupconne-davoir-heberge-des-videos-de-viols-en-direct-23-07-2026-GYSDCQW3G5FALBHTRBU27AUQZU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Wyylde : c’est quoi ce site Internet aux 5 millions d’utilisateurs, soupçonné d’..."
@@ -508,7 +507,7 @@
       {
         "title": "Inédit en Eure-et-Loir : un hélicoptère bombardier d’eau déployé pour la première fois face à un violent incendie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-26T09:52:25.415Z",
+        "time": "2026-07-26T12:58:35.557Z",
         "link": "https://www.leparisien.fr/eure-et-loir-28/inedit-en-eure-et-loir-un-helicoptere-bombardier-deau-deploye-pour-la-premiere-fois-face-a-un-violent-incendie-23-07-2026-D5AWUFZIO5GRBLN3IXOHGWOJD4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Inédit en Eure-et-Loir : un hélicoptère bombardier d’eau déployé pour la premièr..."
@@ -538,16 +537,17 @@
   {
     "title": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray",
     "score": 90,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-26T05:55:29.000Z",
+        "time": "2026-07-26T12:55:42.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/terrorisme/saint-etienne-du-rouvray/dix-ans-apres-la-france-rend-hommage-au-pere-hamel-tue-dans-un-attentat-a-saint-etienne-du-rouvray_8122601.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 90,
         "summary": "Point de situation critique concernant : Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint..."
@@ -567,6 +567,14 @@
         "link": "https://www.sudouest.fr/justice/terrorisme/assassinat-du-pere-jacques-hamel-dix-ans-apres-la-france-rend-hommage-au-pretre-a-saint-etienne-du-rouvray-30067757.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Assassinat du père Jacques Hamel : dix ans après, la France rend hommage au prêt..."
+      },
+      {
+        "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-26T12:58:35.556Z",
+        "link": "https://www.leparisien.fr/faits-divers/la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-26-07-2026-4YKM3VYUTZDKRBSBKABYBWHXMU.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans..."
       }
     ],
     "summary": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray / Dix ans après l'assassinat du père Hamel, \"on ne doit pas rester figé dans le passé\", déclare le maire de Saint-Étienne-du-Rouvray"
@@ -705,6 +713,62 @@
     "summary": "Dix ans de l’assassinat du père Hamel : au cœur de la matrice djihadiste, la haine antichrétienne et antijuive"
   },
   {
+    "title": "L’attaque contre la marche des fiertés à Berlin était « un attentat terroriste islamiste », affirme le ministre de l’intérieur allemand",
+    "score": 90,
+    "count": 3,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "L’attaque contre la marche des fiertés à Berlin était « un attentat terroriste islamiste », affirme le ministre de l’intérieur allemand",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-07-26T12:43:09.000Z",
+        "link": "https://www.lemonde.fr/international/article/2026/07/26/l-attaque-contre-la-marche-des-fiertes-a-berlin-etait-un-attentat-terroriste-islamiste-affirme-le-ministre-de-l-interieur-allemand_6732524_3211.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : L’attaque contre la marche des fiertés à Berlin était « un attentat terroriste i..."
+      },
+      {
+        "title": "Attentat terroriste islamiste à la gay pride de Berlin : ce que l'on sait du suspect de 21 ans, soupçonné d’être proche de Daesh",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-07-26T10:36:31.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-07-26/attaque-pendant-la-gay-pride-de-berlin-ce-que-lon-sait-du-suspect-de-21-ans",
+        "score": 90,
+        "summary": "ce que l'on sait du suspect de 21 ans, soupçonné d’être proche de Daesh"
+      },
+      {
+        "title": "Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 blessés lors de la marche des fiertés à Berlin",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-26T12:31:44.000Z",
+        "link": "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 ble..."
+      }
+    ],
+    "summary": "L’attaque contre la marche des fiertés à Berlin était « un attentat terroriste islamiste », affirme le ministre de l’intérieur allemand / Attentat terroriste islamiste à la gay pride de Berlin : ce que l'on sait du suspect de 21 ans, soupçonné d’être proche de Daesh"
+  },
+  {
+    "title": "À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-07-26T12:33:47.000Z",
+        "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/a-saint-etienne-du-rouvray-l-hommage-au-pere-hamel-10-ans-apres-son-assassinat_8122892.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 90,
+        "summary": "Point de situation critique concernant : À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat..."
+      }
+    ],
+    "summary": "À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat"
+  },
+  {
     "title": "[CYBER] Chat Control: un pirate cible 24 responsables politiques français",
     "score": 90,
     "count": 1,
@@ -838,63 +902,6 @@
     "summary": "[CYBER] Un faux portail du FPR pour piéger des pirates"
   },
   {
-    "title": "[CYBER] B9 : 36 000 profils bancaires annoncés pirates",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] B9 : 36 000 profils bancaires annoncés pirates",
-        "source": "Zataz",
-        "time": "2026-07-24T12:20:18.000Z",
-        "link": "https://www.zataz.com/b9-36-000-profils-bancaires-annonces-pirates/",
-        "score": 90,
-        "summary": "36 000 profils bancaires annoncés pirates"
-      }
-    ],
-    "summary": "[CYBER] B9 : 36 000 profils bancaires annoncés pirates"
-  },
-  {
-    "title": "[CYBER] Gym Pokémon: 19 600 comptes exposés",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Gym Pokémon: 19 600 comptes exposés",
-        "source": "Zataz",
-        "time": "2026-07-24T12:01:24.000Z",
-        "link": "https://www.zataz.com/pokemon-gym-19-600-comptes-exposes/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Gym Pokémon: 19 600 comptes exposés..."
-      }
-    ],
-    "summary": "[CYBER] Gym Pokémon: 19 600 comptes exposés"
-  },
-  {
-    "title": "[CYBER] Les serveuses saisis au cœur de l'enquête",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Les serveuses saisis au cœur de l'enquête",
-        "source": "Zataz",
-        "time": "2026-07-24T10:34:57.000Z",
-        "link": "https://www.zataz.com/motherless-les-serveurs-saisis-au-coeur-de-lenquete/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Les serveuses saisis au cœur de l'enquête..."
-      }
-    ],
-    "summary": "[CYBER] Les serveuses saisis au cœur de l'enquête"
-  },
-  {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
     "score": 90,
     "count": 1,
@@ -905,7 +912,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:07.954Z",
+        "time": "2026-07-26T12:56:42.020Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -924,7 +931,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:09.465Z",
+        "time": "2026-07-26T12:56:44.291Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -943,7 +950,7 @@
       {
         "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:12.231Z",
+        "time": "2026-07-26T12:56:48.385Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -962,7 +969,7 @@
       {
         "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:14.063Z",
+        "time": "2026-07-26T12:56:51.092Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -981,7 +988,7 @@
       {
         "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:16.264Z",
+        "time": "2026-07-26T12:56:54.375Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -1000,7 +1007,7 @@
       {
         "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:19.493Z",
+        "time": "2026-07-26T12:56:59.146Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -1019,7 +1026,7 @@
       {
         "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:21.715Z",
+        "time": "2026-07-26T12:57:02.407Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -1038,7 +1045,7 @@
       {
         "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:24.341Z",
+        "time": "2026-07-26T12:57:06.303Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -1057,7 +1064,7 @@
       {
         "title": "[CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:27.291Z",
+        "time": "2026-07-26T12:57:10.615Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-decide-de-lancer-sans-restriction-les-modeles-gpt-56-100691.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6..."
@@ -1076,96 +1083,12 @@
       {
         "title": "[CYBER] Les données et les données relatives aux projets d'Alstom au niveau de la confiance zéro",
         "source": "Le Monde Informatique",
-        "time": "2026-07-26T09:51:30.303Z",
+        "time": "2026-07-26T12:57:15.108Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-alstom-muscle-ses-projets-data-et-ia-au-zero-trust-100682.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les données et les données relatives aux projets d'Alstom au niveau de l..."
       }
     ],
     "summary": "[CYBER] Les données et les données relatives aux projets d'Alstom au niveau de la confiance zéro"
-  },
-  {
-    "title": "[CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'espace de travail malveillants via un lien de phishing",
-    "score": 88,
-    "count": 2,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'espace de travail malveillants via un lien de phishing",
-        "source": "CyberPress",
-        "time": "2026-07-24T11:53:55.000Z",
-        "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'esp..."
-      },
-      {
-        "title": "[CYBER INT] BlueNoroff Zoom Phishing Kit Profiles de crypto-monnaie avant la livraison de logiciels malveillants",
-        "source": "CyberPress",
-        "time": "2026-07-24T15:12:35.000Z",
-        "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] BlueNoroff Zoom Phishing Kit Profiles de crypto-monnaie avant la liv..."
-      }
-    ],
-    "summary": "[CYBER INT] L'agent de chatGPTForger Fault pourrait déployer des agents de l'espace de travail malveillants via un lien de phishing / [CYBER INT] BlueNoroff Zoom Phishing Kit Profiles de crypto-monnaie avant la livraison de logiciels malveillants"
-  },
-  {
-    "title": "[CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des commandes en tant que SYSTEM sur les serveurs de Microsoft",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des commandes en tant que SYSTEM sur les serveurs de Microsoft",
-        "source": "CyberPress",
-        "time": "2026-07-24T11:45:17.000Z",
-        "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des ..."
-      }
-    ],
-    "summary": "[CYBER INT] Les défauts des images Bing permettent aux SVG créés d'exécuter des commandes en tant que SYSTEM sur les serveurs de Microsoft"
-  },
-  {
-    "title": "[CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre de la répression de \"The Com\"",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "BleepingComputer"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre de la répression de \"The Com\"",
-        "source": "BleepingComputer",
-        "time": "2026-07-24T12:56:53.000Z",
-        "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre..."
-      }
-    ],
-    "summary": "[CYBER INT] L'Europol annonce la suppression de 4 340 adresses URL dans le cadre de la répression de \"The Com\""
-  },
-  {
-    "title": "[CYBER INT] Vulnérabilité RCE Fastjson 1.x ciblée dans les attaques sans patch disponible",
-    "score": 88,
-    "count": 1,
-    "sources": [
-      "CyberPress"
-    ],
-    "items": [
-      {
-        "title": "[CYBER INT] Vulnérabilité RCE Fastjson 1.x ciblée dans les attaques sans patch disponible",
-        "source": "CyberPress",
-        "time": "2026-07-25T12:52:43.000Z",
-        "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-        "score": 88,
-        "summary": "Point de situation critique concernant : [CYBER INT] Vulnérabilité RCE Fastjson 1.x ciblée dans les attaques sans patch d..."
-      }
-    ],
-    "summary": "[CYBER INT] Vulnérabilité RCE Fastjson 1.x ciblée dans les attaques sans patch disponible"
   }
 ]
