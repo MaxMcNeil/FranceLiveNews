@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T17:22:00.902Z",
+  "updated": "2026-07-28T21:03:50.734Z",
   "count": 93,
   "items": [
     {
@@ -29,26 +29,10 @@
     {
       "title": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.165Z",
       "link": "https://www.leparisien.fr/faits-divers/proche-de-letat-islamique-condamne-en-2026-qui-est-le-suspect-de-lattaque-terroriste-a-la-marche-des-fiertes-de-berlin-26-07-2026-XWBWTS6AE5G6JGYPQTBHSYK76E.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque te..."
-    },
-    {
-      "title": "Nyons. Un homme placé en garde à vue pour avoir menacé deux policiers",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-26T17:32:12.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/26/un-homme-place-en-garde-a-vue-pour-avoir-menace-deux-policiers",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Nyons. Un homme placé en garde à vue pour avoir menacé deux policiers..."
-    },
-    {
-      "title": "Drôme. Nyons : un homme placé en garde à vue pour avoir menacé deux policiers",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-26T17:24:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/26/nyons-un-homme-place-en-garde-a-vue-pour-avoir-menace-deux-policiers",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Drôme. Nyons : un homme placé en garde à vue pour avoir menacé deux policiers..."
     },
     {
       "title": "Haute-Savoie. Après le départ de 250 caravanes, les accès au terrain ont été condamnés",
@@ -133,7 +117,7 @@
     {
       "title": "Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspect levée pour raison psychiatrique",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/paris-75/attaque-au-couteau-pres-de-la-porte-de-clichy-a-paris-la-garde-a-vue-du-suspect-levee-pour-raison-psychiatrique-28-07-2026-7X2MNURPZFDDHDF7WFYF6P3KDM.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspec..."
@@ -141,7 +125,7 @@
     {
       "title": "Attaque au couteau à Paris : la garde à vue du suspect a été levée pour raison psychiatrique",
       "source": "https://www.lemonde.fr/societe/rss_full.xml",
-      "time": "2026-07-28T17:13:57.000Z",
+      "time": "2026-07-28T17:13:56.000Z",
       "link": "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
       "score": 97,
       "summary": "Point de situation critique concernant : Attaque au couteau à Paris : la garde à vue du suspect a été levée pour raison p..."
@@ -203,9 +187,41 @@
       "summary": "Point de situation critique concernant : Après l’attaque au couteau à Paris, le suspect sort de garde à vue pour raison p..."
     },
     {
+      "title": "Vol du torque en or de Vix : un suspect placé en détention provisoire",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-07-28T19:52:17.000Z",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/28/vol-du-torque-en-or-de-vix-un-suspect-place-en-detention-provisoire_6735536_3224.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Vol du torque en or de Vix : un suspect placé en détention provisoire..."
+    },
+    {
+      "title": "Incendie dans le Var : après huit jours, le feu est fixé et un suspect est en détention provisoire",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-07-28T20:00:10.000Z",
+      "link": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-le-var-apres-huit-jours-le-feu-est-fixe-et-un-suspect-est-en-detention-provisoire-30097746.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Incendie dans le Var : après huit jours, le feu est fixé et un suspect est en dé..."
+    },
+    {
+      "title": "Agressions sexuelles dans l’eau à Bègles-Plage, près de Bordeaux : deux jeunes hommes condamnés",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-07-28T18:29:26.000Z",
+      "link": "https://www.sudouest.fr/faits-divers/agressions-sexuelles-dans-l-eau-a-begles-plage-pres-de-bordeaux-deux-jeunes-hommes-condamnes-30093786.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Agressions sexuelles dans l’eau à Bègles-Plage, près de Bordeaux : deux jeunes h..."
+    },
+    {
+      "title": "Attaque au couteau de trois femmes à Paris : la garde à vue du suspect levée pour raison psychiatrique",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-07-28T17:46:43.000Z",
+      "link": "https://www.sudouest.fr/france/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-levee-pour-raison-psychiatrique-30096262.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Attaque au couteau de trois femmes à Paris : la garde à vue du suspect levée pou..."
+    },
+    {
       "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.164Z",
       "link": "https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php",
       "score": 93,
       "summary": "Point de situation critique concernant : Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctio..."
@@ -357,34 +373,10 @@
     {
       "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.165Z",
       "link": "https://www.leparisien.fr/faits-divers/la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-26-07-2026-4YKM3VYUTZDKRBSBKABYBWHXMU.php",
       "score": 90,
       "summary": "Point de situation critique concernant : La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans..."
-    },
-    {
-      "title": "Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 blessés lors de la marche des fiertés à Berlin",
-      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "time": "2026-07-26T18:00:38.000Z",
-      "link": "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 ble..."
-    },
-    {
-      "title": "Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marche des fiertés tué par la police",
-      "source": "https://www.franceinfo.fr/faits-divers.rss",
-      "time": "2026-07-26T18:03:44.000Z",
-      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-%5Bgeneral%5D",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marc..."
-    },
-    {
-      "title": "Incendie en Gironde : près de 15 000 entreprises situées dans les zones évacuées ne peuvent \"plus fonctionner normalement\", selon la Chambre de commerce",
-      "source": "https://www.franceinfo.fr/faits-divers.rss",
-      "time": "2026-07-26T17:45:05.000Z",
-      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-en-gironde-pres-de-15-000-entreprises-situees-dans-les-zones-evacuees-ne-peuvent-plus-fonctionner-normalement-selon-la-chambre-de-commerce_8123156.html#xtor=RSS-3-%5Bgeneral%5D",
-      "score": 90,
-      "summary": "près de 15 000 entreprises situées dans les zones évacuées ne peuvent \"plus fonctionner normalement\", selon la Chambre de commerce"
     },
     {
       "title": "Le festival Un Violon sur le sable, une parenthèse en musique classique face aux incendies, sur la plage de Royan",
@@ -421,7 +413,7 @@
     {
       "title": "Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonaise",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.164Z",
       "link": "https://www.leparisien.fr/faits-divers/berlin-la-femme-decedee-dans-lattentat-de-la-marche-des-fiertes-etait-polonaise-27-07-2026-WT5SPCH3GFANJPYA2LYHUF6RDQ.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonai..."
@@ -429,7 +421,7 @@
     {
       "title": "Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres et traite d’êtres humains se poursuit",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.164Z",
       "link": "https://www.leparisien.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-identifies-lenquete-pour-meurtres-et-traite-detres-humains-se-poursuit-27-07-2026-WE5EKTVP6NG4FPBQLRTRFC7E3M.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres ..."
@@ -453,7 +445,7 @@
     {
       "title": "Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visage « déchiqueté »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.986Z",
+      "time": "2026-07-28T21:03:48.164Z",
       "link": "https://www.leparisien.fr/faits-divers/une-americaine-enceinte-de-jumeaux-violemment-attaquee-par-un-pitbull-son-visage-dechiquete-27-07-2026-YBNGHRSCINBJZOFHG4P4KMTLPE.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visag..."
@@ -509,7 +501,7 @@
     {
       "title": "Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.164Z",
       "link": "https://www.leparisien.fr/faits-divers/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-27-07-2026-HCLYLKVV5VHEFPU7YR57356LPY.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente..."
@@ -565,7 +557,7 @@
     {
       "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/faits-divers/droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-de-rungis-une-enquete-ouverte-apres-la-plainte-dune-femme-de-20-ans-28-07-2026-CXB6O7ITC5AGHLAOEV2JWIS2ME.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquêt..."
@@ -573,7 +565,7 @@
     {
       "title": "Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/international/allemagne/attentat-a-la-marche-des-fiertes-de-berlin-lassaillant-avait-prete-allegeance-a-letat-islamique-dans-une-video-28-07-2026-FL5ZIBMIKVBWFDJ4JDGRNP4TUA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance..."
@@ -581,7 +573,7 @@
     {
       "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/faits-divers/souffrant-de-violentes-douleurs-a-lestomac-une-allemande-decouvre-sa-grossesse-et-accouche-sur-un-parking-en-pleine-nuit-28-07-2026-QRRWLMIPLVHOTM777QFMFPW72Y.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse..."
@@ -589,7 +581,7 @@
     {
       "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/faits-divers/en-belgique-un-homme-tire-sur-des-gens-du-voyage-et-est-retrouve-mort-apres-avoir-pris-la-fuite-28-07-2026-YNPFHQFDRVDA3N5LE7CJR4QJR4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avo..."
@@ -597,15 +589,23 @@
     {
       "title": "Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue à Bruxelles, un suspect incarcéré",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T17:21:55.985Z",
+      "time": "2026-07-28T21:03:48.163Z",
       "link": "https://www.leparisien.fr/sports/football/football-un-joueur-de-lunion-saint-gilloise-violemment-agresse-en-pleine-rue-a-bruxelles-un-suspect-incarcere-28-07-2026-GZ552UVUYFHFXI2PL7OSKJEAX4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue ..."
     },
     {
+      "title": "Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech continue de susciter des vocations en Europe",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-28T21:03:48.163Z",
+      "link": "https://www.leparisien.fr/international/allemagne/attentat-de-berlin-un-etat-islamique-fantasme-comment-meme-affaibli-daech-continue-de-susciter-des-vocations-en-europe-28-07-2026-WTXS5QDFXRHCHHG4VHEBA6NTK4.php",
+      "score": 90,
+      "summary": "Point de situation critique concernant : Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech..."
+    },
+    {
       "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:19:54.042Z",
+      "time": "2026-07-28T21:02:14.462Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -613,7 +613,7 @@
     {
       "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:19:56.337Z",
+      "time": "2026-07-28T21:02:16.095Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -621,7 +621,7 @@
     {
       "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:00.555Z",
+      "time": "2026-07-28T21:02:19.003Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -629,7 +629,7 @@
     {
       "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:03.255Z",
+      "time": "2026-07-28T21:02:20.877Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -637,7 +637,7 @@
     {
       "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:06.590Z",
+      "time": "2026-07-28T21:02:23.133Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -645,7 +645,7 @@
     {
       "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:11.432Z",
+      "time": "2026-07-28T21:02:26.465Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -653,7 +653,7 @@
     {
       "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:14.780Z",
+      "time": "2026-07-28T21:02:28.727Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -661,7 +661,7 @@
     {
       "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:18.767Z",
+      "time": "2026-07-28T21:02:31.544Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -669,7 +669,7 @@
     {
       "title": "[CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:20:23.125Z",
+      "time": "2026-07-28T21:02:34.571Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-decide-de-lancer-sans-restriction-les-modeles-gpt-56-100691.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6..."
@@ -717,7 +717,7 @@
     {
       "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T17:19:50.101Z",
+      "time": "2026-07-28T21:02:11.687Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
