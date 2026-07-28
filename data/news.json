@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T13:34:25.331Z",
-  "count": 88,
+  "updated": "2026-07-28T17:22:00.902Z",
+  "count": 93,
   "items": [
     {
       "title": "Scandale de la crèche d’Yerres : « Je veux la vérité », la mère du bébé secoué accuse les assistantes et porte plainte",
@@ -29,7 +29,7 @@
     {
       "title": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.521Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/proche-de-letat-islamique-condamne-en-2026-qui-est-le-suspect-de-lattaque-terroriste-a-la-marche-des-fiertes-de-berlin-26-07-2026-XWBWTS6AE5G6JGYPQTBHSYK76E.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque te..."
@@ -131,9 +131,81 @@
       "summary": "Point de situation critique concernant : Le gouvernement décore un homme d’affaires condamné par la justice..."
     },
     {
+      "title": "Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspect levée pour raison psychiatrique",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-28T17:21:55.985Z",
+      "link": "https://www.leparisien.fr/paris-75/attaque-au-couteau-pres-de-la-porte-de-clichy-a-paris-la-garde-a-vue-du-suspect-levee-pour-raison-psychiatrique-28-07-2026-7X2MNURPZFDDHDF7WFYF6P3KDM.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspec..."
+    },
+    {
+      "title": "Attaque au couteau à Paris : la garde à vue du suspect a été levée pour raison psychiatrique",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-07-28T17:13:57.000Z",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/28/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-a-ete-levee-pour-raison-psychiatrique_6735400_3224.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Attaque au couteau à Paris : la garde à vue du suspect a été levée pour raison p..."
+    },
+    {
+      "title": "La garde à vue du suspect dans l'attaque au couteau à Paris a été levée pour raisons psychiatriques",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-07-28T15:25:24.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/la-garde-a-vue-du-suspect-dans-l-attaque-au-couteau-a-paris-a-ete-levee-pour-raison-psychiatrique_8125730.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 97,
+      "summary": "Point de situation critique concernant : La garde à vue du suspect dans l'attaque au couteau à Paris a été levée pour rai..."
+    },
+    {
+      "title": "Dans les Landes, un homme condamné à quatre ans de prison, dont 18 mois avec sursis, pour avoir déclenché deux incendies à quelques kilomètres de Biscarrosse",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-07-28T14:42:21.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie/dans-les-landes-un-homme-condamne-a-quatre-ans-de-prison-dont-18-mois-avec-sursis-pour-avoir-declenche-deux-incendies-a-quelques-kilometres-de-biscarrosse_8125646.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Dans les Landes, un homme condamné à quatre ans de prison, dont 18 mois avec sur..."
+    },
+    {
+      "title": "Attaque au couteau à Paris : la garde à vue du suspect levée pour des raisons psychiatriques",
+      "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "time": "2026-07-28T16:15:00.000Z",
+      "link": "https://www.cnews.fr/faits-divers/2026-07-28/attaque-au-couteau-paris-la-garde-vue-du-suspect-levee-pour-des-raisons",
+      "score": 97,
+      "summary": "la garde à vue du suspect levée pour des raisons psychiatriques"
+    },
+    {
+      "title": "Un sexagénaire condamné pour harcèlement sexuel par téléphone sur de vieilles dames",
+      "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "time": "2026-07-28T16:02:05.000Z",
+      "link": "https://www.cnews.fr/faits-divers/2026-07-28/un-sexagenaire-condamne-pour-harcelement-sexuel-par-telephone-sur-de",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Un sexagénaire condamné pour harcèlement sexuel par téléphone sur de vieilles da..."
+    },
+    {
+      "title": "Malgré la chute de la natalité, Okaïdi sort la tête de l'eau: l'enseigne de vêtements pour enfants n'est plus en redressement judiciaire mais cela lui coûte 244 postes et 57 magasins",
+      "source": "https://www.bfmtv.com/rss/economie/",
+      "time": "2026-07-28T16:25:19.000Z",
+      "link": "https://www.bfmtv.com/economie/entreprises/malgre-la-chute-de-la-natalite-okaidi-sort-la-tete-de-l-eau-l-enseigne-de-vetements-pour-enfants-n-est-plus-en-redressement-judiciaire-mais-cela-lui-coute-244-postes-et-57-magasins_AD-202607280479.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Malgré la chute de la natalité, Okaïdi sort la tête de l'eau: l'enseigne de vête..."
+    },
+    {
+      "title": "Attaque au couteau à Paris : la garde à vue du suspect levée pour motif psychiatrique",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-07-28T16:14:47.000Z",
+      "link": "https://www.lefigaro.fr/faits-divers/attaque-au-couteau-a-paris-la-garde-a-vue-du-suspect-levee-pour-motif-psychiatrique-20260728",
+      "score": 97,
+      "summary": "la garde à vue du suspect levée pour motif psychiatrique"
+    },
+    {
+      "title": "Après l’attaque au couteau à Paris, le suspect sort de garde à vue pour raison psychiatrique",
+      "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+      "time": "2026-07-28T16:31:48.000Z",
+      "link": "https://www.20minutes.fr/faits_divers/4236762-20260728-apres-attaque-couteau-paris-suspect-sort-garde-vue-raison-psychiatrique?at_medium=display&at_campaign=149",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Après l’attaque au couteau à Paris, le suspect sort de garde à vue pour raison p..."
+    },
+    {
       "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php",
       "score": 93,
       "summary": "Point de situation critique concernant : Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctio..."
@@ -285,26 +357,10 @@
     {
       "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.521Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-26-07-2026-4YKM3VYUTZDKRBSBKABYBWHXMU.php",
       "score": 90,
       "summary": "Point de situation critique concernant : La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans..."
-    },
-    {
-      "title": "À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat",
-      "source": "https://www.franceinfo.fr/faits-divers.rss",
-      "time": "2026-07-26T14:00:09.000Z",
-      "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/a-saint-etienne-du-rouvray-l-hommage-au-pere-hamel-10-ans-apres-son-assassinat_8122892.html#xtor=RSS-3-%5Bgeneral%5D",
-      "score": 90,
-      "summary": "Point de situation critique concernant : À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat..."
-    },
-    {
-      "title": "Attentat islamiste à la gay pride de Berlin : ce que l'on sait du suspect de 21 ans tué",
-      "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-      "time": "2026-07-26T14:30:16.000Z",
-      "link": "https://www.cnews.fr/faits-divers/2026-07-26/attaque-pendant-la-gay-pride-de-berlin-ce-que-lon-sait-du-suspect-de-21-ans",
-      "score": 90,
-      "summary": "ce que l'on sait du suspect de 21 ans tué"
     },
     {
       "title": "Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 blessés lors de la marche des fiertés à Berlin",
@@ -313,46 +369,6 @@
       "link": "https://www.lefigaro.fr/international/a-berlin-la-marche-des-fiertes-frappee-par-une-attaque-meurtriere-un-suspect-lie-au-milieu-islamiste-en-fuite-20260726",
       "score": 90,
       "summary": "Point de situation critique concernant : Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 ble..."
-    },
-    {
-      "title": "A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Eglise et de la République au père Hamel",
-      "source": "https://www.lemonde.fr/societe/rss_full.xml",
-      "time": "2026-07-26T15:31:03.000Z",
-      "link": "https://www.lemonde.fr/societe/article/2026/07/26/a-saint-etienne-du-rouvray-dix-ans-apres-l-attentat-un-hommage-commun-de-l-eglise-et-de-la-republique-au-pere-hamel_6733362_3224.html",
-      "score": 90,
-      "summary": "Point de situation critique concernant : A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Egl..."
-    },
-    {
-      "title": "Assassinat de Karen Carter en Dordogne : le profil trouble de la principale suspecte",
-      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-      "time": "2026-07-26T15:14:16.000Z",
-      "link": "https://www.sudouest.fr/dordogne/tremolat/assassinat-de-karen-carter-en-dordogne-le-profil-trouble-de-la-principale-suspecte-30068518.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Assassinat de Karen Carter en Dordogne : le profil trouble de la principale susp..."
-    },
-    {
-      "title": "Drôme. Disparition inquiétante : la gendarmerie lance un appel à témoins pour retrouver Jean-Claude Prieux",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-07-26T13:56:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/26/disparition-inquietante-la-gendarmerie-lance-un-appel-a-temoins-pour-retrouver-jean-claude-prieux-age-de-78-ans",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Drôme. Disparition inquiétante : la gendarmerie lance un appel à témoins pour re..."
-    },
-    {
-      "title": "Attentat islamiste à la gay pride de Berlin : un mort et plusieurs blessés après qu'un véhicule a percuté la foule",
-      "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-      "time": "2026-07-26T13:58:45.000Z",
-      "link": "https://www.cnews.fr/monde/2026-07-26/allemagne-un-mort-et-plusieurs-blesses-apres-quun-vehicule-percute-la-foule-en",
-      "score": 90,
-      "summary": "un mort et plusieurs blessés après qu'un véhicule a percuté la foule"
-    },
-    {
-      "title": "Marche des fiertés à Berlin: le gouvernement évoque un «attentat terroriste islamiste», deux suspects recherchés",
-      "source": "https://www.mediapart.fr/articles/feed",
-      "time": "2026-07-26T16:09:00.000Z",
-      "link": "https://www.mediapart.fr/journal/international/260726/marche-des-fiertes-berlin-le-gouvernement-evoque-un-attentat-terroriste-islamiste-deux-suspects-rec",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Marche des fiertés à Berlin: le gouvernement évoque un «attentat terroriste isla..."
     },
     {
       "title": "Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marche des fiertés tué par la police",
@@ -405,7 +421,7 @@
     {
       "title": "Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonaise",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/berlin-la-femme-decedee-dans-lattentat-de-la-marche-des-fiertes-etait-polonaise-27-07-2026-WT5SPCH3GFANJPYA2LYHUF6RDQ.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonai..."
@@ -413,7 +429,7 @@
     {
       "title": "Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres et traite d’êtres humains se poursuit",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-identifies-lenquete-pour-meurtres-et-traite-detres-humains-se-poursuit-27-07-2026-WE5EKTVP6NG4FPBQLRTRFC7E3M.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres ..."
@@ -437,7 +453,7 @@
     {
       "title": "Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visage « déchiqueté »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.986Z",
       "link": "https://www.leparisien.fr/faits-divers/une-americaine-enceinte-de-jumeaux-violemment-attaquee-par-un-pitbull-son-visage-dechiquete-27-07-2026-YBNGHRSCINBJZOFHG4P4KMTLPE.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visag..."
@@ -493,7 +509,7 @@
     {
       "title": "Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.985Z",
       "link": "https://www.leparisien.fr/faits-divers/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-27-07-2026-HCLYLKVV5VHEFPU7YR57356LPY.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente..."
@@ -507,12 +523,12 @@
       "summary": "Point de situation critique concernant : Deux des mis en examen dans la mort de Quentin Deranque déposent plainte contre ..."
     },
     {
-      "title": "Justice. Patrick Bruel : deux plaintes de plus, dont une pour viol, une trentaine au total",
+      "title": "Justice. Affaire Patrick Bruel : deux nouvelles plaintes, dont une pour viol, visent le chanteur",
       "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "time": "2026-07-28T05:47:00.000Z",
       "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/28/patrick-bruel-deux-plaintes-de-plus-dont-une-pour-viol-une-trentaine-au-total",
       "score": 90,
-      "summary": "deux plaintes de plus, dont une pour viol, une trentaine au total"
+      "summary": "Point de situation critique concernant : Justice. Affaire Patrick Bruel : deux nouvelles plaintes, dont une pour viol, vi..."
     },
     {
       "title": "Meurtre de Thomas Perotto, à Crépol, en 2023 : « A partir du moment où le racisme anti-Blanc existe, la justice doit le caractériser »",
@@ -539,17 +555,17 @@
       "summary": "Point de situation critique concernant : Patrick Bruel : deux nouvelles plaintes visent le chanteur, pour viol et pour ag..."
     },
     {
-      "title": "Rhône. Mort de Quentin Deranque : deux mis en examen portent plainte pour violences",
+      "title": "Rhône. Mort de Quentin Deranque : deux mis en examen portent plainte pour violences",
       "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "time": "2026-07-28T07:13:00.000Z",
       "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/28/mort-de-quentin-deranque-deux-mis-en-examen-portent-plainte-pour-violences",
       "score": 90,
-      "summary": "deux mis en examen portent plainte pour violences"
+      "summary": "Point de situation critique concernant : Rhône. Mort de Quentin Deranque : deux mis en examen portent plainte pour violen..."
     },
     {
       "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.985Z",
       "link": "https://www.leparisien.fr/faits-divers/droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-de-rungis-une-enquete-ouverte-apres-la-plainte-dune-femme-de-20-ans-28-07-2026-CXB6O7ITC5AGHLAOEV2JWIS2ME.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquêt..."
@@ -557,7 +573,7 @@
     {
       "title": "Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.985Z",
       "link": "https://www.leparisien.fr/international/allemagne/attentat-a-la-marche-des-fiertes-de-berlin-lassaillant-avait-prete-allegeance-a-letat-islamique-dans-une-video-28-07-2026-FL5ZIBMIKVBWFDJ4JDGRNP4TUA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance..."
@@ -565,7 +581,7 @@
     {
       "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.985Z",
       "link": "https://www.leparisien.fr/faits-divers/souffrant-de-violentes-douleurs-a-lestomac-une-allemande-decouvre-sa-grossesse-et-accouche-sur-un-parking-en-pleine-nuit-28-07-2026-QRRWLMIPLVHOTM777QFMFPW72Y.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse..."
@@ -573,15 +589,23 @@
     {
       "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-07-28T13:34:22.520Z",
+      "time": "2026-07-28T17:21:55.985Z",
       "link": "https://www.leparisien.fr/faits-divers/en-belgique-un-homme-tire-sur-des-gens-du-voyage-et-est-retrouve-mort-apres-avoir-pris-la-fuite-28-07-2026-YNPFHQFDRVDA3N5LE7CJR4QJR4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avo..."
     },
     {
+      "title": "Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue à Bruxelles, un suspect incarcéré",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-07-28T17:21:55.985Z",
+      "link": "https://www.leparisien.fr/sports/football/football-un-joueur-de-lunion-saint-gilloise-violemment-agresse-en-pleine-rue-a-bruxelles-un-suspect-incarcere-28-07-2026-GZ552UVUYFHFXI2PL7OSKJEAX4.php",
+      "score": 90,
+      "summary": "Point de situation critique concernant : Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue ..."
+    },
+    {
       "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:02.567Z",
+      "time": "2026-07-28T17:19:54.042Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -589,7 +613,7 @@
     {
       "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:04.089Z",
+      "time": "2026-07-28T17:19:56.337Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -597,7 +621,7 @@
     {
       "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:06.797Z",
+      "time": "2026-07-28T17:20:00.555Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -605,7 +629,7 @@
     {
       "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:08.614Z",
+      "time": "2026-07-28T17:20:03.255Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -613,7 +637,7 @@
     {
       "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:10.772Z",
+      "time": "2026-07-28T17:20:06.590Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -621,7 +645,7 @@
     {
       "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:13.895Z",
+      "time": "2026-07-28T17:20:11.432Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -629,7 +653,7 @@
     {
       "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:16.046Z",
+      "time": "2026-07-28T17:20:14.780Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -637,7 +661,7 @@
     {
       "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:18.675Z",
+      "time": "2026-07-28T17:20:18.767Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -645,7 +669,7 @@
     {
       "title": "[CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:21.491Z",
+      "time": "2026-07-28T17:20:23.125Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-decide-de-lancer-sans-restriction-les-modeles-gpt-56-100691.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6..."
@@ -693,7 +717,7 @@
     {
       "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
       "source": "Le Monde Informatique",
-      "time": "2026-07-28T13:33:00.015Z",
+      "time": "2026-07-28T17:19:50.101Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -705,6 +729,22 @@
       "link": "https://www.zataz.com/reseaux-sociaux-ce-qui-changera-en-2026-et-2027/",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Réseaux sociaux: ce qui changera en 2026 et 2027..."
+    },
+    {
+      "title": "[CYBER] Cliquez pour prier pour exposer les données de plus de 700 000 fidèles",
+      "source": "Zataz",
+      "time": "2026-07-28T16:06:07.000Z",
+      "link": "https://www.zataz.com/click-to-pray-expose-les-donnees-de-719-517-fideles/",
+      "score": 90,
+      "summary": "Point de situation critique concernant : [CYBER] Cliquez pour prier pour exposer les données de plus de 700 000 fidèles..."
+    },
+    {
+      "title": "[CYBER] Wi-Fi public: ce que votre fournisseur, pirates et marketing peuvent voir",
+      "source": "Zataz",
+      "time": "2026-07-28T15:29:46.000Z",
+      "link": "https://www.zataz.com/wi-fi-public-ce-que-votre-fournisseur-pirates-et-marketing-peuvent-voir/",
+      "score": 90,
+      "summary": "Point de situation critique concernant : [CYBER] Wi-Fi public: ce que votre fournisseur, pirates et marketing peuvent voi..."
     }
   ]
 }
