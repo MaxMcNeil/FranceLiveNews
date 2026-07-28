@@ -21,10 +21,9 @@
   {
     "title": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue",
     "score": 97,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.cnews.fr/rss/categorie/faits%20divers"
     ],
     "items": [
@@ -35,14 +34,6 @@
         "link": "https://www.leparisien.fr/faits-divers/paris-un-mort-et-trois-blesses-apres-une-rixe-dans-le-xe-arrondissement-une-personne-en-garde-a-vue-24-07-2026-KEH6EDFVBJHL3A5LQDKDZ2F4C4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une p..."
-      },
-      {
-        "title": "En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 bouteilles de grands crus dans une maison évacuée en raison des incendies",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-26T11:06:57.000Z",
-        "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-un-homme-soupconne-du-vol-de-44-bouteilles-de-grands-crus-dans-une-maison-evacuee-a-eysines-interpelle_8122859.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 boute..."
       },
       {
         "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
@@ -61,7 +52,7 @@
         "summary": "un mort et plusieurs blessés après qu'un véhicule a percuté la foule"
       }
     ],
-    "summary": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue / En Gironde, un homme interpellé et placé en garde à vue après le vol de 44 bouteilles de grands crus dans une maison évacuée en raison des incendies"
+    "summary": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue / Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte"
   },
   {
     "title": "Britannique tuée en Dordogne en 2025 : une septuagénaire mise en examen",
@@ -83,31 +74,11 @@
     "summary": "Britannique tuée en Dordogne en 2025 : une septuagénaire mise en examen"
   },
   {
-    "title": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-07-26T11:25:24.000Z",
-        "link": "https://www.sudouest.fr/dordogne/deux-hommes-deja-condamnes-par-la-justice-interpelles-par-la-police-apres-des-vols-en-dordogne-30068844.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Deux hommes déjà condamnés par la justice, interpellés par la police après des v..."
-      }
-    ],
-    "summary": "Deux hommes déjà condamnés par la justice, interpellés par la police après des vols en Dordogne"
-  },
-  {
     "title": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ?",
     "score": 97,
     "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.mediapart.fr/articles/feed",
       "https://www.franceinfo.fr/faits-divers.rss"
@@ -116,18 +87,10 @@
       {
         "title": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.672Z",
+        "time": "2026-07-28T13:34:22.521Z",
         "link": "https://www.leparisien.fr/faits-divers/proche-de-letat-islamique-condamne-en-2026-qui-est-le-suspect-de-lattaque-terroriste-a-la-marche-des-fiertes-de-berlin-26-07-2026-XWBWTS6AE5G6JGYPQTBHSYK76E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque te..."
-      },
-      {
-        "title": "L’attaque contre la Marche des fiertés à Berlin était « un attentat terroriste islamiste », affirme le ministre de l’intérieur allemand",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-26T12:43:09.000Z",
-        "link": "https://www.lemonde.fr/international/article/2026/07/26/l-attaque-contre-la-marche-des-fiertes-a-berlin-etait-un-attentat-terroriste-islamiste-affirme-le-ministre-de-l-interieur-allemand_6732524_3211.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : L’attaque contre la Marche des fiertés à Berlin était « un attentat terroriste i..."
       },
       {
         "title": "Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 blessés lors de la marche des fiertés à Berlin",
@@ -152,9 +115,17 @@
         "link": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 90,
         "summary": "Point de situation critique concernant : Le suspect de l'attaque meurtrière survenue samedi soir à Berlin lors de la Marc..."
+      },
+      {
+        "title": "Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-28T13:34:22.520Z",
+        "link": "https://www.leparisien.fr/international/allemagne/attentat-a-la-marche-des-fiertes-de-berlin-lassaillant-avait-prete-allegeance-a-letat-islamique-dans-une-video-28-07-2026-FL5ZIBMIKVBWFDJ4JDGRNP4TUA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance..."
       }
     ],
-    "summary": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ? / L’attaque contre la Marche des fiertés à Berlin était « un attentat terroriste islamiste », affirme le ministre de l’intérieur allemand"
+    "summary": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ? / Ce que l’on sait de l’attentat terroriste islamiste qui a fait un mort et 29 blessés lors de la marche des fiertés à Berlin"
   },
   {
     "title": "Nyons. Un homme placé en garde à vue pour avoir menacé deux policiers",
@@ -319,7 +290,7 @@
       {
         "title": "Pas-de-Calais : un surveillant de collège mis en examen pour viol sur deux élèves",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.672Z",
+        "time": "2026-07-28T13:34:22.521Z",
         "link": "https://www.leparisien.fr/nord-59/pas-de-calais-un-surveillant-de-college-mis-en-examen-pour-viol-sur-deux-eleves-25-07-2026-NSMEXJZMXRBKZK3VX3JQZROUTQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Pas-de-Calais : un surveillant de collège mis en examen pour viol sur deux élève..."
@@ -359,7 +330,7 @@
       {
         "title": "Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres et traite d’êtres humains se poursuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.671Z",
+        "time": "2026-07-28T13:34:22.520Z",
         "link": "https://www.leparisien.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-identifies-lenquete-pour-meurtres-et-traite-detres-humains-se-poursuit-27-07-2026-WE5EKTVP6NG4FPBQLRTRFC7E3M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres ..."
@@ -408,6 +379,63 @@
     "summary": "Grenoble. « Comme il n’a pas dit non, pour moi, c’était oui » : un masseur condamné pour agressions sexuelles sur deux clients / Pas-de-Calais : un surveillant de collège mis en examen pour viol sur deux élèves"
   },
   {
+    "title": "Paris : un policier en garde à vue après avoir blessé par balle sa compagne, il pourrait s’agir d’un accident",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
+    ],
+    "items": [
+      {
+        "title": "Paris : un policier en garde à vue après avoir blessé par balle sa compagne, il pourrait s’agir d’un accident",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-07-28T10:57:55.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-07-28/paris-un-policier-en-garde-vue-apres-avoir-blesse-par-balle-sa-compagne-il",
+        "score": 97,
+        "summary": "un policier en garde à vue après avoir blessé par balle sa compagne, il pourrait s’agir d’un accident"
+      }
+    ],
+    "summary": "Paris : un policier en garde à vue après avoir blessé par balle sa compagne, il pourrait s’agir d’un accident"
+  },
+  {
+    "title": "JO 2030: «Ce contrat olympique est un scandale d’État»",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.mediapart.fr/articles/feed"
+    ],
+    "items": [
+      {
+        "title": "JO 2030: «Ce contrat olympique est un scandale d’État»",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-07-28T12:37:13.000Z",
+        "link": "https://www.mediapart.fr/journal/ecologie/280726/jo-2030-ce-contrat-olympique-est-un-scandale-d-etat",
+        "score": 97,
+        "summary": "Point de situation critique concernant : JO 2030: «Ce contrat olympique est un scandale d’État»..."
+      }
+    ],
+    "summary": "JO 2030: «Ce contrat olympique est un scandale d’État»"
+  },
+  {
+    "title": "Le gouvernement décore un homme d’affaires condamné par la justice",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.mediapart.fr/articles/feed"
+    ],
+    "items": [
+      {
+        "title": "Le gouvernement décore un homme d’affaires condamné par la justice",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-07-28T11:23:04.000Z",
+        "link": "https://www.mediapart.fr/journal/france/280726/le-gouvernement-decore-un-homme-d-affaires-condamne-par-la-justice",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le gouvernement décore un homme d’affaires condamné par la justice..."
+      }
+    ],
+    "summary": "Le gouvernement décore un homme d’affaires condamné par la justice"
+  },
+  {
     "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
     "score": 93,
     "count": 2,
@@ -419,7 +447,7 @@
       {
         "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.671Z",
+        "time": "2026-07-28T13:34:22.520Z",
         "link": "https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctio..."
@@ -514,10 +542,9 @@
   {
     "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -527,17 +554,9 @@
         "link": "https://www.leparisien.fr/faits-divers/ils-nous-ont-violees-tous-les-deux-ghislaine-maxwell-et-jeffrey-epstein-dans-le-vice-et-dans-le-crime-24-07-2026-IP2CNZY4KFEVZG45B3FTJBI4QY.php",
         "score": 90,
         "summary": "Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
-      },
-      {
-        "title": "« Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholique, dix ans après son assassinat dans l’église de Saint-Etienne-du-Rouvray",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-26T10:31:24.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/07/26/assassinat-du-pere-hamel-en-2016-la-france-rend-hommage-au-pretre-tue-dans-un-attentat-a-saint-etienne-du-rouvray_6733251_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholiqu..."
       }
     ],
-    "summary": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime / « Nous n’oublions pas le père Jacques Hamel » : des hommages au prêtre catholique, dix ans après son assassinat dans l’église de Saint-Etienne-du-Rouvray"
+    "summary": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
   },
   {
     "title": "25 ans de réclusion pour le meurtrier schizophrène de Michel, retraité tué de 18 coups de couteau à Trappes",
@@ -618,7 +637,7 @@
   {
     "title": "Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après une sortie en bateau avec ses amis",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -630,9 +649,17 @@
         "link": "https://www.leparisien.fr/faits-divers/mystere-autour-du-deces-de-nolan-wells-un-jeune-americain-retrouve-mort-apres-une-sortie-en-bateau-avec-ses-amis-23-07-2026-O4QAIVNCHBERZDMQED3I4LUEH4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après u..."
+      },
+      {
+        "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-28T13:34:22.520Z",
+        "link": "https://www.leparisien.fr/faits-divers/en-belgique-un-homme-tire-sur-des-gens-du-voyage-et-est-retrouve-mort-apres-avoir-pris-la-fuite-28-07-2026-YNPFHQFDRVDA3N5LE7CJR4QJR4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avo..."
       }
     ],
-    "summary": "Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après une sortie en bateau avec ses amis"
+    "summary": "Mystère autour du décès de Nolan Wells, un jeune Américain retrouvé mort après une sortie en bateau avec ses amis / En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite"
   },
   {
     "title": "Wyylde : c’est quoi ce site Internet aux 5 millions d’utilisateurs, soupçonné d’avoir hébergé des vidéos de viols en direct ?",
@@ -682,41 +709,23 @@
     "summary": "Inédit en Eure-et-Loir : un hélicoptère bombardier d’eau déployé pour la première fois face à un violent incendie"
   },
   {
-    "title": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray",
+    "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
     "score": 90,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-26T12:55:42.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/saint-etienne-du-rouvray/dix-ans-apres-la-france-rend-hommage-au-pere-hamel-tue-dans-un-attentat-a-saint-etienne-du-rouvray_8122601.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint..."
-      },
-      {
         "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.672Z",
+        "time": "2026-07-28T13:34:22.521Z",
         "link": "https://www.leparisien.fr/faits-divers/la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-26-07-2026-4YKM3VYUTZDKRBSBKABYBWHXMU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans..."
-      },
-      {
-        "title": "A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Eglise et de la République au père Hamel",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-26T15:31:03.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/07/26/a-saint-etienne-du-rouvray-dix-ans-apres-l-attentat-un-hommage-commun-de-l-eglise-et-de-la-republique-au-pere-hamel_6733362_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Egl..."
       }
     ],
-    "summary": "Dix ans après, la France rend hommage au père Hamel tué dans un attentat à Saint-Etienne-du-Rouvray / La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans"
+    "summary": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans"
   },
   {
     "title": "À Saint-Étienne-du-Rouvray, l’hommage au père Hamel, 10 ans après son assassinat",
@@ -755,6 +764,25 @@
       }
     ],
     "summary": "Attentat islamiste à la gay pride de Berlin : ce que l'on sait du suspect de 21 ans tué"
+  },
+  {
+    "title": "A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Eglise et de la République au père Hamel",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Eglise et de la République au père Hamel",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-07-26T15:31:03.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/07/26/a-saint-etienne-du-rouvray-dix-ans-apres-l-attentat-un-hommage-commun-de-l-eglise-et-de-la-republique-au-pere-hamel_6733362_3224.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Egl..."
+      }
+    ],
+    "summary": "A Saint-Etienne-du-Rouvray, dix ans après l’attentat, un hommage commun de l’Eglise et de la République au père Hamel"
   },
   {
     "title": "Assassinat de Karen Carter en Dordogne : le profil trouble de la principale suspecte",
@@ -881,7 +909,7 @@
       {
         "title": "Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonaise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.671Z",
+        "time": "2026-07-28T13:34:22.520Z",
         "link": "https://www.leparisien.fr/faits-divers/berlin-la-femme-decedee-dans-lattentat-de-la-marche-des-fiertes-etait-polonaise-27-07-2026-WT5SPCH3GFANJPYA2LYHUF6RDQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonai..."
@@ -919,7 +947,7 @@
       {
         "title": "Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visage « déchiqueté »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.671Z",
+        "time": "2026-07-28T13:34:22.520Z",
         "link": "https://www.leparisien.fr/faits-divers/une-americaine-enceinte-de-jumeaux-violemment-attaquee-par-un-pitbull-son-visage-dechiquete-27-07-2026-YBNGHRSCINBJZOFHG4P4KMTLPE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visag..."
@@ -1014,7 +1042,7 @@
       {
         "title": "Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T10:26:46.671Z",
+        "time": "2026-07-28T13:34:22.520Z",
         "link": "https://www.leparisien.fr/faits-divers/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-27-07-2026-HCLYLKVV5VHEFPU7YR57356LPY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente..."
@@ -1061,6 +1089,44 @@
     "summary": "Narcotrafic : \"Ce pays s'est endormi face à un monstre qui aujourd'hui s'est infiltré partout\", estime Amine Kessaci"
   },
   {
+    "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-28T13:34:22.520Z",
+        "link": "https://www.leparisien.fr/faits-divers/droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-de-rungis-une-enquete-ouverte-apres-la-plainte-dune-femme-de-20-ans-28-07-2026-CXB6O7ITC5AGHLAOEV2JWIS2ME.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquêt..."
+      }
+    ],
+    "summary": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans"
+  },
+  {
+    "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-28T13:34:22.520Z",
+        "link": "https://www.leparisien.fr/faits-divers/souffrant-de-violentes-douleurs-a-lestomac-une-allemande-decouvre-sa-grossesse-et-accouche-sur-un-parking-en-pleine-nuit-28-07-2026-QRRWLMIPLVHOTM777QFMFPW72Y.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse..."
+      }
+    ],
+    "summary": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit"
+  },
+  {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
     "score": 90,
     "count": 1,
@@ -1071,7 +1137,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:24:48.218Z",
+        "time": "2026-07-28T13:33:02.567Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -1090,7 +1156,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:24:50.473Z",
+        "time": "2026-07-28T13:33:04.089Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -1109,7 +1175,7 @@
       {
         "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:24:54.618Z",
+        "time": "2026-07-28T13:33:06.797Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -1128,7 +1194,7 @@
       {
         "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:24:57.293Z",
+        "time": "2026-07-28T13:33:08.614Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -1147,7 +1213,7 @@
       {
         "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:25:00.675Z",
+        "time": "2026-07-28T13:33:10.772Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -1166,7 +1232,7 @@
       {
         "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:25:05.478Z",
+        "time": "2026-07-28T13:33:13.895Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -1185,7 +1251,7 @@
       {
         "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:25:08.772Z",
+        "time": "2026-07-28T13:33:16.046Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -1204,7 +1270,7 @@
       {
         "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:25:12.736Z",
+        "time": "2026-07-28T13:33:18.675Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -1223,7 +1289,7 @@
       {
         "title": "[CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:25:17.780Z",
+        "time": "2026-07-28T13:33:21.491Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-decide-de-lancer-sans-restriction-les-modeles-gpt-56-100691.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6..."
@@ -1337,12 +1403,31 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T10:24:44.292Z",
+        "time": "2026-07-28T13:33:00.015Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
       }
     ],
     "summary": "[CYBER] L'homme d'aujourd'hui Claude Opus 5"
+  },
+  {
+    "title": "[CYBER] Réseaux sociaux: ce qui changera en 2026 et 2027",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Réseaux sociaux: ce qui changera en 2026 et 2027",
+        "source": "Zataz",
+        "time": "2026-07-28T12:56:07.000Z",
+        "link": "https://www.zataz.com/reseaux-sociaux-ce-qui-changera-en-2026-et-2027/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Réseaux sociaux: ce qui changera en 2026 et 2027..."
+      }
+    ],
+    "summary": "[CYBER] Réseaux sociaux: ce qui changera en 2026 et 2027"
   }
 ]
