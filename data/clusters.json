@@ -84,7 +84,7 @@
       {
         "title": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.165Z",
+        "time": "2026-07-29T01:28:43.911Z",
         "link": "https://www.leparisien.fr/faits-divers/proche-de-letat-islamique-condamne-en-2026-qui-est-le-suspect-de-lattaque-terroriste-a-la-marche-des-fiertes-de-berlin-26-07-2026-XWBWTS6AE5G6JGYPQTBHSYK76E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque te..."
@@ -92,7 +92,7 @@
       {
         "title": "Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/international/allemagne/attentat-a-la-marche-des-fiertes-de-berlin-lassaillant-avait-prete-allegeance-a-letat-islamique-dans-une-video-28-07-2026-FL5ZIBMIKVBWFDJ4JDGRNP4TUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance..."
@@ -159,11 +159,12 @@
   {
     "title": "« Il a verrouillé la vie de sa compagne » : un homme condamné à six mois de prison ferme pour harcèlement moral sur sa conjointe",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
@@ -190,6 +191,14 @@
         "link": "https://www.cnews.fr/faits-divers/2026-07-28/un-sexagenaire-condamne-pour-harcelement-sexuel-par-telephone-sur-de",
         "score": 97,
         "summary": "Point de situation critique concernant : Un sexagénaire condamné pour harcèlement sexuel par téléphone sur de vieilles da..."
+      },
+      {
+        "title": "Un adolescent américain condamné à la prison à vie pour avoir tué quatre personnes dans une école",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-28T23:34:57.000Z",
+        "link": "https://www.lefigaro.fr/flash-actu/un-adolescent-americain-condamne-a-la-prison-a-vie-pour-avoir-tue-quatre-personnes-dans-une-ecole-20260729",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un adolescent américain condamné à la prison à vie pour avoir tué quatre personn..."
       },
       {
         "title": "Une mosquée d’Aulnay-sous-Bois fermée six mois pour incitation à la violence et apologie du terrorisme",
@@ -339,7 +348,7 @@
       {
         "title": "Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres et traite d’êtres humains se poursuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.164Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-identifies-lenquete-pour-meurtres-et-traite-detres-humains-se-poursuit-27-07-2026-WE5EKTVP6NG4FPBQLRTRFC7E3M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres ..."
@@ -459,7 +468,7 @@
       {
         "title": "Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspect levée pour raison psychiatrique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/paris-75/attaque-au-couteau-pres-de-la-porte-de-clichy-a-paris-la-garde-a-vue-du-suspect-levee-pour-raison-psychiatrique-28-07-2026-7X2MNURPZFDDHDF7WFYF6P3KDM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspec..."
@@ -519,6 +528,34 @@
     "summary": "Malgré la chute de la natalité, Okaïdi sort la tête de l'eau: l'enseigne de vêtements pour enfants n'est plus en redressement judiciaire mais cela lui coûte 244 postes et 57 magasins"
   },
   {
+    "title": "Savoie. Il met le feu à deux terrains dans le centre-ville d'Albertville : un quadragénaire condamné à deux ans de prison",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Savoie. Il met le feu à deux terrains dans le centre-ville d'Albertville : un quadragénaire condamné à deux ans de prison",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-07-28T17:39:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/28/il-met-le-feu-a-deux-terrains-dans-le-centre-ville-d-albertville-un-quadragenaire-condamne-a-deux-ans-de-prison",
+        "score": 97,
+        "summary": "un quadragénaire condamné à deux ans de prison"
+      },
+      {
+        "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-27T14:13:11.153Z",
+        "link": "https://www.leparisien.fr/faits-divers/ils-nous-ont-violees-tous-les-deux-ghislaine-maxwell-et-jeffrey-epstein-dans-le-vice-et-dans-le-crime-24-07-2026-IP2CNZY4KFEVZG45B3FTJBI4QY.php",
+        "score": 90,
+        "summary": "Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
+      }
+    ],
+    "summary": "Savoie. Il met le feu à deux terrains dans le centre-ville d'Albertville : un quadragénaire condamné à deux ans de prison / « Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
+  },
+  {
     "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
     "score": 93,
     "count": 2,
@@ -530,7 +567,7 @@
       {
         "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.164Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctio..."
@@ -621,25 +658,6 @@
       }
     ],
     "summary": "Des touristes flamands découvrent que leur Airbnb de Troyes a été mis sous scellés pour « tentative de meurtre »"
-  },
-  {
-    "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-27T14:13:11.153Z",
-        "link": "https://www.leparisien.fr/faits-divers/ils-nous-ont-violees-tous-les-deux-ghislaine-maxwell-et-jeffrey-epstein-dans-le-vice-et-dans-le-crime-24-07-2026-IP2CNZY4KFEVZG45B3FTJBI4QY.php",
-        "score": 90,
-        "summary": "Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
-      }
-    ],
-    "summary": "« Ils nous ont violées tous les deux » : Ghislaine Maxwell et Jeffrey Epstein, dans le vice et dans le crime"
   },
   {
     "title": "25 ans de réclusion pour le meurtrier schizophrène de Michel, retraité tué de 18 coups de couteau à Trappes",
@@ -736,7 +754,7 @@
       {
         "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/en-belgique-un-homme-tire-sur-des-gens-du-voyage-et-est-retrouve-mort-apres-avoir-pris-la-fuite-28-07-2026-YNPFHQFDRVDA3N5LE7CJR4QJR4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avo..."
@@ -802,7 +820,7 @@
       {
         "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.165Z",
+        "time": "2026-07-29T01:28:43.911Z",
         "link": "https://www.leparisien.fr/faits-divers/la-france-rend-hommage-au-pere-jacques-hamel-tue-dans-un-attentat-il-y-a-dix-ans-26-07-2026-4YKM3VYUTZDKRBSBKABYBWHXMU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans..."
@@ -878,7 +896,7 @@
       {
         "title": "Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonaise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.164Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/berlin-la-femme-decedee-dans-lattentat-de-la-marche-des-fiertes-etait-polonaise-27-07-2026-WT5SPCH3GFANJPYA2LYHUF6RDQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonai..."
@@ -916,7 +934,7 @@
       {
         "title": "Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visage « déchiqueté »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.164Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/une-americaine-enceinte-de-jumeaux-violemment-attaquee-par-un-pitbull-son-visage-dechiquete-27-07-2026-YBNGHRSCINBJZOFHG4P4KMTLPE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visag..."
@@ -1011,7 +1029,7 @@
       {
         "title": "Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.164Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-27-07-2026-HCLYLKVV5VHEFPU7YR57356LPY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente..."
@@ -1030,7 +1048,7 @@
       {
         "title": "Meurtre de Thomas Perotto, à Crépol, en 2023 : « A partir du moment où le racisme anti-Blanc existe, la justice doit le caractériser »",
         "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-07-28T08:00:59.000Z",
+        "time": "2026-07-28T08:00:58.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/07/28/meurtre-de-thomas-perotto-a-crepol-en-2023-a-partir-du-moment-ou-le-racisme-anti-blanc-existe-la-justice-doit-le-caracteriser_6734908_3224.html",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de Thomas Perotto, à Crépol, en 2023 : « A partir du moment où le racism..."
@@ -1068,7 +1086,7 @@
       {
         "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-de-rungis-une-enquete-ouverte-apres-la-plainte-dune-femme-de-20-ans-28-07-2026-CXB6O7ITC5AGHLAOEV2JWIS2ME.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquêt..."
@@ -1087,51 +1105,13 @@
       {
         "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
+        "time": "2026-07-29T01:28:43.910Z",
         "link": "https://www.leparisien.fr/faits-divers/souffrant-de-violentes-douleurs-a-lestomac-une-allemande-decouvre-sa-grossesse-et-accouche-sur-un-parking-en-pleine-nuit-28-07-2026-QRRWLMIPLVHOTM777QFMFPW72Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse..."
       }
     ],
     "summary": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit"
-  },
-  {
-    "title": "Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue à Bruxelles, un suspect incarcéré",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue à Bruxelles, un suspect incarcéré",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
-        "link": "https://www.leparisien.fr/sports/football/football-un-joueur-de-lunion-saint-gilloise-violemment-agresse-en-pleine-rue-a-bruxelles-un-suspect-incarcere-28-07-2026-GZ552UVUYFHFXI2PL7OSKJEAX4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue ..."
-      }
-    ],
-    "summary": "Football : un joueur de l’Union Saint-Gilloise violemment agressé en pleine rue à Bruxelles, un suspect incarcéré"
-  },
-  {
-    "title": "Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech continue de susciter des vocations en Europe",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech continue de susciter des vocations en Europe",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-28T21:03:48.163Z",
-        "link": "https://www.leparisien.fr/international/allemagne/attentat-de-berlin-un-etat-islamique-fantasme-comment-meme-affaibli-daech-continue-de-susciter-des-vocations-en-europe-28-07-2026-WTXS5QDFXRHCHHG4VHEBA6NTK4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech..."
-      }
-    ],
-    "summary": "Attentat de Berlin : « Un État islamique fantasmé », comment même affaibli Daech continue de susciter des vocations en Europe"
   },
   {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
@@ -1144,7 +1124,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:14.462Z",
+        "time": "2026-07-29T01:27:15.232Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -1163,7 +1143,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:16.095Z",
+        "time": "2026-07-29T01:27:16.725Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -1182,7 +1162,7 @@
       {
         "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:19.003Z",
+        "time": "2026-07-29T01:27:19.490Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -1201,7 +1181,7 @@
       {
         "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:20.877Z",
+        "time": "2026-07-29T01:27:21.239Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -1220,7 +1200,7 @@
       {
         "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:23.133Z",
+        "time": "2026-07-29T01:27:23.400Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -1239,7 +1219,7 @@
       {
         "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:26.465Z",
+        "time": "2026-07-29T01:27:26.533Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -1258,7 +1238,7 @@
       {
         "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:28.727Z",
+        "time": "2026-07-29T01:27:28.690Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -1277,7 +1257,7 @@
       {
         "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:31.544Z",
+        "time": "2026-07-29T01:27:31.284Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -1296,7 +1276,7 @@
       {
         "title": "[CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:34.571Z",
+        "time": "2026-07-29T01:27:34.095Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-decide-de-lancer-sans-restriction-les-modeles-gpt-56-100691.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture des déploiements sans restriction aux modèles GPT-5.6..."
@@ -1419,7 +1399,7 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-07-28T21:02:11.687Z",
+        "time": "2026-07-29T01:27:12.679Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
