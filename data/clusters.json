@@ -21,7 +21,7 @@
   {
     "title": "Paris : un mort et trois blessés après une rixe dans le Xe arrondissement, une personne en garde à vue",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml"
@@ -50,6 +50,14 @@
         "link": "https://www.sudouest.fr/faits-divers/grandes-affaires/grands-faits-divers/une-femme-decede-dans-un-institut-de-beaute-a-nice-enquete-ouverte-pour-exercice-illegal-de-la-medecine-trois-personnes-en-garde-a-vue-30101045.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une femme décède dans un institut de beauté à Nice, enquête ouverte pour exercic..."
+      },
+      {
+        "title": "Nice : une femme retrouvée morte dans un salon d’esthétique, trois personnes placées en garde à vue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-07-29T13:46:56.397Z",
+        "link": "https://www.leparisien.fr/faits-divers/nice-une-femme-retrouvee-morte-dans-un-salon-desthetique-trois-personnes-placees-en-garde-a-vue-29-07-2026-I2ZNLCQ265DLRF6YOO7UZ6LLGA.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Nice : une femme retrouvée morte dans un salon d’esthétique, trois personnes pla..."
       },
       {
         "title": "Guadeloupe : un mort et quatre blessés graves dans l’explosion d’une distillerie, une enquête ouverte",
@@ -81,32 +89,13 @@
       {
         "title": "Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/international/allemagne/attentat-a-la-marche-des-fiertes-de-berlin-lassaillant-avait-prete-allegeance-a-letat-islamique-dans-une-video-28-07-2026-FL5ZIBMIKVBWFDJ4JDGRNP4TUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance..."
       }
     ],
     "summary": "Proche de l’État islamique, condamné en 2026… Qui est le suspect de l’attaque terroriste à la marche des fiertés de Berlin ? / Attentat à la marche des fiertés de Berlin : l’assaillant avait prêté allégeance à l’État islamique dans une vidéo"
-  },
-  {
-    "title": "Haute-Savoie. Après le départ de 250 caravanes, les accès au terrain ont été condamnés",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Haute-Savoie. Après le départ de 250 caravanes, les accès au terrain ont été condamnés",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-07-27T10:49:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/27/apres-le-depart-de-250-caravanes-les-acces-au-terrain-ont-ete-condamnes",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Haute-Savoie. Après le départ de 250 caravanes, les accès au terrain ont été con..."
-      }
-    ],
-    "summary": "Haute-Savoie. Après le départ de 250 caravanes, les accès au terrain ont été condamnés"
   },
   {
     "title": "Vol du trésor de Vix : un suspect placé en garde à vue après le cambriolage du musée du Châtillonnais",
@@ -278,7 +267,7 @@
   {
     "title": "Grenoble. « Comme il n’a pas dit non, pour moi, c’était oui » : un masseur condamné pour agressions sexuelles sur deux clients",
     "score": 97,
-    "count": 12,
+    "count": 11,
     "sources": [
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
@@ -305,7 +294,7 @@
       {
         "title": "Condamné à 30 ans de réclusion criminelle pour « complicité de terrorisme », le frère de Mohamed Merah a demandé à la justice de réduire sa peine de sûreté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.157Z",
+        "time": "2026-07-29T13:46:56.397Z",
         "link": "https://www.leparisien.fr/faits-divers/condamne-a-30-ans-de-reclusion-criminelle-pour-complicite-de-terrorisme-le-frere-de-mohamed-merah-a-demande-a-la-justice-de-reduire-sa-peine-de-surete-29-07-2026-2QKHHGAXQVAVVBRGDHLDMEMYKU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Condamné à 30 ans de réclusion criminelle pour « complicité de terrorisme », le ..."
@@ -337,18 +326,10 @@
       {
         "title": "Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres et traite d’êtres humains se poursuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-identifies-lenquete-pour-meurtres-et-traite-detres-humains-se-poursuit-27-07-2026-WE5EKTVP6NG4FPBQLRTRFC7E3M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus identifiés, l’enquête pour meurtres ..."
-      },
-      {
-        "title": "Var : les corps de deux militaires disparus en 2022 et 2023 identifiés, l’enquête pour meurtres se poursuit",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-07-27T13:25:23.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/var-les-corps-de-deux-militaires-disparus-en-2022-et-2023-identifies-l-enquete-pour-meurtres-se-poursuit-30081503.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Var : les corps de deux militaires disparus en 2022 et 2023 identifiés, l’enquêt..."
       },
       {
         "title": "Deux des mis en examen dans la mort de Quentin Deranque déposent plainte contre des militants d'ultradroite pour des violences",
@@ -457,7 +438,7 @@
       {
         "title": "Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspect levée pour raison psychiatrique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.157Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/paris-75/attaque-au-couteau-pres-de-la-porte-de-clichy-a-paris-la-garde-a-vue-du-suspect-levee-pour-raison-psychiatrique-28-07-2026-7X2MNURPZFDDHDF7WFYF6P3KDM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Attaque au couteau près de la Porte de Clichy à Paris : la garde à vue du suspec..."
@@ -560,7 +541,7 @@
       {
         "title": "Bébés retrouvés morts à Orange : la mère de famille placée en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.157Z",
+        "time": "2026-07-29T13:46:56.397Z",
         "link": "https://www.leparisien.fr/faits-divers/bebes-retrouves-morts-a-orange-la-mere-de-famille-placee-en-garde-a-vue-29-07-2026-T4X2WMCNCZE7VOTBK4XK3M3G2M.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Bébés retrouvés morts à Orange : la mère de famille placée en garde à vue..."
@@ -574,20 +555,20 @@
         "summary": "Point de situation critique concernant : A Orange, la mère des cinq bébés retrouvés morts placée en garde à vue..."
       },
       {
-        "title": "Nouveau-nés retrouvés morts à Orange : une mère de famille placée en garde à vue",
+        "title": "Cinq nouveau-nés retrouvés morts à Orange : une mère de famille et son compagnon placés en garde à vue",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-07-29T09:08:07.000Z",
+        "time": "2026-07-29T12:24:11.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/nouveau-nes-retrouves-morts-a-orange-une-mere-de-famille-placee-en-garde-a-vue_8126807.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
-        "summary": "Point de situation critique concernant : Nouveau-nés retrouvés morts à Orange : une mère de famille placée en garde à vue..."
+        "summary": "Point de situation critique concernant : Cinq nouveau-nés retrouvés morts à Orange : une mère de famille et son compagnon..."
       },
       {
-        "title": "Vaucluse. Cinq bébés morts retrouvés à Orange : la mère placée en garde à vue",
+        "title": "Vaucluse. Cinq bébés morts retrouvés à Orange : la mère et son compagnon placés en garde à vue",
         "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
         "time": "2026-07-29T09:03:00.000Z",
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/29/cinq-bebes-morts-retrouves-a-orange-la-mere-placee-en-garde-a-vue",
         "score": 97,
-        "summary": "la mère placée en garde à vue"
+        "summary": "Point de situation critique concernant : Vaucluse. Cinq bébés morts retrouvés à Orange : la mère et son compagnon placés ..."
       },
       {
         "title": "Bébés retrouvés morts à Orange : la mère de famille placée en garde à vue",
@@ -609,6 +590,82 @@
     "summary": "Bébés retrouvés morts à Orange : la mère de famille placée en garde à vue / A Orange, la mère des cinq bébés retrouvés morts placée en garde à vue"
   },
   {
+    "title": "Briançon. Voiture volée et brûlée : trois mineurs en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Briançon. Voiture volée et brûlée : trois mineurs en garde à vue",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-07-29T13:07:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/07/29/voiture-volee-et-brulee-trois-mineurs-en-garde-a-vue",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Briançon. Voiture volée et brûlée : trois mineurs en garde à vue..."
+      }
+    ],
+    "summary": "Briançon. Voiture volée et brûlée : trois mineurs en garde à vue"
+  },
+  {
+    "title": "Incendie en Gironde : un drame marqué par des actes de pillage et d’escroquerie commis au préjudice de victimes fragilisées",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.cnews.fr/rss/categorie/faits%20divers"
+    ],
+    "items": [
+      {
+        "title": "Incendie en Gironde : un drame marqué par des actes de pillage et d’escroquerie commis au préjudice de victimes fragilisées",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-07-29T10:43:15.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-07-29/incendie-en-gironde-un-drame-marque-par-des-actes-de-pillage-et",
+        "score": 97,
+        "summary": "un drame marqué par des actes de pillage et d’escroquerie commis au préjudice de victimes fragilisées"
+      }
+    ],
+    "summary": "Incendie en Gironde : un drame marqué par des actes de pillage et d’escroquerie commis au préjudice de victimes fragilisées"
+  },
+  {
+    "title": "Après sa démission annulée, Monique Barbut a suivi les réunions de crise sur les incendies depuis sa résidence secondaire dans le Var",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.francetvinfo.fr/politique.rss"
+    ],
+    "items": [
+      {
+        "title": "Après sa démission annulée, Monique Barbut a suivi les réunions de crise sur les incendies depuis sa résidence secondaire dans le Var",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-07-29T12:41:17.000Z",
+        "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/apres-sa-demission-annulee-monique-barbut-a-suivi-les-reunions-de-crise-sur-les-incendies-depuis-sa-residence-secondaire-dans-le-var_8127047.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Après sa démission annulée, Monique Barbut a suivi les réunions de crise sur les..."
+      }
+    ],
+    "summary": "Après sa démission annulée, Monique Barbut a suivi les réunions de crise sur les incendies depuis sa résidence secondaire dans le Var"
+  },
+  {
+    "title": "Cambriolages, escroqueries : certains profitent-ils de l’incendie en Gironde pour «piller» les habitations évacuées ?",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Cambriolages, escroqueries : certains profitent-ils de l’incendie en Gironde pour «piller» les habitations évacuées ?",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-29T13:10:32.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/cambriolages-escroqueries-certains-profitent-ils-de-l-incendie-en-gironde-pour-piller-les-habitations-evacuees-20260729",
+        "score": 97,
+        "summary": "certains profitent-ils de l’incendie en Gironde pour «piller» les habitations évacuées ?"
+      }
+    ],
+    "summary": "Cambriolages, escroqueries : certains profitent-ils de l’incendie en Gironde pour «piller» les habitations évacuées ?"
+  },
+  {
     "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
     "score": 93,
     "count": 2,
@@ -620,7 +677,7 @@
       {
         "title": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/incendies-cinq-sdis-victimes-de-cyberattaques-sans-incidence-sur-leur-fonctionnement-27-07-2026-PY4CBMBQD5BSFDJTQDMEVW6ARE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctio..."
@@ -635,6 +692,25 @@
       }
     ],
     "summary": "Incendies : cinq Sdis victimes de cyberattaques, sans incidence sur leur fonctionnement / Cybercriminalité : cinq Sdis, dont celui des Landes, victimes de piratage informatique, « pas d’impact sur leur fonctionnement »"
+  },
+  {
+    "title": "Piratage «sans précédent» : OpenAI annonce que ses modèles d’IA se sont introduits sur quatre autres plateformes",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Piratage «sans précédent» : OpenAI annonce que ses modèles d’IA se sont introduits sur quatre autres plateformes",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-07-29T13:38:38.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-openai-annonce-que-ses-modeles-se-sont-introduits-sur-quatre-autres-plateformes-20260729",
+        "score": 93,
+        "summary": "OpenAI annonce que ses modèles d’IA se sont introduits sur quatre autres plateformes"
+      }
+    ],
+    "summary": "Piratage «sans précédent» : OpenAI annonce que ses modèles d’IA se sont introduits sur quatre autres plateformes"
   },
   {
     "title": "« Elle a subi la même chose que Gisèle Pelicot » : le combat de Jeanne, qui accuse son ex-mari de viols sur elle et sa fille",
@@ -751,44 +827,6 @@
     "summary": "« Regarde, on m’a volé mon alliance ! » : partout en France, d’étranges disparitions dans les Ehpad"
   },
   {
-    "title": "Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-27T11:03:57.802Z",
-        "link": "https://www.leparisien.fr/faits-divers/viol-dune-octogenaire-a-rennes-un-mineur-isole-mis-en-examen-et-incarcere-23-07-2026-7WINMY5GFBHNPNLMRPMON66JHQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré..."
-      }
-    ],
-    "summary": "Viol d’une octogénaire à Rennes : un mineur isolé mis en examen et incarcéré"
-  },
-  {
-    "title": "Handball : Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Handball : Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-27T11:03:57.802Z",
-        "link": "https://www.leparisien.fr/sports/handball/handball-cesson-rennes-met-a-pied-un-joueur-mis-en-examen-pour-viol-sur-sa-compagne-23-07-2026-PJ56PS7XPNB6JHU25HTAAMW44E.php",
-        "score": 90,
-        "summary": "Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne"
-      }
-    ],
-    "summary": "Handball : Cesson-Rennes met à pied un joueur mis en examen pour viol sur sa compagne"
-  },
-  {
     "title": "La France rend hommage au père Jacques Hamel tué dans un attentat il y a dix ans",
     "score": 90,
     "count": 1,
@@ -818,7 +856,7 @@
       {
         "title": "Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonaise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/berlin-la-femme-decedee-dans-lattentat-de-la-marche-des-fiertes-etait-polonaise-27-07-2026-WT5SPCH3GFANJPYA2LYHUF6RDQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Berlin : la femme décédée dans l’attentat de la marche des fiertés était polonai..."
@@ -856,7 +894,7 @@
       {
         "title": "Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visage « déchiqueté »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/une-americaine-enceinte-de-jumeaux-violemment-attaquee-par-un-pitbull-son-visage-dechiquete-27-07-2026-YBNGHRSCINBJZOFHG4P4KMTLPE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une Américaine enceinte de jumeaux violemment attaquée par un pitbull, son visag..."
@@ -970,7 +1008,7 @@
       {
         "title": "Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/le-chanteur-americain-d4vd-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-27-07-2026-HCLYLKVV5VHEFPU7YR57356LPY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le chanteur américain D4vd sera jugé pour avoir tué et démembré une adolescente..."
@@ -983,12 +1021,12 @@
     "score": 90,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/justice/rss_full.xml"
     ],
     "items": [
       {
         "title": "Meurtre de Thomas Perotto, à Crépol, en 2023 : « A partir du moment où le racisme anti-Blanc existe, la justice doit le caractériser »",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-07-28T08:00:58.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/07/28/meurtre-de-thomas-perotto-a-crepol-en-2023-a-partir-du-moment-ou-le-racisme-anti-blanc-existe-la-justice-doit-le-caracteriser_6734908_3224.html",
         "score": 90,
@@ -1027,7 +1065,7 @@
       {
         "title": "Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquête ouverte après la plainte d’une femme de 20 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-de-rungis-une-enquete-ouverte-apres-la-plainte-dune-femme-de-20-ans-28-07-2026-CXB6O7ITC5AGHLAOEV2JWIS2ME.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Droguée, enlevée et violée après une soirée au Metropolis de Rungis : une enquêt..."
@@ -1046,51 +1084,13 @@
       {
         "title": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
+        "time": "2026-07-29T13:46:56.398Z",
         "link": "https://www.leparisien.fr/faits-divers/souffrant-de-violentes-douleurs-a-lestomac-une-allemande-decouvre-sa-grossesse-et-accouche-sur-un-parking-en-pleine-nuit-28-07-2026-QRRWLMIPLVHOTM777QFMFPW72Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse..."
       }
     ],
     "summary": "Souffrant de violentes douleurs à l’estomac, une Allemande découvre sa grossesse et accouche sur un parking en pleine nuit"
-  },
-  {
-    "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.158Z",
-        "link": "https://www.leparisien.fr/faits-divers/en-belgique-un-homme-tire-sur-des-gens-du-voyage-et-est-retrouve-mort-apres-avoir-pris-la-fuite-28-07-2026-YNPFHQFDRVDA3N5LE7CJR4QJR4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avo..."
-      }
-    ],
-    "summary": "En Belgique, un homme tire sur des gens du voyage et est retrouvé mort après avoir pris la fuite"
-  },
-  {
-    "title": "Militaires tués dans le Var : ce clan familial à la réputation sulfureuse au cœur de l’enquête",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Militaires tués dans le Var : ce clan familial à la réputation sulfureuse au cœur de l’enquête",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-07-29T10:31:14.157Z",
-        "link": "https://www.leparisien.fr/faits-divers/militaires-tues-dans-le-var-ce-clan-familial-a-la-reputation-sulfureuse-au-coeur-de-lenquete-29-07-2026-K53WGRNA2NE7DDVML4AO3LIAVA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Militaires tués dans le Var : ce clan familial à la réputation sulfureuse au cœu..."
-      }
-    ],
-    "summary": "Militaires tués dans le Var : ce clan familial à la réputation sulfureuse au cœur de l’enquête"
   },
   {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
@@ -1103,7 +1103,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:40.973Z",
+        "time": "2026-07-29T13:45:30.432Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -1122,7 +1122,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:42.521Z",
+        "time": "2026-07-29T13:45:31.929Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -1141,7 +1141,7 @@
       {
         "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:45.425Z",
+        "time": "2026-07-29T13:45:34.675Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -1160,7 +1160,7 @@
       {
         "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:47.258Z",
+        "time": "2026-07-29T13:45:36.436Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -1179,7 +1179,7 @@
       {
         "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:49.516Z",
+        "time": "2026-07-29T13:45:38.675Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -1198,7 +1198,7 @@
       {
         "title": "[CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels d'entreprise",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:52.818Z",
+        "time": "2026-07-29T13:45:41.784Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-api-publiques-de-github-detournees-pour-cartographier-les-logiciels-d-entreprise-100699.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les API publiques de GitHub sont destinées à cartographier les logiciels..."
@@ -1217,7 +1217,7 @@
       {
         "title": "[CYBER] Infoblox a acquis Kentik pour renforcer la visibilité",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:55.082Z",
+        "time": "2026-07-29T13:45:44.020Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-infoblox-acquiert-kentik-pour-renforcer-l-observabilite-reseau-100696.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Infoblox a acquis Kentik pour renforcer la visibilité..."
@@ -1236,7 +1236,7 @@
       {
         "title": "[CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:57.857Z",
+        "time": "2026-07-29T13:45:46.580Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-l-ue-poursuit-la-france-pour-non-transposition-de-la-directive-nis-2-100692.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'UE poursuit la France pour non transposition de la directive NIS 2..."
@@ -1378,7 +1378,7 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-07-29T10:29:38.331Z",
+        "time": "2026-07-29T13:45:27.792Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -1423,5 +1423,43 @@
       }
     ],
     "summary": "[CYBER] Wi-Fi public: ce que votre fournisseur, pirates et marketing peuvent voir"
+  },
+  {
+    "title": "[CYBER] Pages piégées à Saint-Denis, le test avant l'opération d'influence?",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Pages piégées à Saint-Denis, le test avant l'opération d'influence?",
+        "source": "Zataz",
+        "time": "2026-07-29T10:47:33.000Z",
+        "link": "https://www.zataz.com/pages-piegees-a-saint-denis-le-test-avant-loperation-dinfluence/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Pages piégées à Saint-Denis, le test avant l'opération d'influence?..."
+      }
+    ],
+    "summary": "[CYBER] Pages piégées à Saint-Denis, le test avant l'opération d'influence?"
+  },
+  {
+    "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
+        "source": "Le Monde Informatique",
+        "time": "2026-07-29T13:45:25.778Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
+      }
+    ],
+    "summary": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture"
   }
 ]
