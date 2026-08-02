@@ -56,7 +56,7 @@
       {
         "title": "Bébés retrouvés morts à Orange : la mère mise en examen pour meurtre et placée en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/bebes-retrouves-morts-a-orange-la-mere-mise-en-examen-pour-meurtre-et-placee-en-detention-provisoire-31-07-2026-BKMULMKPAZADNH4RVZ4QRZC52U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Bébés retrouvés morts à Orange : la mère mise en examen pour meurtre et placée e..."
@@ -126,7 +126,7 @@
       {
         "title": "Var : un homme condamné à quatre ans de prison pour avoir poignardé un client dans un bar de Toulon",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/var-un-homme-condamne-a-quatre-ans-de-prison-pour-avoir-poignarde-un-client-dans-un-bar-de-toulon-30-07-2026-7L37YMRWBBEI5JCUY2YT3OQVHE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Var : un homme condamné à quatre ans de prison pour avoir poignardé un client da..."
@@ -161,7 +161,7 @@
       {
         "title": "Saint-Étienne : la mère du bébé retrouvé mort dans un sac-poubelle mise en examen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/loire-42/saint-etienne-la-mere-du-bebe-retrouve-mort-dans-un-sac-poubelle-mise-en-examen-30-07-2026-6CJF77ZDOFBRLJTPFQ2PVHVKJQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Saint-Étienne : la mère du bébé retrouvé mort dans un sac-poubelle mise en exame..."
@@ -181,7 +181,7 @@
       {
         "title": "Mulhouse : un militant Reconquête condamné à 3 mois de prison avec sursis pour un salut nazi",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/mulhouse-un-militant-reconquete-condamne-a-3-mois-de-prison-avec-sursis-pour-un-salut-nazi-30-07-2026-C44J3ODWRBDEPMGAAOKNXVF5QU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Mulhouse : un militant Reconquête condamné à 3 mois de prison avec sursis pour u..."
@@ -208,33 +208,24 @@
   {
     "title": "Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue pour des agressions sexuelles sur sa fille",
     "score": 97,
-    "count": 6,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
         "title": "Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue pour des agressions sexuelles sur sa fille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/sports/cyclisme/erwann-mentheour-lex-cycliste-pro-devenu-coach-sportif-place-en-garde-a-vue-pour-des-agressions-sexuelles-sur-sa-fille-30-07-2026-QPXLGTHJZZGOBN7DE6AFJXMOPA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue p..."
       },
       {
-        "title": "Faits-divers. L'ancien coureur Erwann Menthéour placé en garde à vue pour des soupçons d'agressions sexuelles sur sa fille",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-07-30T21:14:00.000Z",
-        "link": "https://www.ledauphine.com/sport/2026/07/30/l-ancien-coureur-erwann-mentheour-place-en-garde-a-vue-pour-des-soupcons-d-agressions-sexuelles-sur-sa-fille",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Faits-divers. L'ancien coureur Erwann Menthéour placé en garde à vue pour des so..."
-      },
-      {
         "title": "Addictions, rédemption, garde à vue… Erwann Menthéour, un ancien cycliste dans la tourmente",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/sports/cyclisme/addictions-redemption-garde-a-vue-erwann-mentheour-un-ancien-cycliste-dans-la-tourmente-31-07-2026-6N6IFBXBF5CNFBIAYTPCQ3FBFE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Addictions, rédemption, garde à vue… Erwann Menthéour, un ancien cycliste dans l..."
@@ -258,13 +249,13 @@
       {
         "title": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.925Z",
+        "time": "2026-08-02T02:12:17.788Z",
         "link": "https://www.leparisien.fr/faits-divers/narbonne-un-homme-de-48-ans-mis-en-examen-pour-des-viols-et-agressions-sexuelles-sur-ses-filles-mineures-01-08-2026-TGVM5RJLSBFBPA7DXZSNCRKMEM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuell..."
       }
     ],
-    "summary": "Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue pour des agressions sexuelles sur sa fille / Faits-divers. L'ancien coureur Erwann Menthéour placé en garde à vue pour des soupçons d'agressions sexuelles sur sa fille"
+    "summary": "Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue pour des agressions sexuelles sur sa fille / Addictions, rédemption, garde à vue… Erwann Menthéour, un ancien cycliste dans la tourmente"
   },
   {
     "title": "Investisseurs privés à la Fifa : «Une mauvaise affaire pour le football», le conseiller principal de Gianni Infantino démissionne",
@@ -304,7 +295,7 @@
       {
         "title": "Des pratiques « tout droit d’un film d’horreur » : un directeur de pompes funèbres condamné au Royaume-Uni",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/des-pratiques-tout-droit-dun-film-dhorreur-un-directeur-de-pompes-funebres-condamne-au-royaume-uni-31-07-2026-LQLPWGE76NBP7ITBNJYF5QXLO4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Des pratiques « tout droit d’un film d’horreur » : un directeur de pompes funèbr..."
@@ -378,7 +369,7 @@
       {
         "title": "Deux mois après la tentative d’étouffer l’affaire, la plainte pour viol contre un élu municipal d’Annecy fait désormais l’objet d’une enquête",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/deux-mois-apres-la-tentative-detouffer-laffaire-la-plainte-pour-viol-contre-un-elu-municipal-dannecy-fait-desormais-lobjet-dune-enquete-31-07-2026-WGBIRHTO7NECBBZVTBSF5CKP6I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Deux mois après la tentative d’étouffer l’affaire, la plainte pour viol contre u..."
@@ -421,7 +412,7 @@
       {
         "title": "Attentat déjoué visant Bank of America : une Belge mise en examen à Paris et incarcérée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-dejoue-visant-bank-of-america-une-belge-mise-en-examen-a-paris-et-incarceree-31-07-2026-SLIRT6T4RFFRDBGRDFDMLC5EBI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Attentat déjoué visant Bank of America : une Belge mise en examen à Paris et inc..."
@@ -594,7 +585,7 @@
       {
         "title": "Adresses, numéros, statuts… Des données d’agents du ministère de l’Éducation nationale potentiellement dérobées lors d’une cyberattaque",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/adresses-numeros-statuts-des-donnees-dagents-du-ministere-de-leducation-nationale-potentiellement-derobees-lors-dune-cyberattaque-31-07-2026-DXXTUXBCURCW3E72ERVQ6RY53Y.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Adresses, numéros, statuts… Des données d’agents du ministère de l’Éducation nat..."
@@ -792,7 +783,7 @@
       {
         "title": "Trois pompiers décédés en intervention en Grèce, en proie à de violents incendies",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/trois-pompiers-decedes-en-intervention-en-grece-en-proie-a-de-violents-incendies-30-07-2026-5V7FYEPBIBEFRGFNCZLZ56URWU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Trois pompiers décédés en intervention en Grèce, en proie à de violents incendie..."
@@ -811,7 +802,7 @@
       {
         "title": "Argenteuil : violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.925Z",
+        "time": "2026-08-02T02:12:17.788Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/argenteuil-violent-incendie-dans-une-entreprise-de-dechets-plus-de-150-pompiers-mobilises-01-08-2026-OGSE6OLMYZAGZBWW2XCQA2WEFE.php",
         "score": 90,
         "summary": "violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés"
@@ -830,7 +821,7 @@
       {
         "title": "Tués et enterrés pour leur moto : deux suspects arrêtés pour le meurtre sauvage d’une Russe de 22 ans et son frère de 17 ans en Thaïlande",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.925Z",
+        "time": "2026-08-02T02:12:17.788Z",
         "link": "https://www.leparisien.fr/faits-divers/tues-et-enterres-pour-leur-moto-deux-suspects-arretes-pour-le-meurtre-sauvage-dune-russe-de-22-ans-et-son-frere-de-17-ans-en-thailande-01-08-2026-XRE65YDDKZDZ3KXEU735CKVKPA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tués et enterrés pour leur moto : deux suspects arrêtés pour le meurtre sauvage ..."
@@ -838,7 +829,7 @@
       {
         "title": "Une enquête pour tentative de meurtre ouverte après une agression en réunion à Nogent-sur-Oise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/oise-60/une-enquete-pour-tentative-de-meurtre-ouverte-apres-une-agression-en-reunion-a-nogent-sur-oise-31-07-2026-KC5EPKSC6RHXPI2KAEUYP27VCA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une enquête pour tentative de meurtre ouverte après une agression en réunion à N..."
@@ -857,7 +848,7 @@
       {
         "title": "Qui est Nirmal Purja, star mondiale controversée de l’alpinisme, retrouvé mort après une avalanche au Pakistan ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.925Z",
+        "time": "2026-08-02T02:12:17.788Z",
         "link": "https://www.leparisien.fr/sports/qui-est-nirmal-purja-star-mondiale-controversee-de-lalpiniste-retrouve-mort-apres-avalanche-au-pakistan-01-08-2026-YCEHG5VWPRDSBA7MKECM7R5FE4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Qui est Nirmal Purja, star mondiale controversée de l’alpinisme, retrouvé mort a..."
@@ -876,7 +867,7 @@
       {
         "title": "Accusée d’avoir tué son bébé, une Américaine voit la vidéo de ses aveux protégée par le secret médical",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/accusee-davoir-tue-son-bebe-une-americaine-voit-la-video-de-ses-aveux-protegee-par-le-secret-medical-31-07-2026-7OOETTGEIFDQNN3SZCI2MZWZQI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Accusée d’avoir tué son bébé, une Américaine voit la vidéo de ses aveux protégée..."
@@ -895,7 +886,7 @@
       {
         "title": "« Elle était sous emprise » : comment Paulette, 75 ans, a hébergé malgré elle un trafic de drogue à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-etait-sous-emprise-comment-paulette-75-ans-a-heberge-malgre-elle-un-trafic-de-drogue-a-paris-31-07-2026-2XWXDUS7AJB7DILTNJQL6IGFSA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Elle était sous emprise » : comment Paulette, 75 ans, a hébergé malgré elle un..."
@@ -903,7 +894,7 @@
       {
         "title": "« Elle était prise au piège » : une influenceuse américaine tuée deux semaines après avoir accusé son mari de pédophilie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-etait-prise-au-piege-une-influenceuse-americaine-tuee-deux-semaines-apres-avoir-accuse-son-mari-de-pedophilie-31-07-2026-WW6YVJIUBRBGNEV7Y7ZZO7JN5E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Elle était prise au piège » : une influenceuse américaine tuée deux semaines a..."
@@ -922,7 +913,7 @@
       {
         "title": "Après le triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches, la piste d’une terrible tuerie familiale",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/apres-le-triple-assassinat-en-afrique-du-sud-des-gerants-du-burger-king-davranches-la-piste-dun-terrible-drame-familial-31-07-2026-4D63FF4FBJATVJ5AOKDJV5FPJE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Après le triple assassinat en Afrique du Sud des gérants du Burger King d’Avranc..."
@@ -941,7 +932,7 @@
       {
         "title": "Accusé de viol, Quentin Le Gaillard, maire de Concarneau, dénonce une plainte « mensongère » après l’ouverture d’une enquête préliminaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/finistere-29/accusation-de-viol-contre-quentin-le-gaillard-maire-de-concarneau-une-enquete-preliminaire-est-ouverte-31-07-2026-VXART4J52FGGPDNK2BVAMUT3XM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Accusé de viol, Quentin Le Gaillard, maire de Concarneau, dénonce une plainte « ..."
@@ -960,7 +951,7 @@
       {
         "title": "Guadeloupe : un ouvrier meurt dans l’effondrement d’un immeuble à Pointe-à-Pitre, une enquête ouverte pour « homicide involontaire »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/guadeloupe-un-ouvrier-meurt-dans-leffondrement-dun-immeuble-a-pointe-a-pitre-une-enquete-ouverte-pour-homicide-involontaire-31-07-2026-IFHELGE4KBEBDKNYBUGXADN4DM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Guadeloupe : un ouvrier meurt dans l’effondrement d’un immeuble à Pointe-à-Pitre..."
@@ -979,7 +970,7 @@
       {
         "title": "Gérard Darmon, accusé de violences sexistes et sexuelles par plusieurs femmes, doit renoncer à sa pièce de théâtre ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/culture-loisirs/accuse-de-violences-sexistes-et-sexuelles-par-plusieurs-femmes-gerard-darmon-doit-renoncer-a-sa-piece-a-paris-en-septembre-30-07-2026-HQB3MHYXDVBEHM3EJAHTARL5RI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Gérard Darmon, accusé de violences sexistes et sexuelles par plusieurs femmes, d..."
@@ -998,7 +989,7 @@
       {
         "title": "Un professeur particulier jugé en octobre à Paris pour violences sexuelles sur ses élèves à l’Île Maurice",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-01T20:46:39.926Z",
+        "time": "2026-08-02T02:12:17.789Z",
         "link": "https://www.leparisien.fr/faits-divers/un-professeur-particulier-juge-en-octobre-a-paris-pour-violences-sexuelles-sur-ses-eleves-a-lile-maurice-30-07-2026-QJBBSRWWNZHXDFK6DB5XDMC7RQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un professeur particulier jugé en octobre à Paris pour violences sexuelles sur s..."
@@ -1017,7 +1008,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:10.127Z",
+        "time": "2026-08-02T02:11:06.909Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -1036,7 +1027,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:11.738Z",
+        "time": "2026-08-02T02:11:08.427Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -1055,7 +1046,7 @@
       {
         "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:14.712Z",
+        "time": "2026-08-02T02:11:11.174Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -1074,7 +1065,7 @@
       {
         "title": "[CYBER] Visual Studio examine l'utilisation du Copilot GitHub",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:16.688Z",
+        "time": "2026-08-02T02:11:12.992Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-visual-studio-scrute-l-usage-de-github-copilot-100698.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Visual Studio examine l'utilisation du Copilot GitHub..."
@@ -1093,7 +1084,7 @@
       {
         "title": "[CYBER] Les cyberattaques: le prêteur est-il toujours responsable?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:19.039Z",
+        "time": "2026-08-02T02:11:15.167Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cyberattaques-le-prestataire-est-il-toujours-responsable-100690.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: le prêteur est-il toujours responsable?..."
@@ -1131,7 +1122,7 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:07.267Z",
+        "time": "2026-08-02T02:11:04.206Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -1150,7 +1141,7 @@
       {
         "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:05.080Z",
+        "time": "2026-08-02T02:11:02.185Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
@@ -1169,7 +1160,7 @@
       {
         "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:44:59.173Z",
+        "time": "2026-08-02T02:10:56.654Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-etats-unis-interdisent-l-importation-de-robots-humanoides-etrangers-100727.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les États-Unis interdisent l'importation de robots humains étrangers..."
@@ -1188,32 +1179,13 @@
       {
         "title": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:45:02.294Z",
+        "time": "2026-08-02T02:10:59.594Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-plus-de-1200-salaries-de-l-ia-appellent-a-ralentir-la-course-aux-modeles-avances-100726.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études..."
       }
     ],
     "summary": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études"
-  },
-  {
-    "title": "[CYBER] Quatre jeux cyber pour stimuler vos vacances",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Quatre jeux cyber pour stimuler vos vacances",
-        "source": "Zataz",
-        "time": "2026-07-31T01:22:55.000Z",
-        "link": "https://www.zataz.com/quatre-jeux-cyber-pour-stimuler-vos-vacances/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Quatre jeux cyber pour stimuler vos vacances..."
-      }
-    ],
-    "summary": "[CYBER] Quatre jeux cyber pour stimuler vos vacances"
   },
   {
     "title": "[CYBER] Hacktivisme: une fuite  Macroleak  de 2017 contre Chat Control ressort du darkweb!",
@@ -1253,7 +1225,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-01T20:44:56.535Z",
+        "time": "2026-08-02T02:10:54.139Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
