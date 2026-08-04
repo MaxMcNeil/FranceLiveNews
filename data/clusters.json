@@ -75,7 +75,7 @@
       {
         "title": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/triple-assassinat-en-afrique-du-sud-des-gerants-du-burger-king-davranches-la-mere-du-principal-suspect-placee-en-detention-provisoire-02-08-2026-F4KYZDO6LJBCXNYX6M3KQHBDOQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la ..."
@@ -141,7 +141,7 @@
       {
         "title": "Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui arracher le cœur",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.182Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/une-americaine-inculpee-pour-le-meurtre-de-son-pere-elle-aurait-tente-de-lui-arracher-le-coeur-03-08-2026-TS5GHXULWFEX7KYZTDFV65W4IY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui a..."
@@ -152,7 +152,7 @@
   {
     "title": "Jean Imbert : soupçonné de violences conjugales, le chef cuisinier placé en garde à vue",
     "score": 97,
-    "count": 8,
+    "count": 9,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
@@ -225,6 +225,14 @@
         "link": "https://www.sudouest.fr/ile-de-france/paris/la-garde-a-vue-du-chef-cuisinier-jean-imbert-accuse-de-violences-conjugales-est-prolongee-de-24-heures-30161430.php",
         "score": 97,
         "summary": "Point de situation critique concernant : La garde à vue du chef cuisinier Jean Imbert, accusé de violences conjugales, es..."
+      },
+      {
+        "title": "Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-04T16:15:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/le-chef-jean-imbert-en-garde-a-vue-ce-que-lui-reprochent-ses-quatre-anciennes-compagnes",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anc..."
       }
     ],
     "summary": "Jean Imbert : soupçonné de violences conjugales, le chef cuisinier placé en garde à vue / Justice. Jean Imbert en garde à vue pour violences conjugales, la plainte d'Alexandra Rosenfeld concernée"
@@ -384,11 +392,12 @@
   {
     "title": "Bouches-du-Rhône. Marseille : un enfant de deux ans retrouvé mort, trois proches en garde à vue",
     "score": 97,
-    "count": 3,
+    "count": 5,
     "sources": [
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -414,6 +423,22 @@
         "link": "https://www.sudouest.fr/france/un-enfant-de-deux-ans-retrouve-pendu-au-fil-d-une-persienne-a-marseille-la-mere-son-conjoint-et-une-adolescente-en-garde-a-vue-30159210.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un enfant de deux ans retrouvé pendu au fil d’une persienne à Marseille, la mère..."
+      },
+      {
+        "title": "À Marseille, un enfant de deux ans retrouvé mort à son domicile, la mère et son compagnon placés en garde à vue",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-04T16:47:21.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/a-marseille-un-enfant-de-deux-ans-retrouve-mort-a-son-domicile-la-mere-et-son-compagnon-places-en-garde-a-vue_8134805.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : À Marseille, un enfant de deux ans retrouvé mort à son domicile, la mère et son ..."
+      },
+      {
+        "title": "Un jeune homme de 17 ans retrouvé mort, à Nice, son père en garde à vue pour \"assassinat\"",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-04T14:31:25.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/un-jeune-homme-de-17-ans-retrouve-mort-a-nice-son-pere-en-garde-a-vue-pour-assassinat_8134628.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un jeune homme de 17 ans retrouvé mort, à Nice, son père en garde à vue pour \"as..."
       }
     ],
     "summary": "Bouches-du-Rhône. Marseille : un enfant de deux ans retrouvé mort, trois proches en garde à vue / Marseille : un enfant de deux ans retrouvé mort, des proches en garde à vue"
@@ -421,7 +446,7 @@
   {
     "title": "« Je me suis vu perdre ma compagne, la vie » : trois jeunes Bordelais condamnés pour extorsion et home-jacking à Pau",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
@@ -433,9 +458,17 @@
         "link": "https://www.sudouest.fr/faits-divers/je-me-suis-vu-perdre-ma-compagne-la-vie-trois-jeunes-bordelais-condamnes-pour-extorsion-et-home-jacking-a-pau-30154865.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je me suis vu perdre ma compagne, la vie » : trois jeunes Bordelais condamnés ..."
+      },
+      {
+        "title": "Un duo condamné pour avoir prostitué trois jeunes filles mineures en Gironde",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-04T17:00:00.000Z",
+        "link": "https://www.sudouest.fr/gironde/bordeaux/un-duo-condamne-pour-avoir-prostitue-trois-jeunes-filles-mineures-en-gironde-30156251.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un duo condamné pour avoir prostitué trois jeunes filles mineures en Gironde..."
       }
     ],
-    "summary": "« Je me suis vu perdre ma compagne, la vie » : trois jeunes Bordelais condamnés pour extorsion et home-jacking à Pau"
+    "summary": "« Je me suis vu perdre ma compagne, la vie » : trois jeunes Bordelais condamnés pour extorsion et home-jacking à Pau / Un duo condamné pour avoir prostitué trois jeunes filles mineures en Gironde"
   },
   {
     "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
@@ -448,7 +481,7 @@
       {
         "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.182Z",
+        "time": "2026-08-04T17:42:03.654Z",
         "link": "https://www.leparisien.fr/faits-divers/un-americain-inculpe-du-meurtre-de-son-bebe-apres-avoir-utilise-un-souffleur-de-feuilles-sur-lenfant-car-il-trouvait-ca-drole-04-08-2026-FNAZNXSH2ZFELB6MRM2QIC76KI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de ..."
@@ -533,7 +566,7 @@
       {
         "title": "Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du trafic de cigarettes à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.182Z",
+        "time": "2026-08-04T17:42:03.654Z",
         "link": "https://www.leparisien.fr/faits-divers/blanchiment-au-petit-kaboul-le-systeme-bien-rode-des-boss-de-la-mafia-du-trafic-de-cigarettes-a-paris-04-08-2026-R2WMB72DGNGWZNLMI3Z4KEDCME.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du t..."
@@ -544,7 +577,7 @@
   {
     "title": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
@@ -556,9 +589,36 @@
         "link": "https://www.sudouest.fr/justice/je-ne-suis-pas-choque-d-etre-accuse-mais-ce-n-est-pas-moi-un-neracais-de-19-ans-condamne-pour-intrusion-de-domicile-et-vol-30160528.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de ..."
+      },
+      {
+        "title": "« Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-04T16:30:00.000Z",
+        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/pour-les-coups-c-est-vrai-les-menaces-au-couteau-aussi-un-neracais-condamne-pour-violences-conjugales-30162399.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condam..."
       }
     ],
-    "summary": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol"
+    "summary": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol / « Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales"
+  },
+  {
+    "title": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-04T16:40:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/deja-condamne-pour-l-avoir-aspergee-d-essence-son-compagnon-de-nouveau-devant-la-justice",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de no..."
+      }
+    ],
+    "summary": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice"
   },
   {
     "title": "Adresses, numéros, statuts… Des données d’agents du ministère de l’Éducation nationale potentiellement dérobées lors d’une cyberattaque",
@@ -647,30 +707,21 @@
   {
     "title": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.656Z",
         "link": "https://www.leparisien.fr/faits-divers/narbonne-un-homme-de-48-ans-mis-en-examen-pour-des-viols-et-agressions-sexuelles-sur-ses-filles-mineures-01-08-2026-TGVM5RJLSBFBPA7DXZSNCRKMEM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuell..."
-      },
-      {
-        "title": "Pays basque : un père mis en examen pour viol et agressions sexuelles sur sa fille de 10 ans",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-02T16:26:42.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-un-pere-mis-en-examen-pour-viol-et-agressions-sexuelles-sur-sa-fille-de-10-ans-30147858.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Pays basque : un père mis en examen pour viol et agressions sexuelles sur sa fil..."
       }
     ],
-    "summary": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures / Pays basque : un père mis en examen pour viol et agressions sexuelles sur sa fille de 10 ans"
+    "summary": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures"
   },
   {
     "title": "Argenteuil : violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés ",
@@ -732,7 +783,7 @@
   {
     "title": "Deux mois après la tentative d’étouffer l’affaire, la plainte pour viol contre un élu municipal d’Annecy fait désormais l’objet d’une enquête",
     "score": 90,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -760,14 +811,6 @@
         "link": "https://www.leparisien.fr/oise-60/une-enquete-pour-tentative-de-meurtre-ouverte-apres-une-agression-en-reunion-a-nogent-sur-oise-31-07-2026-KC5EPKSC6RHXPI2KAEUYP27VCA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une enquête pour tentative de meurtre ouverte après une agression en réunion à N..."
-      },
-      {
-        "title": "« Nous vivons dans un cauchemar » : six mois après, mystère total autour de l’enlèvement de la mère d’une star de NBC",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.182Z",
-        "link": "https://www.leparisien.fr/faits-divers/nous-vivons-dans-un-cauchemar-six-mois-apres-mystere-total-autour-de-lenlevement-de-la-mere-dune-star-de-nbc-03-08-2026-ZVLOWKBW7VEFBE4TIXFF3IYISU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Nous vivons dans un cauchemar » : six mois après, mystère total autour de l’en..."
       }
     ],
     "summary": "Deux mois après la tentative d’étouffer l’affaire, la plainte pour viol contre un élu municipal d’Annecy fait désormais l’objet d’une enquête / Accusé de viol, Quentin Le Gaillard, maire de Concarneau, dénonce une plainte « mensongère » après l’ouverture d’une enquête préliminaire"
@@ -895,7 +938,7 @@
       {
         "title": "Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du célèbre site des lignes de Nazca",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/perou-13-morts-touristes-tues-ce-que-lon-sait-du-crash-dun-avion-pres-du-celebre-site-des-lignes-de-nazca-02-08-2026-RBZ25WFVI5B4FOU2CUBWPFV42A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du c..."
@@ -914,7 +957,7 @@
       {
         "title": "« Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte il y a six ans... et attend toujours un procès",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.656Z",
         "link": "https://www.leparisien.fr/faits-divers/ca-me-bouffe-la-vie-camille-violee-par-son-prof-de-judo-a-porte-plainte-il-y-a-six-ans-et-attend-toujours-un-proces-02-08-2026-MWXCRFV5HNFNZJILTUWKOVPKJM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte ..."
@@ -933,7 +976,7 @@
       {
         "title": "« La scène était très chaotique » : une fusillade dans un fast-food fait plusieurs morts aux États-Unis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/la-scene-etait-tres-chaotique-une-fusillade-dans-un-fast-food-americain-fait-plusieurs-morts-02-08-2026-6KJOEI2S45GMBLBP6U5MJB7IHM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « La scène était très chaotique » : une fusillade dans un fast-food fait plusieu..."
@@ -952,7 +995,7 @@
       {
         "title": "L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série qui a sévi pendant près de 14 ans en Écosse",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/lhistoire-glacante-dalan-greer-policier-pere-de-famille-et-violeur-en-serie-qui-a-sevi-pendant-pres-de-14-ans-en-ecosse-02-08-2026-FMK4B44DL5FYVI5EOWD4BHNHYA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série ..."
@@ -971,7 +1014,7 @@
       {
         "title": "Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont été libérés à cause d’un couac législatif",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-04T13:59:20.183Z",
+        "time": "2026-08-04T17:42:03.655Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-viol-sequestration-pendant-23-jours-des-mineurs-mis-en-examen-ont-ete-liberes-a-cause-dun-couac-legislatif-02-08-2026-BYJ66CC2WFCUBJNGCWH44JB22Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont ..."
@@ -1046,25 +1089,6 @@
     "summary": "En images. Élodie Frégé à Montélimar, disparition de fréquences radio, quatrième vague de chaleur... L'actualité en Drôme-Ardèche de la semaine"
   },
   {
-    "title": "Enquête sur la mort de Quentin Deranque à Lyon : la violence politique en miroir",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Enquête sur la mort de Quentin Deranque à Lyon : la violence politique en miroir",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-08-03T03:15:09.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/08/03/enquete-sur-la-mort-de-quentin-deranque-a-lyon-la-violence-politique-en-miroir_6737324_3224.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Enquête sur la mort de Quentin Deranque à Lyon : la violence politique en miroir..."
-      }
-    ],
-    "summary": "Enquête sur la mort de Quentin Deranque à Lyon : la violence politique en miroir"
-  },
-  {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
     "score": 90,
     "count": 1,
@@ -1075,7 +1099,7 @@
       {
         "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:58:01.815Z",
+        "time": "2026-08-04T17:40:46.143Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -1094,7 +1118,7 @@
       {
         "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:58:03.455Z",
+        "time": "2026-08-04T17:40:47.693Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -1170,7 +1194,7 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:59.004Z",
+        "time": "2026-08-04T17:40:43.397Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -1189,7 +1213,7 @@
       {
         "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:56.894Z",
+        "time": "2026-08-04T17:40:41.248Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
@@ -1208,7 +1232,7 @@
       {
         "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:51.227Z",
+        "time": "2026-08-04T17:40:35.617Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-etats-unis-interdisent-l-importation-de-robots-humanoides-etrangers-100727.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les États-Unis interdisent l'importation de robots humains étrangers..."
@@ -1227,7 +1251,7 @@
       {
         "title": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:54.141Z",
+        "time": "2026-08-04T17:40:38.579Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-plus-de-1200-salaries-de-l-ia-appellent-a-ralentir-la-course-aux-modeles-avances-100726.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études..."
@@ -1246,7 +1270,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:48.640Z",
+        "time": "2026-08-04T17:40:33.026Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1341,7 +1365,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:44.605Z",
+        "time": "2026-08-04T17:40:28.693Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1360,12 +1384,31 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-04T13:57:46.955Z",
+        "time": "2026-08-04T17:40:31.261Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
       }
     ],
     "summary": "[CYBER] Les ministres de la douceur nationale visés par une attaque"
+  },
+  {
+    "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
+        "source": "Le Monde Informatique",
+        "time": "2026-08-04T17:40:25.424Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
+      }
+    ],
+    "summary": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA"
   }
 ]
