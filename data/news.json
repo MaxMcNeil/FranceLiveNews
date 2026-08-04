@@ -1,23 +1,7 @@
 {
-  "updated": "2026-08-04T06:25:14.663Z",
-  "count": 79,
+  "updated": "2026-08-04T10:35:31.821Z",
+  "count": 82,
   "items": [
-    {
-      "title": "Mulhouse : un militant Reconquête condamné à 3 mois de prison avec sursis pour un salut nazi",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-02T09:54:38.772Z",
-      "link": "https://www.leparisien.fr/faits-divers/mulhouse-un-militant-reconquete-condamne-a-3-mois-de-prison-avec-sursis-pour-un-salut-nazi-30-07-2026-C44J3ODWRBDEPMGAAOKNXVF5QU.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Mulhouse : un militant Reconquête condamné à 3 mois de prison avec sursis pour u..."
-    },
-    {
-      "title": "Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue pour des agressions sexuelles sur sa fille",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-02T09:54:38.772Z",
-      "link": "https://www.leparisien.fr/sports/cyclisme/erwann-mentheour-lex-cycliste-pro-devenu-coach-sportif-place-en-garde-a-vue-pour-des-agressions-sexuelles-sur-sa-fille-30-07-2026-QPXLGTHJZZGOBN7DE6AFJXMOPA.php",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Erwann Menthéour, l’ex cycliste pro devenu coach sportif, placé en garde à vue p..."
-    },
     {
       "title": "Saint-Étienne : la mère du bébé retrouvé mort dans un sac-poubelle mise en examen",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
@@ -59,17 +43,9 @@
       "summary": "Point de situation critique concernant : Attentat déjoué visant Bank of America : une Belge mise en examen à Paris et inc..."
     },
     {
-      "title": "Valence. Trois mineurs placés en garde à vue après l’agression au couteau d’un vingtenaire",
-      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "time": "2026-08-02T09:15:00.000Z",
-      "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/02/trois-mineurs-places-en-garde-a-vue-apres-l-agression-au-couteau-d-un-vingtenaire",
-      "score": 97,
-      "summary": "Point de situation critique concernant : Valence. Trois mineurs placés en garde à vue après l’agression au couteau d’un v..."
-    },
-    {
       "title": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.544Z",
       "link": "https://www.leparisien.fr/faits-divers/triple-assassinat-en-afrique-du-sud-des-gerants-du-burger-king-davranches-la-mere-du-principal-suspect-placee-en-detention-provisoire-02-08-2026-F4KYZDO6LJBCXNYX6M3KQHBDOQ.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la ..."
@@ -85,7 +61,7 @@
     {
       "title": "Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui arracher le cœur",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.544Z",
       "link": "https://www.leparisien.fr/faits-divers/une-americaine-inculpee-pour-le-meurtre-de-son-pere-elle-aurait-tente-de-lui-arracher-le-coeur-03-08-2026-TS5GHXULWFEX7KYZTDFV65W4IY.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui a..."
@@ -227,6 +203,62 @@
       "summary": "Point de situation critique concernant : « Je me suis vu perdre ma compagne, la vie » : trois jeunes Bordelais condamnés ..."
     },
     {
+      "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
+      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "time": "2026-08-04T10:35:28.544Z",
+      "link": "https://www.leparisien.fr/faits-divers/un-americain-inculpe-du-meurtre-de-son-bebe-apres-avoir-utilise-un-souffleur-de-feuilles-sur-lenfant-car-il-trouvait-ca-drole-04-08-2026-FNAZNXSH2ZFELB6MRM2QIC76KI.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de ..."
+    },
+    {
+      "title": "Après des heures de traque, un homme soupçonné du meurtre d'un septuagénaire en Isère a été placé en garde à vue",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-08-04T07:13:26.000Z",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-des-heures-de-traque-un-homme-soupconne-du-meurtre-d-un-septuagenaire-en-isere-a-ete-place-en-garde-a-vue_8134004.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Après des heures de traque, un homme soupçonné du meurtre d'un septuagénaire en ..."
+    },
+    {
+      "title": "Un enfant de deux ans retrouvé pendu au fil d’une persienne à Marseille, la mère, son conjoint et une adolescente en garde à vue",
+      "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+      "time": "2026-08-04T06:44:15.000Z",
+      "link": "https://www.sudouest.fr/france/un-enfant-de-deux-ans-retrouve-pendu-au-fil-d-une-persienne-a-marseille-la-mere-son-conjoint-et-une-adolescente-en-garde-a-vue-30159210.php",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Un enfant de deux ans retrouvé pendu au fil d’une persienne à Marseille, la mère..."
+    },
+    {
+      "title": "Justice. Garde à vue prolongée pour Jean Imbert, accusé de violences conjugales",
+      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "time": "2026-08-04T09:04:00.000Z",
+      "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/garde-a-vue-prolongee-pour-jean-imbert-accuse-de-violences-conjugales",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Justice. Garde à vue prolongée pour Jean Imbert, accusé de violences conjugales..."
+    },
+    {
+      "title": "Hautes-Alpes. Un homme condamné à 18 mois de prison avec sursis après des violences sur son fils, sa femme et sa belle-mère",
+      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "time": "2026-08-04T09:54:00.000Z",
+      "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/un-homme-condamne-a-18-mois-de-prison-avec-sursis-apres-des-violences-sur-son-fils-sa-femme-et-sa-belle-mere",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Hautes-Alpes. Un homme condamné à 18 mois de prison avec sursis après des violen..."
+    },
+    {
+      "title": "Isère : un homme placé en garde à vue pour le meurtre d'une septuagénaire, sa traque a mobilisé une centaine de gendarmes",
+      "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "time": "2026-08-04T07:19:00.000Z",
+      "link": "https://www.cnews.fr/faits-divers/2026-08-04/isere-un-homme-place-en-garde-vue-pour-le-meurtre-dune-septuagenaire-sa",
+      "score": 97,
+      "summary": "un homme placé en garde à vue pour le meurtre d'une septuagénaire, sa traque a mobilisé une centaine de gendarmes"
+    },
+    {
+      "title": "Russie : Boris Nadejdine, condamné pour s’être opposé à Vladimir Poutine, se trouve en France",
+      "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "time": "2026-08-03T15:33:59.000Z",
+      "link": "https://www.lefigaro.fr/international/russie-boris-nadejdine-condamne-pour-s-etre-oppose-a-vladimir-poutine-se-trouve-en-france-20260803",
+      "score": 97,
+      "summary": "Boris Nadejdine, condamné pour s’être opposé à Vladimir Poutine, se trouve en France"
+    },
+    {
       "title": "Adresses, numéros, statuts… Des données d’agents du ministère de l’Éducation nationale potentiellement dérobées lors d’une cyberattaque",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "time": "2026-08-04T06:25:11.968Z",
@@ -275,17 +307,9 @@
       "summary": "Point de situation critique concernant : Intermarché : L’enseigne victime d’une cyberattaque, près de 300.000 clients tou..."
     },
     {
-      "title": "Trois pompiers décédés en intervention en Grèce, en proie à de violents incendies",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-02T06:31:40.616Z",
-      "link": "https://www.leparisien.fr/faits-divers/trois-pompiers-decedes-en-intervention-en-grece-en-proie-a-de-violents-incendies-30-07-2026-5V7FYEPBIBEFRGFNCZLZ56URWU.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Trois pompiers décédés en intervention en Grèce, en proie à de violents incendie..."
-    },
-    {
       "title": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.968Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/faits-divers/narbonne-un-homme-de-48-ans-mis-en-examen-pour-des-viols-et-agressions-sexuelles-sur-ses-filles-mineures-01-08-2026-TGVM5RJLSBFBPA7DXZSNCRKMEM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuell..."
@@ -293,7 +317,7 @@
     {
       "title": "Argenteuil : violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés ",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.968Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/val-d-oise-95/argenteuil-violent-incendie-dans-une-entreprise-de-dechets-plus-de-150-pompiers-mobilises-01-08-2026-OGSE6OLMYZAGZBWW2XCQA2WEFE.php",
       "score": 90,
       "summary": "violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés"
@@ -301,7 +325,7 @@
     {
       "title": "Tués et enterrés pour leur moto : deux suspects arrêtés pour le meurtre sauvage d’une Russe de 22 ans et son frère de 17 ans en Thaïlande",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.968Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/faits-divers/tues-et-enterres-pour-leur-moto-deux-suspects-arretes-pour-le-meurtre-sauvage-dune-russe-de-22-ans-et-son-frere-de-17-ans-en-thailande-01-08-2026-XRE65YDDKZDZ3KXEU735CKVKPA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Tués et enterrés pour leur moto : deux suspects arrêtés pour le meurtre sauvage ..."
@@ -309,7 +333,7 @@
     {
       "title": "Qui est Nirmal Purja, star mondiale controversée de l’alpinisme, retrouvé mort après une avalanche au Pakistan ?",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.968Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/sports/qui-est-nirmal-purja-star-mondiale-controversee-de-lalpiniste-retrouve-mort-apres-avalanche-au-pakistan-01-08-2026-YCEHG5VWPRDSBA7MKECM7R5FE4.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Qui est Nirmal Purja, star mondiale controversée de l’alpinisme, retrouvé mort a..."
@@ -397,7 +421,7 @@
     {
       "title": "Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du célèbre site des lignes de Nazca",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/faits-divers/perou-13-morts-touristes-tues-ce-que-lon-sait-du-crash-dun-avion-pres-du-celebre-site-des-lignes-de-nazca-02-08-2026-RBZ25WFVI5B4FOU2CUBWPFV42A.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du c..."
@@ -405,7 +429,7 @@
     {
       "title": "« Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte il y a six ans... et attend toujours un procès",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/faits-divers/ca-me-bouffe-la-vie-camille-violee-par-son-prof-de-judo-a-porte-plainte-il-y-a-six-ans-et-attend-toujours-un-proces-02-08-2026-MWXCRFV5HNFNZJILTUWKOVPKJM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte ..."
@@ -413,7 +437,7 @@
     {
       "title": "« La scène était très chaotique » : une fusillade dans un fast-food fait plusieurs morts aux États-Unis",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.545Z",
       "link": "https://www.leparisien.fr/faits-divers/la-scene-etait-tres-chaotique-une-fusillade-dans-un-fast-food-americain-fait-plusieurs-morts-02-08-2026-6KJOEI2S45GMBLBP6U5MJB7IHM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « La scène était très chaotique » : une fusillade dans un fast-food fait plusieu..."
@@ -421,7 +445,7 @@
     {
       "title": "L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série qui a sévi pendant près de 14 ans en Écosse",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.544Z",
       "link": "https://www.leparisien.fr/faits-divers/lhistoire-glacante-dalan-greer-policier-pere-de-famille-et-violeur-en-serie-qui-a-sevi-pendant-pres-de-14-ans-en-ecosse-02-08-2026-FMK4B44DL5FYVI5EOWD4BHNHYA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série ..."
@@ -429,18 +453,10 @@
     {
       "title": "Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont été libérés à cause d’un couac législatif",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.544Z",
       "link": "https://www.leparisien.fr/faits-divers/meurtre-viol-sequestration-pendant-23-jours-des-mineurs-mis-en-examen-ont-ete-liberes-a-cause-dun-couac-legislatif-02-08-2026-BYJ66CC2WFCUBJNGCWH44JB22Y.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont ..."
-    },
-    {
-      "title": "Plusieurs victimes dans une fusillade mortelle dans l'ouest des Etats-Unis",
-      "source": "https://www.franceinfo.fr/faits-divers.rss",
-      "time": "2026-08-02T09:19:04.000Z",
-      "link": "https://www.franceinfo.fr/monde/usa/fusillades-aux-etats-unis/plusieurs-victimes-dans-une-fusillade-mortelle-dans-l-ouest-des-etats-unis_8132057.html#xtor=RSS-3-%5Bgeneral%5D",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Plusieurs victimes dans une fusillade mortelle dans l'ouest des Etats-Unis..."
     },
     {
       "title": "Pays basque : un père mis en examen pour viol et agressions sexuelles sur sa fille de 10 ans",
@@ -501,7 +517,7 @@
     {
       "title": "« Nous vivons dans un cauchemar » : six mois après, mystère total autour de l’enlèvement de la mère d’une star de NBC",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
+      "time": "2026-08-04T10:35:28.544Z",
       "link": "https://www.leparisien.fr/faits-divers/nous-vivons-dans-un-cauchemar-six-mois-apres-mystere-total-autour-de-lenlevement-de-la-mere-dune-star-de-nbc-03-08-2026-ZVLOWKBW7VEFBE4TIXFF3IYISU.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « Nous vivons dans un cauchemar » : six mois après, mystère total autour de l’en..."
@@ -515,17 +531,9 @@
       "summary": "Point de situation critique concernant : Assassinat de Cécile Poisson : son ex-mari s’était fait passer pour un livreur p..."
     },
     {
-      "title": "Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des proches mis en cause",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-04T06:25:11.967Z",
-      "link": "https://www.leparisien.fr/video/actualites/marseille-un-bebe-de-deux-ans-retrouve-mort-pendu-au-fil-dune-persienne-des-proches-mis-en-cause-03-08-2026-UOCCEMP3JJAMZHGH7YFT2LREH4.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des ..."
-    },
-    {
       "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:53.497Z",
+      "time": "2026-08-04T10:33:40.019Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -533,7 +541,7 @@
     {
       "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:54.968Z",
+      "time": "2026-08-04T10:33:42.284Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -541,7 +549,7 @@
     {
       "title": "[CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:57.635Z",
+      "time": "2026-08-04T10:33:46.395Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-ia-de-github-vulnerable-a-une-attaque-par-injection-de-prompt-100697.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Un agent IA de GitHub vulne rable une attaque par injection de prompt..."
@@ -565,23 +573,23 @@
     {
       "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:50.942Z",
+      "time": "2026-08-04T10:33:36.061Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
     },
     {
-      "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
+      "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-courant",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:48.968Z",
+      "time": "2026-08-04T10:33:32.982Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
       "score": 90,
-      "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
+      "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-courant..."
     },
     {
       "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:43.584Z",
+      "time": "2026-08-04T10:33:24.721Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-les-etats-unis-interdisent-l-importation-de-robots-humanoides-etrangers-100727.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les États-Unis interdisent l'importation de robots humains étrangers..."
@@ -589,7 +597,7 @@
     {
       "title": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:46.444Z",
+      "time": "2026-08-04T10:33:29.024Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-plus-de-1200-salaries-de-l-ia-appellent-a-ralentir-la-course-aux-modeles-avances-100726.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études..."
@@ -597,7 +605,7 @@
     {
       "title": "[CYBER] Résultats de l'analyse des intrusions",
       "source": "Le Monde Informatique",
-      "time": "2026-08-04T06:23:41.156Z",
+      "time": "2026-08-04T10:33:20.968Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -633,6 +641,22 @@
       "link": "https://www.zataz.com/une-cyberattaque-vise-plus-de-30-reseaux-deau/",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque vise plus de 30 réseaux d'eau..."
+    },
+    {
+      "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
+      "source": "Le Monde Informatique",
+      "time": "2026-08-04T10:33:15.001Z",
+      "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
+      "score": 90,
+      "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
+    },
+    {
+      "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
+      "source": "Le Monde Informatique",
+      "time": "2026-08-04T10:33:18.492Z",
+      "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
+      "score": 90,
+      "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
     }
   ]
 }
