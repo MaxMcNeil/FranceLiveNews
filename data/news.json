@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T01:59:15.440Z",
-  "count": 88,
+  "updated": "2026-08-05T06:24:56.431Z",
+  "count": 89,
   "items": [
     {
       "title": "Saint-Étienne : la mère du bébé retrouvé mort dans un sac-poubelle mise en examen",
@@ -45,7 +45,7 @@
     {
       "title": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/triple-assassinat-en-afrique-du-sud-des-gerants-du-burger-king-davranches-la-mere-du-principal-suspect-placee-en-detention-provisoire-02-08-2026-F4KYZDO6LJBCXNYX6M3KQHBDOQ.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la ..."
@@ -53,7 +53,7 @@
     {
       "title": "Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui arracher le cœur",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/une-americaine-inculpee-pour-le-meurtre-de-son-pere-elle-aurait-tente-de-lui-arracher-le-coeur-03-08-2026-TS5GHXULWFEX7KYZTDFV65W4IY.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui a..."
@@ -197,7 +197,7 @@
     {
       "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/un-americain-inculpe-du-meurtre-de-son-bebe-apres-avoir-utilise-un-souffleur-de-feuilles-sur-lenfant-car-il-trouvait-ca-drole-04-08-2026-FNAZNXSH2ZFELB6MRM2QIC76KI.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de ..."
@@ -253,7 +253,7 @@
     {
       "title": "Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du trafic de cigarettes à Paris",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/blanchiment-au-petit-kaboul-le-systeme-bien-rode-des-boss-de-la-mafia-du-trafic-de-cigarettes-a-paris-04-08-2026-R2WMB72DGNGWZNLMI3Z4KEDCME.php",
       "score": 97,
       "summary": "Point de situation critique concernant : Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du t..."
@@ -331,6 +331,30 @@
       "summary": "Point de situation critique concernant : Violences conjugales : la garde à vue de Jean Imbert levée, le chef transféré au..."
     },
     {
+      "title": "Le blanchiment d’argent menace de « diluer la distinction entre économie légale et économie illégale », selon un rapport de la police judiciaire",
+      "source": "https://www.lemonde.fr/societe/rss_full.xml",
+      "time": "2026-08-05T03:00:09.000Z",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/05/le-blanchiment-d-argent-menace-de-diluer-la-distinction-entre-economie-legale-et-economie-illegale-selon-un-rapport-de-la-police-judiciaire_6739214_3224.html",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Le blanchiment d’argent menace de « diluer la distinction entre économie légale ..."
+    },
+    {
+      "title": "\"Un décor sorti d'un film d'horreur\" : au Royaume-Uni, un directeur de pompes funèbres lourdement condamné pour avoir conservé des corps dans des \"conditions épouvantables\"",
+      "source": "https://www.franceinfo.fr/faits-divers.rss",
+      "time": "2026-08-05T03:57:32.000Z",
+      "link": "https://www.franceinfo.fr/monde/royaume-uni/un-decor-sorti-d-un-film-d-horreur-au-royaume-uni-un-directeur-de-pompes-funebres-lourdement-condamne-pour-avoir-conserve-des-corps-dans-des-conditions-epouvantables_8133107.html#xtor=RSS-3-%5Bgeneral%5D",
+      "score": 97,
+      "summary": "Point de situation critique concernant : \"Un décor sorti d'un film d'horreur\" : au Royaume-Uni, un directeur de pompes fu..."
+    },
+    {
+      "title": "Paris. La garde à vue de Jean Imbert levée après 36 heures, le chef transféré au tribunal judiciaire de Paris",
+      "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "time": "2026-08-05T05:38:00.000Z",
+      "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/05/la-garde-a-vue-de-jean-imbert-levee-apres-36-heures-le-chef-transfere-au-tribunal-judiciaire-de-paris",
+      "score": 97,
+      "summary": "Point de situation critique concernant : Paris. La garde à vue de Jean Imbert levée après 36 heures, le chef transféré au..."
+    },
+    {
       "title": "Adresses, numéros, statuts… Des données d’agents du ministère de l’Éducation nationale potentiellement dérobées lors d’une cyberattaque",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "time": "2026-08-04T06:25:11.968Z",
@@ -369,6 +393,14 @@
       "link": "https://www.20minutes.fr/societe/4237674-20260803-intermarche-enseigne-victime-cyberattaque-pres-300-000-clients-touches-fuite-donnees?at_medium=display&at_campaign=149",
       "score": 93,
       "summary": "Point de situation critique concernant : Intermarché : L’enseigne victime d’une cyberattaque, près de 300.000 clients tou..."
+    },
+    {
+      "title": "Les données de près de 300.000 clients d'Intermarché volées après une importante cyberattaque",
+      "source": "https://www.bfmtv.com/rss/economie/",
+      "time": "2026-08-05T04:22:13.000Z",
+      "link": "https://www.bfmtv.com/economie/video-les-donnees-de-pres-de-300-000-clients-d-intermarche-volees-apres-une-importante-cyberattaque_VN-202608050045.html",
+      "score": 93,
+      "summary": "Point de situation critique concernant : Les données de près de 300.000 clients d'Intermarché volées après une importante..."
     },
     {
       "title": "Narbonne : un homme de 48 ans mis en examen pour des viols et agressions sexuelles sur ses filles mineures",
@@ -475,17 +507,9 @@
       "summary": "Point de situation critique concernant : Gérard Darmon, accusé de violences sexistes et sexuelles par plusieurs femmes, d..."
     },
     {
-      "title": "Un professeur particulier jugé en octobre à Paris pour violences sexuelles sur ses élèves à l’Île Maurice",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-03T02:14:21.411Z",
-      "link": "https://www.leparisien.fr/faits-divers/un-professeur-particulier-juge-en-octobre-a-paris-pour-violences-sexuelles-sur-ses-eleves-a-lile-maurice-30-07-2026-QJBBSRWWNZHXDFK6DB5XDMC7RQ.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Un professeur particulier jugé en octobre à Paris pour violences sexuelles sur s..."
-    },
-    {
       "title": "Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du célèbre site des lignes de Nazca",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.429Z",
       "link": "https://www.leparisien.fr/faits-divers/perou-13-morts-touristes-tues-ce-que-lon-sait-du-crash-dun-avion-pres-du-celebre-site-des-lignes-de-nazca-02-08-2026-RBZ25WFVI5B4FOU2CUBWPFV42A.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Pérou : 13 morts, touristes tués… Ce que l’on sait du crash d’un avion près du c..."
@@ -493,7 +517,7 @@
     {
       "title": "« Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte il y a six ans... et attend toujours un procès",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.429Z",
       "link": "https://www.leparisien.fr/faits-divers/ca-me-bouffe-la-vie-camille-violee-par-son-prof-de-judo-a-porte-plainte-il-y-a-six-ans-et-attend-toujours-un-proces-02-08-2026-MWXCRFV5HNFNZJILTUWKOVPKJM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « Ça me bouffe la vie » : Camille, violée par son prof de judo, a porté plainte ..."
@@ -501,7 +525,7 @@
     {
       "title": "« La scène était très chaotique » : une fusillade dans un fast-food fait plusieurs morts aux États-Unis",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.429Z",
       "link": "https://www.leparisien.fr/faits-divers/la-scene-etait-tres-chaotique-une-fusillade-dans-un-fast-food-americain-fait-plusieurs-morts-02-08-2026-6KJOEI2S45GMBLBP6U5MJB7IHM.php",
       "score": 90,
       "summary": "Point de situation critique concernant : « La scène était très chaotique » : une fusillade dans un fast-food fait plusieu..."
@@ -509,7 +533,7 @@
     {
       "title": "L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série qui a sévi pendant près de 14 ans en Écosse",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/lhistoire-glacante-dalan-greer-policier-pere-de-famille-et-violeur-en-serie-qui-a-sevi-pendant-pres-de-14-ans-en-ecosse-02-08-2026-FMK4B44DL5FYVI5EOWD4BHNHYA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : L’histoire glaçante d’Alan Greer, policier, père de famille et violeur en série ..."
@@ -517,7 +541,7 @@
     {
       "title": "Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont été libérés à cause d’un couac législatif",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.868Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/meurtre-viol-sequestration-pendant-23-jours-des-mineurs-mis-en-examen-ont-ete-liberes-a-cause-dun-couac-legislatif-02-08-2026-BYJ66CC2WFCUBJNGCWH44JB22Y.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Meurtre, viol, séquestration... Pendant 23 jours, des mineurs mis en examen ont ..."
@@ -525,7 +549,7 @@
     {
       "title": "Troyes : un homme tué par balle, « plusieurs pistes » explorées par la police",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/troyes-un-homme-tue-par-balle-plusieurs-pistes-explorees-par-la-police-04-08-2026-PGCGULSQTBC3BHR6OURSMPOWPI.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Troyes : un homme tué par balle, « plusieurs pistes » explorées par la police..."
@@ -533,7 +557,7 @@
     {
       "title": "Accusé du meurtre de son père, il découvre pendant la reconstitution qu’il n’est pas son fils biologique",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/surrealiste-accuse-du-meurtre-de-son-pere-il-decouvre-pendant-la-reconstitution-quil-nest-pas-son-fils-04-08-2026-WXRPXBVZXNAAFM4VSOM647IPNE.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Accusé du meurtre de son père, il découvre pendant la reconstitution qu’il n’est..."
@@ -541,7 +565,7 @@
     {
       "title": "Home jacking ultraviolent d’un couple de médecins à Paris : prison ferme pour la bande de « Dioula 94 »",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/faits-divers/home-jacking-ultraviolent-dun-couple-de-medecins-a-paris-prison-ferme-pour-la-bande-de-dioula-94-04-08-2026-XM5W3LMLOZDVJESP7RXQZ447SA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Home jacking ultraviolent d’un couple de médecins à Paris : prison ferme pour la..."
@@ -549,31 +573,15 @@
     {
       "title": "Un ancien professeur de yoga de Troyes mis en examen pour des viols et des agressions sexuelles sous couvert de thérapies",
       "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
+      "time": "2026-08-05T06:24:53.428Z",
       "link": "https://www.leparisien.fr/aube-10/un-ancien-professeur-de-yoga-de-troyes-mis-en-examen-pour-des-viols-et-des-agressions-sexuelles-sous-couvert-de-therapies-04-08-2026-3AGB4VLMYJDO5OKZLHJCCQLVLA.php",
       "score": 90,
       "summary": "Point de situation critique concernant : Un ancien professeur de yoga de Troyes mis en examen pour des viols et des agres..."
     },
     {
-      "title": "Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des proches mis en cause",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
-      "link": "https://www.leparisien.fr/video/actualites/marseille-un-bebe-de-deux-ans-retrouve-mort-pendu-au-fil-dune-persienne-des-proches-mis-en-cause-03-08-2026-UOCCEMP3JJAMZHGH7YFT2LREH4.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des ..."
-    },
-    {
-      "title": "Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une tentative de suicide",
-      "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "time": "2026-08-05T01:59:12.867Z",
-      "link": "https://www.leparisien.fr/alpes-maritimes-06/nice-suspecte-davoir-tue-son-fils-de-17-ans-un-homme-hospitalise-apres-une-tentative-de-suicide-03-08-2026-HLGAO5PDNBF7JKBLO3UUQAGAQI.php",
-      "score": 90,
-      "summary": "Point de situation critique concernant : Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une t..."
-    },
-    {
       "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:58:07.803Z",
+      "time": "2026-08-05T06:23:49.796Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-fourthline-et-veridas-s-unissent-contre-la-fraude-d-identite-100707.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Fourthline et Veridas sont unis contre la fraude d'identité...."
@@ -581,7 +589,7 @@
     {
       "title": "[CYBER] Microsoft suspend le patch mardi de juillet",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:58:09.343Z",
+      "time": "2026-08-05T06:23:51.315Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-suspend-le-patch-tuesday-de-juillet-100705.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Microsoft suspend le patch mardi de juillet..."
@@ -613,7 +621,7 @@
     {
       "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:58:05.075Z",
+      "time": "2026-08-05T06:23:47.174Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -621,7 +629,7 @@
     {
       "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:58:02.982Z",
+      "time": "2026-08-05T06:23:45.175Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
@@ -629,7 +637,7 @@
     {
       "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:57:57.338Z",
+      "time": "2026-08-05T06:23:39.668Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-les-etats-unis-interdisent-l-importation-de-robots-humanoides-etrangers-100727.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les États-Unis interdisent l'importation de robots humains étrangers..."
@@ -637,7 +645,7 @@
     {
       "title": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:58:00.333Z",
+      "time": "2026-08-05T06:23:42.633Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-plus-de-1200-salaries-de-l-ia-appellent-a-ralentir-la-course-aux-modeles-avances-100726.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études..."
@@ -645,7 +653,7 @@
     {
       "title": "[CYBER] Résultats de l'analyse des intrusions",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:57:54.808Z",
+      "time": "2026-08-05T06:23:37.193Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -685,7 +693,7 @@
     {
       "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:57:50.639Z",
+      "time": "2026-08-05T06:23:33.144Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -693,7 +701,7 @@
     {
       "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:57:53.116Z",
+      "time": "2026-08-05T06:23:35.549Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -701,7 +709,7 @@
     {
       "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
       "source": "Le Monde Informatique",
-      "time": "2026-08-05T01:57:47.421Z",
+      "time": "2026-08-05T06:23:29.914Z",
       "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
       "score": 90,
       "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
