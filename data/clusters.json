@@ -2,9 +2,10 @@
   {
     "title": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -14,9 +15,17 @@
         "link": "https://www.leparisien.fr/faits-divers/triple-assassinat-en-afrique-du-sud-des-gerants-du-burger-king-davranches-la-mere-du-principal-suspect-placee-en-detention-provisoire-02-08-2026-F4KYZDO6LJBCXNYX6M3KQHBDOQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la ..."
+      },
+      {
+        "title": "La femme soupçonnée d'avoir poignardé quatre hommes à Londres mercredi a été inculpée et placée en détention provisoire",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-06T13:15:55.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/la-femme-soupconnee-d-avoir-poignarde-quatre-hommes-a-londres-mercredi-a-ete-inculpee-et-placee-en-detention-provisoire_8137226.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : La femme soupçonnée d'avoir poignardé quatre hommes à Londres mercredi a été inc..."
       }
     ],
-    "summary": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire"
+    "summary": "Triple assassinat en Afrique du Sud des gérants du Burger King d’Avranches : la mère du principal suspect placée en détention provisoire / La femme soupçonnée d'avoir poignardé quatre hommes à Londres mercredi a été inculpée et placée en détention provisoire"
   },
   {
     "title": "Une Américaine inculpée pour le meurtre de son père : elle aurait tenté de lui arracher le cœur",
@@ -40,7 +49,7 @@
   {
     "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -48,13 +57,21 @@
       {
         "title": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
+        "time": "2026-08-06T13:54:00.668Z",
         "link": "https://www.leparisien.fr/faits-divers/un-americain-inculpe-du-meurtre-de-son-bebe-apres-avoir-utilise-un-souffleur-de-feuilles-sur-lenfant-car-il-trouvait-ca-drole-04-08-2026-FNAZNXSH2ZFELB6MRM2QIC76KI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de ..."
+      },
+      {
+        "title": "Un Américain inculpé pour avoir tiré sur l’agresseur sexuel de sa fille qu’il avait piégé en se faisant passer pour elle via TikTok",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-06T13:54:00.667Z",
+        "link": "https://www.leparisien.fr/faits-divers/un-americain-inculpe-pour-avoir-tire-sur-lagresseur-sexuel-de-sa-fille-quil-avait-piege-en-se-faisant-passer-pour-elle-via-tiktok-06-08-2026-BJZFR3YZSFDWBCIZHPDHTMLKUU.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un Américain inculpé pour avoir tiré sur l’agresseur sexuel de sa fille qu’il av..."
       }
     ],
-    "summary": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle »"
+    "summary": "Un Américain inculpé du meurtre de son bébé après avoir utilisé un souffleur de feuilles sur l’enfant car il trouvait ça « drôle » / Un Américain inculpé pour avoir tiré sur l’agresseur sexuel de sa fille qu’il avait piégé en se faisant passer pour elle via TikTok"
   },
   {
     "title": "Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du trafic de cigarettes à Paris",
@@ -67,7 +84,7 @@
       {
         "title": "Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du trafic de cigarettes à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/blanchiment-au-petit-kaboul-le-systeme-bien-rode-des-boss-de-la-mafia-du-trafic-de-cigarettes-a-paris-04-08-2026-R2WMB72DGNGWZNLMI3Z4KEDCME.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du t..."
@@ -76,126 +93,11 @@
     "summary": "Blanchiment au « Petit Kaboul » : le système bien rodé des boss de la mafia du trafic de cigarettes à Paris"
   },
   {
-    "title": "La garde à vue du chef cuisinier Jean Imbert, accusé de violences conjugales, est prolongée de 24 heures",
-    "score": 97,
-    "count": 9,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.cnews.fr/rss/categorie/faits%20divers",
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "La garde à vue du chef cuisinier Jean Imbert, accusé de violences conjugales, est prolongée de 24 heures",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-04T12:51:06.000Z",
-        "link": "https://www.sudouest.fr/ile-de-france/paris/la-garde-a-vue-du-chef-cuisinier-jean-imbert-accuse-de-violences-conjugales-est-prolongee-de-24-heures-30161430.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : La garde à vue du chef cuisinier Jean Imbert, accusé de violences conjugales, es..."
-      },
-      {
-        "title": "Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-04T16:15:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/le-chef-jean-imbert-en-garde-a-vue-ce-que-lui-reprochent-ses-quatre-anciennes-compagnes",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anc..."
-      },
-      {
-        "title": "Accusations de violences sur d'ex-compagnes : le chef Jean Imbert placé sous statut de témoin assisté",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-08-05T18:14:09.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-08-05/jean-imbert-accuse-de-violences-conjugales-le-chef-cuisinier-presente-un",
-        "score": 90,
-        "summary": "le chef Jean Imbert placé sous statut de témoin assisté"
-      },
-      {
-        "title": "Violences conjugales : le chef Jean Imbert placé sous le statut de témoin assisté",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-08-05T17:20:16.000Z",
-        "link": "https://www.lefigaro.fr/faits-divers/violences-conjugales-la-garde-a-vue-de-jean-imbert-levee-le-chef-transfere-au-tribunal-de-paris-20260804",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences conjugales : le chef Jean Imbert placé sous le statut de témoin assist..."
-      },
-      {
-        "title": "Paris. Visé par des plaintes pour violences conjugales, Jean Imbert placé sous le statut de témoin assisté",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-05T17:29:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/05/la-garde-a-vue-de-jean-imbert-levee-apres-36-heures-le-chef-transfere-au-tribunal-judiciaire-de-paris",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Paris. Visé par des plaintes pour violences conjugales, Jean Imbert placé sous l..."
-      },
-      {
-        "title": "Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce mercredi ",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
-        "link": "https://www.leparisien.fr/faits-divers/accuse-de-violences-conjugales-le-cuisinier-jean-imbert-va-etre-presente-a-un-juge-ce-mercredi-en-vue-de-sa-mise-en-examen-05-08-2026-TZBQ5LXJ25EHHK5JCLHWR5GGOQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce m..."
-      },
-      {
-        "title": "Jean Imbert : suspecté de violences sur deux de ses ex-compagnes, le chef placé sous le statut de témoin assisté",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
-        "link": "https://www.leparisien.fr/faits-divers/suspecte-de-violences-sur-ses-deux-de-ses-ex-compagnes-le-chef-jean-imbert-place-sous-le-statut-de-temoin-assiste-05-08-2026-3EGEBTSSQFGQHCRYKBRM2O3A3M.php",
-        "score": 90,
-        "summary": "suspecté de violences sur deux de ses ex-compagnes, le chef placé sous le statut de témoin assisté"
-      },
-      {
-        "title": "Jean Imbert accusé de violences conjugales : c’est quoi le statut de témoin assisté, sous lequel le chef a été placé ?",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
-        "link": "https://www.leparisien.fr/faits-divers/jean-imbert-accuse-de-violences-conjugales-cest-quoi-le-statut-de-temoin-assiste-sous-lequel-le-chef-a-ete-place-05-08-2026-O4TFKT7O75EIZFG7XINNSZ4ISY.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Jean Imbert accusé de violences conjugales : c’est quoi le statut de témoin assi..."
-      },
-      {
-        "title": "Affaire Jean Imbert : qui sont les femmes qui accusent le chef de violences conjugales ?",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
-        "link": "https://www.leparisien.fr/faits-divers/affaire-jean-imbert-qui-sont-les-femmes-qui-accusent-le-chef-de-violences-conjugales-03-08-2026-CW5GZWMTAJFZ5HJXPX45F4AXZM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Affaire Jean Imbert : qui sont les femmes qui accusent le chef de violences conj..."
-      }
-    ],
-    "summary": "La garde à vue du chef cuisinier Jean Imbert, accusé de violences conjugales, est prolongée de 24 heures / Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes"
-  },
-  {
-    "title": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol",
+    "title": "À Marseille, un enfant de deux ans retrouvé mort à son domicile, la mère et son compagnon placés en garde à vue",
     "score": 97,
     "count": 2,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-04T11:15:00.000Z",
-        "link": "https://www.sudouest.fr/justice/je-ne-suis-pas-choque-d-etre-accuse-mais-ce-n-est-pas-moi-un-neracais-de-19-ans-condamne-pour-intrusion-de-domicile-et-vol-30160528.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de ..."
-      },
-      {
-        "title": "« Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-04T16:30:00.000Z",
-        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/pour-les-coups-c-est-vrai-les-menaces-au-couteau-aussi-un-neracais-condamne-pour-violences-conjugales-30162399.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condam..."
-      }
-    ],
-    "summary": "« Je ne suis pas choqué d’être accusé, mais ce n’est pas moi » : un Néracais de 19 ans condamné pour intrusion de domicile et vol / « Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales"
-  },
-  {
-    "title": "À Marseille, un enfant de deux ans retrouvé mort à son domicile, la mère et son compagnon placés en garde à vue",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -213,14 +115,6 @@
         "link": "https://www.franceinfo.fr/faits-divers/un-jeune-homme-de-17-ans-retrouve-mort-a-nice-son-pere-en-garde-a-vue-pour-assassinat_8134628.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Un jeune homme de 17 ans retrouvé mort, à Nice, son père en garde à vue pour \"as..."
-      },
-      {
-        "title": "Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des proches mis en cause",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
-        "link": "https://www.leparisien.fr/video/actualites/marseille-un-bebe-de-deux-ans-retrouve-mort-pendu-au-fil-dune-persienne-des-proches-mis-en-cause-03-08-2026-UOCCEMP3JJAMZHGH7YFT2LREH4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Marseille : un bébé de deux ans retrouvé mort pendu au fil d’une persienne, des ..."
       }
     ],
     "summary": "À Marseille, un enfant de deux ans retrouvé mort à son domicile, la mère et son compagnon placés en garde à vue / Un jeune homme de 17 ans retrouvé mort, à Nice, son père en garde à vue pour \"assassinat\""
@@ -263,13 +157,23 @@
     "summary": "Un duo condamné pour avoir prostitué trois jeunes filles mineures en Gironde / \"Un décor sorti d'un film d'horreur\" : au Royaume-Uni, un directeur de pompes funèbres lourdement condamné pour avoir conservé des corps dans des \"conditions épouvantables\""
   },
   {
-    "title": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice",
+    "title": "« Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales",
     "score": 97,
-    "count": 1,
+    "count": 4,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
+      {
+        "title": "« Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-04T16:30:00.000Z",
+        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/pour-les-coups-c-est-vrai-les-menaces-au-couteau-aussi-un-neracais-condamne-pour-violences-conjugales-30162399.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condam..."
+      },
       {
         "title": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice",
         "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
@@ -277,22 +181,84 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/deja-condamne-pour-l-avoir-aspergee-d-essence-son-compagnon-de-nouveau-devant-la-justice",
         "score": 97,
         "summary": "Point de situation critique concernant : Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de no..."
+      },
+      {
+        "title": "Les streameurs Naruto et Safine condamnés à des peines de prison avec sursis pour des violences sur Jean Pormanove, mort lors d'une diffusion en ligne",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-05T12:25:54.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/les-streameurs-naruto-et-safine-condamnes-a-des-peines-de-prison-avec-sursis-pour-des-violences-sur-jean-pormanove-mort-lors-d-une-diffusion-en-ligne_8135882.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Les streameurs Naruto et Safine condamnés à des peines de prison avec sursis pou..."
+      },
+      {
+        "title": "Paris. Visé par des plaintes pour violences conjugales, Jean Imbert placé sous le statut de témoin assisté",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-05T17:29:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/05/la-garde-a-vue-de-jean-imbert-levee-apres-36-heures-le-chef-transfere-au-tribunal-judiciaire-de-paris",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Paris. Visé par des plaintes pour violences conjugales, Jean Imbert placé sous l..."
       }
     ],
-    "summary": "Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice"
+    "summary": "« Pour les coups c’est vrai, les menaces au couteau aussi » : un Néracais condamné pour violences conjugales / Hautes-Alpes. Déjà condamné pour l’avoir aspergée d’essence, son compagnon de nouveau devant la justice"
+  },
+  {
+    "title": "Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes",
+    "score": 97,
+    "count": 4,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.cnews.fr/rss/categorie/faits%20divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-04T16:15:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/04/le-chef-jean-imbert-en-garde-a-vue-ce-que-lui-reprochent-ses-quatre-anciennes-compagnes",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anc..."
+      },
+      {
+        "title": "Accusations de violences sur d'ex-compagnes : le chef Jean Imbert placé sous statut de témoin assisté",
+        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
+        "time": "2026-08-05T18:14:09.000Z",
+        "link": "https://www.cnews.fr/faits-divers/2026-08-05/jean-imbert-accuse-de-violences-conjugales-le-chef-cuisinier-presente-un",
+        "score": 90,
+        "summary": "le chef Jean Imbert placé sous statut de témoin assisté"
+      },
+      {
+        "title": "Violences conjugales : le chef Jean Imbert placé sous le statut de témoin assisté",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-05T17:20:16.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/violences-conjugales-la-garde-a-vue-de-jean-imbert-levee-le-chef-transfere-au-tribunal-de-paris-20260804",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Violences conjugales : le chef Jean Imbert placé sous le statut de témoin assist..."
+      },
+      {
+        "title": "Jean Imbert : suspecté de violences sur deux de ses ex-compagnes, le chef placé sous le statut de témoin assisté",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-06T13:54:00.667Z",
+        "link": "https://www.leparisien.fr/faits-divers/suspecte-de-violences-sur-ses-deux-de-ses-ex-compagnes-le-chef-jean-imbert-place-sous-le-statut-de-temoin-assiste-05-08-2026-3EGEBTSSQFGQHCRYKBRM2O3A3M.php",
+        "score": 90,
+        "summary": "suspecté de violences sur deux de ses ex-compagnes, le chef placé sous le statut de témoin assisté"
+      }
+    ],
+    "summary": "Paris. Le chef Jean Imbert en garde à vue : ce que lui reprochent ses quatre anciennes compagnes / Accusations de violences sur d'ex-compagnes : le chef Jean Imbert placé sous statut de témoin assisté"
   },
   {
     "title": "Le blanchiment d’argent menace de « diluer la distinction entre économie légale et économie illégale », selon un rapport de la police judiciaire",
     "score": 97,
     "count": 2,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lemonde.fr/police/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Le blanchiment d’argent menace de « diluer la distinction entre économie légale et économie illégale », selon un rapport de la police judiciaire",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/police/rss_full.xml",
         "time": "2026-08-05T03:00:04.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/08/05/le-blanchiment-d-argent-menace-de-diluer-la-distinction-entre-economie-legale-et-economie-illegale-selon-un-rapport-de-la-police-judiciaire_6739214_3224.html",
         "score": 97,
@@ -312,11 +278,10 @@
   {
     "title": "Mort de Jean Pormanove : les streamers Naruto et Safine condamnés à de la prison avec sursis et six mois de « bannissement numérique »",
     "score": 97,
-    "count": 7,
+    "count": 6,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.cnews.fr/rss/categorie/faits%20divers"
@@ -325,7 +290,7 @@
       {
         "title": "Mort de Jean Pormanove : les streamers Naruto et Safine condamnés à de la prison avec sursis et six mois de « bannissement numérique »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-jean-pormanove-les-streamers-naruto-et-safine-condamnes-a-de-la-prison-avec-sursis-et-six-mois-de-bannissement-numerique-05-08-2026-HW6WWXWJSBEKLNSDUWLWU64JHY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Mort de Jean Pormanove : les streamers Naruto et Safine condamnés à de la prison..."
@@ -337,14 +302,6 @@
         "link": "https://www.lemonde.fr/pixels/article/2026/08/05/affaire-jean-pormanove-les-deux-streamers-condamnes-a-des-peines-de-prison-avec-sursis_6739425_4408996.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Affaire Jean Pormanove : les deux streamers condamnés à des peines de prison ave..."
-      },
-      {
-        "title": "Les streameurs Naruto et Safine condamnés à des peines de prison avec sursis pour des violences sur Jean Pormanove, mort lors d'une diffusion en ligne",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-08-05T12:25:54.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/les-streameurs-naruto-et-safine-condamnes-a-des-peines-de-prison-avec-sursis-pour-des-violences-sur-jean-pormanove-mort-lors-d-une-diffusion-en-ligne_8135882.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Les streameurs Naruto et Safine condamnés à des peines de prison avec sursis pou..."
       },
       {
         "title": "Procès Jean Pormanove : les deux streamers, Naruto et Safine, condamnés à de la prison avec sursis et six mois de « bannissement numérique »",
@@ -420,7 +377,7 @@
       {
         "title": "Home jacking ultraviolent d’un couple de médecins à Paris : prison ferme pour la bande de « Dioula 94 »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/home-jacking-ultraviolent-dun-couple-de-medecins-a-paris-prison-ferme-pour-la-bande-de-dioula-94-04-08-2026-XM5W3LMLOZDVJESP7RXQZ447SA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Home jacking ultraviolent d’un couple de médecins à Paris : prison ferme pour la..."
@@ -461,7 +418,7 @@
       {
         "title": "À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en civil",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/haut-rhin-68/a-colmar-une-femme-en-garde-a-vue-apres-avoir-blesse-grievement-un-gendarme-en-civil-05-08-2026-SUROEWQP4RGFJJR64ZZ5CFWAHY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en ..."
@@ -587,23 +544,41 @@
     "summary": "Vénissieux. Ils lui arrachent son collier : quatre individus en garde à vue"
   },
   {
-    "title": "Attentat à la voiture bélier à Munich en 2025 : l’auteur condamné à la prison à perpétuité",
+    "title": "Attentat à Munich en 2025 : l’auteur condamné à la prison à perpétuité",
     "score": 97,
-    "count": 1,
+    "count": 3,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
-        "title": "Attentat à la voiture bélier à Munich en 2025 : l’auteur condamné à la prison à perpétuité",
+        "title": "Attentat à Munich en 2025 : l’auteur condamné à la prison à perpétuité",
         "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-08-06T10:24:08.000Z",
+        "time": "2026-08-06T10:24:07.000Z",
         "link": "https://www.lemonde.fr/international/article/2026/08/06/attentat-a-la-voiture-belier-a-munich-en-2025-l-auteur-condamne-a-la-prison-a-perpetuite_6739905_3210.html",
         "score": 97,
-        "summary": "Point de situation critique concernant : Attentat à la voiture bélier à Munich en 2025 : l’auteur condamné à la prison à ..."
+        "summary": "Point de situation critique concernant : Attentat à Munich en 2025 : l’auteur condamné à la prison à perpétuité..."
+      },
+      {
+        "title": "« Une gravité particulière » : l’auteur de l’attentat contre un cortège syndical à Munich condamné à la prison à perpétuité",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-06T11:29:20.000Z",
+        "link": "https://www.sudouest.fr/international/europe/allemagne/une-gravite-particuliere-l-auteur-de-l-attentat-contre-un-cortege-syndical-a-munich-condamne-a-la-prison-a-perpetuite-30180123.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Une gravité particulière » : l’auteur de l’attentat contre un cortège syndical..."
+      },
+      {
+        "title": "Allemagne. Attentat à la voiture-bélier de Munich en 2025 : l'auteur condamné à la prison à perpétuité",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-06T10:25:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/06/perpetuite-pour-l-auteur-de-l-attaque-a-la-voiture-belier-de-munich",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Allemagne. Attentat à la voiture-bélier de Munich en 2025 : l'auteur condamné à ..."
       }
     ],
-    "summary": "Attentat à la voiture bélier à Munich en 2025 : l’auteur condamné à la prison à perpétuité"
+    "summary": "Attentat à Munich en 2025 : l’auteur condamné à la prison à perpétuité / « Une gravité particulière » : l’auteur de l’attentat contre un cortège syndical à Munich condamné à la prison à perpétuité"
   },
   {
     "title": "Jean Imbert placé sous le statut de témoin assisté : de quoi s’agit-il et pourquoi cette catégorie juridique est-elle plus favorable qu’une mise en examen ?",
@@ -691,6 +666,100 @@
     "summary": "\"Une des destinations gagnantes du détournement de clientèle qui allait au Moyen-Orient\": le directeur général d'Atout France assure que le secteur touristique résiste aux incertitudes"
   },
   {
+    "title": "Royaume-Uni : une femme inculpée pour avoir poignardé quatre hommes à Londres en pleine rue",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Royaume-Uni : une femme inculpée pour avoir poignardé quatre hommes à Londres en pleine rue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-06T13:54:00.667Z",
+        "link": "https://www.leparisien.fr/faits-divers/royaume-uni-une-femme-inculpee-pour-avoir-poignarde-quatre-hommes-a-londres-en-pleine-rue-06-08-2026-WJX2ESA6N5CVVO4QDL4FJNL5OM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Royaume-Uni : une femme inculpée pour avoir poignardé quatre hommes à Londres en..."
+      },
+      {
+        "title": "Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-08-06T13:35:05.000Z",
+        "link": "https://www.lemonde.fr/international/article/2026/08/06/londres-une-femme-a-ete-mise-en-examen-pour-avoir-poignarde-quatre-hommes-a-covent-garden_6739950_3210.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Co..."
+      },
+      {
+        "title": "Londres : une femme inculpée pour avoir poignardé quatre hommes",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-06T13:29:28.000Z",
+        "link": "https://www.lefigaro.fr/international/londres-une-femme-inculpee-pour-avoir-poignarde-quatre-hommes-20260806",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Londres : une femme inculpée pour avoir poignardé quatre hommes..."
+      }
+    ],
+    "summary": "Royaume-Uni : une femme inculpée pour avoir poignardé quatre hommes à Londres en pleine rue / Londres : une femme a été mise en examen pour avoir poignardé quatre hommes à Covent Garden"
+  },
+  {
+    "title": "\"C'est un scandale que ce soit augmenté comme ça\", réagit Simon, un automobiliste, face à la hausse récente du prix des carburants",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/"
+    ],
+    "items": [
+      {
+        "title": "\"C'est un scandale que ce soit augmenté comme ça\", réagit Simon, un automobiliste, face à la hausse récente du prix des carburants",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-08-06T12:38:53.000Z",
+        "link": "https://www.bfmtv.com/economie/video-c-est-un-scandale-que-ce-soit-augmente-comme-ca-reagit-simon-un-automobiliste-face-a-la-hausse-recente-du-prix-des-carburants_VN-202608060330.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : \"C'est un scandale que ce soit augmenté comme ça\", réagit Simon, un automobilist..."
+      }
+    ],
+    "summary": "\"C'est un scandale que ce soit augmenté comme ça\", réagit Simon, un automobiliste, face à la hausse récente du prix des carburants"
+  },
+  {
+    "title": "Nice : deux individus en garde à vue pour avoir tenté de provoquer un incendie",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Nice : deux individus en garde à vue pour avoir tenté de provoquer un incendie",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-06T12:34:45.000Z",
+        "link": "https://www.lefigaro.fr/nice/nice-deux-individus-en-garde-a-vue-pour-avoir-tente-de-provoquer-un-incendie-20260806",
+        "score": 97,
+        "summary": "deux individus en garde à vue pour avoir tenté de provoquer un incendie"
+      }
+    ],
+    "summary": "Nice : deux individus en garde à vue pour avoir tenté de provoquer un incendie"
+  },
+  {
+    "title": "Ukraine : Limogée lundi, l’ex-ambassadrice aux Etats-Unis a été mise en examen pour corruption",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Ukraine : Limogée lundi, l’ex-ambassadrice aux Etats-Unis a été mise en examen pour corruption",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-08-06T11:45:53.000Z",
+        "link": "https://www.20minutes.fr/monde/ukraine/4238077-20260806-ukraine-limogee-lundi-ex-ambassadrice-etats-unis-mise-examen-corruption?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Ukraine : Limogée lundi, l’ex-ambassadrice aux Etats-Unis a été mise en examen p..."
+      }
+    ],
+    "summary": "Ukraine : Limogée lundi, l’ex-ambassadrice aux Etats-Unis a été mise en examen pour corruption"
+  },
+  {
     "title": "Les données de près de 300.000 clients d'Intermarché volées après une importante cyberattaque",
     "score": 93,
     "count": 2,
@@ -710,13 +779,51 @@
       {
         "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:23.237Z",
+        "time": "2026-08-06T13:52:30.982Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
       }
     ],
     "summary": "Les données de près de 300.000 clients d'Intermarché volées après une importante cyberattaque / [CYBER] Intermarche victime d'une fuite de données après une cyberattaque"
+  },
+  {
+    "title": "Rugby : le Stade Français hacké, les cybercriminels exigent une rançon",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Rugby : le Stade Français hacké, les cybercriminels exigent une rançon",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-06T13:08:13.000Z",
+        "link": "https://www.lefigaro.fr/sports/rugby/top-14/rugby-le-stade-francais-hacke-les-cybercriminels-exigent-une-rancon-20260806",
+        "score": 93,
+        "summary": "le Stade Français hacké, les cybercriminels exigent une rançon"
+      }
+    ],
+    "summary": "Rugby : le Stade Français hacké, les cybercriminels exigent une rançon"
+  },
+  {
+    "title": "Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce mercredi ",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce mercredi ",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-06T13:54:00.667Z",
+        "link": "https://www.leparisien.fr/faits-divers/accuse-de-violences-conjugales-le-cuisinier-jean-imbert-va-etre-presente-a-un-juge-ce-mercredi-en-vue-de-sa-mise-en-examen-05-08-2026-TZBQ5LXJ25EHHK5JCLHWR5GGOQ.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce m..."
+      }
+    ],
+    "summary": "Accusé de violences conjugales, le cuisinier Jean Imbert présenté à un juge ce mercredi "
   },
   {
     "title": "Argenteuil : violent incendie dans une entreprise de déchets, plus de 150 pompiers mobilisés ",
@@ -881,7 +988,7 @@
       {
         "title": "Troyes : un homme tué par balle, « plusieurs pistes » explorées par la police",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/troyes-un-homme-tue-par-balle-plusieurs-pistes-explorees-par-la-police-04-08-2026-PGCGULSQTBC3BHR6OURSMPOWPI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Troyes : un homme tué par balle, « plusieurs pistes » explorées par la police..."
@@ -900,7 +1007,7 @@
       {
         "title": "Accusé du meurtre de son père, il découvre pendant la reconstitution qu’il n’est pas son fils biologique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/surrealiste-accuse-du-meurtre-de-son-pere-il-decouvre-pendant-la-reconstitution-quil-nest-pas-son-fils-04-08-2026-WXRPXBVZXNAAFM4VSOM647IPNE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Accusé du meurtre de son père, il découvre pendant la reconstitution qu’il n’est..."
@@ -919,7 +1026,7 @@
       {
         "title": "Un ancien professeur de yoga de Troyes mis en examen pour des viols et des agressions sexuelles sous couvert de thérapies",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.668Z",
         "link": "https://www.leparisien.fr/aube-10/un-ancien-professeur-de-yoga-de-troyes-mis-en-examen-pour-des-viols-et-des-agressions-sexuelles-sous-couvert-de-therapies-04-08-2026-3AGB4VLMYJDO5OKZLHJCCQLVLA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un ancien professeur de yoga de Troyes mis en examen pour des viols et des agres..."
@@ -938,7 +1045,7 @@
       {
         "title": "Deux policiers blessés après une mystérieuse explosion à Conflans-Sainte-Honorine",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/yvelines-78/deux-policiers-blesses-apres-une-mysterieuse-explosion-a-conflans-sainte-honorine-05-08-2026-RVZROHQPMNBLNMD5YXHLMTWSF4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Deux policiers blessés après une mystérieuse explosion à Conflans-Sainte-Honorin..."
@@ -957,7 +1064,7 @@
       {
         "title": "Coulée de boue, « lave torrentielle », accès au site interdit… Ce que l’on sait sur la disparition d’une femme en Haute-Savoie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/coulee-de-boue-lave-torrentielle-acces-au-site-interdit-ce-que-lon-sait-sur-la-disparition-dune-femme-en-haute-savoie-05-08-2026-4ZSUMILPNBAE7PJHN34BVACTKE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Coulée de boue, « lave torrentielle », accès au site interdit… Ce que l’on sait ..."
@@ -976,7 +1083,7 @@
       {
         "title": "Mehdi Laribi arrêté en Algérie : qui est le fondateur présumé de la DZ Mafia, mis au ban par la nouvelle génération du cartel marseillais ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/mehdi-laribi-arrete-en-algerie-qui-est-le-fondateur-presume-de-la-dz-mafia-mis-sur-au-banc-par-la-nouvelle-generation-du-cartel-05-08-2026-JHSIMURVI5FFTPNQJOUTYGRXB4.php",
         "score": 90,
         "summary": "qui est le fondateur présumé de la DZ Mafia, mis au ban par la nouvelle génération du cartel marseillais ?"
@@ -995,7 +1102,7 @@
       {
         "title": "Corse : trois militants indépendantistes de Nazione mis en examen pour « violences aggravées »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/corse-trois-militants-independantistes-de-nazione-mis-en-examen-pour-violences-aggravees-05-08-2026-5QL6Y34FLNBZHBDZV5ZPOFNJ3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Corse : trois militants indépendantistes de Nazione mis en examen pour « violenc..."
@@ -1014,108 +1121,13 @@
       {
         "title": "Afrique du Sud : un animateur français du Club Med poursuivi pour viol sur un client canadien de 18 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
+        "time": "2026-08-06T13:54:00.667Z",
         "link": "https://www.leparisien.fr/faits-divers/afrique-du-sud-un-animateur-francais-du-club-med-poursuivi-pour-viol-sur-un-client-canadien-de-18-ans-05-08-2026-QYC27GQT4FCXTLCALXHD6WTDI4.php",
         "score": 90,
         "summary": "un animateur français du Club Med poursuivi pour viol sur un client canadien de 18 ans"
       }
     ],
     "summary": "Afrique du Sud : un animateur français du Club Med poursuivi pour viol sur un client canadien de 18 ans"
-  },
-  {
-    "title": "« Et s’il fait d’autres victimes ? » : accusé d’agressions sexuelles, un curé lâché dans la nature par l’Église",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Et s’il fait d’autres victimes ? » : accusé d’agressions sexuelles, un curé lâché dans la nature par l’Église",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
-        "link": "https://www.leparisien.fr/faits-divers/et-sil-fait-dautres-victimes-accuse-dagressions-sexuelles-un-cure-lache-dans-la-nature-par-leglise-05-08-2026-S56GWSURKVH3BKOTNZJAHEJPGQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Et s’il fait d’autres victimes ? » : accusé d’agressions sexuelles, un curé lâ..."
-      }
-    ],
-    "summary": "« Et s’il fait d’autres victimes ? » : accusé d’agressions sexuelles, un curé lâché dans la nature par l’Église"
-  },
-  {
-    "title": "Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une tentative de suicide",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une tentative de suicide",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
-        "link": "https://www.leparisien.fr/alpes-maritimes-06/nice-suspecte-davoir-tue-son-fils-de-17-ans-un-homme-hospitalise-apres-une-tentative-de-suicide-03-08-2026-HLGAO5PDNBF7JKBLO3UUQAGAQI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une t..."
-      }
-    ],
-    "summary": "Nice : suspecté d’avoir tué son fils de 17 ans, un homme hospitalisé après une tentative de suicide"
-  },
-  {
-    "title": "Deux randonneurs de 14 et 21 ans foudroyés lors d’un violent orage dans les Pyrénées, leur pronostic vital engagé",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Deux randonneurs de 14 et 21 ans foudroyés lors d’un violent orage dans les Pyrénées, leur pronostic vital engagé",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
-        "link": "https://www.leparisien.fr/faits-divers/deux-randonneurs-de-14-et-21-ans-foudroyes-lors-dun-violent-orage-dans-les-pyrenees-leur-pronostic-vital-engage-03-08-2026-IH4AAPBOPVHTRJOIG2MQIXA4VY.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Deux randonneurs de 14 et 21 ans foudroyés lors d’un violent orage dans les Pyré..."
-      }
-    ],
-    "summary": "Deux randonneurs de 14 et 21 ans foudroyés lors d’un violent orage dans les Pyrénées, leur pronostic vital engagé"
-  },
-  {
-    "title": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.487Z",
-        "link": "https://www.leparisien.fr/faits-divers/jetais-persuade-que-cetait-lui-quatre-decennies-plus-tard-sur-la-piste-des-meurtres-de-la-n-20-06-08-2026-43ESBTNX25DD5ESC3IBXSGYKEU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteu..."
-      }
-    ],
-    "summary": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20"
-  },
-  {
-    "title": "Féminicide de Cécile Hussherr-Poisson : son ex-conjoint jugé en janvier pour assassinat",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Féminicide de Cécile Hussherr-Poisson : son ex-conjoint jugé en janvier pour assassinat",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-06T10:35:53.488Z",
-        "link": "https://www.leparisien.fr/faits-divers/feminicide-de-cecile-hussherr-poisson-son-ex-conjoint-juge-en-janvier-pour-assassinat-03-08-2026-UJHJRCPQAJG63ARGEDBTTACSNE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Féminicide de Cécile Hussherr-Poisson : son ex-conjoint jugé en janvier pour ass..."
-      }
-    ],
-    "summary": "Féminicide de Cécile Hussherr-Poisson : son ex-conjoint jugé en janvier pour assassinat"
   },
   {
     "title": "[CYBER] Fourthline et Veridas sont unis contre la fraude d'identité.",
@@ -1185,7 +1197,7 @@
       {
         "title": "[CYBER] L'homme d'aujourd'hui Claude Opus 5",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:44.547Z",
+        "time": "2026-08-06T13:52:53.263Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-opus-5-100719.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'homme d'aujourd'hui Claude Opus 5..."
@@ -1204,7 +1216,7 @@
       {
         "title": "[CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:42.446Z",
+        "time": "2026-08-06T13:52:50.937Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-lance-son-premier-modele-ia-dedie-a-la-cybersecurite-100722.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft lance son premier mod de l' IA et de la cyber-culture..."
@@ -1223,7 +1235,7 @@
       {
         "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:36.771Z",
+        "time": "2026-08-06T13:52:45.098Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-etats-unis-interdisent-l-importation-de-robots-humanoides-etrangers-100727.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les États-Unis interdisent l'importation de robots humains étrangers..."
@@ -1242,7 +1254,7 @@
       {
         "title": "[CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:39.691Z",
+        "time": "2026-08-06T13:52:48.229Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-plus-de-1200-salaries-de-l-ia-appellent-a-ralentir-la-course-aux-modeles-avances-100726.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Plus de 1200 salariés de l'IA appellent à ralentir le cours des études..."
@@ -1261,7 +1273,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:34.165Z",
+        "time": "2026-08-06T13:52:42.361Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1280,7 +1292,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:30.035Z",
+        "time": "2026-08-06T13:52:38.032Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1299,7 +1311,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:32.440Z",
+        "time": "2026-08-06T13:52:40.605Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1318,12 +1330,31 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-06T10:34:26.713Z",
+        "time": "2026-08-06T13:52:34.663Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
       }
     ],
     "summary": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA"
+  },
+  {
+    "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
+        "source": "Le Monde Informatique",
+        "time": "2026-08-06T13:52:28.295Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
+      }
+    ],
+    "summary": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?"
   }
 ]
