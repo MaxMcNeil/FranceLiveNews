@@ -1,32 +1,5 @@
 [
   {
-    "title": "À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en civil",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en civil",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-09T08:37:32.442Z",
-        "link": "https://www.leparisien.fr/haut-rhin-68/a-colmar-une-femme-en-garde-a-vue-apres-avoir-blesse-grievement-un-gendarme-en-civil-05-08-2026-SUROEWQP4RGFJJR64ZZ5CFWAHY.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en ..."
-      },
-      {
-        "title": "Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups de couteau",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
-        "link": "https://www.leparisien.fr/haut-rhin-68/colmar-une-femme-mise-en-examen-apres-avoir-blesse-un-gendarme-de-deux-coups-de-couteau-07-08-2026-QW6KE74OTZEGDACF2EJXN6GYEQ.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups d..."
-      }
-    ],
-    "summary": "À Colmar, une femme en garde à vue après avoir blessé grièvement un gendarme en civil / Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups de couteau"
-  },
-  {
     "title": "Royaume-Uni : une femme inculpée pour avoir poignardé quatre hommes à Londres en pleine rue",
     "score": 97,
     "count": 2,
@@ -45,7 +18,7 @@
       {
         "title": "Une jeune femme de 28 ans condamnée pour avoir publié une photo assortie d’un avis très négatif sur une boulangerie en Suisse",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/une-jeune-femme-de-28-ans-condamnee-pour-avoir-publie-une-photo-assortie-dun-avis-tres-negatif-sur-une-boulangerie-en-suisse-09-08-2026-TGGSAXTBQJCHBJLRY2ARLMTB3U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une jeune femme de 28 ans condamnée pour avoir publié une photo assortie d’un av..."
@@ -93,7 +66,7 @@
   {
     "title": "Meurtre d’une Britannique retrouvée dans une valise à Athènes : le suspect inculpé et placé en détention",
     "score": 97,
-    "count": 3,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml"
@@ -108,14 +81,6 @@
         "summary": "Point de situation critique concernant : Meurtre d’une Britannique retrouvée dans une valise à Athènes : le suspect incul..."
       },
       {
-        "title": "Un homme placé en détention provisoire dans le Vaucluse, soupçonné d’avoir violemment tué son ex-compagne",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-09T06:37:28.000Z",
-        "link": "https://www.sudouest.fr/societe/feminicides/un-homme-place-en-detention-provisoire-dans-le-vaucluse-soupconne-d-avoir-violemment-tue-son-ex-compagne-30203031.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un homme placé en détention provisoire dans le Vaucluse, soupçonné d’avoir viole..."
-      },
-      {
         "title": "Un homme placé en détention provisoire après avoir provoqué plusieurs incendies dans les Deux-Sèvres et le Maine-et-Loire",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
         "time": "2026-08-10T06:20:31.000Z",
@@ -124,14 +89,15 @@
         "summary": "Point de situation critique concernant : Un homme placé en détention provisoire après avoir provoqué plusieurs incendies ..."
       }
     ],
-    "summary": "Meurtre d’une Britannique retrouvée dans une valise à Athènes : le suspect inculpé et placé en détention / Un homme placé en détention provisoire dans le Vaucluse, soupçonné d’avoir violemment tué son ex-compagne"
+    "summary": "Meurtre d’une Britannique retrouvée dans une valise à Athènes : le suspect inculpé et placé en détention / Un homme placé en détention provisoire après avoir provoqué plusieurs incendies dans les Deux-Sèvres et le Maine-et-Loire"
   },
   {
     "title": "Des centaines de milliers de photos et vidéos pédopornographiques : un Mulhousien condamné à cinq ans de prison pour son effroyable collection",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -141,9 +107,52 @@
         "link": "https://www.leparisien.fr/faits-divers/des-centaines-de-milliers-de-photos-et-videos-pedopornographiques-un-mulhousien-condamne-a-cinq-ans-de-prison-pour-son-effroyable-collection-06-08-2026-BGG4RCQUCFH7PAWLTHGVAG34DI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Des centaines de milliers de photos et vidéos pédopornographiques : un Mulhousie..."
+      },
+      {
+        "title": "Venu spécialement du Var pour trafiquer de la cocaïne à Pau, un jeune majeur condamné à quatre mois de prison ferme",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-11T07:11:13.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/venu-specialement-du-var-pour-trafiquer-de-la-cocaine-a-pau-un-jeune-majeur-condamne-a-quatre-mois-de-prison-ferme-30212671.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Venu spécialement du Var pour trafiquer de la cocaïne à Pau, un jeune majeur con..."
       }
     ],
-    "summary": "Des centaines de milliers de photos et vidéos pédopornographiques : un Mulhousien condamné à cinq ans de prison pour son effroyable collection"
+    "summary": "Des centaines de milliers de photos et vidéos pédopornographiques : un Mulhousien condamné à cinq ans de prison pour son effroyable collection / Venu spécialement du Var pour trafiquer de la cocaïne à Pau, un jeune majeur condamné à quatre mois de prison ferme"
+  },
+  {
+    "title": "Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups de couteau",
+    "score": 97,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups de couteau",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-11T08:51:01.871Z",
+        "link": "https://www.leparisien.fr/haut-rhin-68/colmar-une-femme-mise-en-examen-apres-avoir-blesse-un-gendarme-de-deux-coups-de-couteau-07-08-2026-QW6KE74OTZEGDACF2EJXN6GYEQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups d..."
+      },
+      {
+        "title": "Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame « l’accès aux casiers judiciaires »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-11T08:51:01.870Z",
+        "link": "https://www.leparisien.fr/yvelines-78/apres-la-mise-en-examen-de-lentraineur-de-gym-le-maire-de-magnanville-reclame-lacces-aux-casiers-judiciaires-10-08-2026-6JXXXRDACFAD3H7E33JMZEPX3A.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame ..."
+      },
+      {
+        "title": "Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux hommes mis en examen",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-11T08:51:01.870Z",
+        "link": "https://www.leparisien.fr/faits-divers/jeune-femme-droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-deux-hommes-mis-en-examen-10-08-2026-PYJ77OYHFBGLZN3WN5INCKU2VI.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux ho..."
+      }
+    ],
+    "summary": "Colmar : une femme mise en examen après avoir blessé un gendarme de deux coups de couteau / Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame « l’accès aux casiers judiciaires »"
   },
   {
     "title": "« Il peut tuer quelqu’un » : dans la tête du rappeur Moha la Squale, encore condamné pour violences",
@@ -156,7 +165,7 @@
       {
         "title": "« Il peut tuer quelqu’un » : dans la tête du rappeur Moha la Squale, encore condamné pour violences",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/il-peut-tuer-quelquun-dans-la-tete-du-rappeur-moha-la-squale-juge-pour-violences-08-08-2026-3RXNRAQPOBGBHD5BBSVGAXHGOA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il peut tuer quelqu’un » : dans la tête du rappeur Moha la Squale, encore cond..."
@@ -235,7 +244,7 @@
       {
         "title": "Extradé de Dubaï vers l’Irlande, le chef présumé du KOCG Daniel Kinahan inculpé et incarcéré dans une prison de haute sécurité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/extrade-de-dubai-vers-lirlande-le-chef-presume-du-kocg-daniel-kinahan-inculpe-et-incarcere-dans-une-prison-de-haute-securite-10-08-2026-QAC6WH2K3ZAYXO24IOVPDNWNR4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Extradé de Dubaï vers l’Irlande, le chef présumé du KOCG Daniel Kinahan inculpé ..."
@@ -267,7 +276,7 @@
       {
         "title": "Qui est Daniel Kinahan, le chef présumé du puissant cartel irlandais KOCG, extradé de Dubaï ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/qui-est-daniel-kinahan-le-chef-presume-du-puissant-cartel-irlandais-kocg-extrade-de-dubai-10-08-2026-XVD6XC7PFNEWZFDWKNT2GJPIPQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Qui est Daniel Kinahan, le chef présumé du puissant cartel irlandais KOCG, extra..."
@@ -276,7 +285,7 @@
     "summary": "Extradé de Dubaï vers l’Irlande, le chef présumé du KOCG Daniel Kinahan inculpé et incarcéré dans une prison de haute sécurité / Le chef présumé de la « mafia irlandaise », Daniel Kinahan, inculpé après son extradition de Dubaï"
   },
   {
-    "title": "Jouets antistress \"squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes",
+    "title": "Jouets antistress \"Squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes",
     "score": 97,
     "count": 1,
     "sources": [
@@ -284,15 +293,15 @@
     ],
     "items": [
       {
-        "title": "Jouets antistress \"squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes",
+        "title": "Jouets antistress \"Squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
         "time": "2026-08-10T19:08:48.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/la-repression-des-fraudes-appelle-parents-et-enfants-a-faire-preuve-de-prudence-en-attendant-le-resultat-des-expertises-sur-des-jouets-antistress-squishy_8141621.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
-        "summary": "Point de situation critique concernant : Jouets antistress \"squishy\" : parents et enfants doivent \"faire preuve de pruden..."
+        "summary": "Point de situation critique concernant : Jouets antistress \"Squishy\" : parents et enfants doivent \"faire preuve de pruden..."
       }
     ],
-    "summary": "Jouets antistress \"squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes"
+    "summary": "Jouets antistress \"Squishy\" : parents et enfants doivent \"faire preuve de prudence\", alerte la Répression des fraudes"
   },
   {
     "title": "Montpellier : un adolescent de 16 ans poignardé à mort à la suite d’une rixe, un mineur placé en garde à vue",
@@ -307,7 +316,7 @@
       {
         "title": "Montpellier : un adolescent de 16 ans poignardé à mort à la suite d’une rixe, un mineur placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/montpellier-un-adolescent-de-16-ans-poignarde-a-mort-a-la-suite-dune-rixe-10-08-2026-FNJUPOIH6BEYXHYGTQ4GCDMJDQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Montpellier : un adolescent de 16 ans poignardé à mort à la suite d’une rixe, un..."
@@ -361,32 +370,13 @@
       {
         "title": "Allemagne : une enquête rouverte contre un infirmier tueur en série condamné à la perpétuité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.870Z",
         "link": "https://www.leparisien.fr/faits-divers/allemagne-une-enquete-rouverte-contre-un-infirmier-tueur-en-serie-condamne-a-la-perpetuite-10-08-2026-3RKUGQYPO5CEPOZ36JCIHKETYA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Allemagne : une enquête rouverte contre un infirmier tueur en série condamné à l..."
       }
     ],
     "summary": "Allemagne : une enquête rouverte contre un infirmier tueur en série condamné à la perpétuité"
-  },
-  {
-    "title": "Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame « l’accès aux casiers judiciaires »",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame « l’accès aux casiers judiciaires »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
-        "link": "https://www.leparisien.fr/yvelines-78/apres-la-mise-en-examen-de-lentraineur-de-gym-le-maire-de-magnanville-reclame-lacces-aux-casiers-judiciaires-10-08-2026-6JXXXRDACFAD3H7E33JMZEPX3A.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame ..."
-      }
-    ],
-    "summary": "Après la mise en examen de l’entraîneur de gym, le maire de Magnanville réclame « l’accès aux casiers judiciaires »"
   },
   {
     "title": "Tout juste sorti de garde à vue, il gifle un agent de sécurité : il part six mois en prison et ne doit plus remettre les pieds à Libourne",
@@ -446,6 +436,44 @@
     "summary": "Des aspirantes mannequins prises au piège d’une escroquerie tentaculaire et d’une justice à la peine : « Lors du dépôt de plainte, on m’a fait comprendre que j’étais trop conne »"
   },
   {
+    "title": "Syrie. Le président déchu Bachar al-Assad condamné à mort par contumace",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Syrie. Le président déchu Bachar al-Assad condamné à mort par contumace",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-11T08:48:00.000Z",
+        "link": "https://www.ledauphine.com/defense-guerre-conflit/2026/08/11/le-president-dechu-bachar-al-assad-condamne-a-mort-par-contumace",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Syrie. Le président déchu Bachar al-Assad condamné à mort par contumace..."
+      }
+    ],
+    "summary": "Syrie. Le président déchu Bachar al-Assad condamné à mort par contumace"
+  },
+  {
+    "title": "Royaume-Uni. Il se déguise en grande faucheuse et terrorise les patients d'un hôpital : un homme condamné",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Royaume-Uni. Il se déguise en grande faucheuse et terrorise les patients d'un hôpital : un homme condamné",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-11T05:30:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/11/il-se-deguise-en-grande-faucheuse-et-terrorise-les-patients-d-un-hopital-un-homme-condamne",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Royaume-Uni. Il se déguise en grande faucheuse et terrorise les patients d'un hô..."
+      }
+    ],
+    "summary": "Royaume-Uni. Il se déguise en grande faucheuse et terrorise les patients d'un hôpital : un homme condamné"
+  },
+  {
     "title": "Cyberattaque contre Intermarché : une enquête est ouverte après la fuite de données qui concerne 300 000 clients",
     "score": 93,
     "count": 2,
@@ -465,7 +493,7 @@
       {
         "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:51.497Z",
+        "time": "2026-08-11T08:49:54.826Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
@@ -521,7 +549,7 @@
       {
         "title": "Vaucluse : un homme arrêté pour le meurtre de son ex-compagne, détentrice d’un téléphone grave danger",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/vaucluse-84/vaucluse-un-homme-arrete-pour-le-meurtre-de-son-ex-compagne-detentrice-dun-telephone-grave-danger-08-08-2026-PCXRLRFSOBFCFFGGGPCHGIG45Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Vaucluse : un homme arrêté pour le meurtre de son ex-compagne, détentrice d’un t..."
@@ -567,7 +595,7 @@
       {
         "title": "Prison avec sursis, mise à pied… Accusé de violences conjugales, un arbitre de Ligue 1 risque gros",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/sports/football/ligue-1/prison-avec-sursis-mise-a-pied-accuse-de-violences-conjugales-un-arbitre-de-ligue-1-risque-gros-07-08-2026-LGK6KLTY4NBMFKHYWHGGLUBCKQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Prison avec sursis, mise à pied… Accusé de violences conjugales, un arbitre de L..."
@@ -684,7 +712,7 @@
       {
         "title": "Auditions « mal faites », dossiers « perdus »… Un courrier de Darmanin pointe les défaillances des enquêtes sur les violences sexuelles sur mineurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/auditions-mal-faites-dossiers-perdus-un-courrier-de-darmanin-pointe-les-defaillances-des-enquetes-sur-les-violences-sexuelles-sur-mineurs-08-08-2026-QZSIIXDRNFAOVP5ADI7B3FCIAQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Auditions « mal faites », dossiers « perdus »… Un courrier de Darmanin pointe le..."
@@ -708,7 +736,7 @@
       {
         "title": "Violences sexuelles sur mineurs : l’association nationale de la police judiciaire dénonce une « trahison » de Darmanin",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-sexuelles-sur-mineurs-lassociation-nationale-de-la-police-judiciaire-denonce-une-trahison-de-darmanin-09-08-2026-IIGK3AHYTBDJ7K5KANOLS5X5ZY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences sexuelles sur mineurs : l’association nationale de la police judiciair..."
@@ -743,7 +771,7 @@
       {
         "title": "« Une première » : la justice reconnaît un préjudice d’anxiété pour une victime du « violeur de la Sambre »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/une-premiere-la-justice-reconnait-un-prejudice-danxiete-pour-une-victime-du-violeur-de-la-sambre-07-08-2026-WCEAQHAF3NA7ZI5YNLGXTW2F5A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Une première » : la justice reconnaît un préjudice d’anxiété pour une victime ..."
@@ -790,44 +818,6 @@
     "summary": "Un homme soupçonné d’avoir tué un septuagénaire en Isère mis en examen et écroué"
   },
   {
-    "title": "Balafres au visage, doigts à moitié sectionnés… Le récit glaçant de l’agression au cutter à Paris",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Balafres au visage, doigts à moitié sectionnés… Le récit glaçant de l’agression au cutter à Paris",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-09T08:37:32.442Z",
-        "link": "https://www.leparisien.fr/faits-divers/balafres-au-visage-doigts-a-moitie-sectionnes-le-recit-glacant-de-lagression-au-cutter-a-paris-06-08-2026-AIV73K46AZE6VJBFOP7ICEC3QA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Balafres au visage, doigts à moitié sectionnés… Le récit glaçant de l’agression ..."
-      }
-    ],
-    "summary": "Balafres au visage, doigts à moitié sectionnés… Le récit glaçant de l’agression au cutter à Paris"
-  },
-  {
-    "title": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-09T08:37:32.442Z",
-        "link": "https://www.leparisien.fr/faits-divers/jetais-persuade-que-cetait-lui-quatre-decennies-plus-tard-sur-la-piste-des-meurtres-de-la-n-20-06-08-2026-43ESBTNX25DD5ESC3IBXSGYKEU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteu..."
-      }
-    ],
-    "summary": "« J’étais persuadé que c’était lui… » : quatre décennies plus tard, les enquêteurs toujours sur la piste des meurtres de la N 20"
-  },
-  {
     "title": "« Ceux qui pensent que le trafic d’êtres humains n’existe pas... » : une Australienne de 30 ans raconte avoir échappé à un enlèvement à Paris",
     "score": 90,
     "count": 1,
@@ -838,7 +828,7 @@
       {
         "title": "« Ceux qui pensent que le trafic d’êtres humains n’existe pas... » : une Australienne de 30 ans raconte avoir échappé à un enlèvement à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/ceux-qui-pensent-que-le-trafic-detres-humains-nexiste-pas-une-australienne-de-30-ans-raconte-avoir-echappe-a-un-enlevement-a-paris-08-08-2026-ILWILELN7RBVHMZIQUGWF63H3Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Ceux qui pensent que le trafic d’êtres humains n’existe pas... » : une Austral..."
@@ -857,7 +847,7 @@
       {
         "title": "Assassinat des gérants d’un Burger King : révélations sur la famille de Villiers-sur-Marne au cœur de l’enquête",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/guet-apens-marteau-et-fillette-enlevee-le-terrible-engrenage-familial-derriere-le-triple-meurtre-du-burger-king-davranches-08-08-2026-H4YRCKCRTRB5BM3S6LTHBHR5JQ.php",
         "score": 90,
         "summary": "révélations sur la famille de Villiers-sur-Marne au cœur de l’enquête"
@@ -876,7 +866,7 @@
       {
         "title": "« Le mec est descendu et a tiré dans le tas » : à Valence après la fusillade, le calme en trompe-l’œil du quartier du Polygone",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/le-mec-est-descendu-et-a-tire-dans-le-tas-a-valence-apres-la-fusillade-le-calme-en-trompe-loeil-du-quartier-du-polygone-08-08-2026-EFWFQ4CR5FC3ZEYLW7T6OREK4A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Le mec est descendu et a tiré dans le tas » : à Valence après la fusillade, le..."
@@ -895,7 +885,7 @@
       {
         "title": "« Stop talking » : la phrase glaçante captée par erreur sur le téléphone du suspect du meurtre d’Alexandra à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/stop-talking-la-phrase-glacante-captee-par-erreur-sur-le-telephone-du-suspect-du-meurtre-dalexandra-a-paris-09-08-2026-RC4FVQHZ7JC53ATKNEUNMXOX5E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Stop talking » : la phrase glaçante captée par erreur sur le téléphone du susp..."
@@ -914,7 +904,7 @@
       {
         "title": "Meurtre de Tupac Shakur : pourquoi un ex-chef de gang est jugé 30 ans après la mort du rappeur",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/international/etats-unis/meurtre-de-tupac-shakur-pourquoi-un-ex-chef-de-gang-est-juge-30-ans-apres-la-mort-du-rappeur-10-08-2026-MJSQUPEMUBHZPHQ6MB2A5Z6WP4.php",
         "score": 90,
         "summary": "pourquoi un ex-chef de gang est jugé 30 ans après la mort du rappeur"
@@ -933,7 +923,7 @@
       {
         "title": "« Il glissait toujours la main sur moi » : l’agression sexuelle filmée de la chanteuse de cumbia Naldy Saldaña indigne le Pérou",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.870Z",
         "link": "https://www.leparisien.fr/faits-divers/il-glissait-toujours-la-main-sur-moi-lagression-sexuelle-filmee-de-la-chanteuse-de-cumbia-naldy-saldana-indigne-le-perou-10-08-2026-GAGPQHNT7JGANEBCHO2SM36IPI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il glissait toujours la main sur moi » : l’agression sexuelle filmée de la cha..."
@@ -953,7 +943,7 @@
       {
         "title": "« Un coup de poing sur la poitrine » : l’ancien ministre Jean-Michel Baylet porte plainte pour agression, un couple sera jugé en février",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
+        "time": "2026-08-11T08:51:01.871Z",
         "link": "https://www.leparisien.fr/faits-divers/un-coup-de-poing-sur-la-poitrine-lancien-ministre-jean-michel-baylet-porte-plainte-pour-agression-10-08-2026-77XA2ZEYHZHI3H6ROEZGWEAPYQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Un coup de poing sur la poitrine » : l’ancien ministre Jean-Michel Baylet port..."
@@ -980,32 +970,13 @@
       {
         "title": "Darmanin saisit le Conseil d’État après une décision de justice appelant à cesser des violences dans la prison de Condé-sur-Sarthe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.272Z",
+        "time": "2026-08-11T08:51:01.870Z",
         "link": "https://www.leparisien.fr/politique/darmanin-saisit-le-conseil-detat-apres-une-decision-de-justice-appelant-a-cesser-des-violences-dans-la-prison-de-conde-sur-sarthe-10-08-2026-YDNE5BSI4FG67M42Q6BPP2SJFY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Darmanin saisit le Conseil d’État après une décision de justice appelant à cesse..."
       }
     ],
     "summary": "Darmanin saisit le Conseil d’État après une décision de justice appelant à cesser des violences dans la prison de Condé-sur-Sarthe"
-  },
-  {
-    "title": "Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux hommes mis en examen",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux hommes mis en examen",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-11T05:05:15.273Z",
-        "link": "https://www.leparisien.fr/faits-divers/jeune-femme-droguee-enlevee-et-violee-apres-une-soiree-au-metropolis-deux-hommes-mis-en-examen-10-08-2026-PYJ77OYHFBGLZN3WN5INCKU2VI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux ho..."
-      }
-    ],
-    "summary": "Jeune femme droguée, enlevée, et violée après une soirée au Metropolis : deux hommes mis en examen"
   },
   {
     "title": "[CYBER] Les États-Unis interdisent l'importation de robots humains étrangers",
@@ -1056,7 +1027,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:04:02.556Z",
+        "time": "2026-08-11T08:50:05.510Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1075,7 +1046,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:58.402Z",
+        "time": "2026-08-11T08:50:01.515Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1094,7 +1065,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:04:00.841Z",
+        "time": "2026-08-11T08:50:03.869Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1113,7 +1084,7 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:55.049Z",
+        "time": "2026-08-11T08:49:58.319Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
@@ -1132,7 +1103,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:48.732Z",
+        "time": "2026-08-11T08:49:52.229Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1151,7 +1122,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:40.455Z",
+        "time": "2026-08-11T08:49:44.094Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1170,32 +1141,13 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:44.042Z",
+        "time": "2026-08-11T08:49:47.587Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
       }
     ],
     "summary": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA."
-  },
-  {
-    "title": "[CYBER] Actualités informatiques ZATAZ de la semaine du 3 au 9 août 2026",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Actualités informatiques ZATAZ de la semaine du 3 au 9 août 2026",
-        "source": "Zataz",
-        "time": "2026-08-09T07:52:19.000Z",
-        "link": "https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-3-au-9-aout-2026/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Actualités informatiques ZATAZ de la semaine du 3 au 9 août 2026..."
-      }
-    ],
-    "summary": "[CYBER] Actualités informatiques ZATAZ de la semaine du 3 au 9 août 2026"
   },
   {
     "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
@@ -1208,7 +1160,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:38.183Z",
+        "time": "2026-08-11T08:49:41.880Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1227,7 +1179,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-11T05:03:35.774Z",
+        "time": "2026-08-11T08:49:39.460Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1367,5 +1319,24 @@
       }
     ],
     "summary": "[CYBER] Une nouvelle fuite pour le handball?"
+  },
+  {
+    "title": "[CYBER] Steam: une fuite chez CEVA exposer les clients européens",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Steam: une fuite chez CEVA exposer les clients européens",
+        "source": "Zataz",
+        "time": "2026-08-11T08:45:37.000Z",
+        "link": "https://www.zataz.com/steam-une-fuite-chez-ceva-expose-des-clients-europeens/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Steam: une fuite chez CEVA exposer les clients européens..."
+      }
+    ],
+    "summary": "[CYBER] Steam: une fuite chez CEVA exposer les clients européens"
   }
 ]
