@@ -19,31 +19,11 @@
     "summary": "Assassinat de Nono le Barge à Paris : une figure du quartier de la Banane mise en examen vingt-trois ans après"
   },
   {
-    "title": "Paris : placé en garde à vue, il incendie sa cellule dans le commissariat du VIIIe arrondissement et mord un policier",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Paris : placé en garde à vue, il incendie sa cellule dans le commissariat du VIIIe arrondissement et mord un policier",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-19T16:29:45.810Z",
-        "link": "https://www.leparisien.fr/faits-divers/paris-place-en-garde-a-vue-il-incendie-sa-cellule-dans-le-commissariat-du-viiie-arrondissement-et-mord-un-policier-17-08-2026-2GYSATFWZZCFXNFZLZHLI5VJXI.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paris : placé en garde à vue, il incendie sa cellule dans le commissariat du VII..."
-      }
-    ],
-    "summary": "Paris : placé en garde à vue, il incendie sa cellule dans le commissariat du VIIIe arrondissement et mord un policier"
-  },
-  {
     "title": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant",
     "score": 97,
     "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
@@ -56,23 +36,23 @@
         "summary": "Point de situation critique concernant : Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vou..."
       },
       {
-        "title": "Ligue 1 : L’arbitre Abdelatif Kherradji condamné à six mois de prison avec sursis pour violences conjugales",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-08-19T12:50:53.000Z",
-        "link": "https://www.20minutes.fr/sport/football/ligue-1/4239902-20260819-ligue-1-arbitre-abdelatif-kherradji-condamne-six-mois-prison-sursis-violences-conjugales?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Ligue 1 : L’arbitre Abdelatif Kherradji condamné à six mois de prison avec sursi..."
-      },
-      {
         "title": "Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en détention pour plusieurs vols à l’arraché",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
         "time": "2026-08-20T05:00:00.000Z",
         "link": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/feria-de-dax-2026-un-homme-condamne-a-dix-huit-mois-de-prison-avec-maintien-en-detention-pour-plusieurs-vols-a-l-arrache-30306514.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en..."
+      },
+      {
+        "title": "Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgées ou dépendantes",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-21T15:36:38.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/un-bordelais-condamne-a-18-mois-de-prison-pour-avoir-escroque-des-personnes-agees-ou-dependantes-30326902.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgée..."
       }
     ],
-    "summary": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant / Ligue 1 : L’arbitre Abdelatif Kherradji condamné à six mois de prison avec sursis pour violences conjugales"
+    "summary": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant / Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en détention pour plusieurs vols à l’arraché"
   },
   {
     "title": "Condamné pour des agressions sexuelles sur ses élèves, l’ex-prof devenu paysagiste récidive avec un apprenti de son ancien lycée",
@@ -105,55 +85,22 @@
   {
     "title": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue",
     "score": 97,
-    "count": 12,
+    "count": 8,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-dune-influenceuse-a-nimes-deux-personnes-en-garde-a-vue-19-08-2026-4MXSN7FRCJG7DNUJGX52QK5YPY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux ..."
-      },
-      {
-        "title": "Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-08-19T16:05:35.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/le-corps-retrouve-calcine-dans-le-gard-est-bien-celui-de-l-influenceuse-sonia-bellina-deux-hommes-places-en-garde-a-vue_8153642.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Be..."
-      },
-      {
-        "title": "Gard. Mort de Sonia Bellina : le corps retrouvé est bien celui de la TikTokeuse, deux hommes en garde à vue",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-19T13:13:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/19/affaire-sonia-bellina-un-crime-crapuleux-et-des-commentaires-indecents-pour-l-avocat-de-la-famille",
-        "score": 97,
-        "summary": "le corps retrouvé est bien celui de la TikTokeuse, deux hommes en garde à vue"
-      },
-      {
-        "title": "Gard : le corps calciné retrouvé dans les vignes est bien celui de Sonia Bellina, deux hommes placés en garde à vue",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-08-19T13:37:44.000Z",
-        "link": "https://www.lefigaro.fr/faits-divers/gard-le-corps-calcine-retrouve-dans-les-vignes-est-bien-celui-de-sonia-bellina-deux-hommes-places-en-garde-a-vue-20260819",
-        "score": 97,
-        "summary": "le corps calciné retrouvé dans les vignes est bien celui de Sonia Bellina, deux hommes placés en garde à vue"
-      },
-      {
-        "title": "Gard : Le corps calciné est bien celui de l’influenceuse Sonia Bellina, deux hommes en garde à vue",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-08-19T12:59:51.000Z",
-        "link": "https://www.20minutes.fr/faits_divers/4239907-20260819-gard-corps-calcine-bien-celui-influenceuse-sonia-bellina-deux-hommes-garde-vue?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Gard : Le corps calciné est bien celui de l’influenceuse Sonia Bellina, deux hom..."
       },
       {
         "title": "Meurtre de Sonia Bellina : deux hommes placés en garde à vue",
@@ -174,7 +121,7 @@
       {
         "title": "Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/influenceuse-tuee-a-nimes-la-garde-a-vue-dun-homme-prolongee-un-autre-relache-20-08-2026-ZJMHDVGD45EHLL3FHX3VJPZL3E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché..."
@@ -212,109 +159,7 @@
         "summary": "un suspect relâché, le second toujours en garde à vue"
       }
     ],
-    "summary": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue / Le corps retrouvé calciné dans le Gard est bien celui de l'influenceuse Sonia Bellina, deux hommes placés en garde à vue"
-  },
-  {
-    "title": "Agen. Deux détenus de la maison d’arrêt placés en garde à vue après avoir menacé les agents pénitentiaires",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Agen. Deux détenus de la maison d’arrêt placés en garde à vue après avoir menacé les agents pénitentiaires",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-19T16:24:20.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/agen-deux-detenus-de-la-maison-d-arret-places-en-garde-a-vue-apres-avoir-menace-les-agents-penitentiaires-30306979.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Agen. Deux détenus de la maison d’arrêt placés en garde à vue après avoir menacé..."
-      },
-      {
-        "title": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-20T16:46:41.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/justice-en-lot-et-garonne-trois-ressortissants-georgiens-condamnes-a-de-la-prison-ferme-apres-avoir-tente-de-cambrioler-une-maison-dans-le-villeneuvois-30317759.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la pri..."
-      }
-    ],
-    "summary": "Agen. Deux détenus de la maison d’arrêt placés en garde à vue après avoir menacé les agents pénitentiaires / Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois"
-  },
-  {
-    "title": "Un adolescent de 17 ans retrouvé égorgé dans sa chambre, ses parents placés en garde à vue",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Un adolescent de 17 ans retrouvé égorgé dans sa chambre, ses parents placés en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-19T14:43:45.000Z",
-        "link": "https://www.sudouest.fr/justice/un-adolescent-de-17-ans-retrouve-egorge-dans-sa-chambre-ses-parents-places-en-garde-a-vue-30305880.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un adolescent de 17 ans retrouvé égorgé dans sa chambre, ses parents placés en g..."
-      }
-    ],
-    "summary": "Un adolescent de 17 ans retrouvé égorgé dans sa chambre, ses parents placés en garde à vue"
-  },
-  {
-    "title": "Alpes-de-Haute-Provence. « Je vais te montrer ce que c’est d’être battue », le compagnon violent récidiviste lourdement condamné",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Alpes-de-Haute-Provence. « Je vais te montrer ce que c’est d’être battue », le compagnon violent récidiviste lourdement condamné",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-19T15:17:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/19/je-vais-te-montrer-ce-que-c-est-d-etre-battue-le-compagnon-violent-recidiviste-lourdement-condamne",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Alpes-de-Haute-Provence. « Je vais te montrer ce que c’est d’être battue », le c..."
-      }
-    ],
-    "summary": "Alpes-de-Haute-Provence. « Je vais te montrer ce que c’est d’être battue », le compagnon violent récidiviste lourdement condamné"
-  },
-  {
-    "title": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.bfmtv.com/rss/politique/"
-    ],
-    "items": [
-      {
-        "title": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-08-19T16:00:08.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/08/19/crime-organise-sebastien-lecornu-demande-a-renforcer-la-lutte-contre-la-corruption-dans-la-fonction-publique_6749893_823448.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corrup..."
-      },
-      {
-        "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
-        "link": "https://www.leparisien.fr/high-tech/cyberattaques-sebastien-lecornu-demande-la-creation-dune-nouvelle-unite-cyber-19-08-2026-KLL3GH7DSVCGRMKRVXHMTD5IK4.php",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyb..."
-      },
-      {
-        "title": "Cyberattaques: Sébastien Lecornu demande la création, en urgence, d'une équipe pour faire face aux actions ciblant la France",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-08-19T17:46:32.000Z",
-        "link": "https://www.bfmtv.com/politique/video-cyberattaques-sebastien-lecornu-demande-la-creation-en-urgence-d-une-equipe-pour-faire-face-aux-actions-ciblant-la-france_VN-202608190517.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Cyberattaques: Sébastien Lecornu demande la création, en urgence, d'une équipe p..."
-      }
-    ],
-    "summary": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique / Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »"
+    "summary": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue / Meurtre de Sonia Bellina : deux hommes placés en garde à vue"
   },
   {
     "title": "Incendie en Gironde : une association anti-corruption porte plainte après la réalisation du pare-feu de Benoît Bartherotte au Cap Ferret",
@@ -438,10 +283,11 @@
   {
     "title": "Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspendu de la Légion d'honneur pour dix ans",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
       {
@@ -455,10 +301,18 @@
       {
         "title": "Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.034Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/le-japon-execute-un-homme-condamne-pour-avoir-tue-cinq-personnes-dans-un-incendie-21-08-2026-IOKP6NZ27BAHPIWKXEGAOHG7KM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendi..."
+      },
+      {
+        "title": "Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences conjugales, mis en examen pour \"assassinat\" et placé en détention provisoire",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-21T14:32:19.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/mort-de-l-influenceuse-sonia-bellina-dans-le-gard-un-suspect-mis-en-examen-pour-assassinat-annonce-le-parquet-de-nimes_8156354.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences co..."
       }
     ],
     "summary": "Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspendu de la Légion d'honneur pour dix ans / Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie"
@@ -483,7 +337,7 @@
       {
         "title": "Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-en-provenance-disrael-interpelle-a-laeroport-de-roissy-avec-144-kg-de-khat-condamne-a-dix-mois-de-prison-20-08-2026-XDGDG44SARCKZMAJPK6U5T5SBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de..."
@@ -491,7 +345,7 @@
       {
         "title": "Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf mois de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/il-avait-poignarde-son-chien-sur-son-balcon-a-metz-le-maitre-condamne-a-neuf-mois-de-prison-avec-sursis-20-08-2026-HTQNVR6K2ND2XHPUXV2HZZVAV4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf m..."
@@ -540,10 +394,11 @@
   {
     "title": "Le site de vente de vêtements Boohoo condamné à une amende de 2,33 millions d’euros",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://www.lemonde.fr/economie/rss_full.xml",
-      "https://www.bfmtv.com/rss/economie/"
+      "https://www.bfmtv.com/rss/economie/",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -561,6 +416,14 @@
         "link": "https://www.bfmtv.com/economie/consommation/48-des-promotions-annoncees-etaient-en-realite-des-augmentations-de-prix-la-repression-des-fraudes-inflige-une-amende-de-2-33-millions-d-euros-au-site-de-vente-de-vetements-boohoo_AD-202608200318.html",
         "score": 97,
         "summary": "Point de situation critique concernant : \"48% des promotions annoncées étaient en réalité des augmentations de prix\": la ..."
+      },
+      {
+        "title": "Uber condamné à une amende de 825 millions d’euros pour avoir automatiquement désactivé des comptes de chauffeurs",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-21T14:59:15.000Z",
+        "link": "https://www.sudouest.fr/economie/transports/uber-condamne-a-une-amende-de-825-millions-d-euros-pour-avoir-automatiquement-desactive-des-comptes-de-chauffeurs-30326338.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Uber condamné à une amende de 825 millions d’euros pour avoir automatiquement dé..."
       }
     ],
     "summary": "Le site de vente de vêtements Boohoo condamné à une amende de 2,33 millions d’euros / \"48% des promotions annoncées étaient en réalité des augmentations de prix\": la Répression des fraudes inflige une amende de 2,33 millions d'euros au site de vente de vêtements Boohoo"
@@ -604,7 +467,7 @@
       {
         "title": "« Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/politique/vous-etes-une-merde-le-maire-darcachon-condamne-a-5000-euros-damende-pour-menaces-et-violences-envers-son-principal-opposant-20-08-2026-DX634B6FX5FTJLGCEFMNRMMUVQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende po..."
@@ -634,12 +497,13 @@
   {
     "title": "Yves Foulon, maire d’Arcachon, condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant aux municipales",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.lemonde.fr/politique/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.francetvinfo.fr/politique.rss",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.lemonde.fr/economie/rss_full.xml"
     ],
     "items": [
       {
@@ -673,6 +537,14 @@
         "link": "https://www.franceinfo.fr/faits-divers/menaces-violences-le-maire-d-arcachon-condamne-a-une-amende_8156144.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "le maire d'Arcachon condamné à une amende"
+      },
+      {
+        "title": "Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension automatisée de chauffeurs",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-08-21T15:20:24.000Z",
+        "link": "https://www.lemonde.fr/economie/article/2026/08/21/uber-condamne-a-une-amende-825-millions-d-euros-d-amende-aux-pays-bas-pour-la-suspension-automatisee-de-chauffeurs_6752266_3234.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension au..."
       }
     ],
     "summary": "Yves Foulon, maire d’Arcachon, condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant aux municipales / Le maire d’Arcachon Yves Foulon condamné à une amende de 5 000 euros pour avoir menacé et insulté son opposant"
@@ -695,6 +567,25 @@
       }
     ],
     "summary": "« Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal de Libourne, un homme condamné à six ans d’emprisonnement pour un homicide routier"
+  },
+  {
+    "title": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-20T16:46:41.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/justice-en-lot-et-garonne-trois-ressortissants-georgiens-condamnes-a-de-la-prison-ferme-apres-avoir-tente-de-cambrioler-une-maison-dans-le-villeneuvois-30317759.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la pri..."
+      }
+    ],
+    "summary": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois"
   },
   {
     "title": "Technologie. Notes de frais, CV, virements... Comment l'IA fait bondir la fraude au sein des entreprises",
@@ -726,7 +617,7 @@
       {
         "title": "« Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous la menace d’un procès pour un retentissant scandale sexuel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/un-abus-de-vulnerabilite-jacques-bouthier-lancien-pdg-dassu2000-sous-la-menace-dun-proces-pour-un-retentissant-scandale-sexuel-21-08-2026-3OY564BAFZAR3PIUU7JLQIC56I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous l..."
@@ -792,6 +683,44 @@
     "summary": "James Broadnax, condamné sur paroles"
   },
   {
+    "title": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-08-21T14:57:59.000Z",
+        "link": "https://www.lemonde.fr/culture/article/2026/08/21/au-mucem-des-pratiques-de-harcelement-sexuel-et-de-favoritisme-denoncees-par-un-rapport-de-l-inspection-generale-des-affaires-culturelles_6752259_3246.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un..."
+      }
+    ],
+    "summary": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles"
+  },
+  {
+    "title": "Haute-Savoie. Un Hollandais condamné pour s'être exhibé à Annecy",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Haute-Savoie. Un Hollandais condamné pour s'être exhibé à Annecy",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-21T14:53:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/21/un-hollandais-condamne-pour-s-etre-exhibe-a-annecy",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Haute-Savoie. Un Hollandais condamné pour s'être exhibé à Annecy..."
+      }
+    ],
+    "summary": "Haute-Savoie. Un Hollandais condamné pour s'être exhibé à Annecy"
+  },
+  {
     "title": "Données dérobées, principaux risques… Ce que contient le mail envoyé par le fisc aux victimes du piratage du site des impôts",
     "score": 93,
     "count": 3,
@@ -838,7 +767,7 @@
       {
         "title": "Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abonnés fibre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-loperateur-sfr-victime-dune-fuite-de-donnees-affectant-ses-abonnes-fibre-20-08-2026-Z5G5IY47MNGNZE62NLSFFLTDPU.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abo..."
@@ -846,7 +775,7 @@
       {
         "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:42.063Z",
+        "time": "2026-08-21T16:28:29.469Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
@@ -865,7 +794,7 @@
       {
         "title": "Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance sur les enquêteurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-pourquoi-les-hackers-de-haut-niveau-ont-une-longueur-davance-sur-les-enqueteurs-20-08-2026-ZQYGMJ2GEVCDZNB6VI55CRWWSI.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance su..."
@@ -874,9 +803,46 @@
     "summary": "Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance sur les enquêteurs"
   },
   {
+    "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
+    "score": 93,
+    "count": 3,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.francetvinfo.fr/politique.rss",
+      "https://www.bfmtv.com/rss/politique/"
+    ],
+    "items": [
+      {
+        "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-21T16:29:48.434Z",
+        "link": "https://www.leparisien.fr/high-tech/cyberattaques-sebastien-lecornu-demande-la-creation-dune-nouvelle-unite-cyber-19-08-2026-KLL3GH7DSVCGRMKRVXHMTD5IK4.php",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyb..."
+      },
+      {
+        "title": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-08-20T05:53:48.000Z",
+        "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-en-serie-sebastien-lecornu-annonce-la-creation-d-une-unite-speciale_8154509.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 93,
+        "summary": "Sébastien Lecornu annonce la création d'une unité spéciale"
+      },
+      {
+        "title": "Cyberattaques: Sébastien Lecornu demande la création, en urgence, d'une équipe pour faire face aux actions ciblant la France",
+        "source": "https://www.bfmtv.com/rss/politique/",
+        "time": "2026-08-19T17:46:32.000Z",
+        "link": "https://www.bfmtv.com/politique/video-cyberattaques-sebastien-lecornu-demande-la-creation-en-urgence-d-une-equipe-pour-faire-face-aux-actions-ciblant-la-france_VN-202608190517.html",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Cyberattaques: Sébastien Lecornu demande la création, en urgence, d'une équipe p..."
+      }
+    ],
+    "summary": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber » / Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale"
+  },
+  {
     "title": "Piratage du site des impôts : « Ils veulent devenir des stars »… Pourquoi les hackers sont si bavards",
     "score": 93,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.lemonde.fr/politique/rss_full.xml"
@@ -885,7 +851,7 @@
       {
         "title": "Piratage du site des impôts : « Ils veulent devenir des stars »… Pourquoi les hackers sont si bavards",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.035Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/high-tech/ils-veulent-devenir-des-stars-pourquoi-les-hackers-sont-si-bavards-19-08-2026-TBQBICAHKZB3XLG4HYUANNYKLQ.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Piratage du site des impôts : « Ils veulent devenir des stars »… Pourquoi les ha..."
@@ -899,42 +865,15 @@
         "summary": "Point de situation critique concernant : Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volo..."
       },
       {
-        "title": "Piratage du site des impôts : « Peu de ministères sont au niveau requis » pour faire face aux cyberattaques, reconnaît Sébastien Lecornu",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-08-19T15:11:46.000Z",
-        "link": "https://www.lemonde.fr/pixels/article/2026/08/19/piratage-du-site-des-impots-peu-de-ministeres-sont-au-niveau-requis-face-aux-cyberattaques-reconnait-sebastien-lecornu_6749887_4408996.html",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Piratage du site des impôts : « Peu de ministères sont au niveau requis » pour f..."
-      },
-      {
         "title": "Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du système informatique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-21T12:38:05.034Z",
+        "time": "2026-08-21T16:29:48.434Z",
         "link": "https://www.leparisien.fr/economie/piratage-du-site-des-impots-le-syndicat-solidaires-denonce-lanciennete-du-systeme-informatique-21-08-2026-PKVLPRMNEJHFLHUKQ4EPKPLVFE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du..."
       }
     ],
     "summary": "Piratage du site des impôts : « Ils veulent devenir des stars »… Pourquoi les hackers sont si bavards / Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volonté politique"
-  },
-  {
-    "title": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale",
-    "score": 93,
-    "count": 1,
-    "sources": [
-      "https://www.francetvinfo.fr/politique.rss"
-    ],
-    "items": [
-      {
-        "title": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-08-20T05:53:48.000Z",
-        "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-en-serie-sebastien-lecornu-annonce-la-creation-d-une-unite-speciale_8154509.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 93,
-        "summary": "Sébastien Lecornu annonce la création d'une unité spéciale"
-      }
-    ],
-    "summary": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale"
   },
   {
     "title": "Le ministère de l’intérieur piraté depuis la boîte mail d’un fonctionnaire : autopsie d’une intrusion qui révèle les failles informatiques de l’Etat",
@@ -1045,6 +984,72 @@
     "summary": "Banque. Piratage d’un prestataire de Visa : 4179 clients du groupe BPCE touchés"
   },
   {
+    "title": "Après les impôts et SFR, la protection civile à son tour visée par une cyberattaque",
+    "score": 93,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Après les impôts et SFR, la protection civile à son tour visée par une cyberattaque",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-21T16:29:48.433Z",
+        "link": "https://www.leparisien.fr/faits-divers/apres-les-impots-et-sfr-la-protection-civile-a-son-tour-visee-par-une-cyberattaque-21-08-2026-IMJLKNOQWFFHDNMXYPW2JU6XNE.php",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Après les impôts et SFR, la protection civile à son tour visée par une cyberatta..."
+      },
+      {
+        "title": "Cyberattaque. Noms, téléphones, dates de naissance... la Protection Civile visée par un vol de données en mars",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-21T15:03:00.000Z",
+        "link": "https://www.ledauphine.com/science-et-technologie/2026/08/21/noms-telephones-dates-de-naissance-protection-civile-visee-par-un-vol-de-donnees-en-mars",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Cyberattaque. Noms, téléphones, dates de naissance... la Protection Civile visée..."
+      }
+    ],
+    "summary": "Après les impôts et SFR, la protection civile à son tour visée par une cyberattaque / Cyberattaque. Noms, téléphones, dates de naissance... la Protection Civile visée par un vol de données en mars"
+  },
+  {
+    "title": "Réseaux d’eau piratés, usines menacées... Cette alerte du FBI qui fait planer le spectre de défaillances industrielles en France",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Réseaux d’eau piratés, usines menacées... Cette alerte du FBI qui fait planer le spectre de défaillances industrielles en France",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-21T15:32:44.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/reseaux-d-eau-pirates-usines-menacees-cette-alerte-du-fbi-qui-fait-planer-le-spectre-de-defaillances-industrielles-en-france-20260821",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Réseaux d’eau piratés, usines menacées... Cette alerte du FBI qui fait planer le..."
+      }
+    ],
+    "summary": "Réseaux d’eau piratés, usines menacées... Cette alerte du FBI qui fait planer le spectre de défaillances industrielles en France"
+  },
+  {
+    "title": "EN IMAGES Sonic, Pac-Man, Tetris… « Fortnite Système hacké » rend hommage à plus de quatre décennies de jeux vidéo",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "EN IMAGES Sonic, Pac-Man, Tetris… « Fortnite Système hacké » rend hommage à plus de quatre décennies de jeux vidéo",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-08-20T16:06:45.000Z",
+        "link": "https://www.20minutes.fr/diaporama/diaporama-4240072-images-sonic-pac-man-tetris-fortnite-systeme-hacke-rend-hommage-plus-quatre-decennies-jeux-video?at_medium=display&at_campaign=149",
+        "score": 93,
+        "summary": "Point de situation critique concernant : EN IMAGES Sonic, Pac-Man, Tetris… « Fortnite Système hacké » rend hommage à plus..."
+      }
+    ],
+    "summary": "EN IMAGES Sonic, Pac-Man, Tetris… « Fortnite Système hacké » rend hommage à plus de quatre décennies de jeux vidéo"
+  },
+  {
     "title": "[CYBER] Résultats de l'analyse des intrusions",
     "score": 90,
     "count": 1,
@@ -1055,7 +1060,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:53.824Z",
+        "time": "2026-08-21T16:28:40.473Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1074,7 +1079,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:49.371Z",
+        "time": "2026-08-21T16:28:36.297Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1093,7 +1098,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:51.945Z",
+        "time": "2026-08-21T16:28:38.774Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1112,7 +1117,7 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:45.930Z",
+        "time": "2026-08-21T16:28:33.044Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
@@ -1131,7 +1136,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:39.089Z",
+        "time": "2026-08-21T16:28:26.823Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1150,7 +1155,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:29.894Z",
+        "time": "2026-08-21T16:28:18.570Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1169,7 +1174,7 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:33.925Z",
+        "time": "2026-08-21T16:28:22.158Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
@@ -1188,7 +1193,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:27.339Z",
+        "time": "2026-08-21T16:28:16.239Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1207,7 +1212,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-21T12:36:24.689Z",
+        "time": "2026-08-21T16:28:13.826Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1256,7 +1261,7 @@
   {
     "title": "[CYBER] Encore, encore, encore... un nouveau groupe de ransomware: SovCali",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
       "Zataz"
     ],
@@ -1268,9 +1273,17 @@
         "link": "https://www.zataz.com/encore-encore-encore-un-nouveau-groupe-ransomware-sovcali/",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Encore, encore, encore... un nouveau groupe de ransomware: SovCali..."
+      },
+      {
+        "title": "[CYBER] DYSPHOR1A, nouveau groupe de ransomware maître chanteur",
+        "source": "Zataz",
+        "time": "2026-08-21T14:44:23.000Z",
+        "link": "https://www.zataz.com/dysphor1a-nouveau-groupe-de-ransomware-maitre-chanteur/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] DYSPHOR1A, nouveau groupe de ransomware maître chanteur..."
       }
     ],
-    "summary": "[CYBER] Encore, encore, encore... un nouveau groupe de ransomware: SovCali"
+    "summary": "[CYBER] Encore, encore, encore... un nouveau groupe de ransomware: SovCali / [CYBER] DYSPHOR1A, nouveau groupe de ransomware maître chanteur"
   },
   {
     "title": "[CYBER] La puériculture: trois bases de clients revendiqués en 2026",
@@ -1290,5 +1303,146 @@
       }
     ],
     "summary": "[CYBER] La puériculture: trois bases de clients revendiqués en 2026"
+  },
+  {
+    "title": "[CYBER] Les données de l'évasion ZATAZ 2.0 transforme l'enquête en jeu",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les données de l'évasion ZATAZ 2.0 transforme l'enquête en jeu",
+        "source": "Zataz",
+        "time": "2026-08-21T16:16:14.000Z",
+        "link": "https://www.zataz.com/escape-data-zataz-2-0-transforme-lenquete-en-jeu/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les données de l'évasion ZATAZ 2.0 transforme l'enquête en jeu..."
+      }
+    ],
+    "summary": "[CYBER] Les données de l'évasion ZATAZ 2.0 transforme l'enquête en jeu"
+  },
+  {
+    "title": "[CYBER] Pokémon Center touché par la cyberattaque d'un prestataire",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Pokémon Center touché par la cyberattaque d'un prestataire",
+        "source": "Zataz",
+        "time": "2026-08-21T15:56:09.000Z",
+        "link": "https://www.zataz.com/pokemon-center-touche-par-la-cyberattaque-dun-prestataire/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Pokémon Center touché par la cyberattaque d'un prestataire..."
+      }
+    ],
+    "summary": "[CYBER] Pokémon Center touché par la cyberattaque d'un prestataire"
+  },
+  {
+    "title": "[CYBER] Objectif visé par une nouvelle revendication de fuite",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Objectif visé par une nouvelle revendication de fuite",
+        "source": "Zataz",
+        "time": "2026-08-21T15:41:54.000Z",
+        "link": "https://www.zataz.com/target-vise-par-une-nouvelle-revendication-de-fuite/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Objectif visé par une nouvelle revendication de fuite..."
+      }
+    ],
+    "summary": "[CYBER] Objectif visé par une nouvelle revendication de fuite"
+  },
+  {
+    "title": "[CYBER] Des bases de joueurs européens de casino diffusées sur un forum pirate",
+    "score": 90,
+    "count": 2,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Des bases de joueurs européens de casino diffusées sur un forum pirate",
+        "source": "Zataz",
+        "time": "2026-08-21T15:28:56.000Z",
+        "link": "https://www.zataz.com/des-bases-de-joueurs-europeens-de-casino-diffusees-sur-un-forum-pirate/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Des bases de joueurs européens de casino diffusées sur un forum pirate..."
+      },
+      {
+        "title": "[CYBER] Un recrutement VPN français intrigue sur un forum pirate",
+        "source": "Zataz",
+        "time": "2026-08-21T13:56:56.000Z",
+        "link": "https://www.zataz.com/un-recrutement-vpn-francais-intrigue-sur-un-forum-pirate/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Un recrutement VPN français intrigue sur un forum pirate..."
+      }
+    ],
+    "summary": "[CYBER] Des bases de joueurs européens de casino diffusées sur un forum pirate / [CYBER] Un recrutement VPN français intrigue sur un forum pirate"
+  },
+  {
+    "title": "[CYBER] Les portefeuilles de Solana en masse",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Les portefeuilles de Solana en masse",
+        "source": "Zataz",
+        "time": "2026-08-21T15:12:09.000Z",
+        "link": "https://www.zataz.com/checker-max-cible-les-portefeuilles-solana-en-masse/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Les portefeuilles de Solana en masse..."
+      }
+    ],
+    "summary": "[CYBER] Les portefeuilles de Solana en masse"
+  },
+  {
+    "title": "[CYBER] Deux millions de données françaises mises en vente",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Deux millions de données françaises mises en vente",
+        "source": "Zataz",
+        "time": "2026-08-21T13:08:19.000Z",
+        "link": "https://www.zataz.com/deux-millions-de-donnees-francaises-mises-en-vente/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Deux millions de données françaises mises en vente..."
+      }
+    ],
+    "summary": "[CYBER] Deux millions de données françaises mises en vente"
+  },
+  {
+    "title": "[CYBER] C.Hunters, un service pirate testé pour la France",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] C.Hunters, un service pirate testé pour la France",
+        "source": "Zataz",
+        "time": "2026-08-21T12:52:57.000Z",
+        "link": "https://www.zataz.com/c-hunters-un-service-pirate-teste-pour-la-france/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] C.Hunters, un service pirate testé pour la France..."
+      }
+    ],
+    "summary": "[CYBER] C.Hunters, un service pirate testé pour la France"
   }
 ]
