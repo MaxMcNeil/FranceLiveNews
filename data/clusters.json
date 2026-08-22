@@ -1,60 +1,5 @@
 [
   {
-    "title": "Assassinat de Nono le Barge à Paris : une figure du quartier de la Banane mise en examen vingt-trois ans après",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Assassinat de Nono le Barge à Paris : une figure du quartier de la Banane mise en examen vingt-trois ans après",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-20T04:33:09.101Z",
-        "link": "https://www.leparisien.fr/faits-divers/assassinat-de-nono-le-barge-a-paris-une-figure-du-quartier-de-la-banane-mise-en-examen-vingt-trois-ans-apres-17-08-2026-P4EYGVGP4FAOZIVIENTAXYTORU.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Assassinat de Nono le Barge à Paris : une figure du quartier de la Banane mise e..."
-      }
-    ],
-    "summary": "Assassinat de Nono le Barge à Paris : une figure du quartier de la Banane mise en examen vingt-trois ans après"
-  },
-  {
-    "title": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-20T04:33:09.101Z",
-        "link": "https://www.leparisien.fr/essonne-91/essonne-condamne-a-un-an-de-prison-pour-une-escroquerie-deguisee-en-rendez-vous-pas-tres-galant-17-08-2026-ZZZF6OYMA5B3VLTIFWGZWMGBEY.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vou..."
-      },
-      {
-        "title": "Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en détention pour plusieurs vols à l’arraché",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-20T05:00:00.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/feria-de-dax-2026-un-homme-condamne-a-dix-huit-mois-de-prison-avec-maintien-en-detention-pour-plusieurs-vols-a-l-arrache-30306514.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en..."
-      },
-      {
-        "title": "Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgées ou dépendantes",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-21T15:36:38.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/un-bordelais-condamne-a-18-mois-de-prison-pour-avoir-escroque-des-personnes-agees-ou-dependantes-30326902.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgée..."
-      }
-    ],
-    "summary": "Essonne : condamné à un an de prison pour une escroquerie déguisée en rendez-vous... pas très galant / Feria de Dax 2026 : un homme condamné à dix-huit mois de prison avec maintien en détention pour plusieurs vols à l’arraché"
-  },
-  {
     "title": "Condamné pour des agressions sexuelles sur ses élèves, l’ex-prof devenu paysagiste récidive avec un apprenti de son ancien lycée",
     "score": 97,
     "count": 2,
@@ -85,12 +30,12 @@
   {
     "title": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue",
     "score": 97,
-    "count": 10,
+    "count": 9,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
@@ -103,14 +48,6 @@
         "summary": "Point de situation critique concernant : Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux ..."
       },
       {
-        "title": "Meurtre de Sonia Bellina : deux hommes placés en garde à vue",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-08-20T05:37:14.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/meurtre-de-sonia-bellina-deux-hommes-places-en-garde-a-vue_8154494.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "deux hommes placés en garde à vue"
-      },
-      {
         "title": "Mort de Sonia Bellina : les deux suspects placés en garde à vue étaient défavorablement connus des autorités",
         "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
         "time": "2026-08-20T10:21:53.000Z",
@@ -121,7 +58,7 @@
       {
         "title": "Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/influenceuse-tuee-a-nimes-la-garde-a-vue-dun-homme-prolongee-un-autre-relache-20-08-2026-ZJMHDVGD45EHLL3FHX3VJPZL3E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché..."
@@ -161,7 +98,7 @@
       {
         "title": "Meurtre de l’influenceuse Sonia Bellina : comment les enquêteurs ont remonté la piste du suspect",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.039Z",
+        "time": "2026-08-22T08:24:01.868Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-linfluenceuse-sonia-bellina-comment-les-enqueteurs-ont-remonte-la-piste-du-suspect-21-08-2026-YDEZ7ISRFFCARLG6BJ7IRTY5Y4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de l’influenceuse Sonia Bellina : comment les enquêteurs ont remonté la ..."
@@ -169,91 +106,27 @@
       {
         "title": "Mort de l’influenceuse Sonia Bellina dans le Gard : un homme de 32 ans au passé judiciaire chargé mis en examen pour assassinat ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-linfluenceuse-sonia-bellina-dans-le-gard-un-homme-de-32-ans-au-passe-judiciaire-charge-mis-en-examen-pour-assassinat-21-08-2026-OSI4PNY6SNFYNPCRF6OHVDW57Q.php",
         "score": 90,
         "summary": "un homme de 32 ans au passé judiciaire chargé mis en examen pour assassinat"
       }
     ],
-    "summary": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue / Meurtre de Sonia Bellina : deux hommes placés en garde à vue"
+    "summary": "Meurtre de Sonia Bellina à Nîmes : l’identité de l’influenceuse confirmée, deux personnes en garde à vue / Mort de Sonia Bellina : les deux suspects placés en garde à vue étaient défavorablement connus des autorités"
   },
   {
-    "title": "Mégafeu en Gironde : l’association AC !! Anti-Corruption porte plainte après la réalisation d'un pare-feu au Cap-Ferret",
+    "title": "Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison",
     "score": 97,
-    "count": 1,
+    "count": 4,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
-      {
-        "title": "Mégafeu en Gironde : l’association AC !! Anti-Corruption porte plainte après la réalisation d'un pare-feu au Cap-Ferret",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-08-20T05:42:34.000Z",
-        "link": "https://www.lefigaro.fr/flash-actu/megafeu-en-gironde-l-association-ac-anti-corruption-porte-plainte-apres-la-realisation-d-un-pare-feu-au-cap-ferret-20260819",
-        "score": 97,
-        "summary": "l’association AC !! Anti-Corruption porte plainte après la réalisation d'un pare-feu au Cap-Ferret"
-      }
-    ],
-    "summary": "Mégafeu en Gironde : l’association AC !! Anti-Corruption porte plainte après la réalisation d'un pare-feu au Cap-Ferret"
-  },
-  {
-    "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.lemonde.fr/economie/rss_full.xml",
-      "https://www.challenges.fr/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-08-20T04:57:48.000Z",
-        "link": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamn..."
-      },
-      {
-        "title": "Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-08-20T13:02:45.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/08/20/en-chine-l-ex-patron-du-geant-de-l-immobilier-evergrande-condamne-a-la-prison-a-vie_6750977_3234.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à l..."
-      },
-      {
-        "title": " Chute d'Evergrande : désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-08-20T14:30:00.000Z",
-        "link": " https://www.challenges.fr/immobilier/chute-devergrande-designe-entierement-responsable-son-fondateur-xu-jiayin-est-condamne-a-la-prison-a-vie-par-la-justice-chinoise_645281 ",
-        "score": 97,
-        "summary": "désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise"
-      }
-    ],
-    "summary": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie / Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie"
-  },
-  {
-    "title": "Moselle. Chien poignardé à Metz : l'homme de 47 ans condamné à 9 mois de prison avec sursis",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Moselle. Chien poignardé à Metz : l'homme de 47 ans condamné à 9 mois de prison avec sursis",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-20T08:18:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/20/chien-poignarde-a-metz-l-homme-de-47-ans-condamne-a-9-mois-de-prison-avec-sursis",
-        "score": 97,
-        "summary": "l'homme de 47 ans condamné à 9 mois de prison avec sursis"
-      },
       {
         "title": "Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-en-provenance-disrael-interpelle-a-laeroport-de-roissy-avec-144-kg-de-khat-condamne-a-dix-mois-de-prison-20-08-2026-XDGDG44SARCKZMAJPK6U5T5SBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de..."
@@ -261,51 +134,29 @@
       {
         "title": "Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf mois de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/il-avait-poignarde-son-chien-sur-son-balcon-a-metz-le-maitre-condamne-a-neuf-mois-de-prison-avec-sursis-20-08-2026-HTQNVR6K2ND2XHPUXV2HZZVAV4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf m..."
-      }
-    ],
-    "summary": "Moselle. Chien poignardé à Metz : l'homme de 47 ans condamné à 9 mois de prison avec sursis / Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison"
-  },
-  {
-    "title": "Maroc. Pourquoi l'influenceuse « Soukaina Glamour », a été condamnée à de la prison ferme ?",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
+      },
       {
-        "title": "Maroc. Pourquoi l'influenceuse « Soukaina Glamour », a été condamnée à de la prison ferme ?",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-20T06:15:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/20/pourquoi-l-influenceuse-soukaina-glamour-a-ete-condamnee-a-de-la-prison-ferme",
+        "title": "Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgées ou dépendantes",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-21T15:36:38.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/un-bordelais-condamne-a-18-mois-de-prison-pour-avoir-escroque-des-personnes-agees-ou-dependantes-30326902.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Maroc. Pourquoi l'influenceuse « Soukaina Glamour », a été condamnée à de la pri..."
-      }
-    ],
-    "summary": "Maroc. Pourquoi l'influenceuse « Soukaina Glamour », a été condamnée à de la prison ferme ?"
-  },
-  {
-    "title": " « Un scandale » : les vols de données à Bercy inquiètent les entreprises à l’approche de la facturation électronique ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.challenges.fr/rss.xml"
-    ],
-    "items": [
+        "summary": "Point de situation critique concernant : Un Bordelais condamné à 18 mois de prison pour avoir escroqué des personnes âgée..."
+      },
       {
-        "title": " « Un scandale » : les vols de données à Bercy inquiètent les entreprises à l’approche de la facturation électronique ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-08-20T05:00:00.000Z",
-        "link": " https://www.challenges.fr/entreprise/un-scandale-les-vols-de-donnees-a-bercy-inquietent-les-entreprises-a-lapproche-de-la-facturation-electronique_645275 ",
+        "title": "Agressions devant un bar LGBTQIA + à Saint-Etienne : deux hommes condamnés à six mois de prison avec sursis",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-22T08:05:12.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/agressions-devant-un-bar-lgbtqia-a-saint-etienne-deux-hommes-condamnes-a-six-mois-de-prison-avec-sursis-30331778.php",
         "score": 97,
-        "summary": "Point de situation critique concernant :  « Un scandale » : les vols de données à Bercy inquiètent les entreprises à l’ap..."
+        "summary": "Point de situation critique concernant : Agressions devant un bar LGBTQIA + à Saint-Etienne : deux hommes condamnés à six..."
       }
     ],
-    "summary": " « Un scandale » : les vols de données à Bercy inquiètent les entreprises à l’approche de la facturation électronique "
+    "summary": "Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison / Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf mois de prison avec sursis"
   },
   {
     "title": "Le site de vente de vêtements Boohoo condamné à une amende de 2,33 millions d’euros",
@@ -383,7 +234,7 @@
       {
         "title": "« Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/politique/vous-etes-une-merde-le-maire-darcachon-condamne-a-5000-euros-damende-pour-menaces-et-violences-envers-son-principal-opposant-20-08-2026-DX634B6FX5FTJLGCEFMNRMMUVQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende po..."
@@ -493,13 +344,41 @@
       {
         "title": "Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/le-japon-execute-un-homme-condamne-pour-avoir-tue-cinq-personnes-dans-un-incendie-21-08-2026-IOKP6NZ27BAHPIWKXEGAOHG7KM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendi..."
       }
     ],
     "summary": "« Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal de Libourne, un homme condamné à six ans d’emprisonnement pour un homicide routier / Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie"
+  },
+  {
+    "title": "Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml",
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-08-20T13:02:45.000Z",
+        "link": "https://www.lemonde.fr/economie/article/2026/08/20/en-chine-l-ex-patron-du-geant-de-l-immobilier-evergrande-condamne-a-la-prison-a-vie_6750977_3234.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à l..."
+      },
+      {
+        "title": " Chute d'Evergrande : désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-08-20T14:30:00.000Z",
+        "link": " https://www.challenges.fr/immobilier/chute-devergrande-designe-entierement-responsable-son-fondateur-xu-jiayin-est-condamne-a-la-prison-a-vie-par-la-justice-chinoise_645281 ",
+        "score": 97,
+        "summary": "désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise"
+      }
+    ],
+    "summary": "Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie /  Chute d'Evergrande : désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise "
   },
   {
     "title": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois",
@@ -558,7 +437,7 @@
       {
         "title": "« Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous la menace d’un procès pour un retentissant scandale sexuel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/un-abus-de-vulnerabilite-jacques-bouthier-lancien-pdg-dassu2000-sous-la-menace-dun-proces-pour-un-retentissant-scandale-sexuel-21-08-2026-3OY564BAFZAR3PIUU7JLQIC56I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous l..."
@@ -681,11 +560,31 @@
     "summary": "Agen. Deux hommes soupçonnés de vol chez Darty placés en garde à vue"
   },
   {
+    "title": "Suisse. Contrôlé à la frontière, il est condamné pour avoir transporté… un unique club de golf",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Suisse. Contrôlé à la frontière, il est condamné pour avoir transporté… un unique club de golf",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-22T05:15:00.000Z",
+        "link": "https://www.ledauphine.com/insolite/2026/08/22/controle-a-la-frontiere-il-est-condamne-pour-avoir-transporte-un-unique-club-de-golf",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Suisse. Contrôlé à la frontière, il est condamné pour avoir transporté… un uniqu..."
+      }
+    ],
+    "summary": "Suisse. Contrôlé à la frontière, il est condamné pour avoir transporté… un unique club de golf"
+  },
+  {
     "title": "Données dérobées, principaux risques… Ce que contient le mail envoyé par le fisc aux victimes du piratage du site des impôts",
     "score": 93,
-    "count": 3,
+    "count": 4,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -711,6 +610,14 @@
         "link": "https://www.leparisien.fr/faits-divers/zerobytes-les-hackers-a-lorigine-du-piratage-du-fisc-revendiquent-une-cyberattaque-du-ministere-de-leducation-18-08-2026-4EIISCM7AZCEHHHI2JAEPP5Z64.php",
         "score": 93,
         "summary": "Point de situation critique concernant : ZeroBytes : les hackers à l’origine du piratage du fisc revendiquent une cyberat..."
+      },
+      {
+        "title": "«Ils ont une réelle peur de se faire arnaquer» : après le piratage du fisc, l’inquiétude des contribuables victimes du vol de données",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-21T17:16:12.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/ils-ont-une-reelle-peur-de-se-faire-arnaquer-apres-le-piratage-du-fisc-l-inquietude-des-contribuables-victimes-du-vol-de-donnees-20260821",
+        "score": 93,
+        "summary": "après le piratage du fisc, l’inquiétude des contribuables victimes du vol de données"
       }
     ],
     "summary": "Données dérobées, principaux risques… Ce que contient le mail envoyé par le fisc aux victimes du piratage du site des impôts / Site des impôts piraté : a-t-on droit à un dédommagement lorsque nos données ont été volées ?"
@@ -727,7 +634,7 @@
       {
         "title": "Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abonnés fibre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-loperateur-sfr-victime-dune-fuite-de-donnees-affectant-ses-abonnes-fibre-20-08-2026-Z5G5IY47MNGNZE62NLSFFLTDPU.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abo..."
@@ -735,7 +642,7 @@
       {
         "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:36.414Z",
+        "time": "2026-08-22T08:22:41.992Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
@@ -754,7 +661,7 @@
       {
         "title": "Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance sur les enquêteurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-pourquoi-les-hackers-de-haut-niveau-ont-une-longueur-davance-sur-les-enqueteurs-20-08-2026-ZQYGMJ2GEVCDZNB6VI55CRWWSI.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance su..."
@@ -765,30 +672,21 @@
   {
     "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
     "score": 93,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.francetvinfo.fr/politique.rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.041Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/high-tech/cyberattaques-sebastien-lecornu-demande-la-creation-dune-nouvelle-unite-cyber-19-08-2026-KLL3GH7DSVCGRMKRVXHMTD5IK4.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyb..."
-      },
-      {
-        "title": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-08-20T05:53:48.000Z",
-        "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-en-serie-sebastien-lecornu-annonce-la-creation-d-une-unite-speciale_8154509.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 93,
-        "summary": "Sébastien Lecornu annonce la création d'une unité spéciale"
       }
     ],
-    "summary": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber » / Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale"
+    "summary": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »"
   },
   {
     "title": "Piratage du site des impôts : « Ils veulent devenir des stars »… Pourquoi les hackers sont si bavards",
@@ -818,7 +716,7 @@
       {
         "title": "Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du système informatique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/economie/piratage-du-site-des-impots-le-syndicat-solidaires-denonce-lanciennete-du-systeme-informatique-21-08-2026-PKVLPRMNEJHFLHUKQ4EPKPLVFE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du..."
@@ -919,7 +817,7 @@
       {
         "title": "Après les impôts et SFR, la protection civile à son tour visée par une cyberattaque",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/apres-les-impots-et-sfr-la-protection-civile-a-son-tour-visee-par-une-cyberattaque-21-08-2026-IMJLKNOQWFFHDNMXYPW2JU6XNE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Après les impôts et SFR, la protection civile à son tour visée par une cyberatta..."
@@ -1012,6 +910,25 @@
     "summary": "Cyberattaque : La Protection civile victime (elle aussi) d’un vol de données en mars"
   },
   {
+    "title": "Piratages : comment savoir si vos données confidentielles ont été compromises ?",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Piratages : comment savoir si vos données confidentielles ont été compromises ?",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-22T06:15:00.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/piratages-comment-savoir-si-vos-donnees-confidentielles-ont-ete-compromises-20260822",
+        "score": 93,
+        "summary": "comment savoir si vos données confidentielles ont été compromises ?"
+      }
+    ],
+    "summary": "Piratages : comment savoir si vos données confidentielles ont été compromises ?"
+  },
+  {
     "title": "« Tu as violé mon cousin » : un homme victime d’une tentative de chantage après un rendez-vous sur Grindr",
     "score": 90,
     "count": 1,
@@ -1022,7 +939,7 @@
       {
         "title": "« Tu as violé mon cousin » : un homme victime d’une tentative de chantage après un rendez-vous sur Grindr",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.039Z",
+        "time": "2026-08-22T08:24:01.868Z",
         "link": "https://www.leparisien.fr/faits-divers/tu-as-viole-mon-cousin-un-homme-victime-dune-tentative-de-chantage-apres-un-rendez-vous-sur-grindr-21-08-2026-PO5DGWBVPZDXFNATRTPK2DQZXY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Tu as violé mon cousin » : un homme victime d’une tentative de chantage après ..."
@@ -1041,7 +958,7 @@
       {
         "title": "Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fait vivre un enfer à un retraité de 87 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/faux-banquier-et-agression-a-domicile-a-paris-les-truands-du-xvie-avaient-fait-vivre-un-enfer-a-un-retraite-de-87-ans-21-08-2026-5YXFOQ6QXRFI7OMYD5EXLNVHMA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fai..."
@@ -1060,13 +977,89 @@
       {
         "title": "Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hommes : pendant une agression, elle scrollait sur TikTok",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T04:29:55.040Z",
+        "time": "2026-08-22T08:24:01.869Z",
         "link": "https://www.leparisien.fr/faits-divers/une-americaine-accusee-davoir-laisse-ses-deux-filles-aux-mains-de-plusieurs-hommes-pendant-une-agression-elle-scrollait-sur-tiktok-21-08-2026-PN6ARCS3S5G5RN45R4PPSLZTIY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hom..."
       }
     ],
     "summary": "Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hommes : pendant une agression, elle scrollait sur TikTok"
+  },
+  {
+    "title": "« Comme une série » : pourquoi Internet se passionne pour l’affaire Lindsay Clancy, Américaine accusée du meurtre de ses trois enfants",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Comme une série » : pourquoi Internet se passionne pour l’affaire Lindsay Clancy, Américaine accusée du meurtre de ses trois enfants",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T08:24:01.868Z",
+        "link": "https://www.leparisien.fr/faits-divers/comme-une-serie-pourquoi-internet-se-passionne-pour-laffaire-lindsay-clancy-americaine-accusee-du-meurtre-de-ses-trois-enfants-22-08-2026-R52K62K3FFAQHEOBYNNHHNROTE.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Comme une série » : pourquoi Internet se passionne pour l’affaire Lindsay Clan..."
+      }
+    ],
+    "summary": "« Comme une série » : pourquoi Internet se passionne pour l’affaire Lindsay Clancy, Américaine accusée du meurtre de ses trois enfants"
+  },
+  {
+    "title": "Deux morts dans une violente collision sur l’A5 : une voiture projetée sur les voies du sens opposé",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Deux morts dans une violente collision sur l’A5 : une voiture projetée sur les voies du sens opposé",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T08:24:01.869Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/deux-morts-dans-une-violente-collision-sur-la5-une-voiture-projetee-sur-les-voies-du-sens-oppose-21-08-2026-YXCUFICWJVA2RA4YASXGRYP3RE.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Deux morts dans une violente collision sur l’A5 : une voiture projetée sur les v..."
+      }
+    ],
+    "summary": "Deux morts dans une violente collision sur l’A5 : une voiture projetée sur les voies du sens opposé"
+  },
+  {
+    "title": "« Je veux détruire le plus de choses possible » : les autorités déjouent un projet d’attentat à New York, une femme arrêtée",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Je veux détruire le plus de choses possible » : les autorités déjouent un projet d’attentat à New York, une femme arrêtée",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T08:24:01.869Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-veux-detruire-le-plus-de-choses-possible-les-autorites-dejouent-un-projet-dattentat-a-new-york-une-femme-arretee-20-08-2026-SK4PI5RLKVBPLIYMP5SU5AIUUA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Je veux détruire le plus de choses possible » : les autorités déjouent un proj..."
+      }
+    ],
+    "summary": "« Je veux détruire le plus de choses possible » : les autorités déjouent un projet d’attentat à New York, une femme arrêtée"
+  },
+  {
+    "title": "Après la paillote du Week-End, un nouveau bar d’Ajaccio détruit par un incendie criminel",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Après la paillote du Week-End, un nouveau bar d’Ajaccio détruit par un incendie criminel",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T08:24:01.869Z",
+        "link": "https://www.leparisien.fr/faits-divers/apres-la-paillote-du-week-end-un-nouveau-bar-dajaccio-detruit-par-un-incendie-criminel-20-08-2026-W3CVCGMLWNGEZL2EED4KVOWS4A.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Après la paillote du Week-End, un nouveau bar d’Ajaccio détruit par un incendie ..."
+      }
+    ],
+    "summary": "Après la paillote du Week-End, un nouveau bar d’Ajaccio détruit par un incendie criminel"
   },
   {
     "title": "[CYBER] Résultats de l'analyse des intrusions",
@@ -1079,7 +1072,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:47.273Z",
+        "time": "2026-08-22T08:22:52.902Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1098,7 +1091,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:43.166Z",
+        "time": "2026-08-22T08:22:48.814Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1117,7 +1110,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:45.601Z",
+        "time": "2026-08-22T08:22:51.258Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1136,7 +1129,7 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:39.978Z",
+        "time": "2026-08-22T08:22:45.555Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
@@ -1155,7 +1148,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:33.770Z",
+        "time": "2026-08-22T08:22:39.366Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1174,7 +1167,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:25.592Z",
+        "time": "2026-08-22T08:22:31.124Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1193,7 +1186,7 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:29.142Z",
+        "time": "2026-08-22T08:22:34.828Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
@@ -1212,7 +1205,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:23.305Z",
+        "time": "2026-08-22T08:22:28.810Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1231,7 +1224,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T04:28:20.942Z",
+        "time": "2026-08-22T08:22:26.311Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
