@@ -121,7 +121,7 @@
       {
         "title": "Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/influenceuse-tuee-a-nimes-la-garde-a-vue-dun-homme-prolongee-un-autre-relache-20-08-2026-ZJMHDVGD45EHLL3FHX3VJPZL3E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Meurtre de Sonia Bellina : la garde à vue d’un homme prolongée, un autre relâché..."
@@ -161,7 +161,7 @@
       {
         "title": "Meurtre de l’influenceuse Sonia Bellina : comment les enquêteurs ont remonté la piste du suspect",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.039Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-linfluenceuse-sonia-bellina-comment-les-enqueteurs-ont-remonte-la-piste-du-suspect-21-08-2026-YDEZ7ISRFFCARLG6BJ7IRTY5Y4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de l’influenceuse Sonia Bellina : comment les enquêteurs ont remonté la ..."
@@ -169,7 +169,7 @@
       {
         "title": "Mort de l’influenceuse Sonia Bellina dans le Gard : un homme de 32 ans au passé judiciaire chargé mis en examen pour assassinat ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-linfluenceuse-sonia-bellina-dans-le-gard-un-homme-de-32-ans-au-passe-judiciaire-charge-mis-en-examen-pour-assassinat-21-08-2026-OSI4PNY6SNFYNPCRF6OHVDW57Q.php",
         "score": 90,
         "summary": "un homme de 32 ans au passé judiciaire chargé mis en examen pour assassinat"
@@ -197,37 +197,18 @@
     "summary": "Mégafeu en Gironde : l’association AC !! Anti-Corruption porte plainte après la réalisation d'un pare-feu au Cap-Ferret"
   },
   {
-    "title": "Un drone livre de la drogue à la prison de Bordeaux-Gradignan, les trafiquants arrêtés et condamnés",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Un drone livre de la drogue à la prison de Bordeaux-Gradignan, les trafiquants arrêtés et condamnés",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-20T04:00:00.000Z",
-        "link": "https://www.sudouest.fr/gironde/bordeaux/un-drone-livre-de-la-drogue-a-la-prison-de-bordeaux-gradignan-les-trafiquants-arretes-et-condamnes-30307895.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Un drone livre de la drogue à la prison de Bordeaux-Gradignan, les trafiquants a..."
-      }
-    ],
-    "summary": "Un drone livre de la drogue à la prison de Bordeaux-Gradignan, les trafiquants arrêtés et condamnés"
-  },
-  {
     "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
     "score": 97,
     "count": 3,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.lemonde.fr/economie/rss_full.xml",
       "https://www.challenges.fr/rss.xml"
     ],
     "items": [
       {
         "title": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-08-20T04:57:48.000Z",
         "link": "https://www.lemonde.fr/international/article/2026/08/20/en-chine-le-fondateur-d-evergrande-geant-immobilier-tombe-en-faillite-condamne-a-la-prison-a-vie_6750612_3210.html",
         "score": 97,
@@ -253,43 +234,6 @@
     "summary": "En Chine, le fondateur d’Evergrande, géant immobilier tombé en faillite, condamné à la prison à vie / Xu Jiayin, l’ex-patron chinois du géant de l’immobilier Evergrande, condamné à la prison à vie"
   },
   {
-    "title": "Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspendu de la Légion d'honneur pour dix ans",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspendu de la Légion d'honneur pour dix ans",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-20T04:28:32.000Z",
-        "link": "https://www.sudouest.fr/politique/francois-fillon/condamne-dans-l-affaire-des-emplois-fictifs-de-son-epouse-francois-fillon-suspendu-de-la-legion-d-honneur-pour-dix-ans-30311031.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspe..."
-      },
-      {
-        "title": "Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
-        "link": "https://www.leparisien.fr/faits-divers/le-japon-execute-un-homme-condamne-pour-avoir-tue-cinq-personnes-dans-un-incendie-21-08-2026-IOKP6NZ27BAHPIWKXEGAOHG7KM.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendi..."
-      },
-      {
-        "title": "Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences conjugales, mis en examen pour \"assassinat\" et placé en détention provisoire",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-08-21T14:32:19.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/mort-de-l-influenceuse-sonia-bellina-dans-le-gard-un-suspect-mis-en-examen-pour-assassinat-annonce-le-parquet-de-nimes_8156354.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences co..."
-      }
-    ],
-    "summary": "Condamné dans l’affaire des emplois fictifs de son épouse, François Fillon suspendu de la Légion d'honneur pour dix ans / Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie"
-  },
-  {
     "title": "Moselle. Chien poignardé à Metz : l'homme de 47 ans condamné à 9 mois de prison avec sursis",
     "score": 97,
     "count": 3,
@@ -309,7 +253,7 @@
       {
         "title": "Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de khat condamné à dix mois de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-en-provenance-disrael-interpelle-a-laeroport-de-roissy-avec-144-kg-de-khat-condamne-a-dix-mois-de-prison-20-08-2026-XDGDG44SARCKZMAJPK6U5T5SBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un homme en provenance d’Israël interpellé à l’aéroport de Roissy avec 144 kg de..."
@@ -317,7 +261,7 @@
       {
         "title": "Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf mois de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/il-avait-poignarde-son-chien-sur-son-balcon-a-metz-le-maitre-condamne-a-neuf-mois-de-prison-avec-sursis-20-08-2026-HTQNVR6K2ND2XHPUXV2HZZVAV4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Il avait poignardé son chien sur son balcon à Metz : le maître condamné à neuf m..."
@@ -439,7 +383,7 @@
       {
         "title": "« Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/politique/vous-etes-une-merde-le-maire-darcachon-condamne-a-5000-euros-damende-pour-menaces-et-violences-envers-son-principal-opposant-20-08-2026-DX634B6FX5FTJLGCEFMNRMMUVQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Vous êtes une merde » : le maire d’Arcachon condamné à 5 000 euros d’amende po..."
@@ -469,7 +413,7 @@
   {
     "title": "Yves Foulon, maire d’Arcachon, condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant aux municipales",
     "score": 97,
-    "count": 5,
+    "count": 6,
     "sources": [
       "https://www.lemonde.fr/politique/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml",
@@ -511,6 +455,14 @@
         "summary": "le maire d'Arcachon condamné à une amende"
       },
       {
+        "title": "Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences conjugales, mis en examen pour \"assassinat\" et placé en détention provisoire",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-21T14:32:19.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/mort-de-l-influenceuse-sonia-bellina-dans-le-gard-un-suspect-mis-en-examen-pour-assassinat-annonce-le-parquet-de-nimes_8156354.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Mort de Sonia Bellina dans le Gard : un suspect, déjà condamné pour violences co..."
+      },
+      {
         "title": "Uber condamné à 825 millions d’euros d’amende aux Pays-Bas pour la suspension automatisée de chauffeurs",
         "source": "https://www.lemonde.fr/economie/rss_full.xml",
         "time": "2026-08-21T15:20:24.000Z",
@@ -524,9 +476,10 @@
   {
     "title": "« Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal de Libourne, un homme condamné à six ans d’emprisonnement pour un homicide routier",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -536,9 +489,17 @@
         "link": "https://www.sudouest.fr/gironde/libourne/je-ne-me-rappelle-pas-l-avoir-deplace-au-tribunal-de-libourne-un-homme-condamne-a-six-ans-d-emprisonnement-pour-un-homicide-routier-30316739.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal ..."
+      },
+      {
+        "title": "Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T04:29:55.040Z",
+        "link": "https://www.leparisien.fr/faits-divers/le-japon-execute-un-homme-condamne-pour-avoir-tue-cinq-personnes-dans-un-incendie-21-08-2026-IOKP6NZ27BAHPIWKXEGAOHG7KM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendi..."
       }
     ],
-    "summary": "« Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal de Libourne, un homme condamné à six ans d’emprisonnement pour un homicide routier"
+    "summary": "« Je ne me rappelle pas l’avoir déplacé » sur le siège conducteur : au tribunal de Libourne, un homme condamné à six ans d’emprisonnement pour un homicide routier / Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie"
   },
   {
     "title": "Justice en Lot-et-Garonne : trois ressortissants géorgiens condamnés à de la prison ferme après avoir tenté de cambrioler une maison dans le Villeneuvois",
@@ -597,7 +558,7 @@
       {
         "title": "« Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous la menace d’un procès pour un retentissant scandale sexuel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/un-abus-de-vulnerabilite-jacques-bouthier-lancien-pdg-dassu2000-sous-la-menace-dun-proces-pour-un-retentissant-scandale-sexuel-21-08-2026-3OY564BAFZAR3PIUU7JLQIC56I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un abus de vulnérabilité » : Jacques Bouthier, l’ancien PDG d’Assu2000, sous l..."
@@ -766,21 +727,21 @@
       {
         "title": "Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abonnés fibre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-loperateur-sfr-victime-dune-fuite-de-donnees-affectant-ses-abonnes-fibre-20-08-2026-Z5G5IY47MNGNZE62NLSFFLTDPU.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abo..."
       },
       {
-        "title": "[CYBER] Intermarche victime d'une fuite de donnée après une cyberattaque",
+        "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:17.696Z",
+        "time": "2026-08-22T04:28:36.414Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de donnée après une cyberattaque..."
+        "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
       }
     ],
-    "summary": "Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abonnés fibre / [CYBER] Intermarche victime d'une fuite de donnée après une cyberattaque"
+    "summary": "Cyberattaques : l’opérateur SFR victime d’une fuite de données affectant ses abonnés fibre / [CYBER] Intermarche victime d'une fuite de données après une cyberattaque"
   },
   {
     "title": "Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance sur les enquêteurs",
@@ -793,7 +754,7 @@
       {
         "title": "Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance sur les enquêteurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.247Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-pourquoi-les-hackers-de-haut-niveau-ont-une-longueur-davance-sur-les-enqueteurs-20-08-2026-ZQYGMJ2GEVCDZNB6VI55CRWWSI.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : pourquoi les hackers de haut niveau ont une longueur d’avance su..."
@@ -813,7 +774,7 @@
       {
         "title": "Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyber »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.247Z",
+        "time": "2026-08-22T04:29:55.041Z",
         "link": "https://www.leparisien.fr/high-tech/cyberattaques-sebastien-lecornu-demande-la-creation-dune-nouvelle-unite-cyber-19-08-2026-KLL3GH7DSVCGRMKRVXHMTD5IK4.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Cyberattaques : Sébastien Lecornu demande la création d’une « nouvelle unité cyb..."
@@ -857,7 +818,7 @@
       {
         "title": "Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du système informatique",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/economie/piratage-du-site-des-impots-le-syndicat-solidaires-denonce-lanciennete-du-systeme-informatique-21-08-2026-PKVLPRMNEJHFLHUKQ4EPKPLVFE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du..."
@@ -958,7 +919,7 @@
       {
         "title": "Après les impôts et SFR, la protection civile à son tour visée par une cyberattaque",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.040Z",
         "link": "https://www.leparisien.fr/faits-divers/apres-les-impots-et-sfr-la-protection-civile-a-son-tour-visee-par-une-cyberattaque-21-08-2026-IMJLKNOQWFFHDNMXYPW2JU6XNE.php",
         "score": 93,
         "summary": "Point de situation critique concernant : Après les impôts et SFR, la protection civile à son tour visée par une cyberatta..."
@@ -1061,13 +1022,51 @@
       {
         "title": "« Tu as violé mon cousin » : un homme victime d’une tentative de chantage après un rendez-vous sur Grindr",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-22T00:57:10.246Z",
+        "time": "2026-08-22T04:29:55.039Z",
         "link": "https://www.leparisien.fr/faits-divers/tu-as-viole-mon-cousin-un-homme-victime-dune-tentative-de-chantage-apres-un-rendez-vous-sur-grindr-21-08-2026-PO5DGWBVPZDXFNATRTPK2DQZXY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Tu as violé mon cousin » : un homme victime d’une tentative de chantage après ..."
       }
     ],
     "summary": "« Tu as violé mon cousin » : un homme victime d’une tentative de chantage après un rendez-vous sur Grindr"
+  },
+  {
+    "title": "Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fait vivre un enfer à un retraité de 87 ans",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fait vivre un enfer à un retraité de 87 ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T04:29:55.040Z",
+        "link": "https://www.leparisien.fr/faits-divers/faux-banquier-et-agression-a-domicile-a-paris-les-truands-du-xvie-avaient-fait-vivre-un-enfer-a-un-retraite-de-87-ans-21-08-2026-5YXFOQ6QXRFI7OMYD5EXLNVHMA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fai..."
+      }
+    ],
+    "summary": "Faux banquier et agression à domicile : à Paris, les truands du XVIe avaient fait vivre un enfer à un retraité de 87 ans"
+  },
+  {
+    "title": "Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hommes : pendant une agression, elle scrollait sur TikTok",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hommes : pendant une agression, elle scrollait sur TikTok",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-22T04:29:55.040Z",
+        "link": "https://www.leparisien.fr/faits-divers/une-americaine-accusee-davoir-laisse-ses-deux-filles-aux-mains-de-plusieurs-hommes-pendant-une-agression-elle-scrollait-sur-tiktok-21-08-2026-PN6ARCS3S5G5RN45R4PPSLZTIY.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hom..."
+      }
+    ],
+    "summary": "Une Américaine accusée d’avoir laissé ses deux filles aux mains de plusieurs hommes : pendant une agression, elle scrollait sur TikTok"
   },
   {
     "title": "[CYBER] Résultats de l'analyse des intrusions",
@@ -1080,7 +1079,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:33.305Z",
+        "time": "2026-08-22T04:28:47.273Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1099,7 +1098,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:27.394Z",
+        "time": "2026-08-22T04:28:43.166Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1118,7 +1117,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:30.870Z",
+        "time": "2026-08-22T04:28:45.601Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1137,7 +1136,7 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:22.761Z",
+        "time": "2026-08-22T04:28:39.978Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
@@ -1156,7 +1155,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:13.659Z",
+        "time": "2026-08-22T04:28:33.770Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1175,7 +1174,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:01.824Z",
+        "time": "2026-08-22T04:28:25.592Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1194,7 +1193,7 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:55:06.969Z",
+        "time": "2026-08-22T04:28:29.142Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
@@ -1213,7 +1212,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:54:58.577Z",
+        "time": "2026-08-22T04:28:23.305Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1232,7 +1231,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-22T00:54:55.148Z",
+        "time": "2026-08-22T04:28:20.942Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
