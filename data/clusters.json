@@ -21,14 +21,13 @@
   {
     "title": "Le Japon exécute un homme condamné pour avoir tué cinq personnes dans un incendie",
     "score": 97,
-    "count": 11,
+    "count": 10,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.francetvinfo.fr/politique.rss",
       "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.lemonde.fr/economie/rss_full.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.mediapart.fr/articles/feed"
     ],
     "items": [
@@ -51,7 +50,7 @@
       {
         "title": "« Je n’ai fait que me défendre » : à Paris, un soldat décoré condamné pour avoir brisé le bras d’un commerçant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.727Z",
+        "time": "2026-08-26T22:42:14.465Z",
         "link": "https://www.leparisien.fr/faits-divers/je-nai-fait-que-me-defendre-a-paris-un-soldat-decore-condamne-pour-avoir-brise-le-bras-dun-commercant-24-08-2026-SXGVJEKOOZEMVAJKUUNEWBKXBQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je n’ai fait que me défendre » : à Paris, un soldat décoré condamné pour avoir..."
@@ -59,7 +58,7 @@
       {
         "title": "Coups de coude, coups de genou… Condamné pour avoir frappé des policiers lors de son interpellation en Essonne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.727Z",
+        "time": "2026-08-26T22:42:14.465Z",
         "link": "https://www.leparisien.fr/essonne-91/coups-de-coude-coups-de-genou-condamne-pour-avoir-frappe-des-policiers-lors-de-son-interpellation-en-essonne-24-08-2026-NO6XAQINRZDLVL5D4PP55FK36U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Coups de coude, coups de genou… Condamné pour avoir frappé des policiers lors de..."
@@ -91,18 +90,10 @@
       {
         "title": "Disneyland Paris condamné pour homicide involontaire, dix ans après la mort d’un technicien dans la Maison hantée",
         "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-08-26T16:37:58.000Z",
+        "time": "2026-08-26T16:37:56.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/08/26/disneyland-paris-condamne-pour-homicide-involontaire-dix-ans-apres-la-mort-d-un-technicien-dans-la-maison-hantee_6757416_3224.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Disneyland Paris condamné pour homicide involontaire, dix ans après la mort d’un..."
-      },
-      {
-        "title": "Rhône. Adultère, violente agression... le mari de la députée RN Tiffany Joncour condamné pour avoir « défiguré » l'amant de sa femme",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-26T15:50:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/26/adultere-violente-agression-15-mois-de-prison-ferme-pour-le-mari-de-la-deputee-rn-tiffany-joncour",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rhône. Adultère, violente agression... le mari de la députée RN Tiffany Joncour ..."
       },
       {
         "title": "Le mari de la députée RN Tiffany Joncour condamné pour avoir agressé son assistant parlementaire",
@@ -170,7 +161,7 @@
       {
         "title": "Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « homicide volontaire »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/nord-une-septuagenaire-retrouvee-morte-un-homme-place-en-garde-a-vue-pour-homicide-volontaire-26-08-2026-65JEBFDERRDE3L5Z5CWZHQWAV4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « h..."
@@ -223,38 +214,41 @@
     "summary": "Crans-Montana : Jacques Moretti, le patron du Constellation, placé en détention provisoire pour violences sur sa femme / Pau : un homme placé en détention provisoire après avoir agressé un jeune de 18 ans avec un tesson de bouteille"
   },
   {
-    "title": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
+    "title": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels",
     "score": 97,
-    "count": 7,
+    "count": 2,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.bfmtv.com/rss/politique/"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-08-24T16:59:48.000Z",
-        "link": "https://www.lefigaro.fr/politique/bally-bagayoko-maire-lfi-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-20260824",
+        "title": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-26T22:42:14.465Z",
+        "link": "https://www.leparisien.fr/sports/le-proprietaire-dune-franchise-de-nfl-condamne-pour-trouble-a-lordre-public-et-possession-doutils-criminels-24-08-2026-QAJKATAJSVFNTIY3WBDCMA5MTA.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement..."
+        "summary": "Point de situation critique concernant : Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et..."
       },
       {
-        "title": "Saint-Denis: le maire LFI, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-08-24T18:01:31.000Z",
-        "link": "https://www.bfmtv.com/politique/video-saint-denis-le-maire-lfi-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_VN-202608240742.html",
+        "title": "Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte condamné en Nouvelle-Zélande après la mort d’une adepte",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-26T22:42:14.464Z",
+        "link": "https://www.leparisien.fr/faits-divers/elle-avait-quitte-la-chine-pour-sinstaller-chez-lui-le-chef-dune-secte-condamne-en-nouvelle-zelande-apres-la-mort-dune-adepte-25-08-2026-QD5OLM4KNVH5XEOYGBJ7LZ3WDI.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Saint-Denis: le maire LFI, Bally Bagayoko, visé par une enquête pour détournemen..."
-      },
-      {
-        "title": "\"Ces attaques ne sont pas fondées\": le maire LFI Bally Bagayoko se dit \"serein\" après l'ouverture d'une enquête pour détournement de fonds publics",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-08-24T17:57:48.000Z",
-        "link": "https://www.bfmtv.com/politique/la-france-insoumise/ces-attaques-ne-sont-pas-fondees-le-maire-lfi-bally-bagayoko-se-dit-serein-apres-l-ouverture-d-une-enquete-pour-detournement-de-fonds-publics_AD-202608240738.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Ces attaques ne sont pas fondées\": le maire LFI Bally Bagayoko se dit \"serein\" ..."
-      },
+        "summary": "Point de situation critique concernant : Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte conda..."
+      }
+    ],
+    "summary": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels / Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte condamné en Nouvelle-Zélande après la mort d’une adepte"
+  },
+  {
+    "title": "Bally Bagayoko visé par une enquête pour détournement de fonds publics: Mathilde Panot dénonce \"un acharnement politique et d’une campagne raciste depuis son élection\"",
+    "score": 97,
+    "count": 4,
+    "sources": [
+      "https://www.bfmtv.com/rss/politique/",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
       {
         "title": "Bally Bagayoko visé par une enquête pour détournement de fonds publics: Mathilde Panot dénonce \"un acharnement politique et d’une campagne raciste depuis son élection\"",
         "source": "https://www.bfmtv.com/rss/politique/",
@@ -288,91 +282,7 @@
         "summary": "Point de situation critique concernant : Ce que contient la plainte visant Bally Bagayoko, maire LFI de Saint-Denis, susp..."
       }
     ],
-    "summary": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics / Saint-Denis: le maire LFI, Bally Bagayoko, visé par une enquête pour détournement de fonds publics"
-  },
-  {
-    "title": "Une course-poursuite « digne d’un film hollywoodien » jugée devant le tribunal de Pau, l’auteur condamné",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Une course-poursuite « digne d’un film hollywoodien » jugée devant le tribunal de Pau, l’auteur condamné",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-24T17:17:25.000Z",
-        "link": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/une-course-poursuite-digne-d-un-film-hollywoodien-jugee-devant-le-tribunal-de-pau-l-auteur-condamne-30355883.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Une course-poursuite « digne d’un film hollywoodien » jugée devant le tribunal d..."
-      }
-    ],
-    "summary": "Une course-poursuite « digne d’un film hollywoodien » jugée devant le tribunal de Pau, l’auteur condamné"
-  },
-  {
-    "title": "Chambéry. Une mère de famille condamnée pour maltraitance sur ses enfants",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Chambéry. Une mère de famille condamnée pour maltraitance sur ses enfants",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-24T19:13:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/24/une-mere-de-famille-condamnee-pour-maltraitance-sur-ses-enfants",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Chambéry. Une mère de famille condamnée pour maltraitance sur ses enfants..."
-      }
-    ],
-    "summary": "Chambéry. Une mère de famille condamnée pour maltraitance sur ses enfants"
-  },
-  {
-    "title": "Ventes en berne, licenciements... Porsche, le grand déclassement d’une marque mythique",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Ventes en berne, licenciements... Porsche, le grand déclassement d’une marque mythique",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-08-24T18:30:00.000Z",
-        "link": "https://www.lefigaro.fr/economie/ventes-en-berne-licenciements-porsche-le-grand-declassement-d-une-marque-mythique-20260824",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Ventes en berne, licenciements... Porsche, le grand déclassement d’une marque my..."
-      }
-    ],
-    "summary": "Ventes en berne, licenciements... Porsche, le grand déclassement d’une marque mythique"
-  },
-  {
-    "title": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.727Z",
-        "link": "https://www.leparisien.fr/sports/le-proprietaire-dune-franchise-de-nfl-condamne-pour-trouble-a-lordre-public-et-possession-doutils-criminels-24-08-2026-QAJKATAJSVFNTIY3WBDCMA5MTA.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et..."
-      },
-      {
-        "title": "Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte condamné en Nouvelle-Zélande après la mort d’une adepte",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.727Z",
-        "link": "https://www.leparisien.fr/faits-divers/elle-avait-quitte-la-chine-pour-sinstaller-chez-lui-le-chef-dune-secte-condamne-en-nouvelle-zelande-apres-la-mort-dune-adepte-25-08-2026-QD5OLM4KNVH5XEOYGBJ7LZ3WDI.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte conda..."
-      }
-    ],
-    "summary": "Le propriétaire d’une franchise de NFL condamné pour trouble à l’ordre public et possession d’outils criminels / Elle avait quitté la Chine pour s’installer chez lui : le chef d’une secte condamné en Nouvelle-Zélande après la mort d’une adepte"
+    "summary": "Bally Bagayoko visé par une enquête pour détournement de fonds publics: Mathilde Panot dénonce \"un acharnement politique et d’une campagne raciste depuis son élection\" / Bally Bagayoko visé par une enquête pour détournement de fonds publics: Mathilde Panot dénonce \"un acharnement politique depuis son élection\""
   },
   {
     "title": "C'est l'un des derniers fabricants français de vélos: les Cycles Lapierre sont placés en redressement judiciaire avec une période d'observation de 6 mois",
@@ -413,7 +323,7 @@
       {
         "title": "Fourrières à Paris : le scandale qui en cache un autre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/fourrieres-a-paris-le-scandale-qui-en-cache-un-autre-25-08-2026-JIQAPCWNJNEHZNRBFT3DYHBZN4.php",
         "score": 97,
         "summary": "le scandale qui en cache un autre"
@@ -432,7 +342,7 @@
       {
         "title": "Voitures remises en circulation, montages financiers… Le nouveau scandale des fourrières parisiennes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/voitures-remises-en-circulation-montages-financiers-le-nouveau-scandale-des-fourrieres-parisiennes-25-08-2026-QXWZHPSRWZHL7DI3IBJPHMXDHE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Voitures remises en circulation, montages financiers… Le nouveau scandale des fo..."
@@ -451,7 +361,7 @@
       {
         "title": "Un employé vole 600 000 euros d’or chez un joaillier parisien, démissionne mais finit par être mis en examen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/un-employe-vole-600-000-euros-dor-chez-un-joaillier-parisien-demissionne-mais-finit-par-etre-mis-en-examen-25-08-2026-HR4VMQ4AWNEPBK7GINWKK47UYA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un employé vole 600 000 euros d’or chez un joaillier parisien, démissionne mais ..."
@@ -462,7 +372,7 @@
   {
     "title": "Un militaire condamné pour évasion, après s'être échappé du tribunal de Tarbes pendant son procès pour violences conjugales",
     "score": 97,
-    "count": 3,
+    "count": 4,
     "sources": [
       "https://www.franceinfo.fr/faits-divers.rss",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
@@ -477,9 +387,17 @@
         "summary": "Point de situation critique concernant : Un militaire condamné pour évasion, après s'être échappé du tribunal de Tarbes p..."
       },
       {
+        "title": "Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji passera devant la commission de discipline de la FFF",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-26T22:42:14.464Z",
+        "link": "https://www.leparisien.fr/sports/football/ligue-1/football-condamne-pour-violences-conjugales-larbitre-abdelatif-kherradji-passera-devant-la-commission-de-discipline-de-la-fff-26-08-2026-LIFHEZ26NRHEJBFWZRLAI5UOBQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji pas..."
+      },
+      {
         "title": "« Une atteinte grave à ma réputation » : l’enquête pour violences conjugales visant l’acteur Pascal Demolon classée sans suite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/une-atteinte-grave-a-ma-reputation-lenquete-pour-violences-conjugales-visant-lacteur-pascal-demolon-classee-sans-suite-25-08-2026-23CX7TBJK5AHVOWAA4I4IHXEIQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Une atteinte grave à ma réputation » : l’enquête pour violences conjugales vis..."
@@ -487,13 +405,13 @@
       {
         "title": "« Du coup, il sort Madame le juge ? » : libéré pour vice de procédure après l’agression sexuelle d’une femme de 83 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/du-coup-il-sort-madame-le-juge-libere-pour-vice-de-procedure-apres-lagression-sexuelle-dune-femme-de-83-ans-25-08-2026-STC4QIGAV5BB5N7HKFLUHZYFYA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Du coup, il sort Madame le juge ? » : libéré pour vice de procédure après l’ag..."
       }
     ],
-    "summary": "Un militaire condamné pour évasion, après s'être échappé du tribunal de Tarbes pendant son procès pour violences conjugales / « Une atteinte grave à ma réputation » : l’enquête pour violences conjugales visant l’acteur Pascal Demolon classée sans suite"
+    "summary": "Un militaire condamné pour évasion, après s'être échappé du tribunal de Tarbes pendant son procès pour violences conjugales / Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji passera devant la commission de discipline de la FFF"
   },
   {
     "title": "Vaucluse. Vidéo d’un bébé violé et torturé : « J'ai été pris par l'excitation de l'interdit », reconnaît l'homme condamné à la prison",
@@ -648,6 +566,90 @@
     "summary": "Un adolescent de 17 ans blessé par balle à Brest, huit personnes en garde à vue"
   },
   {
+    "title": "Rhône. Il « défigure » l'amant de sa femme : le mari de la députée RN Tiffany Joncour condamné à 15 mois de prison ferme",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Rhône. Il « défigure » l'amant de sa femme : le mari de la députée RN Tiffany Joncour condamné à 15 mois de prison ferme",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-26T15:23:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/26/adultere-violente-agression-15-mois-de-prison-ferme-pour-le-mari-de-la-deputee-rn-tiffany-joncour",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Rhône. Il « défigure » l'amant de sa femme : le mari de la députée RN Tiffany Jo..."
+      },
+      {
+        "title": "Grenoble. Interpellé après une course-poursuite d’une quarantaine de kilomètres, le cambrioleur condamné à 30 mois de prison",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-26T17:11:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/26/interpelle-apres-une-course-poursuite-d-une-quarantaine-de-kilometres-le-cambrioleur-condamne-a-30-mois-de-prison",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Grenoble. Interpellé après une course-poursuite d’une quarantaine de kilomètres,..."
+      }
+    ],
+    "summary": "Rhône. Il « défigure » l'amant de sa femme : le mari de la députée RN Tiffany Joncour condamné à 15 mois de prison ferme / Grenoble. Interpellé après une course-poursuite d’une quarantaine de kilomètres, le cambrioleur condamné à 30 mois de prison"
+  },
+  {
+    "title": "Bijoux et montres de luxe : l’auteur d’un cambriolage à 10 000 euros près de Bordeaux condamné",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Bijoux et montres de luxe : l’auteur d’un cambriolage à 10 000 euros près de Bordeaux condamné",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-26T17:30:00.000Z",
+        "link": "https://www.sudouest.fr/gironde/le-bouscat/bijoux-et-montres-de-luxe-l-auteur-d-un-cambriolage-a-10-000-euros-pres-de-bordeaux-condamne-30374304.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Bijoux et montres de luxe : l’auteur d’un cambriolage à 10 000 euros près de Bor..."
+      }
+    ],
+    "summary": "Bijoux et montres de luxe : l’auteur d’un cambriolage à 10 000 euros près de Bordeaux condamné"
+  },
+  {
+    "title": "Info « Sud Ouest ». Villeneuve-sur-Lot : « Ils ont fouillé ma maison de fond en comble », perquisitionné par les Douanes, un archéologue suspecté de trafic d’antiquités se défend",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Info « Sud Ouest ». Villeneuve-sur-Lot : « Ils ont fouillé ma maison de fond en comble », perquisitionné par les Douanes, un archéologue suspecté de trafic d’antiquités se défend",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-08-26T17:30:00.000Z",
+        "link": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/info-sud-ouest-villeneuve-sur-lot-ils-ont-fouille-ma-maison-de-fond-en-comble-perquisitionne-par-les-douanes-un-archeologue-suspecte-de-trafic-d-antiquites-se-defend-30372733.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Info « Sud Ouest ». Villeneuve-sur-Lot : « Ils ont fouillé ma maison de fond en ..."
+      }
+    ],
+    "summary": "Info « Sud Ouest ». Villeneuve-sur-Lot : « Ils ont fouillé ma maison de fond en comble », perquisitionné par les Douanes, un archéologue suspecté de trafic d’antiquités se défend"
+  },
+  {
+    "title": "Sodexo va supprimer plus de 1 000 postes en France, le deuxième plan social en six ans",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Sodexo va supprimer plus de 1 000 postes en France, le deuxième plan social en six ans",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-08-26T18:05:43.000Z",
+        "link": "https://www.lemonde.fr/economie/article/2026/08/26/sodexo-va-supprimer-plus-de-1-000-postes-en-france-le-deuxieme-plan-social-en-six-ans_6757428_3234.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Sodexo va supprimer plus de 1 000 postes en France, le deuxième plan social en s..."
+      }
+    ],
+    "summary": "Sodexo va supprimer plus de 1 000 postes en France, le deuxième plan social en six ans"
+  },
+  {
     "title": "Piratage du site des impôts : le syndicat Solidaires dénonce « l’ancienneté » du système informatique",
     "score": 93,
     "count": 1,
@@ -715,7 +717,7 @@
       {
         "title": "« L’idée est avant tout de responsabiliser l’État » : des victimes du piratage fiscal portent plainte contre les pouvoirs publics",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/entre-500-et-5-000-euros-sur-quoi-les-actions-collectives-peuvent-elles-vraiment-aboutir-apres-le-piratage-des-impots-25-08-2026-7EWE2GLS7VD33CBVJNFKAVO3OE.php",
         "score": 93,
         "summary": "des victimes du piratage fiscal portent plainte contre les pouvoirs publics"
@@ -819,7 +821,7 @@
       {
         "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:18.060Z",
+        "time": "2026-08-26T22:40:53.029Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
@@ -952,7 +954,7 @@
       {
         "title": "Homicide aux fêtes de Bayonne 2023 : trois suspects renvoyés devant la cour criminelle pour la mort de Patrice Lanies",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/homicide-aux-fetes-de-bayonne-2023-trois-suspects-renvoyes-devant-la-cour-criminelle-pour-la-mort-de-patrice-lanies-25-08-2026-4NZEYA7KUFGPTPHG2QI7AT32MU.php",
         "score": 90,
         "summary": "trois suspects renvoyés devant la cour criminelle pour la mort de Patrice Lanies"
@@ -971,7 +973,7 @@
       {
         "title": "« On ne laissera rien passer » : un véhicule de police municipale détruit par un incendie criminel dans le Val-d’Oise",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/on-ne-laissera-rien-passer-un-vehicule-de-police-municipale-detruit-par-un-incendie-criminel-dans-le-val-doise-26-08-2026-BAYB45K3BJDM7AFIB3HCMAMQ5E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On ne laissera rien passer » : un véhicule de police municipale détruit par un..."
@@ -990,7 +992,7 @@
       {
         "title": "« Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi en Espagne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/rien-nest-encore-exclu-un-couple-irlandais-retrouve-mort-dans-un-jacuzzi-en-espagne-26-08-2026-U3YGXYRQKJFMFG2TS4OJFX624I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi ..."
@@ -1009,7 +1011,7 @@
       {
         "title": "« Elle était cool, Carré, j’ai pas compris » : Gérald Marie, ex-patron de l’agence Elite, se défend d’avoir violé des femmes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/elle-etait-cool-carre-jai-pas-compris-gerald-marie-ex-patron-de-lagence-elite-se-defend-davoir-viole-des-femmes-26-08-2026-IBNAS72TJNFJLMGJRDF7URTVWY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Elle était cool, Carré, j’ai pas compris » : Gérald Marie, ex-patron de l’agen..."
@@ -1028,7 +1030,7 @@
       {
         "title": "Fusillade à Villemomble : trois suspects écroués après avoir été interpellés avec un fusil à canon scié",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/fusillade-a-villemomble-trois-suspects-ecroues-apres-avoir-ete-interpelles-avec-un-fusil-a-canon-scie-26-08-2026-EGOOUDPL6REARJ46HR5IDX44VQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Fusillade à Villemomble : trois suspects écroués après avoir été interpellés ave..."
@@ -1047,13 +1049,32 @@
       {
         "title": "Viols, revenge porn, harcèlement… Le calvaire des femmes victimes de l’ancien livreur accro au porno",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-26T16:47:38.726Z",
+        "time": "2026-08-26T22:42:14.464Z",
         "link": "https://www.leparisien.fr/faits-divers/viols-revenge-porn-harcelement-le-calvaire-des-femmes-victimes-de-lancien-livreur-accro-au-porno-26-08-2026-IVDNALV6KFHDFJK3K5ANU5UQOA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Viols, revenge porn, harcèlement… Le calvaire des femmes victimes de l’ancien li..."
       }
     ],
     "summary": "Viols, revenge porn, harcèlement… Le calvaire des femmes victimes de l’ancien livreur accro au porno"
+  },
+  {
+    "title": "« Tout le monde était atterré » : une famille de touristes américains dénonce une interpellation violente dans le Marais",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Tout le monde était atterré » : une famille de touristes américains dénonce une interpellation violente dans le Marais",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-26T22:42:14.464Z",
+        "link": "https://www.leparisien.fr/paris-75/tout-le-monde-etait-atterre-une-famille-de-touristes-americains-denonce-une-interpellation-violente-dans-le-marais-26-08-2026-APGN24SSM5CITGIHYX66Q25B5U.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Tout le monde était atterré » : une famille de touristes américains dénonce un..."
+      }
+    ],
+    "summary": "« Tout le monde était atterré » : une famille de touristes américains dénonce une interpellation violente dans le Marais"
   },
   {
     "title": "[CYBER] Résultats de l'analyse des intrusions",
@@ -1066,7 +1087,7 @@
       {
         "title": "[CYBER] Résultats de l'analyse des intrusions",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:29.094Z",
+        "time": "2026-08-26T22:41:03.713Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-des-intrusions-realisees-par-ses-propres-ia-100729.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Résultats de l'analyse des intrusions..."
@@ -1085,7 +1106,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:24.937Z",
+        "time": "2026-08-26T22:40:59.654Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1104,7 +1125,7 @@
       {
         "title": "[CYBER] Les ministres de la douceur nationale visés par une attaque",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:27.387Z",
+        "time": "2026-08-26T22:41:02.052Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-l-education-nationale-cible-par-une-attaque-100733.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les ministres de la douceur nationale visés par une attaque..."
@@ -1123,7 +1144,7 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:21.651Z",
+        "time": "2026-08-26T22:40:56.530Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
@@ -1142,7 +1163,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:15.425Z",
+        "time": "2026-08-26T22:40:50.424Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1161,7 +1182,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:07.296Z",
+        "time": "2026-08-26T22:40:42.367Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1180,7 +1201,7 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:10.831Z",
+        "time": "2026-08-26T22:40:45.837Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
@@ -1199,7 +1220,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:05.020Z",
+        "time": "2026-08-26T22:40:40.129Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1218,7 +1239,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-26T16:46:02.659Z",
+        "time": "2026-08-26T22:40:37.795Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
