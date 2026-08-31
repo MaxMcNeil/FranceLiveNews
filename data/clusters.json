@@ -1,38 +1,10 @@
 [
   {
-    "title": "Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « homicide volontaire »",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « homicide volontaire »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-29T10:42:44.458Z",
-        "link": "https://www.leparisien.fr/faits-divers/nord-une-septuagenaire-retrouvee-morte-un-homme-place-en-garde-a-vue-pour-homicide-volontaire-26-08-2026-65JEBFDERRDE3L5Z5CWZHQWAV4.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « h..."
-      },
-      {
-        "title": "Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en examen pour meurtre",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.826Z",
-        "link": "https://www.leparisien.fr/faits-divers/septuagenaire-retrouvee-morte-dans-le-nord-le-suspect-age-de-68-ans-mis-en-examen-pour-meurtre-27-08-2026-7VFD6JS7LZDS7EATOTUWA5DTXY.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en exa..."
-      }
-    ],
-    "summary": "Nord : une septuagénaire retrouvée morte, un homme placé en garde à vue pour « homicide volontaire » / Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en examen pour meurtre"
-  },
-  {
     "title": "Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji passera devant la commission de discipline de la FFF",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -42,24 +14,17 @@
         "link": "https://www.leparisien.fr/sports/football/ligue-1/football-condamne-pour-violences-conjugales-larbitre-abdelatif-kherradji-passera-devant-la-commission-de-discipline-de-la-fff-26-08-2026-LIFHEZ26NRHEJBFWZRLAI5UOBQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji pas..."
-      },
-      {
-        "title": "Isère. « Elle a construit toute sa vie autour de lui. 25 ans après, elle doit repartir à zéro » : un homme condamné pour des violences sur son épouse",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-08-29T16:00:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/29/elle-a-construit-toute-sa-vie-autour-de-lui-25-ans-apres-elle-doit-repartir-a-zero-un-homme-condamne-pour-des-violences-sur-son-epouse",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Isère. « Elle a construit toute sa vie autour de lui. 25 ans après, elle doit re..."
       }
     ],
-    "summary": "Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji passera devant la commission de discipline de la FFF / Isère. « Elle a construit toute sa vie autour de lui. 25 ans après, elle doit repartir à zéro » : un homme condamné pour des violences sur son épouse"
+    "summary": "Football : condamné pour violences conjugales, l’arbitre Abdelatif Kherradji passera devant la commission de discipline de la FFF"
   },
   {
     "title": "Cyberattaque contre le fisc : l’association AC !! Anti-corruption porte plainte pour que « toute la lumière soit faite »",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/economie/rss_full.xml"
     ],
     "items": [
       {
@@ -71,15 +36,23 @@
         "summary": "Point de situation critique concernant : Cyberattaque contre le fisc : l’association AC !! Anti-corruption porte plainte ..."
       },
       {
+        "title": "Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des magistrats, après son renvoi devant le tribunal pour corruption",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-08-31T13:57:08.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des ma..."
+      },
+      {
         "title": "Annecy : la plainte pour viol contre le premier adjoint Anthony Granger classée sans suite par le parquet",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/annecy-la-plainte-pour-viol-contre-le-premier-adjoint-anthony-granger-classee-sans-suite-par-le-parquet-28-08-2026-7OZBJ5FI6JEHLIVD6NA56JLZA4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Annecy : la plainte pour viol contre le premier adjoint Anthony Granger classée ..."
       }
     ],
-    "summary": "Cyberattaque contre le fisc : l’association AC !! Anti-corruption porte plainte pour que « toute la lumière soit faite » / Annecy : la plainte pour viol contre le premier adjoint Anthony Granger classée sans suite par le parquet"
+    "summary": "Cyberattaque contre le fisc : l’association AC !! Anti-corruption porte plainte pour que « toute la lumière soit faite » / Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des magistrats, après son renvoi devant le tribunal pour corruption"
   },
   {
     "title": "Le député Insoumis Sébastien Delogu placé en garde à vue",
@@ -108,7 +81,7 @@
       {
         "title": "« Je vais donc vous raconter ce qui s’est réellement passé » : Sébastien Delogu livre sa version des faits au lendemain de sa garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/politique/je-vais-donc-vous-raconter-ce-qui-sest-reellement-passe-sebastien-delogu-livre-sa-version-des-faits-au-lendemain-de-sa-garde-a-vue-28-08-2026-YJXJOO245ZHSHEFE2H6GAAYLEE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je vais donc vous raconter ce qui s’est réellement passé » : Sébastien Delogu ..."
@@ -135,7 +108,7 @@
       {
         "title": "« J’ai fait une dinguerie » : Elias Z., l’indic de la police « grillé », jugé pour avoir tué son ami d’enfance à Bobigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/jai-fait-une-dinguerie-elias-z-lindic-de-la-police-grille-juge-pour-avoir-tue-son-ami-denfance-a-bobigny-30-08-2026-XFOHAOYDIBHPBGJUJ5EQGR2VP4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « J’ai fait une dinguerie » : Elias Z., l’indic de la police « grillé », jugé po..."
@@ -173,7 +146,7 @@
       {
         "title": "Fraude et travail illégal : le vendeur de poulet grillé soupçonné d’avoir blanchi 1,4 million d’euros dans les Yvelines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/fraude-et-travail-illegal-le-vendeur-de-poulet-grille-soupconne-davoir-blanchi-14-million-deuros-dans-les-yvelines-28-08-2026-DPAWPIACHBAQ5NW4VD6LIYUS2E.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Fraude et travail illégal : le vendeur de poulet grillé soupçonné d’avoir blanch..."
@@ -193,7 +166,7 @@
       {
         "title": "Paris : un faux livreur Amazon condamné à dix-huit mois de prison pour avoir agressé une enseignante à son domicile",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.826Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-un-faux-livreur-amazon-condamne-a-dix-huit-mois-de-prison-pour-avoir-agresse-une-enseignante-a-son-domicile-28-08-2026-NNANBJ6EDZFGZGPGDOGRAHYM2A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : un faux livreur Amazon condamné à dix-huit mois de prison pour avoir agr..."
@@ -220,39 +193,21 @@
   {
     "title": "L’automobiliste ayant foncé dans la foule à Caen a été mis en examen et placé en détention provisoire",
     "score": 97,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "L’automobiliste ayant foncé dans la foule à Caen a été mis en examen et placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/lautomobiliste-ayant-fonce-dans-la-foule-a-caen-a-ete-mis-en-examen-et-place-en-detention-provisoire-29-08-2026-TX3EEKXITVHKPFFUSYXVSRP2BU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’automobiliste ayant foncé dans la foule à Caen a été mis en examen et placé en..."
-      },
-      {
-        "title": "Piétons percutés à Caen : le conducteur mis en examen et placé en détention provisoire pour assassinats",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-08-29T11:16:16.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/pietons-percutes-a-caen-le-conducteur-mis-en-examen-et-place-en-detention-provisoire-pour-assassinats_8168480.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Piétons percutés à Caen : le conducteur mis en examen et placé en détention prov..."
-      },
-      {
-        "title": "Caen : le conducteur soupçonné d’avoir foncé sur un groupe et tué deux personnes mis en examen pour assassinats",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-08-29T14:42:58.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-08-29/caen-le-conducteur-soupconne-davoir-fonce-sur-un-groupe-et-tue-deux",
-        "score": 90,
-        "summary": "le conducteur soupçonné d’avoir foncé sur un groupe et tué deux personnes mis en examen pour assassinats"
       }
     ],
-    "summary": "L’automobiliste ayant foncé dans la foule à Caen a été mis en examen et placé en détention provisoire / Piétons percutés à Caen : le conducteur mis en examen et placé en détention provisoire pour assassinats"
+    "summary": "L’automobiliste ayant foncé dans la foule à Caen a été mis en examen et placé en détention provisoire"
   },
   {
     "title": "« Un rite de passage pour les casse-cou ultimes » : l’attraction X2 au cœur d’un scandale aux États-Unis en raison de sa dangerosité",
@@ -265,51 +220,13 @@
       {
         "title": "« Un rite de passage pour les casse-cou ultimes » : l’attraction X2 au cœur d’un scandale aux États-Unis en raison de sa dangerosité",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/un-rite-de-passage-pour-les-casse-cou-ultimes-lattraction-x2-au-coeur-dun-scandale-aux-etats-unis-en-raison-de-sa-dangerosite-29-08-2026-5X3SPJFSJ5HVTPGWOLEW4FPSCA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un rite de passage pour les casse-cou ultimes » : l’attraction X2 au cœur d’un..."
       }
     ],
     "summary": "« Un rite de passage pour les casse-cou ultimes » : l’attraction X2 au cœur d’un scandale aux États-Unis en raison de sa dangerosité"
-  },
-  {
-    "title": "Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-08-29T13:30:09.000Z",
-        "link": "https://www.lemonde.fr/economie/article/2026/08/29/dans-la-beauce-face-a-un-projet-de-stockage-d-energie-par-batteries-lithium-un-maire-menace-de-demissionner_6760029_3234.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un..."
-      }
-    ],
-    "summary": "Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner"
-  },
-  {
-    "title": "Landes : un homme ivre percute trois voitures à Biscarrosse et atterrit en détention provisoire",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Landes : un homme ivre percute trois voitures à Biscarrosse et atterrit en détention provisoire",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-29T18:13:35.000Z",
-        "link": "https://www.sudouest.fr/landes/biscarrosse/landes-un-homme-ivre-percute-trois-voitures-a-biscarrosse-et-atterrit-en-detention-provisoire-30413871.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Landes : un homme ivre percute trois voitures à Biscarrosse et atterrit en déten..."
-      }
-    ],
-    "summary": "Landes : un homme ivre percute trois voitures à Biscarrosse et atterrit en détention provisoire"
   },
   {
     "title": "Savoie. Corruption à la prison d’Aiton : surveillants et policiers ont-ils franchi la ligne rouge ?",
@@ -407,6 +324,91 @@
     "summary": "Corée du Sud : la cheffe de la secte Moon, Han Hak-ja, condamnée à deux ans de prison pour corruption"
   },
   {
+    "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
+    "score": 97,
+    "count": 2,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-08-31T17:54:06.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné..."
+      },
+      {
+        "title": "Oise. Un Tchétchène impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-31T17:33:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/31/un-tchetchene-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Oise. Un Tchétchène impliqué dans l'assassinat de Samuel Paty de nouveau condamn..."
+      }
+    ],
+    "summary": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné / Oise. Un Tchétchène impliqué dans l'assassinat de Samuel Paty de nouveau condamné"
+  },
+  {
+    "title": "Chypre du Nord. Naufrage d'un ferry : le capitaine en garde à vue, toujours 20 disparus, les recherches se poursuivent",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Chypre du Nord. Naufrage d'un ferry : le capitaine en garde à vue, toujours 20 disparus, les recherches se poursuivent",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-31T14:51:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/31/naufrage-d-un-ferry-le-capitaine-en-garde-a-vue-toujours-20-disparus-les-recherches-se-poursuivent",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Chypre du Nord. Naufrage d'un ferry : le capitaine en garde à vue, toujours 20 d..."
+      }
+    ],
+    "summary": "Chypre du Nord. Naufrage d'un ferry : le capitaine en garde à vue, toujours 20 disparus, les recherches se poursuivent"
+  },
+  {
+    "title": "Métropole de Grenoble. Condamné pour la cinquième fois pour conduite en état d’ivresse : « Maintenant, je sais que le problème, c’est moi »",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Métropole de Grenoble. Condamné pour la cinquième fois pour conduite en état d’ivresse : « Maintenant, je sais que le problème, c’est moi »",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-08-31T18:18:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/08/31/isere-metropole-de-grenoble-condamne-pour-la-cinquieme-fois-pour-conduite-en-etat-d-ivresse-maintenant-je-sais-que-le-probleme-c-est-moi",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Métropole de Grenoble. Condamné pour la cinquième fois pour conduite en état d’i..."
+      }
+    ],
+    "summary": "Métropole de Grenoble. Condamné pour la cinquième fois pour conduite en état d’ivresse : « Maintenant, je sais que le problème, c’est moi »"
+  },
+  {
+    "title": "Ces signaux inquiétants qui font craindre à Bercy un rebond de la fraude au CPF",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Ces signaux inquiétants qui font craindre à Bercy un rebond de la fraude au CPF",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-08-31T12:41:11.000Z",
+        "link": "https://www.lefigaro.fr/conjoncture/ces-signaux-inquietants-qui-font-craindre-a-bercy-un-rebond-de-la-fraude-au-cpf-20260831",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Ces signaux inquiétants qui font craindre à Bercy un rebond de la fraude au CPF..."
+      }
+    ],
+    "summary": "Ces signaux inquiétants qui font craindre à Bercy un rebond de la fraude au CPF"
+  },
+  {
     "title": "Cyberattaque dans l’Éducation nationale : « Ça risque d’être un peu la pagaille », confie un proviseur à propos de la rentrée scolaire",
     "score": 93,
     "count": 3,
@@ -444,34 +446,6 @@
     "summary": "Cyberattaque dans l’Éducation nationale : « Ça risque d’être un peu la pagaille », confie un proviseur à propos de la rentrée scolaire / Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\""
   },
   {
-    "title": "Landes : la Ville de Tarnos victime d’une cyberattaque avec demande de rançon",
-    "score": 93,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "Landes : la Ville de Tarnos victime d’une cyberattaque avec demande de rançon",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-08-29T17:26:20.000Z",
-        "link": "https://www.sudouest.fr/landes/tarnos/landes-la-ville-de-tarnos-victime-d-une-cyberattaque-avec-demande-de-rancon-30413165.php",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Landes : la Ville de Tarnos victime d’une cyberattaque avec demande de rançon..."
-      },
-      {
-        "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
-        "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:54.755Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
-      }
-    ],
-    "summary": "Landes : la Ville de Tarnos victime d’une cyberattaque avec demande de rançon / [CYBER] Intermarche victime d'une fuite de données après une cyberattaque"
-  },
-  {
     "title": "58% des entreprises ont déjà choisi leur plateforme (qui ne sera finalement pas gratuite): la facturation électronique débute le 1er septembre, malgré l'embarrassant piratage du fisc",
     "score": 93,
     "count": 1,
@@ -501,7 +475,7 @@
       {
         "title": "Cyberattaques : un site du ministère du Logement toujours inaccessible après une revendication de piratage massif",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/cyberattaques-un-site-du-ministere-du-logement-toujours-inaccessible-apres-une-revendication-de-piratage-massif-30-08-2026-SXPYPUWL6ZFDZK4DP4RGJT2IVQ.php",
         "score": 93,
         "summary": "un site du ministère du Logement toujours inaccessible après une revendication de piratage massif"
@@ -546,52 +520,6 @@
       }
     ],
     "summary": "Éducation. Logiciels suspendus, conditions dégradées : la rentrée des enseignants perturbée par une cyberattaque"
-  },
-  {
-    "title": "« On ne laissera rien passer » : un véhicule de police municipale détruit par un incendie criminel dans le Val-d’Oise",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« On ne laissera rien passer » : un véhicule de police municipale détruit par un incendie criminel dans le Val-d’Oise",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-29T10:42:44.459Z",
-        "link": "https://www.leparisien.fr/val-d-oise-95/on-ne-laissera-rien-passer-un-vehicule-de-police-municipale-detruit-par-un-incendie-criminel-dans-le-val-doise-26-08-2026-BAYB45K3BJDM7AFIB3HCMAMQ5E.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « On ne laissera rien passer » : un véhicule de police municipale détruit par un..."
-      }
-    ],
-    "summary": "« On ne laissera rien passer » : un véhicule de police municipale détruit par un incendie criminel dans le Val-d’Oise"
-  },
-  {
-    "title": "« Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi en Espagne",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi en Espagne",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-29T10:42:44.459Z",
-        "link": "https://www.leparisien.fr/faits-divers/rien-nest-encore-exclu-un-couple-irlandais-retrouve-mort-dans-un-jacuzzi-en-espagne-26-08-2026-U3YGXYRQKJFMFG2TS4OJFX624I.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi ..."
-      },
-      {
-        "title": "Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne victime d’un accident de jacuzzi",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
-        "link": "https://www.leparisien.fr/faits-divers/pompe-a-eau-et-electrocution-le-couple-de-touristes-retrouve-mort-en-espagne-victime-dun-accident-de-jacuzzi-31-08-2026-VGJHTVAL4ND4XAOY5V3NCY7ZXU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne v..."
-      }
-    ],
-    "summary": "« Rien n’est encore exclu » : un couple irlandais retrouvé mort dans un jacuzzi en Espagne / Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne victime d’un accident de jacuzzi"
   },
   {
     "title": "Viols, revenge porn, harcèlement… Le calvaire des femmes victimes de l’ancien livreur accro au porno",
@@ -688,7 +616,7 @@
       {
         "title": "« Il s’est foutu dans une merde pas possible » : retrouvés morts en Belgique, Bryan et Tyméo ont-ils été tués par la mafia albanaise ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.626Z",
         "link": "https://www.leparisien.fr/faits-divers/il-sest-foutu-dans-une-merde-pas-possible-retrouves-morts-en-belgique-bryan-et-tymeo-ont-ils-ete-tues-par-la-mafia-albanaise-31-08-2026-UVMOFGXWE5GTHHNSBNU6224YAM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il s’est foutu dans une merde pas possible » : retrouvés morts en Belgique, Br..."
@@ -735,23 +663,39 @@
     "summary": "Après la tentative d’agression sexuelle de son beau-père, une Italienne parvient à alerter la police à travers la fenêtre d’une voiture"
   },
   {
-    "title": "Disneyland Paris reconnu coupable d’homicide involontaire dix ans après la mort d’un technicien dans la Maison hantée",
+    "title": "Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en examen pour meurtre",
     "score": 90,
-    "count": 1,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Disneyland Paris reconnu coupable d’homicide involontaire dix ans après la mort d’un technicien dans la Maison hantée",
+        "title": "Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en examen pour meurtre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-29T16:06:32.315Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/disneyland-paris-reconnu-coupable-dhomicide-involontaire-dix-ans-apres-la-mort-dun-technicien-dans-la-maison-hantee-26-08-2026-5KK56TCEYJDM3E4U36JE4FXR4M.php",
+        "time": "2026-08-31T10:25:06.826Z",
+        "link": "https://www.leparisien.fr/faits-divers/septuagenaire-retrouvee-morte-dans-le-nord-le-suspect-age-de-68-ans-mis-en-examen-pour-meurtre-27-08-2026-7VFD6JS7LZDS7EATOTUWA5DTXY.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : Disneyland Paris reconnu coupable d’homicide involontaire dix ans après la mort ..."
+        "summary": "Point de situation critique concernant : Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en exa..."
+      },
+      {
+        "title": "Aisne : un homme mis en examen pour meurtre à l’arme blanche",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.627Z",
+        "link": "https://www.leparisien.fr/faits-divers/aisne-un-homme-mis-en-examen-pour-meurtre-a-larme-blanche-29-08-2026-WY6VT53YNNCBRKBWDVNLEAS2ZM.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Aisne : un homme mis en examen pour meurtre à l’arme blanche..."
+      },
+      {
+        "title": "Un homme mis en examen pour tentative de meurtre après avoir tiré sur un cambrioleur dans l’Oise",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.627Z",
+        "link": "https://www.leparisien.fr/oise-60/un-homme-mis-en-examen-pour-tentative-de-meurtre-apres-avoir-tire-sur-un-cambrioleur-dans-loise-30-08-2026-VX7PNIT6QFFJRNNOS6DUCX74HE.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Un homme mis en examen pour tentative de meurtre après avoir tiré sur un cambrio..."
       }
     ],
-    "summary": "Disneyland Paris reconnu coupable d’homicide involontaire dix ans après la mort d’un technicien dans la Maison hantée"
+    "summary": "Septuagénaire retrouvée morte dans le Nord : le suspect âgé de 68 ans mis en examen pour meurtre / Aisne : un homme mis en examen pour meurtre à l’arme blanche"
   },
   {
     "title": "Fusillade près de Lyon : un homme tué par balle, un autre grièvement blessé",
@@ -764,7 +708,7 @@
       {
         "title": "Fusillade près de Lyon : un homme tué par balle, un autre grièvement blessé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/rhone-69/fusillade-pres-de-lyon-un-homme-tue-par-balle-un-autre-grievement-blesse-28-08-2026-KA3JU6BHL5AGTEPH26ZMOYILK4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Fusillade près de Lyon : un homme tué par balle, un autre grièvement blessé..."
@@ -783,7 +727,7 @@
       {
         "title": "L’ancien prêtre Jacques Delfosse de nouveau visé par la justice pour viols pendant des camps de vacances",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/lancien-pretre-jacques-delfosse-de-nouveau-vise-par-la-justice-pour-viols-pendant-des-camps-de-vacances-28-08-2026-KZSIQ33YJFGIRKJXPIXTIURR2Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’ancien prêtre Jacques Delfosse de nouveau visé par la justice pour viols penda..."
@@ -802,7 +746,7 @@
       {
         "title": "Enlevée et séquestrée pour être prostituée : le calvaire d’une jeune femme de 19 ans entre Montreuil et Aubervilliers",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/enlevee-et-sequestree-pour-etre-prostituee-le-calvaire-dune-jeune-femme-de-19-ans-entre-montreuil-et-aubervilliers-29-08-2026-GTVT4NACKJF45BBVER3CJZ45HI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Enlevée et séquestrée pour être prostituée : le calvaire d’une jeune femme de 19..."
@@ -810,40 +754,13 @@
       {
         "title": "Agression sexuelle d’une femme de 83 ans à Paris : libéré pour vice de procédure lundi, le suspect à nouveau incarcéré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/agression-sexuelle-dune-femme-de-83-ans-a-paris-libere-pour-vice-de-procedure-lundi-le-suspect-a-nouveau-incarcere-28-08-2026-667GP6KCXNFF5NEHUAJIH6OUVQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Agression sexuelle d’une femme de 83 ans à Paris : libéré pour vice de procédure..."
       }
     ],
     "summary": "Enlevée et séquestrée pour être prostituée : le calvaire d’une jeune femme de 19 ans entre Montreuil et Aubervilliers / Agression sexuelle d’une femme de 83 ans à Paris : libéré pour vice de procédure lundi, le suspect à nouveau incarcéré"
-  },
-  {
-    "title": "Aisne : un homme mis en examen pour meurtre à l’arme blanche",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Aisne : un homme mis en examen pour meurtre à l’arme blanche",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
-        "link": "https://www.leparisien.fr/faits-divers/aisne-un-homme-mis-en-examen-pour-meurtre-a-larme-blanche-29-08-2026-WY6VT53YNNCBRKBWDVNLEAS2ZM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Aisne : un homme mis en examen pour meurtre à l’arme blanche..."
-      },
-      {
-        "title": "Un homme mis en examen pour tentative de meurtre après avoir tiré sur un cambrioleur dans l’Oise",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
-        "link": "https://www.leparisien.fr/oise-60/un-homme-mis-en-examen-pour-tentative-de-meurtre-apres-avoir-tire-sur-un-cambrioleur-dans-loise-30-08-2026-VX7PNIT6QFFJRNNOS6DUCX74HE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Un homme mis en examen pour tentative de meurtre après avoir tiré sur un cambrio..."
-      }
-    ],
-    "summary": "Aisne : un homme mis en examen pour meurtre à l’arme blanche / Un homme mis en examen pour tentative de meurtre après avoir tiré sur un cambrioleur dans l’Oise"
   },
   {
     "title": "Paris : le cycliste agressé au couteau par un automobiliste devra aussi répondre des violences commises, l’audience renvoyée à novembre",
@@ -856,7 +773,7 @@
       {
         "title": "Paris : le cycliste agressé au couteau par un automobiliste devra aussi répondre des violences commises, l’audience renvoyée à novembre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/paris-75/paris-le-cycliste-agresse-au-couteau-par-un-automobiliste-devra-aussi-repondre-des-violences-commises-laudience-renvoyee-a-novembre-28-08-2026-US7DN4EQE5ACFC6WAQ4FYN5L7Y.php",
         "score": 90,
         "summary": "le cycliste agressé au couteau par un automobiliste devra aussi répondre des violences commises, l’audience renvoyée à novembre"
@@ -875,7 +792,7 @@
       {
         "title": "Enquête ouverte, commanditaire… Ce que l’on sait de l’enlèvement d’un caporal légionnaire de l’armée française en Colombie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/enquete-ouverte-commanditaire-ce-que-lon-sait-de-lenlevement-dun-caporal-legionnaire-de-larmee-francaise-en-colombie-28-08-2026-RYRCCT4JZBAZFG4KY5KJMA7MAQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Enquête ouverte, commanditaire… Ce que l’on sait de l’enlèvement d’un caporal lé..."
@@ -883,7 +800,7 @@
       {
         "title": "« Il est en parfaite santé » : le groupe dissident des Farc revendique l’enlèvement du soldat de la Légion étrangère française en Colombie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.626Z",
         "link": "https://www.leparisien.fr/international/le-principal-groupe-dissident-des-farc-revendique-lenlevement-dun-soldat-de-la-legion-etrangere-francaise-en-colombie-31-08-2026-4GBVXZQRCJASHFQQV66UUBC2HI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il est en parfaite santé » : le groupe dissident des Farc revendique l’enlèvem..."
@@ -922,7 +839,7 @@
       {
         "title": "Suisse : une jeune Italienne tuée, cinq blessés, suspects toujours en fuite… Ce que l’on sait de la fusillade en marge d’une rave-party",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/suisse-plusieurs-coups-de-feu-tires-suspects-en-fuite-ce-que-lon-sait-de-la-fusillade-en-marge-dune-rave-party-30-08-2026-64BBK5UFW5HPJNW7C2XLQDJBSU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Suisse : une jeune Italienne tuée, cinq blessés, suspects toujours en fuite… Ce ..."
@@ -938,7 +855,7 @@
       {
         "title": "Marseille : au moins un mort et quatre blessés dans une fusillade, le tireur en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/marseille-au-moins-un-mort-et-quatre-blesses-dans-une-fusillade-le-tireur-en-fuite-30-08-2026-B7VEGRUPSRHI7B24BFSXDBGFPE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Marseille : au moins un mort et quatre blessés dans une fusillade, le tireur en ..."
@@ -946,7 +863,7 @@
       {
         "title": "Suisse : qui est Maria Spinelli, la jeune Italienne tuée lors d’une fusillade en marge d’une rave-party ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.626Z",
         "link": "https://www.leparisien.fr/faits-divers/suisse-qui-est-maria-spinelli-la-jeune-italienne-tuee-lors-dune-fusillade-en-marge-dune-rave-party-31-08-2026-B6YDJEWUENDYXNFNI5YIK23B3E.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Suisse : qui est Maria Spinelli, la jeune Italienne tuée lors d’une fusillade en..."
@@ -984,7 +901,7 @@
       {
         "title": "Val-de-Marne : un motard de 27 ans tué sur la N 6 à Villeneuve-Saint-Georges",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/val-de-marne-94/val-de-marne-un-motard-de-27-ans-tue-sur-la-n-6-a-villeneuve-saint-georges-30-08-2026-FKV44WMCUBG7VMV323TEJAFVQE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Val-de-Marne : un motard de 27 ans tué sur la N 6 à Villeneuve-Saint-Georges..."
@@ -1003,7 +920,7 @@
       {
         "title": "Essonne : un homme de 39 ans meurt après une agression au couteau",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/essonne-un-homme-de-39-ans-meurt-apres-une-agression-au-couteau-30-08-2026-URHTZ2FV7NE25HISL5EGQQ7BW4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Essonne : un homme de 39 ans meurt après une agression au couteau..."
@@ -1022,7 +939,7 @@
       {
         "title": "Livry-Gargan : après avoir refusé de payer une prostituée, il est enlevé et torturé pour travailler sur un point de deal",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/livry-gargan-apres-avoir-refuse-de-payer-une-prostituee-il-est-enleve-et-torture-pour-travailler-sur-un-point-de-deal-30-08-2026-4BBVPGQHJZHXFC5GVLJA6SRZ7Y.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Livry-Gargan : après avoir refusé de payer une prostituée, il est enlevé et tort..."
@@ -1041,7 +958,7 @@
       {
         "title": "« Ras-le-bol des violences des gangs » : à Bruxelles des familles manifestent contre les fusillades",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.626Z",
         "link": "https://www.leparisien.fr/international/ras-le-bol-des-violences-des-gangs-a-bruxelles-des-familles-manifestent-contre-les-fusillades-30-08-2026-EOHUW7UNJZHK3FHOXNS6JISTSI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Ras-le-bol des violences des gangs » : à Bruxelles des familles manifestent co..."
@@ -1060,7 +977,7 @@
       {
         "title": "Fusillade à Marseille : l’ombre du trafic de drogue plane sur le bar à chicha ciblé par les tueurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.627Z",
         "link": "https://www.leparisien.fr/faits-divers/fusillade-a-marseille-lombre-du-trafic-de-drogue-plane-sur-le-bar-a-chicha-cible-par-les-tueurs-30-08-2026-QLGTEKGURVBD7HONER6PE4IEOI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Fusillade à Marseille : l’ombre du trafic de drogue plane sur le bar à chicha ci..."
@@ -1069,26 +986,34 @@
     "summary": "Fusillade à Marseille : l’ombre du trafic de drogue plane sur le bar à chicha ciblé par les tueurs"
   },
   {
-    "title": "Une dispute pour des enchiladas trop pimentées dégénère : un homme suspecté d’avoir tué son cousin au Nouveau-Mexique",
+    "title": "Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne victime d’un accident de jacuzzi",
     "score": 90,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "Une dispute pour des enchiladas trop pimentées dégénère : un homme suspecté d’avoir tué son cousin au Nouveau-Mexique",
+        "title": "Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne victime d’un accident de jacuzzi",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
-        "link": "https://www.leparisien.fr/faits-divers/une-dispute-pour-des-enchiladas-trop-pimentees-degenere-un-homme-suspecte-davoir-tue-son-cousin-au-nouveau-mexique-31-08-2026-N4VUPB35QNFUXIIHGANPOVJ3XI.php",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/pompe-a-eau-et-electrocution-le-couple-de-touristes-retrouve-mort-en-espagne-victime-dun-accident-de-jacuzzi-31-08-2026-VGJHTVAL4ND4XAOY5V3NCY7ZXU.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : Une dispute pour des enchiladas trop pimentées dégénère : un homme suspecté d’av..."
+        "summary": "Point de situation critique concernant : Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne v..."
+      },
+      {
+        "title": "Espagne : un couple de touristes retrouvé morts dans un jacuzzi, la piste accidentelle privilégiée",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/espagne-un-couple-de-touristes-retrouve-morts-dans-un-jacuzzi-la-piste-accidentelle-privilegiee-31-08-2026-RJC5TBETWNAULEB2JTYBSKSY6I.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Espagne : un couple de touristes retrouvé morts dans un jacuzzi, la piste accide..."
       }
     ],
-    "summary": "Une dispute pour des enchiladas trop pimentées dégénère : un homme suspecté d’avoir tué son cousin au Nouveau-Mexique"
+    "summary": "Pompe à eau et électrocution : le couple de touristes retrouvé mort en Espagne victime d’un accident de jacuzzi / Espagne : un couple de touristes retrouvé morts dans un jacuzzi, la piste accidentelle privilégiée"
   },
   {
-    "title": "Périscolaire à Paris : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants",
+    "title": "Paris  : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants dans le scolaire et le périscolaire",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1096,15 +1021,129 @@
     ],
     "items": [
       {
-        "title": "Périscolaire à Paris : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants",
+        "title": "Paris  : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants dans le scolaire et le périscolaire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-08-31T10:25:06.825Z",
+        "time": "2026-08-31T18:39:57.626Z",
         "link": "https://www.leparisien.fr/paris-75/periscolaire-a-paris-plus-de-200-enquetes-penales-ouvertes-pour-des-violences-envers-des-enfants-31-08-2026-L2ITX4JLMRDWPHOEAOL4B7L5OE.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : Périscolaire à Paris : plus de 200 enquêtes pénales ouvertes pour des violences ..."
+        "summary": "Point de situation critique concernant : Paris  : plus de 200 enquêtes pénales ouvertes pour des violences envers des enf..."
       }
     ],
-    "summary": "Périscolaire à Paris : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants"
+    "summary": "Paris  : plus de 200 enquêtes pénales ouvertes pour des violences envers des enfants dans le scolaire et le périscolaire"
+  },
+  {
+    "title": "La vérité sur la mort de Tupac enfin dévoilée ? Les plaidoiries finales du procès du commanditaire présumé du meurtre ont débuté",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "La vérité sur la mort de Tupac enfin dévoilée ? Les plaidoiries finales du procès du commanditaire présumé du meurtre ont débuté",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/la-verite-sur-la-mort-de-tupac-enfin-devoilee-les-plaidoiries-finales-du-proces-du-commanditaire-presume-du-meurtre-ont-debute-31-08-2026-PJDM6GYCWZAZBNXWPP4QEQGXL4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : La vérité sur la mort de Tupac enfin dévoilée ? Les plaidoiries finales du procè..."
+      }
+    ],
+    "summary": "La vérité sur la mort de Tupac enfin dévoilée ? Les plaidoiries finales du procès du commanditaire présumé du meurtre ont débuté"
+  },
+  {
+    "title": "États-Unis : les avocats du chanteur américain D4vd, qui sera jugé pour avoir tué et démembré une adolescente, se retirent",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "États-Unis : les avocats du chanteur américain D4vd, qui sera jugé pour avoir tué et démembré une adolescente, se retirent",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/etats-unis-les-avocats-du-chanteur-americain-d4vd-qui-sera-juge-pour-avoir-tue-et-demembre-une-adolescente-se-retirent-31-08-2026-R6IOCKPYTFHWJLLB3Y5MXJRJRQ.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : États-Unis : les avocats du chanteur américain D4vd, qui sera jugé pour avoir tu..."
+      }
+    ],
+    "summary": "États-Unis : les avocats du chanteur américain D4vd, qui sera jugé pour avoir tué et démembré une adolescente, se retirent"
+  },
+  {
+    "title": "Après une série de fusillades, ce maire lance une campagne choc pour faire culpabiliser les consommateurs de drogue",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Après une série de fusillades, ce maire lance une campagne choc pour faire culpabiliser les consommateurs de drogue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/haute-savoie-74/apres-une-serie-de-fusillades-ce-maire-lance-une-campagne-choc-pour-faire-culpabiliser-les-consommateurs-de-drogue-31-08-2026-NDIS2MDO5ZDLVEAUOYYX65HCQA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Après une série de fusillades, ce maire lance une campagne choc pour faire culpa..."
+      }
+    ],
+    "summary": "Après une série de fusillades, ce maire lance une campagne choc pour faire culpabiliser les consommateurs de drogue"
+  },
+  {
+    "title": "Adolescent tué à un passage à niveau dans le Pas-de-Calais : les barrières fonctionnaient « correctement » selon les premiers éléments",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Adolescent tué à un passage à niveau dans le Pas-de-Calais : les barrières fonctionnaient « correctement » selon les premiers éléments",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/adolescent-tue-a-un-passage-a-niveau-dans-le-pas-de-calais-les-barrieres-fonctionnaient-correctement-selon-les-premiers-elements-31-08-2026-SY2CS25QMNBOPAXWTO65R3T5N4.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Adolescent tué à un passage à niveau dans le Pas-de-Calais : les barrières fonct..."
+      }
+    ],
+    "summary": "Adolescent tué à un passage à niveau dans le Pas-de-Calais : les barrières fonctionnaient « correctement » selon les premiers éléments"
+  },
+  {
+    "title": "Un conflit de voisinage se termine en violence avec usage d’une bombe lacrymogène, des insultes antisémites dénoncées",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Un conflit de voisinage se termine en violence avec usage d’une bombe lacrymogène, des insultes antisémites dénoncées",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/val-d-oise-95/un-conflit-de-voisinage-se-termine-en-violence-avec-usage-dune-bombe-lacrymogene-des-insultes-antisemites-denoncees-31-08-2026-YWQKVJIFMVGINOFBJNTKJQ5CTA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Un conflit de voisinage se termine en violence avec usage d’une bombe lacrymogèn..."
+      }
+    ],
+    "summary": "Un conflit de voisinage se termine en violence avec usage d’une bombe lacrymogène, des insultes antisémites dénoncées"
+  },
+  {
+    "title": "Retrouvé seul avec un ado de 14 ans : un policier de 21 ans mis en examen pour viol et détention d’images pédopornographiques à Rouen",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Retrouvé seul avec un ado de 14 ans : un policier de 21 ans mis en examen pour viol et détention d’images pédopornographiques à Rouen",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-08-31T18:39:57.626Z",
+        "link": "https://www.leparisien.fr/faits-divers/retrouve-seul-avec-un-ado-de-14-ans-un-policier-de-21-ans-mis-en-examen-pour-viol-et-detention-dimages-pedopornographiques-a-rouen-31-08-2026-DV5SU5SHEBGLDGKZZYN3OOLKUU.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Retrouvé seul avec un ado de 14 ans : un policier de 21 ans mis en examen pour v..."
+      }
+    ],
+    "summary": "Retrouvé seul avec un ado de 14 ans : un policier de 21 ans mis en examen pour viol et détention d’images pédopornographiques à Rouen"
   },
   {
     "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
@@ -1117,7 +1156,7 @@
       {
         "title": "[CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:24:01.403Z",
+        "time": "2026-08-31T18:38:55.230Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-s-appuie-sur-l-ia-pour-corriger-1-072-failles-dans-chrome-100731.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google s'appuie sur l'IA pour corriger 1 072 défaillances dans Chrome..."
@@ -1155,13 +1194,32 @@
       {
         "title": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:58.233Z",
+        "time": "2026-08-31T18:38:52.078Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-crowdstrike-alerte-sur-des-cyberattaques-plus-furtives-accelerees-par-l-ia-100734.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'I..."
       }
     ],
     "summary": "[CYBER] CrowdStrike alerte sur les cyberattaques et les vols, accueillis par l'IA"
+  },
+  {
+    "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque",
+        "source": "Le Monde Informatique",
+        "time": "2026-08-31T18:38:48.573Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-intermarche-victime-d-une-fuite-de-donnees-apres-une-cyberattaque-100735.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Intermarche victime d'une fuite de données après une cyberattaque..."
+      }
+    ],
+    "summary": "[CYBER] Intermarche victime d'une fuite de données après une cyberattaque"
   },
   {
     "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
@@ -1174,7 +1232,7 @@
       {
         "title": "[CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur les services numériques de l'Union européenne?",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:52.135Z",
+        "time": "2026-08-31T18:38:45.964Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-chatgpt-bientot-soumis-au-regime-renforce-du-digital-service-act-de-l-union-europeenne-100730.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le GPT ne sera-t-il pas soumis au régime de renforcement de la loi sur l..."
@@ -1193,7 +1251,7 @@
       {
         "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:44.094Z",
+        "time": "2026-08-31T18:38:37.925Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-rubrik-s-attaque-au-defi-de-la-securite-des-agents-ia-100738.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Rubrique de l'attaque au dernier recours des agents IA..."
@@ -1212,7 +1270,7 @@
       {
         "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:47.522Z",
+        "time": "2026-08-31T18:38:41.348Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
@@ -1231,7 +1289,7 @@
       {
         "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:41.841Z",
+        "time": "2026-08-31T18:38:35.641Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-devoile-le-deroule-complet-du-piratage-de-hugging-face-100740.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ouvrir le rôle complet du piratage de la face enveloppée..."
@@ -1250,7 +1308,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:39.488Z",
+        "time": "2026-08-31T18:38:33.299Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1269,32 +1327,13 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:36.552Z",
+        "time": "2026-08-31T18:38:30.314Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
       }
     ],
     "summary": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes"
-  },
-  {
-    "title": "[CYBER] Un outil pirate à 500 € pour industrialiser la fraude",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Un outil pirate à 500 € pour industrialiser la fraude",
-        "source": "Zataz",
-        "time": "2026-08-29T10:52:45.000Z",
-        "link": "https://www.zataz.com/un-outil-pirate-a-500-e-pour-industrialiser-la-fraude/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Un outil pirate à 500 € pour industrialiser la fraude..."
-      }
-    ],
-    "summary": "[CYBER] Un outil pirate à 500 € pour industrialiser la fraude"
   },
   {
     "title": "[CYBER] Alaxione: 6,8 millions de patients revendiqués",
@@ -1421,7 +1460,7 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-08-31T10:23:33.680Z",
+        "time": "2026-08-31T18:38:27.412Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
