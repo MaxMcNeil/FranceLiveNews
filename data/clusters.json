@@ -95,88 +95,40 @@
     "summary": "Un policier belge vole 25 000 euros lors d’une perquisition : le suspect balance tout en audition"
   },
   {
-    "title": "Football - Faits divers. L'ancien milieu de l'OM Joey Barton maintenu en détention provisoire jusqu'à son procès en mars 2027",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Football - Faits divers. L'ancien milieu de l'OM Joey Barton maintenu en détention provisoire jusqu'à son procès en mars 2027",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-09T04:05:00.000Z",
-        "link": "https://www.ledauphine.com/sport/2026/09/09/l-ancien-milieu-de-l-om-joey-barton-maintenu-en-detention-provisoire-jusqu-a-son-proces-en-mars-2027",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Football - Faits divers. L'ancien milieu de l'OM Joey Barton maintenu en détenti..."
-      }
-    ],
-    "summary": "Football - Faits divers. L'ancien milieu de l'OM Joey Barton maintenu en détention provisoire jusqu'à son procès en mars 2027"
-  },
-  {
-    "title": "Grenoble : le procès de 3 personnes arrêtées lors de la perquisition d'un appartement «nourrice», dont le locataire avait été retrouvé mort le lendemain, s'ouvre ce mercredi",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
-    ],
-    "items": [
-      {
-        "title": "Grenoble : le procès de 3 personnes arrêtées lors de la perquisition d'un appartement «nourrice», dont le locataire avait été retrouvé mort le lendemain, s'ouvre ce mercredi",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-09-09T04:24:00.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-09-09/grenoble-le-proces-de-3-personnes-arretees-lors-de-la-perquisition-dun",
-        "score": 97,
-        "summary": "le procès de 3 personnes arrêtées lors de la perquisition d'un appartement «nourrice», dont le locataire avait été retrouvé mort le lendemain, s'ouvre ce mercredi"
-      }
-    ],
-    "summary": "Grenoble : le procès de 3 personnes arrêtées lors de la perquisition d'un appartement «nourrice», dont le locataire avait été retrouvé mort le lendemain, s'ouvre ce mercredi"
-  },
-  {
-    "title": "«Elles jouent avec nos vies» : un chercheur d’Anthropic démissionne, inquiet d’une IA «hors de contrôle»",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "«Elles jouent avec nos vies» : un chercheur d’Anthropic démissionne, inquiet d’une IA «hors de contrôle»",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-09T04:34:27.000Z",
-        "link": "https://www.lefigaro.fr/secteur/high-tech/ils-jouent-avec-nos-vies-un-chercheur-d-anthropic-demissionne-inquiet-d-une-ia-hors-de-controle-20260909",
-        "score": 97,
-        "summary": "un chercheur d’Anthropic démissionne, inquiet d’une IA «hors de contrôle»"
-      },
-      {
-        "title": "« Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-09T17:33:25.000Z",
-        "link": "https://www.lefigaro.fr/secteur/high-tech/ils-jouent-avec-nos-vies-la-demission-fracassante-du-chercheur-d-anthropic-relance-les-debats-sur-la-regulation-du-secteur-20260909",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic..."
-      }
-    ],
-    "summary": "«Elles jouent avec nos vies» : un chercheur d’Anthropic démissionne, inquiet d’une IA «hors de contrôle» / « Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur"
-  },
-  {
     "title": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer",
     "score": 97,
-    "count": 1,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.537Z",
+        "time": "2026-09-11T08:34:30.029Z",
         "link": "https://www.leparisien.fr/faits-divers/lavocat-emmanuel-pierrat-condamne-pour-harcelement-moral-mais-autorise-a-exercer-09-09-2026-TT6FPIM6OFFP7AE54MX2ID5LL4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exerce..."
+      },
+      {
+        "title": "L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-11T08:34:30.028Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/lancien-directeur-de-liut-de-senart-condamne-pour-harcelement-sexuel-et-definitivement-interdit-denseigner-11-09-2026-YNSIZJAZKNCITGO2TC2XF6P5CE.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et défini..."
+      },
+      {
+        "title": "Seine-et-Marne. L'ancien directeur d'un IUT condamné pour harcèlement sexuel sur quatre victimes",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-11T07:59:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/11/l-ancien-directeur-d-un-iut-condamne-pour-harcelement-sexuel-sur-quatre-victimes",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Seine-et-Marne. L'ancien directeur d'un IUT condamné pour harcèlement sexuel sur..."
       }
     ],
-    "summary": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer"
+    "summary": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer / L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner"
   },
   {
     "title": "L'ex-PDG de Renault, Carlos Ghosn, demande le report de son procès pour corruption avec Rachida Dati",
@@ -200,7 +152,7 @@
   {
     "title": "Fillette retrouvée morte à Sedan : Jean-Baptiste M. condamné à 30 ans de prison pour le viol et le meurtre de Loana, 10 ans",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
@@ -235,10 +187,18 @@
       {
         "title": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.028Z",
         "link": "https://www.leparisien.fr/faits-divers/khalid-dati-neveu-de-lex-ministre-condamne-a-trois-ans-de-prison-pour-detention-darmes-10-09-2026-AAGG57ILV5ENBHLINCRBYZB42Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détenti..."
+      },
+      {
+        "title": "« Save the date » : un influenceur franco-iranien condamné à de la prison avec sursis pour apologie du terrorisme après le 7 Octobre",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-11T08:34:30.028Z",
+        "link": "https://www.leparisien.fr/faits-divers/save-the-date-un-influenceur-franco-iranien-condamne-a-de-la-prison-avec-sursis-pour-apologie-du-terrorisme-apres-le-7-octobre-11-09-2026-4HEQCUJ4QNBBHKQTHFVLQLDVOI.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Save the date » : un influenceur franco-iranien condamné à de la prison avec s..."
       }
     ],
     "summary": "Fillette retrouvée morte à Sedan : Jean-Baptiste M. condamné à 30 ans de prison pour le viol et le meurtre de Loana, 10 ans / Ardennes. Viols et meurtre de Loana, 10 ans, en 2023 : l'accusé condamné à 30 ans de réclusion criminelle"
@@ -375,6 +335,25 @@
     "summary": "Justice. Intrusion sur le site de la centrale nucléaire du Tricastin : Greenpeace condamnée à payer 50 000 euros à EDF"
   },
   {
+    "title": "« Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "« Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-09T17:33:25.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/ils-jouent-avec-nos-vies-la-demission-fracassante-du-chercheur-d-anthropic-relance-les-debats-sur-la-regulation-du-secteur-20260909",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic..."
+      }
+    ],
+    "summary": "« Ils jouent avec nos vies » : la démission fracassante du chercheur d’Anthropic relance les débats sur la régulation du secteur"
+  },
+  {
     "title": "Cédric Jubillar, condamné à trente ans de réclusion, sera jugé en appel du 30 avril au 14 mai à Toulouse",
     "score": 97,
     "count": 1,
@@ -453,10 +432,10 @@
   {
     "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
     "score": 97,
-    "count": 15,
+    "count": 16,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.cnews.fr/rss/categorie/faits%20divers",
@@ -470,14 +449,14 @@
       {
         "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.029Z",
         "link": "https://www.leparisien.fr/faits-divers/chantage-a-la-sextape-lex-maire-de-saint-etienne-gael-perdriau-condamne-a-quatre-ans-de-prison-ferme-en-appel-10-09-2026-2XQ3JHMGRJCOBLS2Q2XR3DB35Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à qua..."
       },
       {
         "title": "Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-09-10T08:32:39.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/10/affaire-de-la-sextape-a-saint-etienne-l-ancien-maire-gael-perdriau-condamne-a-cinq-ans-de-prison-et-dix-ans-d-ineligibilite_6769624_3224.html",
         "score": 97,
@@ -542,7 +521,7 @@
       {
         "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.028Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/enseignante-menacee-de-decapitation-en-haute-garonne-le-pere-de-famille-condamne-a-6-mois-de-prison-ferme-10-09-2026-P3VYXQQKPFABFA55DFZOTBZLJU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation en Haute-Garonne : le père de famille condam..."
@@ -558,7 +537,7 @@
       {
         "title": "Enseignante menacée de décapitation près de Toulouse : le père de famille condamné à six mois de prison ferme et incarcéré",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-10T19:31:53.000Z",
+        "time": "2026-09-11T05:35:34.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/enseignante-menacee-de-decapitation-pres-de-toulouse-le-pere-de-famille-condamne-a-six-mois-de-prison-ferme-et-incarcere_8187194.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation près de Toulouse : le père de famille condam..."
@@ -586,6 +565,14 @@
         "link": "https://www.lefigaro.fr/actualite-france/enseignante-menacee-de-decapitation-en-haute-garonne-les-faits-rapportes-sont-d-une-extreme-gravite-condamne-le-ministre-de-l-education-nationale-20260910",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation : le père de famille condamné à 6 mois de pr..."
+      },
+      {
+        "title": "Saint-Étienne : l'ancien maire Gaël Perdriau condamné à quatre ans de prison ferme",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-09-11T07:01:15.000Z",
+        "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/saint-etienne-l-ancien-maire-gael-perdriau-condamne-a-quatre-ans-de-prison-ferme_8187830.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "l'ancien maire Gaël Perdriau condamné à quatre ans de prison ferme"
       }
     ],
     "summary": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel / Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »"
@@ -597,13 +584,13 @@
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/justice/rss_full.xml"
     ],
     "items": [
       {
         "title": "Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermeture, un homme « vêtu de blanc » aperçu quelques minutes avant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.029Z",
         "link": "https://www.leparisien.fr/bouches-du-rhone-13/marseille-un-incendie-en-cours-au-marche-du-soleil-deja-condamne-a-la-fermeture-10-09-2026-KGB6GSJJSRDZFM72DZFZNQGUOA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermetur..."
@@ -618,7 +605,7 @@
       },
       {
         "title": "A Marseille, le marché du Soleil, haut lieu de la contrefaçon condamné à la fermeture, ravagé par un incendie",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-09-10T09:16:08.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/10/a-marseille-le-marche-du-soleil-haut-lieu-de-la-contrefacon-condamne-a-la-fermeture-ravage-par-un-incendie_6769723_3224.html",
         "score": 97,
@@ -684,7 +671,7 @@
       {
         "title": "Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.028Z",
         "link": "https://www.leparisien.fr/essonne-91/essonne-un-homme-grievement-blesse-lors-dune-possible-rixe-dix-individus-en-garde-a-vue-10-09-2026-3RMX6PTI6BFVFEAKN526JNYFN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en ..."
@@ -703,7 +690,7 @@
       {
         "title": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.028Z",
         "link": "https://www.leparisien.fr/faits-divers/soupconne-dagression-sexuelle-sur-un-ado-a-pierrefitte-un-imam-place-en-detention-provisoire-10-09-2026-NAF2ENCNHRBJDELXI3G3FNBNQM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détent..."
@@ -723,7 +710,7 @@
       {
         "title": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
+        "time": "2026-09-11T08:34:30.029Z",
         "link": "https://www.leparisien.fr/faits-divers/seine-saint-denis-un-conducteur-de-la-ratp-condamne-pour-avoir-finance-le-djihad-de-sa-mere-en-syrie-10-09-2026-BSXKLGMRUNDQRB74VWIYM232DI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djih..."
@@ -965,6 +952,82 @@
     "summary": "JO d’hiver 2030 : « Les conditions ne sont plus réunies »… Edgar Grospiron démissionne à la tête du comité d’organisation"
   },
   {
+    "title": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.franceinfo.fr/faits-divers.rss"
+    ],
+    "items": [
+      {
+        "title": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-11T04:54:43.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/a-suivre-loic-de-la-mornais-un-pere-condamne-apres-avoir-menace-de-mort-une-enseignante_8187725.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "un père condamné après avoir menacé de mort une enseignante"
+      }
+    ],
+    "summary": "A suivre Loïc de la Mornais : un père condamné après avoir menacé de mort une enseignante"
+  },
+  {
+    "title": "IA : après la démission de Jacob Coxon et plusieurs incidents de sécurité, le débat sur l’« IApocalypse » prend une ampleur inédite",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/economie/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "IA : après la démission de Jacob Coxon et plusieurs incidents de sécurité, le débat sur l’« IApocalypse » prend une ampleur inédite",
+        "source": "https://www.lemonde.fr/economie/rss_full.xml",
+        "time": "2026-09-11T08:00:02.000Z",
+        "link": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : IA : après la démission de Jacob Coxon et plusieurs incidents de sécurité, le dé..."
+      }
+    ],
+    "summary": "IA : après la démission de Jacob Coxon et plusieurs incidents de sécurité, le débat sur l’« IApocalypse » prend une ampleur inédite"
+  },
+  {
+    "title": "Note conjoncture INSEE : la France condamnée ? ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.bfmtv.com/rss/economie/"
+    ],
+    "items": [
+      {
+        "title": "Note conjoncture INSEE : la France condamnée ? ",
+        "source": "https://www.bfmtv.com/rss/economie/",
+        "time": "2026-09-11T07:55:44.000Z",
+        "link": "https://www.bfmtv.com/economie/video-note-conjoncture-insee-la-france-condamnee_VN-202609110339.html",
+        "score": 97,
+        "summary": "la France condamnée ?"
+      }
+    ],
+    "summary": "Note conjoncture INSEE : la France condamnée ? "
+  },
+  {
+    "title": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.20minutes.fr/feeds/rss-une.xml"
+    ],
+    "items": [
+      {
+        "title": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-11T04:46:55.000Z",
+        "link": "https://www.20minutes.fr/sport/football/ligue_des_champions/4244397-20260911-fenerbahce-roma-vise-jet-bouteille-coach-turc-ismail-kartal-demissionne-president-oppose?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal..."
+      }
+    ],
+    "summary": "Fenerbahçe - AS Roma : Visé par un jet de bouteille, le coach turc Ismail Kartal démissionne, son président s’y oppose"
+  },
+  {
     "title": "Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cnil annonce un contrôle",
     "score": 93,
     "count": 2,
@@ -991,44 +1054,6 @@
       }
     ],
     "summary": "Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cnil annonce un contrôle / Piratage du fisc : La CNIL va procéder à un contrôle de la Direction générale des finances publiques"
-  },
-  {
-    "title": "Pièges, charnier, espèces protégées tuées : les pratiques de chasse du milliardaire Olivier Bouygues au cœur d’un procès",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Pièges, charnier, espèces protégées tuées : les pratiques de chasse du milliardaire Olivier Bouygues au cœur d’un procès",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-09T02:40:30.789Z",
-        "link": "https://www.leparisien.fr/faits-divers/pieges-charnier-especes-protegees-tuees-les-pratiques-de-chasse-du-milliardaire-olivier-bouygues-au-coeur-dun-proces-06-09-2026-HE7TCRJCKFGTHBBBCWNSPR24VE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Pièges, charnier, espèces protégées tuées : les pratiques de chasse du milliarda..."
-      }
-    ],
-    "summary": "Pièges, charnier, espèces protégées tuées : les pratiques de chasse du milliardaire Olivier Bouygues au cœur d’un procès"
-  },
-  {
-    "title": "Triple homicide familial en Haute-Saône : les obsèques des enfants auront lieu mardi, la mairie prévoit une marche blanche",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Triple homicide familial en Haute-Saône : les obsèques des enfants auront lieu mardi, la mairie prévoit une marche blanche",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-09T02:40:30.789Z",
-        "link": "https://www.leparisien.fr/faits-divers/triple-homicide-familial-en-haute-saone-les-obseques-des-enfants-auront-lieu-mardi-la-mairie-prevoit-une-marche-blanche-06-09-2026-JRMEKC2VWRCNHBEJ6XSOOR6KJA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Triple homicide familial en Haute-Saône : les obsèques des enfants auront lieu m..."
-      }
-    ],
-    "summary": "Triple homicide familial en Haute-Saône : les obsèques des enfants auront lieu mardi, la mairie prévoit une marche blanche"
   },
   {
     "title": "Un jeune homme tué par balle à Grigny, une enquête pour assassinat ouverte",
@@ -1069,33 +1094,6 @@
     "summary": "Explosion à Aubervilliers : « Les gens étaient en panique », raconte le gérant du café qui a accueilli les victimes"
   },
   {
-    "title": "Fuite de gaz, enfant… Ce que l’on sait de l’explosion d’un pavillon qui a fait au moins un mort et sept blessés à Aubervilliers",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Fuite de gaz, enfant… Ce que l’on sait de l’explosion d’un pavillon qui a fait au moins un mort et sept blessés à Aubervilliers",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-09T02:40:30.789Z",
-        "link": "https://www.leparisien.fr/seine-saint-denis-93/aubervilliers-93300/fuite-de-gaz-enfant-ce-que-lon-sait-de-lexplosion-dun-pavillon-qui-a-fait-au-moins-un-mort-et-sept-blesses-a-aubervilliers-06-09-2026-B2P5GZRGNJHGJE35JVHZ3NLSIA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Fuite de gaz, enfant… Ce que l’on sait de l’explosion d’un pavillon qui a fait a..."
-      },
-      {
-        "title": "« Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’explosion d’un pavillon et la mort d’un enfant",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-09T08:35:33.403Z",
-        "link": "https://www.leparisien.fr/seine-saint-denis-93/une-scene-de-guerre-a-aubervilliers-un-quartier-sous-le-choc-apres-lexplosion-dun-pavillon-et-la-mort-dun-enfant-06-09-2026-AG44EMYYKJDALJ56CSFJVX5MBI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’expl..."
-      }
-    ],
-    "summary": "Fuite de gaz, enfant… Ce que l’on sait de l’explosion d’un pavillon qui a fait au moins un mort et sept blessés à Aubervilliers / « Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’explosion d’un pavillon et la mort d’un enfant"
-  },
-  {
     "title": "Jura : le préfet signale des tags appelant au « meurtre de policiers » lors d’une manifestation d’un collectif antifasciste",
     "score": 90,
     "count": 1,
@@ -1115,7 +1113,7 @@
     "summary": "Jura : le préfet signale des tags appelant au « meurtre de policiers » lors d’une manifestation d’un collectif antifasciste"
   },
   {
-    "title": "Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuellement sept femmes de son entourage",
+    "title": "« Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’explosion d’un pavillon et la mort d’un enfant",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1123,53 +1121,15 @@
     ],
     "items": [
       {
-        "title": "Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuellement sept femmes de son entourage",
+        "title": "« Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’explosion d’un pavillon et la mort d’un enfant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.537Z",
-        "link": "https://www.leparisien.fr/faits-divers/yvelines-un-homme-de-76-ans-mis-en-examen-pour-avoir-viole-ou-agresse-sexuellement-sept-femmes-de-son-entourage-09-09-2026-YZJVZTWCQNECBP3ETQSE7BOLZY.php",
+        "time": "2026-09-09T08:35:33.403Z",
+        "link": "https://www.leparisien.fr/seine-saint-denis-93/une-scene-de-guerre-a-aubervilliers-un-quartier-sous-le-choc-apres-lexplosion-dun-pavillon-et-la-mort-dun-enfant-06-09-2026-AG44EMYYKJDALJ56CSFJVX5MBI.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuelle..."
+        "summary": "Point de situation critique concernant : « Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’expl..."
       }
     ],
-    "summary": "Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuellement sept femmes de son entourage"
-  },
-  {
-    "title": "Suisse : deux blessés graves après une explosion dans une centrale hydroélectrique ",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Suisse : deux blessés graves après une explosion dans une centrale hydroélectrique ",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.537Z",
-        "link": "https://www.leparisien.fr/faits-divers/suisse-deux-blesses-graves-apres-une-explosion-dans-une-centrale-hydroelectrique-09-09-2026-TSYPRB2RAFCW7BOGWQL7DQON5Y.php",
-        "score": 90,
-        "summary": "deux blessés graves après une explosion dans une centrale hydroélectrique"
-      }
-    ],
-    "summary": "Suisse : deux blessés graves après une explosion dans une centrale hydroélectrique "
-  },
-  {
-    "title": "« C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de couteau, dressent le portrait d’une « très belle personne »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "« C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de couteau, dressent le portrait d’une « très belle personne »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T02:33:27.536Z",
-        "link": "https://www.leparisien.fr/val-d-oise-95/cetait-notre-rayon-de-soleil-les-proches-de-nisrine-tuee-a-coups-de-couteau-dresse-le-portrait-dune-tres-belle-personne-09-09-2026-SXXKDSBGD5DOBKAUOTXOGOXXDU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de cout..."
-      }
-    ],
-    "summary": "« C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de couteau, dressent le portrait d’une « très belle personne »"
+    "summary": "« Une scène de guerre » : à Aubervilliers, un quartier sous le choc après l’explosion d’un pavillon et la mort d’un enfant"
   },
   {
     "title": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA",
@@ -1189,33 +1149,6 @@
       }
     ],
     "summary": "[CYBER] Rubrique de l'attaque au dernier recours des agents IA"
-  },
-  {
-    "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA.",
-        "source": "Le Monde Informatique",
-        "time": "2026-09-09T08:34:11.379Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-un-modele-ouvert-pour-controler-les-contenus-generes-par-l-ia-100737.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
-      },
-      {
-        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
-        "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:45.368Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
-      }
-    ],
-    "summary": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA. / [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre"
   },
   {
     "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
@@ -1247,7 +1180,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:57.974Z",
+        "time": "2026-09-11T08:33:36.094Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1266,7 +1199,7 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:53.933Z",
+        "time": "2026-09-11T08:33:33.628Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
@@ -1285,13 +1218,32 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:49.809Z",
+        "time": "2026-09-11T08:33:31.101Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
       }
     ],
     "summary": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense"
+  },
+  {
+    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
+        "source": "Le Monde Informatique",
+        "time": "2026-09-11T08:33:28.405Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
+      }
+    ],
+    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre"
   },
   {
     "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
@@ -1304,7 +1256,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:39.198Z",
+        "time": "2026-09-11T08:33:24.669Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1323,7 +1275,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:35.702Z",
+        "time": "2026-09-11T08:33:22.553Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1342,7 +1294,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:30.402Z",
+        "time": "2026-09-11T08:33:19.322Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1380,7 +1332,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:27.077Z",
+        "time": "2026-09-11T08:33:17.306Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1399,7 +1351,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:19.559Z",
+        "time": "2026-09-11T08:33:12.688Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1418,7 +1370,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T02:31:23.106Z",
+        "time": "2026-09-11T08:33:14.820Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
