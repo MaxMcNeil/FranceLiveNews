@@ -87,7 +87,7 @@
       {
         "title": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.753Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/faits-divers/lavocat-emmanuel-pierrat-condamne-pour-harcelement-moral-mais-autorise-a-exercer-09-09-2026-TT6FPIM6OFFP7AE54MX2ID5LL4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exerce..."
@@ -95,7 +95,7 @@
       {
         "title": "L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/lancien-directeur-de-liut-de-senart-condamne-pour-harcelement-sexuel-et-definitivement-interdit-denseigner-11-09-2026-YNSIZJAZKNCITGO2TC2XF6P5CE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et défini..."
@@ -112,22 +112,14 @@
     "summary": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer / L’ancien directeur de l’IUT de Sénart condamné pour harcèlement sexuel et définitivement interdit d’enseigner"
   },
   {
-    "title": "Cédric Jubillar, condamné à trente ans de réclusion, sera jugé en appel du 30 avril au 14 mai à Toulouse",
+    "title": "Le procès en appel de Cédric Jubillar, condamné à 30 ans de réclusion pour le meurtre de son épouse Delphine, se tiendra du 30 avril au 14 mai",
     "score": 97,
     "count": 2,
     "sources": [
-      "https://www.lemonde.fr/justice/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.franceinfo.fr/faits-divers.rss",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
-      {
-        "title": "Cédric Jubillar, condamné à trente ans de réclusion, sera jugé en appel du 30 avril au 14 mai à Toulouse",
-        "source": "https://www.lemonde.fr/justice/rss_full.xml",
-        "time": "2026-09-09T19:31:49.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/09/cedric-jubillar-condamne-a-trente-ans-de-reclusion-sera-juge-en-appel-du-30-avril-au-14-mai-a-toulouse_6768961_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Cédric Jubillar, condamné à trente ans de réclusion, sera jugé en appel du 30 av..."
-      },
       {
         "title": "Le procès en appel de Cédric Jubillar, condamné à 30 ans de réclusion pour le meurtre de son épouse Delphine, se tiendra du 30 avril au 14 mai",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
@@ -135,28 +127,17 @@
         "link": "https://www.franceinfo.fr/faits-divers/disparition-de-delphine-jubillar/le-proces-en-appel-de-cedric-jubillar-condamne-a-30-ans-de-reclusion-pour-le-meurtre-de-son-epouse-delphine-se-tiendra-du-30-avril-au-14-mai_8185304.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Le procès en appel de Cédric Jubillar, condamné à 30 ans de réclusion pour le me..."
-      }
-    ],
-    "summary": "Cédric Jubillar, condamné à trente ans de réclusion, sera jugé en appel du 30 avril au 14 mai à Toulouse / Le procès en appel de Cédric Jubillar, condamné à 30 ans de réclusion pour le meurtre de son épouse Delphine, se tiendra du 30 avril au 14 mai"
-  },
-  {
-    "title": "Royaume-Uni : un homme inculpé pour des liens présumés avec le renseignement militaire russe",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
+      },
       {
-        "title": "Royaume-Uni : un homme inculpé pour des liens présumés avec le renseignement militaire russe",
+        "title": "Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amende, un deuxième procès en appel à prévoir",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-09T19:46:04.000Z",
-        "link": "https://www.sudouest.fr/justice/terrorisme/royaume-uni-un-homme-inculpe-pour-des-liens-presumes-avec-le-renseignement-militaire-russe-30553492.php",
+        "time": "2026-09-10T14:35:37.000Z",
+        "link": "https://www.sudouest.fr/politique/urbanisme/proces-de-jonathan-attias-le-promoteur-des-habitats-legers-condamne-a-une-amende-un-deuxieme-proces-en-appel-a-prevoir-30562833.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Royaume-Uni : un homme inculpé pour des liens présumés avec le renseignement mil..."
+        "summary": "Point de situation critique concernant : Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amen..."
       }
     ],
-    "summary": "Royaume-Uni : un homme inculpé pour des liens présumés avec le renseignement militaire russe"
+    "summary": "Le procès en appel de Cédric Jubillar, condamné à 30 ans de réclusion pour le meurtre de son épouse Delphine, se tiendra du 30 avril au 14 mai / Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amende, un deuxième procès en appel à prévoir"
   },
   {
     "title": "Royaume-Uni. Échange avec les renseignements russes, projet de sabotage : un Britannique de 31 ans inculpé",
@@ -215,7 +196,7 @@
       {
         "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.753Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/faits-divers/chantage-a-la-sextape-lex-maire-de-saint-etienne-gael-perdriau-condamne-a-quatre-ans-de-prison-ferme-en-appel-10-09-2026-2XQ3JHMGRJCOBLS2Q2XR3DB35Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à qua..."
@@ -287,7 +268,7 @@
       {
         "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/enseignante-menacee-de-decapitation-en-haute-garonne-le-pere-de-famille-condamne-a-6-mois-de-prison-ferme-10-09-2026-P3VYXQQKPFABFA55DFZOTBZLJU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation en Haute-Garonne : le père de famille condam..."
@@ -364,7 +345,7 @@
       {
         "title": "Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermeture, un homme « vêtu de blanc » aperçu quelques minutes avant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.753Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/bouches-du-rhone-13/marseille-un-incendie-en-cours-au-marche-du-soleil-deja-condamne-a-la-fermeture-10-09-2026-KGB6GSJJSRDZFM72DZFZNQGUOA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermetur..."
@@ -464,7 +445,7 @@
       {
         "title": "Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/essonne-91/essonne-un-homme-grievement-blesse-lors-dune-possible-rixe-dix-individus-en-garde-a-vue-10-09-2026-3RMX6PTI6BFVFEAKN526JNYFN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en ..."
@@ -483,7 +464,7 @@
       {
         "title": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/faits-divers/soupconne-dagression-sexuelle-sur-un-ado-a-pierrefitte-un-imam-place-en-detention-provisoire-10-09-2026-NAF2ENCNHRBJDELXI3G3FNBNQM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détent..."
@@ -504,7 +485,7 @@
       {
         "title": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.756Z",
         "link": "https://www.leparisien.fr/faits-divers/seine-saint-denis-un-conducteur-de-la-ratp-condamne-pour-avoir-finance-le-djihad-de-sa-mere-en-syrie-10-09-2026-BSXKLGMRUNDQRB74VWIYM232DI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djih..."
@@ -565,7 +546,7 @@
       {
         "title": "« Save the date » : un influenceur franco-iranien condamné à de la prison avec sursis pour apologie du terrorisme après le 7 Octobre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/faits-divers/save-the-date-un-influenceur-franco-iranien-condamne-a-de-la-prison-avec-sursis-pour-apologie-du-terrorisme-apres-le-7-octobre-11-09-2026-4HEQCUJ4QNBBHKQTHFVLQLDVOI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Save the date » : un influenceur franco-iranien condamné à de la prison avec s..."
@@ -599,25 +580,6 @@
       }
     ],
     "summary": "Fraude à la viande de cheval : opération policière dans quatre pays européens dont la France"
-  },
-  {
-    "title": "Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amende, un deuxième procès en appel à prévoir",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amende, un deuxième procès en appel à prévoir",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-10T14:35:37.000Z",
-        "link": "https://www.sudouest.fr/politique/urbanisme/proces-de-jonathan-attias-le-promoteur-des-habitats-legers-condamne-a-une-amende-un-deuxieme-proces-en-appel-a-prevoir-30562833.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amen..."
-      }
-    ],
-    "summary": "Procès de Jonathan Attias : le promoteur des habitats légers condamné à une amende, un deuxième procès en appel à prévoir"
   },
   {
     "title": "Narcotrafic à Toulouse : le « boss des Izards » Mohammed Zerrouki condamné à 14 ans de prison",
@@ -726,7 +688,7 @@
       {
         "title": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/faits-divers/khalid-dati-neveu-de-lex-ministre-condamne-a-trois-ans-de-prison-pour-detention-darmes-10-09-2026-AAGG57ILV5ENBHLINCRBYZB42Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détenti..."
@@ -846,7 +808,7 @@
       {
         "title": "« Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/faits-divers/je-ne-suis-vraiment-pas-fier-de-moi-le-pere-de-famille-qui-a-menace-de-decapitation-une-enseignante-fait-profil-bas-10-09-2026-AJTNZYYBQBALJH5ZQOEQV37RFQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de déc..."
@@ -922,7 +884,7 @@
       {
         "title": "Des plaques apposées dans les églises du Loiret en mémoire des victimes de scandales sexuels",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/loiret-45/des-plaques-apposees-dans-les-eglises-du-loiret-en-memoire-des-victimes-de-scandales-sexuels-11-09-2026-7PFGU6NVBBD6FJT5FA7WTXR4SY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Des plaques apposées dans les églises du Loiret en mémoire des victimes de scand..."
@@ -979,7 +941,7 @@
       {
         "title": "« Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Nisrine à Argenteuil, le mari éploré condamné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/il-a-fait-ce-quon-peut-faire-de-pire-a-des-parents-apres-le-meurtre-de-nisrine-a-argenteuil-le-mari-eplore-condamne-11-09-2026-HJKPG227LNCD5NYH2VEIVCE6CU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Ni..."
@@ -1092,6 +1054,25 @@
     "summary": "Piratage de Hugging Face par OpenAI : pourquoi l’événement est considéré comme un tournant"
   },
   {
+    "title": "Armes biologiques, piratage, guerre nucléaire… Comment une IA devenue incontrôlable pourrait anéantir l’humanité",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+    ],
+    "items": [
+      {
+        "title": "Armes biologiques, piratage, guerre nucléaire… Comment une IA devenue incontrôlable pourrait anéantir l’humanité",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-11T17:00:00.000Z",
+        "link": "https://www.lefigaro.fr/secteur/high-tech/armes-biologiques-piratage-guerre-nucleaire-comment-une-ia-devenue-incontrolable-pourrait-aneantir-l-humanite-20260911",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Armes biologiques, piratage, guerre nucléaire… Comment une IA devenue incontrôla..."
+      }
+    ],
+    "summary": "Armes biologiques, piratage, guerre nucléaire… Comment une IA devenue incontrôlable pourrait anéantir l’humanité"
+  },
+  {
     "title": "Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis la rue de Lappe",
     "score": 90,
     "count": 1,
@@ -1102,7 +1083,7 @@
       {
         "title": "Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis la rue de Lappe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-11T18:59:44.752Z",
+        "time": "2026-09-11T19:58:52.755Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-violee-dans-son-hall-dimmeuble-a-paris-apres-avoir-ete-suivie-depuis-la-rue-de-lappe-11-09-2026-QBW6GMPO4FD5RAVBSV27NW76M4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis ..."
@@ -1159,7 +1140,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:40.782Z",
+        "time": "2026-09-11T19:57:27.798Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1178,7 +1159,7 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:37.911Z",
+        "time": "2026-09-11T19:57:23.634Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
@@ -1197,7 +1178,7 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:35.076Z",
+        "time": "2026-09-11T19:57:19.426Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
@@ -1206,7 +1187,7 @@
     "summary": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense"
   },
   {
-    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1214,15 +1195,15 @@
     ],
     "items": [
       {
-        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:31.940Z",
+        "time": "2026-09-11T19:57:14.858Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
       }
     ],
-    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie"
+    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre"
   },
   {
     "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
@@ -1235,7 +1216,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:27.719Z",
+        "time": "2026-09-11T19:57:08.669Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1254,7 +1235,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:25.223Z",
+        "time": "2026-09-11T19:57:05.085Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1273,7 +1254,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:21.589Z",
+        "time": "2026-09-11T19:56:59.636Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1292,7 +1273,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:19.216Z",
+        "time": "2026-09-11T19:56:56.253Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1311,7 +1292,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:14.014Z",
+        "time": "2026-09-11T19:56:48.630Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1330,7 +1311,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-11T18:58:16.458Z",
+        "time": "2026-09-11T19:56:52.204Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
