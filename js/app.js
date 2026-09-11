@@ -57,7 +57,7 @@ function render() {
         } else {
             card.className = "newsCard";
             card.style.borderLeftColor = item.score >= 90 ? "var(--accent-red)" : (item.score >= 70 ? "var(--accent-orange)" : "var(--text-dim)");
-            card.innerHTML = `<div class="newsTitle">${item.title}</div><div class="newsInfos"><span>${getCleanSource(item.source)}</span><span>⚡ ${item.score}</span><span>${formatTime(item.time)}</span></div>`;
+            card.innerHTML = `<div class="newsTitle">${item.title}</div><div class="newsInfos"><span>${getCleanSource(item.source)}</span><span>⚡ ${item.score}</span><span>${formatTime(item.time[...]
         }
         container.appendChild(card);
     });
@@ -123,14 +123,14 @@ function triggerCriticalAlert() {
     if (popupEl) popupEl.classList.remove("hidden");
     playBip();
 
-    // Cache le pop-up après 5 secondes
+    // Cache le pop-up après 12 secondes
     setTimeout(() => {
         if (popupEl) popupEl.classList.add("hidden");
-    }, 5000);
+    }, 12000);
 }
 
-// Planifie le déclenchement toutes les 1 minute 30 (90 000 ms)
-setInterval(triggerCriticalAlert, 90000);
+// Planifie le déclenchement toutes les 2 minutes (120 000 ms)
+setInterval(triggerCriticalAlert, 120000);
 
 load();
 setInterval(load, 60000); 
