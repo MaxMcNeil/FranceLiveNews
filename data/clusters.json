@@ -95,43 +95,6 @@
     "summary": "Un policier belge vole 25 000 euros lors d’une perquisition : le suspect balance tout en audition"
   },
   {
-    "title": "Région. Tuée par balle dans le Rhône, la victime condamnée dans l’affaire Kevin et Sofiane",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.lemonde.fr/politique/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
-    ],
-    "items": [
-      {
-        "title": "Région. Tuée par balle dans le Rhône, la victime condamnée dans l’affaire Kevin et Sofiane",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-08T22:41:47.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/09/tuee-par-balle-dans-le-rhone-la-victime-condamnee-dans-l-affaire-kevin-et-sofiane",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Région. Tuée par balle dans le Rhône, la victime condamnée dans l’affaire Kevin ..."
-      },
-      {
-        "title": "Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-09-10T08:32:39.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/09/10/affaire-de-la-sextape-a-saint-etienne-l-ancien-maire-gael-perdriau-condamne-a-cinq-ans-de-prison-et-dix-ans-d-ineligibilite_6769624_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et d..."
-      },
-      {
-        "title": "L'ex-maire de Saint-Etienne Gaël Perdriau à nouveau condamné à quatre ans de prison ferme en appel dans l'affaire du chantage à la sextape",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-10T08:30:41.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/l-ex-maire-de-saint-etienne-gael-perdriau-a-nouveau-condamne-a-quatre-ans-de-prison-ferme-en-appel-dans-l-affaire-du-chantage-a-la-sextape_8185934.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L'ex-maire de Saint-Etienne Gaël Perdriau à nouveau condamné à quatre ans de pri..."
-      }
-    ],
-    "summary": "Région. Tuée par balle dans le Rhône, la victime condamnée dans l’affaire Kevin et Sofiane / Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »"
-  },
-  {
     "title": "Football - Faits divers. L'ancien milieu de l'OM Joey Barton maintenu en détention provisoire jusqu'à son procès en mars 2027",
     "score": 97,
     "count": 1,
@@ -207,7 +170,7 @@
       {
         "title": "L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exercer",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.551Z",
+        "time": "2026-09-11T02:33:27.537Z",
         "link": "https://www.leparisien.fr/faits-divers/lavocat-emmanuel-pierrat-condamne-pour-harcelement-moral-mais-autorise-a-exercer-09-09-2026-TT6FPIM6OFFP7AE54MX2ID5LL4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’avocat Emmanuel Pierrat condamné pour harcèlement moral mais autorisé à exerce..."
@@ -272,7 +235,7 @@
       {
         "title": "Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détention d’armes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/faits-divers/khalid-dati-neveu-de-lex-ministre-condamne-a-trois-ans-de-prison-pour-detention-darmes-10-09-2026-AAGG57ILV5ENBHLINCRBYZB42Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Khalid Dati, neveu de l’ex-ministre, condamné à trois ans de prison pour détenti..."
@@ -490,26 +453,43 @@
   {
     "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
     "score": 97,
-    "count": 13,
+    "count": 15,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/politique/rss_full.xml",
+      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.cnews.fr/rss/categorie/faits%20divers",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml",
       "https://www.francetvinfo.fr/politique.rss",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/faits-divers/chantage-a-la-sextape-lex-maire-de-saint-etienne-gael-perdriau-condamne-a-quatre-ans-de-prison-ferme-en-appel-10-09-2026-2XQ3JHMGRJCOBLS2Q2XR3DB35Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à qua..."
+      },
+      {
+        "title": "Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »",
+        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "time": "2026-09-10T08:32:39.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/10/affaire-de-la-sextape-a-saint-etienne-l-ancien-maire-gael-perdriau-condamne-a-cinq-ans-de-prison-et-dix-ans-d-ineligibilite_6769624_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et d..."
+      },
+      {
+        "title": "L'ex-maire de Saint-Etienne Gaël Perdriau à nouveau condamné à quatre ans de prison ferme en appel dans l'affaire du chantage à la sextape",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-10T08:30:41.000Z",
+        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/l-ex-maire-de-saint-etienne-gael-perdriau-a-nouveau-condamne-a-quatre-ans-de-prison-ferme-en-appel-dans-l-affaire-du-chantage-a-la-sextape_8185934.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 97,
+        "summary": "Point de situation critique concernant : L'ex-maire de Saint-Etienne Gaël Perdriau à nouveau condamné à quatre ans de pri..."
       },
       {
         "title": "Affaire de la sextape à Saint-Étienne : l’ancien maire Gaël Perdriau condamné en appel à quatre ans de prison ferme",
@@ -562,7 +542,7 @@
       {
         "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/haute-garonne-31/enseignante-menacee-de-decapitation-en-haute-garonne-le-pere-de-famille-condamne-a-6-mois-de-prison-ferme-10-09-2026-P3VYXQQKPFABFA55DFZOTBZLJU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation en Haute-Garonne : le père de famille condam..."
@@ -608,7 +588,7 @@
         "summary": "Point de situation critique concernant : Enseignante menacée de décapitation : le père de famille condamné à 6 mois de pr..."
       }
     ],
-    "summary": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel / Affaire de la sextape à Saint-Étienne : l’ancien maire Gaël Perdriau condamné en appel à quatre ans de prison ferme"
+    "summary": "Chantage à la sextape : l’ex-maire de Saint-Étienne Gaël Perdriau condamné à quatre ans de prison ferme en appel / Gaël Perdriau, ancien maire de Saint-Etienne, condamné à cinq ans de prison et dix ans d’inéligibilité dans l’affaire de la « sextape »"
   },
   {
     "title": "Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermeture, un homme « vêtu de blanc » aperçu quelques minutes avant",
@@ -623,7 +603,7 @@
       {
         "title": "Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermeture, un homme « vêtu de blanc » aperçu quelques minutes avant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.551Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/bouches-du-rhone-13/marseille-un-incendie-en-cours-au-marche-du-soleil-deja-condamne-a-la-fermeture-10-09-2026-KGB6GSJJSRDZFM72DZFZNQGUOA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Marseille : un incendie en cours au marché du Soleil déjà condamné à la fermetur..."
@@ -704,7 +684,7 @@
       {
         "title": "Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/essonne-91/essonne-un-homme-grievement-blesse-lors-dune-possible-rixe-dix-individus-en-garde-a-vue-10-09-2026-3RMX6PTI6BFVFEAKN526JNYFN4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Essonne : un homme grièvement blessé lors d’une possible rixe, dix individus en ..."
@@ -723,7 +703,7 @@
       {
         "title": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/faits-divers/soupconne-dagression-sexuelle-sur-un-ado-a-pierrefitte-un-imam-place-en-detention-provisoire-10-09-2026-NAF2ENCNHRBJDELXI3G3FNBNQM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détent..."
@@ -743,7 +723,7 @@
       {
         "title": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.550Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/faits-divers/seine-saint-denis-un-conducteur-de-la-ratp-condamne-pour-avoir-finance-le-djihad-de-sa-mere-en-syrie-10-09-2026-BSXKLGMRUNDQRB74VWIYM232DI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djih..."
@@ -987,9 +967,10 @@
   {
     "title": "Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cnil annonce un contrôle",
     "score": 93,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -999,9 +980,17 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/10/comprendre-ce-qui-s-est-passe-apres-le-piratage-du-fisc-la-cnil-annonce-un-controle",
         "score": 93,
         "summary": "Point de situation critique concernant : Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cni..."
+      },
+      {
+        "title": "Piratage du fisc : La CNIL va procéder à un contrôle de la Direction générale des finances publiques",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-09-10T22:42:30.000Z",
+        "link": "https://www.20minutes.fr/societe/4244375-20260911-piratage-fisc-cnil-va-proceder-controle-direction-generale-finances-publiques?at_medium=display&at_campaign=149",
+        "score": 93,
+        "summary": "Point de situation critique concernant : Piratage du fisc : La CNIL va procéder à un contrôle de la Direction générale de..."
       }
     ],
-    "summary": "Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cnil annonce un contrôle"
+    "summary": "Numérique. « Comprendre ce qui s'est passé » : après le piratage du fisc, la Cnil annonce un contrôle / Piratage du fisc : La CNIL va procéder à un contrôle de la Direction générale des finances publiques"
   },
   {
     "title": "Pièges, charnier, espèces protégées tuées : les pratiques de chasse du milliardaire Olivier Bouygues au cœur d’un procès",
@@ -1136,7 +1125,7 @@
       {
         "title": "Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuellement sept femmes de son entourage",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.551Z",
+        "time": "2026-09-11T02:33:27.537Z",
         "link": "https://www.leparisien.fr/faits-divers/yvelines-un-homme-de-76-ans-mis-en-examen-pour-avoir-viole-ou-agresse-sexuellement-sept-femmes-de-son-entourage-09-09-2026-YZJVZTWCQNECBP3ETQSE7BOLZY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Yvelines : un homme de 76 ans mis en examen pour avoir violé ou agressé sexuelle..."
@@ -1155,7 +1144,7 @@
       {
         "title": "Suisse : deux blessés graves après une explosion dans une centrale hydroélectrique ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.551Z",
+        "time": "2026-09-11T02:33:27.537Z",
         "link": "https://www.leparisien.fr/faits-divers/suisse-deux-blesses-graves-apres-une-explosion-dans-une-centrale-hydroelectrique-09-09-2026-TSYPRB2RAFCW7BOGWQL7DQON5Y.php",
         "score": 90,
         "summary": "deux blessés graves après une explosion dans une centrale hydroélectrique"
@@ -1174,7 +1163,7 @@
       {
         "title": "« C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de couteau, dressent le portrait d’une « très belle personne »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-10T22:13:52.551Z",
+        "time": "2026-09-11T02:33:27.536Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/cetait-notre-rayon-de-soleil-les-proches-de-nisrine-tuee-a-coups-de-couteau-dresse-le-portrait-dune-tres-belle-personne-09-09-2026-SXXKDSBGD5DOBKAUOTXOGOXXDU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « C’était notre rayon de soleil » : les proches de Nisrine, tuée à coups de cout..."
@@ -1218,15 +1207,15 @@
         "summary": "Point de situation critique concernant : [CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer le..."
       },
       {
-        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:39.841Z",
+        "time": "2026-09-11T02:31:45.368Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
       }
     ],
-    "summary": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA. / [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie"
+    "summary": "[CYBER] Le ministère de la Justice a mis en place un mode ouvert pour contrer les contenus de l'IA. / [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de guerre"
   },
   {
     "title": "[CYBER] Ouvrir le rôle complet du piratage de la face enveloppée",
@@ -1258,7 +1247,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:48.547Z",
+        "time": "2026-09-11T02:31:57.974Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1277,7 +1266,7 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:45.763Z",
+        "time": "2026-09-11T02:31:53.933Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
@@ -1296,7 +1285,7 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:42.908Z",
+        "time": "2026-09-11T02:31:49.809Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
@@ -1315,7 +1304,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:35.660Z",
+        "time": "2026-09-11T02:31:39.198Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1334,7 +1323,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:33.267Z",
+        "time": "2026-09-11T02:31:35.702Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1353,7 +1342,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:29.571Z",
+        "time": "2026-09-11T02:31:30.402Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1391,7 +1380,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:27.305Z",
+        "time": "2026-09-11T02:31:27.077Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1410,7 +1399,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:22.191Z",
+        "time": "2026-09-11T02:31:19.559Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1429,7 +1418,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-10T22:12:24.580Z",
+        "time": "2026-09-11T02:31:23.106Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
