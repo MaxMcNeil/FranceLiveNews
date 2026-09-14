@@ -21,10 +21,9 @@
   {
     "title": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -34,22 +33,14 @@
         "link": "https://www.leparisien.fr/faits-divers/soupconne-dagression-sexuelle-sur-un-ado-a-pierrefitte-un-imam-place-en-detention-provisoire-10-09-2026-NAF2ENCNHRBJDELXI3G3FNBNQM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détent..."
-      },
-      {
-        "title": "Carpentras. L’homme interpellé avec un couteau devant une école maternelle placé en détention provisoire",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-12T14:00:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/12/l-homme-interpelle-avec-un-couteau-devant-une-ecole-maternelle-place-en-detention-provisoire",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Carpentras. L’homme interpellé avec un couteau devant une école maternelle placé..."
       }
     ],
-    "summary": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire / Carpentras. L’homme interpellé avec un couteau devant une école maternelle placé en détention provisoire"
+    "summary": "Soupçonné d’agression sexuelle sur un ado à Pierrefitte, un imam placé en détention provisoire"
   },
   {
     "title": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -61,17 +52,24 @@
         "link": "https://www.leparisien.fr/faits-divers/seine-saint-denis-un-conducteur-de-la-ratp-condamne-pour-avoir-finance-le-djihad-de-sa-mere-en-syrie-10-09-2026-BSXKLGMRUNDQRB74VWIYM232DI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djih..."
+      },
+      {
+        "title": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-14T17:27:43.807Z",
+        "link": "https://www.leparisien.fr/faits-divers/je-voulais-les-terroriser-le-tueur-de-la-rue-denghien-condamne-pour-avoir-attaque-un-camp-de-refugies-au-sabre-14-09-2026-SUOH2CQP5FHUXGCHCBIAPQ4NDI.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir..."
       }
     ],
-    "summary": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie"
+    "summary": "Seine-Saint-Denis : un conducteur de la RATP condamné pour avoir financé le djihad de sa mère en Syrie / « Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre"
   },
   {
     "title": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme",
     "score": 97,
-    "count": 4,
+    "count": 3,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -93,18 +91,10 @@
       {
         "title": "Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/home-jacking-de-donnarumma-le-commanditaire-ganito-condamne-a-9-ans-de-prison-ferme-12-09-2026-53ZKSIPOXJEPBPB64PNN5JJEA4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Home-jacking de Donnarumma : le commanditaire « Ganito » condamné à 9 ans de pri..."
-      },
-      {
-        "title": "Cambriolage violent de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch condamné à neuf ans de prison ferme",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-12T10:40:56.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/cambriolage-violent-de-gianluigi-donnarumma-le-commanditaire-ilyas-kherbouch-condamne-a-9-ans-de-prison-ferme_8189426.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Cambriolage violent de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch c..."
       }
     ],
     "summary": "Enseignante menacée de décapitation en Haute-Garonne : le père de famille condamné à 6 mois de prison ferme / « Je ne suis vraiment pas fier de moi » : le père de famille qui a menacé de décapitation une enseignante condamné à six mois ferme"
@@ -185,70 +175,13 @@
       {
         "title": "« Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Nisrine à Argenteuil, le mari éploré condamné",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/il-a-fait-ce-quon-peut-faire-de-pire-a-des-parents-apres-le-meurtre-de-nisrine-a-argenteuil-le-mari-eplore-condamne-11-09-2026-HJKPG227LNCD5NYH2VEIVCE6CU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Ni..."
       }
     ],
     "summary": "« Il a fait ce qu’on peut faire de pire à des parents » : après le meurtre de Nisrine à Argenteuil, le mari éploré condamné"
-  },
-  {
-    "title": "Cambriolage de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch condamné à 9 ans de prison",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Cambriolage de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch condamné à 9 ans de prison",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-12T12:40:52.000Z",
-        "link": "https://www.sudouest.fr/sport/football/cambriolage-de-gianluigi-donnarumma-le-commanditaire-ilyas-kherbouch-condamne-a-9-ans-de-prison-30592900.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Cambriolage de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch condamné ..."
-      }
-    ],
-    "summary": "Cambriolage de Gianluigi Donnarumma : le commanditaire Ilyas Kherbouch condamné à 9 ans de prison"
-  },
-  {
-    "title": "Drôme. Il a forcé sa conjointe à se prostituer : un homme condamné à 15 ans de réclusion criminelle",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Drôme. Il a forcé sa conjointe à se prostituer : un homme condamné à 15 ans de réclusion criminelle",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-12T09:53:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/12/il-a-force-sa-conjointe-a-se-prostituer-un-homme-condamne-a-15-ans-de-reclusion-criminelle",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Drôme. Il a forcé sa conjointe à se prostituer : un homme condamné à 15 ans de r..."
-      }
-    ],
-    "summary": "Drôme. Il a forcé sa conjointe à se prostituer : un homme condamné à 15 ans de réclusion criminelle"
-  },
-  {
-    "title": " « Scandaleux et irresponsable » : pourquoi le partenariat entre EDF et le géant chinois BYD fait-il polémique ? ",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.challenges.fr/rss.xml"
-    ],
-    "items": [
-      {
-        "title": " « Scandaleux et irresponsable » : pourquoi le partenariat entre EDF et le géant chinois BYD fait-il polémique ? ",
-        "source": "https://www.challenges.fr/rss.xml",
-        "time": "2026-09-12T15:00:00.000Z",
-        "link": " https://www.challenges.fr/entreprise/constructeur-automobile-pourquoi-le-partenariat-entre-edf-et-le-geant-chinois-byd-fait-polemique_645729 ",
-        "score": 97,
-        "summary": "Point de situation critique concernant :  « Scandaleux et irresponsable » : pourquoi le partenariat entre EDF et le géant..."
-      }
-    ],
-    "summary": " « Scandaleux et irresponsable » : pourquoi le partenariat entre EDF et le géant chinois BYD fait-il polémique ? "
   },
   {
     "title": "Après le scandale de la tour Eiffel, les pouvoirs publics masquent leur soutien à une organisation hindoue radicale ",
@@ -405,9 +338,10 @@
   {
     "title": "Le groupe de lingerie et pyjamas suisse Calida annonce avoir été condamné à 6,4 millions d'euros de dédommagements dans la vente de Lafuma Mobilier",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.bfmtv.com/rss/economie/"
+      "https://www.bfmtv.com/rss/economie/",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -417,16 +351,25 @@
         "link": "https://www.bfmtv.com/economie/entreprises/le-groupe-suisse-de-lingerie-et-pyjamas-calida-annonce-avoir-ete-condamne-a-6-4-millions-d-euros-de-dedommagements-dans-la-vente-de-lafuma-mobilier_AD-202609140353.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Le groupe de lingerie et pyjamas suisse Calida annonce avoir été condamné à 6,4 ..."
+      },
+      {
+        "title": "Affaire Apollonia : le couple accusé de la plus grande escroquerie immobilière française condamné à verser des millions d’euros",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-14T15:17:48.000Z",
+        "link": "https://www.lefigaro.fr/marseille/affaire-apollonia-le-couple-accuse-de-la-plus-grande-escroquerie-immobiliere-francaise-condamne-a-verser-des-millions-d-euros-20260914",
+        "score": 97,
+        "summary": "le couple accusé de la plus grande escroquerie immobilière française condamné à verser des millions d’euros"
       }
     ],
-    "summary": "Le groupe de lingerie et pyjamas suisse Calida annonce avoir été condamné à 6,4 millions d'euros de dédommagements dans la vente de Lafuma Mobilier"
+    "summary": "Le groupe de lingerie et pyjamas suisse Calida annonce avoir été condamné à 6,4 millions d'euros de dédommagements dans la vente de Lafuma Mobilier / Affaire Apollonia : le couple accusé de la plus grande escroquerie immobilière française condamné à verser des millions d’euros"
   },
   {
     "title": "Ils ont falsifié des données sismiques pour faciliter le redémarrage de réacteurs nucléaires: deux dirigeants à la tête d'une centrale dans une région du Japon exposée aux séismes démissionnent",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.bfmtv.com/rss/economie/"
+      "https://www.bfmtv.com/rss/economie/",
+      "https://www.challenges.fr/rss.xml"
     ],
     "items": [
       {
@@ -436,9 +379,17 @@
         "link": "https://www.bfmtv.com/economie/entreprises/energie/ils-ont-falsifie-des-donnees-sismiques-pour-faciliter-le-redemarrage-de-reacteurs-nucleaires-deux-dirigeants-a-la-tete-d-une-centrale-dans-une-region-du-japon-exposee-aux-seismes-demissionnent_AD-202609140330.html",
         "score": 97,
         "summary": "Point de situation critique concernant : Ils ont falsifié des données sismiques pour faciliter le redémarrage de réacteur..."
+      },
+      {
+        "title": " Des données sismiques falsifiées : au Japon, le redémarrage du nucléaire fragilisé par un nouveau scandale qui fait écho à Fukushima ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-09-14T14:06:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/energie/des-donnees-sismiques-falsifiees-au-japon-le-redemarrage-du-nucleaire-fragilise-par-un-nouveau-scandale-qui-fait-echo-a-fukushima_645763 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Des données sismiques falsifiées : au Japon, le redémarrage du nucléaire fragil..."
       }
     ],
-    "summary": "Ils ont falsifié des données sismiques pour faciliter le redémarrage de réacteurs nucléaires: deux dirigeants à la tête d'une centrale dans une région du Japon exposée aux séismes démissionnent"
+    "summary": "Ils ont falsifié des données sismiques pour faciliter le redémarrage de réacteurs nucléaires: deux dirigeants à la tête d'une centrale dans une région du Japon exposée aux séismes démissionnent /  Des données sismiques falsifiées : au Japon, le redémarrage du nucléaire fragilisé par un nouveau scandale qui fait écho à Fukushima "
   },
   {
     "title": "Nicolas Baverez : «Dette, travail, école, immigration... Comment redresser la France après la faillite des années Macron»",
@@ -460,6 +411,82 @@
     "summary": "Nicolas Baverez : «Dette, travail, école, immigration... Comment redresser la France après la faillite des années Macron»"
   },
   {
+    "title": "« J’ai perdu mon petit garçon et ils nous font encore subir ça ? » : les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« J’ai perdu mon petit garçon et ils nous font encore subir ça ? » : les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-14T17:27:43.807Z",
+        "link": "https://www.leparisien.fr/val-d-oise-95/jai-perdu-mon-petit-garcon-et-ils-nous-font-encore-subir-ca-les-prevenus-condamnes-pour-la-mort-dismail-4-ans-font-appel-14-09-2026-DLVR2MLKJJEDTJNHTUCALAJGMI.php",
+        "score": 97,
+        "summary": "les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel"
+      }
+    ],
+    "summary": "« J’ai perdu mon petit garçon et ils nous font encore subir ça ? » : les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel"
+  },
+  {
+    "title": "20 886 images et 2 919 vidéos pédopornographiques découvertes sur son ordinateur : un retraité lot-et-garonnais condamné à de la prison avec sursis",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "20 886 images et 2 919 vidéos pédopornographiques découvertes sur son ordinateur : un retraité lot-et-garonnais condamné à de la prison avec sursis",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-14T16:30:00.000Z",
+        "link": "https://www.sudouest.fr/justice/20-886-images-et-2-919-videos-pedopornographiques-decouvertes-sur-son-ordinateur-un-retraite-lot-et-garonnais-condamne-a-de-la-prison-avec-sursis-30625279.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : 20 886 images et 2 919 vidéos pédopornographiques découvertes sur son ordinateur..."
+      }
+    ],
+    "summary": "20 886 images et 2 919 vidéos pédopornographiques découvertes sur son ordinateur : un retraité lot-et-garonnais condamné à de la prison avec sursis"
+  },
+  {
+    "title": " Le BHV est-il au bord du gouffre ? Entre impayés et peur de la faillite, les salariés rêvent d’un nouveau repreneur ",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.challenges.fr/rss.xml"
+    ],
+    "items": [
+      {
+        "title": " Le BHV est-il au bord du gouffre ? Entre impayés et peur de la faillite, les salariés rêvent d’un nouveau repreneur ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-09-14T16:10:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/commerce-et-distribution/le-bhv-est-il-au-bord-du-gouffre-entre-impayes-et-peur-de-la-faillite-les-salaries-revent-dun-nouveau-repreneur_645771 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Le BHV est-il au bord du gouffre ? Entre impayés et peur de la faillite, les sa..."
+      }
+    ],
+    "summary": " Le BHV est-il au bord du gouffre ? Entre impayés et peur de la faillite, les salariés rêvent d’un nouveau repreneur "
+  },
+  {
+    "title": "Johan Theuret, directeur général adjoint de la métropole de Rennes : « Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »",
+    "score": 93,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/politique/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Johan Theuret, directeur général adjoint de la métropole de Rennes : « Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »",
+        "source": "https://www.lemonde.fr/politique/rss_full.xml",
+        "time": "2026-09-14T12:00:11.000Z",
+        "link": "https://www.lemonde.fr/idees/article/2026/09/14/johan-theuret-directeur-general-adjoint-de-la-metropole-de-rennes-chaque-cyberattaque-renforce-l-idee-que-l-administration-demande-beaucoup-sans-proteger-suffisamment_6773787_3232.html",
+        "score": 93,
+        "summary": "« Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »"
+      }
+    ],
+    "summary": "Johan Theuret, directeur général adjoint de la métropole de Rennes : « Chaque cyberattaque renforce l’idée que l’administration demande beaucoup sans protéger suffisamment »"
+  },
+  {
     "title": "Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis la rue de Lappe",
     "score": 90,
     "count": 1,
@@ -470,7 +497,7 @@
       {
         "title": "Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis la rue de Lappe",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-violee-dans-son-hall-dimmeuble-a-paris-apres-avoir-ete-suivie-depuis-la-rue-de-lappe-11-09-2026-QBW6GMPO4FD5RAVBSV27NW76M4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une femme violée dans son hall d’immeuble à Paris après avoir été suivie depuis ..."
@@ -489,7 +516,7 @@
       {
         "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux est désormais visé par une plainte pour viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-est-desormais-vise-par-une-plainte-pour-viols-11-09-2026-XQUHLE47HZA2BOH3LQL5ODV4L4.php",
         "score": 90,
         "summary": "le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux est désormais visé par une plainte pour viols"
@@ -497,7 +524,7 @@
       {
         "title": "Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartreux « conteste » les accusations de viols",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-le-pretre-ecarte-de-ses-fonctions-a-la-tete-du-groupe-scolaire-des-chartreux-conteste-les-accusations-de-viols-12-09-2026-JU7AMME6YFBKBLL6KN43SH5TQY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lyon : le prêtre écarté de ses fonctions à la tête du groupe scolaire des Chartr..."
@@ -525,7 +552,7 @@
       {
         "title": "Marseille : un homme de 27 ans succombe à deux coups de couteau, une enquête pour homicide volontaire ouverte",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/marseille-un-homme-de-27-ans-succombe-a-deux-coups-de-couteau-une-enquete-pour-homicide-volontaire-ouverte-11-09-2026-P5FRSRPUWZC7RP256Q7MXJGZZA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Marseille : un homme de 27 ans succombe à deux coups de couteau, une enquête pou..."
@@ -568,7 +595,7 @@
       {
         "title": "Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, acquitté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/culture-loisirs/musique/le-rappeur-americain-lil-durk-accuse-davoir-commandite-le-meurtre-dun-rival-acquitte-12-09-2026-QQP2JZBHMBHRRL22OBROYE65FA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le rappeur américain Lil Durk, accusé d’avoir commandité le meurtre d’un rival, ..."
@@ -587,7 +614,7 @@
       {
         "title": "Violente agression en Essonne : entre inquiétude et appel au calme, une proche de la victime témoigne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/essonne-91/violente-agression-en-essonne-entre-inquietude-et-appel-au-calme-une-proche-de-la-victime-temoigne-11-09-2026-A7DKC66ES5BSPA4OB4TGT3SM6I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violente agression en Essonne : entre inquiétude et appel au calme, une proche d..."
@@ -607,7 +634,7 @@
       {
         "title": "Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien renvoyé devant la cour d’assises pour meurtre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-paul-varry-a-paris-lautomobiliste-qui-a-ecrase-le-cycliste-sera-bien-renvoye-devant-la-cour-dassises-pour-meurtre-11-09-2026-RSX4VJAS2FGMHBHNESB3PPAM2Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Mort de Paul Varry à Paris : l’automobiliste qui a écrasé le cycliste sera bien ..."
@@ -626,30 +653,21 @@
   {
     "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
     "score": 90,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/tirs-de-mortiers-degats-materiels-la-prefecture-de-mayenne-denonce-des-violences-urbaines-a-laval-12-09-2026-67J6ZMHW35AEVCWLCMTXHOOVYA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violen..."
-      },
-      {
-        "title": "Tirs de mortiers, véhicules incendiés... Ce que l'on sait des violences urbaines à Laval",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-09-12T14:54:24.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-09-12/tirs-de-mortiers-vehicules-incendies-ce-que-lon-sait-des-violences-urbaines",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Tirs de mortiers, véhicules incendiés... Ce que l'on sait des violences urbaines..."
       }
     ],
-    "summary": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval / Tirs de mortiers, véhicules incendiés... Ce que l'on sait des violences urbaines à Laval"
+    "summary": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval"
   },
   {
     "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
@@ -662,7 +680,7 @@
       {
         "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
@@ -681,7 +699,7 @@
       {
         "title": "« On va venir le récupérer de force ou de gré » : derrière l’extorsion, l’ombre d’un millionnaire suspecté de viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/on-va-venir-le-recuperer-de-force-ou-de-gre-derriere-lextorsion-lombre-dun-millionnaire-suspecte-de-viol-11-09-2026-VHBYSZQA6ZCI3L3F2NUGGJYLJY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On va venir le récupérer de force ou de gré » : derrière l’extorsion, l’ombre ..."
@@ -700,7 +718,7 @@
       {
         "title": "Un tatoueur du Pas-de-Calais se suicide pendant son procès pour viols et agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/un-tatoueur-du-pas-de-calais-se-suicide-pendant-son-proces-pour-viols-et-agressions-sexuelles-11-09-2026-424RVA73KJGJJFFMFKDDS7HPY4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un tatoueur du Pas-de-Calais se suicide pendant son procès pour viols et agressi..."
@@ -823,7 +841,7 @@
       {
         "title": "« Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, le trentième homicide de l’année",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.039Z",
+        "time": "2026-09-14T17:27:43.808Z",
         "link": "https://www.leparisien.fr/faits-divers/un-usage-decomplexe-des-armes-a-feu-un-homme-tue-par-balle-en-guadeloupe-le-trentieme-homicide-de-lannee-12-09-2026-RZLPSGJRHFHW7HSMNAVXV7STHM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Un usage décomplexé des armes à feu » : un homme tué par balle en Guadeloupe, ..."
@@ -857,25 +875,6 @@
       }
     ],
     "summary": "\"A ce stade\", \"aucun élément\" ne permet de considérer le déraillement d'un TER en Normandie comme \"un acte de malveillance\" ou \"un attentat\""
-  },
-  {
-    "title": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-09-12T15:00:00.000Z",
-        "link": "https://www.sudouest.fr/culture/programmes-tv/attentat-contre-samuel-paty-au-festival-de-la-fiction-de-la-rochelle-la-rumeur-decortique-la-mecanique-du-mensonge-30559163.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rum..."
-      }
-    ],
-    "summary": "Attentat contre Samuel Paty : au Festival de la fiction de La Rochelle, « La Rumeur » décortique la mécanique du mensonge"
   },
   {
     "title": "Drôme. « On a eu peur qu'il y ait une explosion » : des familles évacuées après deux incendies dans les parties communes d’immeubles",
@@ -944,25 +943,6 @@
     "summary": "Yvelines : une femme enceinte et un enfant tués dans l’incendie d’une voiture sur l’A13"
   },
   {
-    "title": "Colombes : une collégienne échappe à une tentative d'enlèvement, un homme interpellé",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://www.cnews.fr/rss/categorie/faits%20divers"
-    ],
-    "items": [
-      {
-        "title": "Colombes : une collégienne échappe à une tentative d'enlèvement, un homme interpellé",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-09-12T11:01:21.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-09-12/colombes-une-collegienne-echappe-une-tentative-denlevement-un-homme",
-        "score": 90,
-        "summary": "une collégienne échappe à une tentative d'enlèvement, un homme interpellé"
-      }
-    ],
-    "summary": "Colombes : une collégienne échappe à une tentative d'enlèvement, un homme interpellé"
-  },
-  {
     "title": "Déraillement d’un train en Seine-Maritime : le parquet de Rouen écarte la piste de l’attentat",
     "score": 90,
     "count": 1,
@@ -1002,7 +982,7 @@
       {
         "title": "Var : un avion biplan s’écrase, le pilote et sa passagère tués",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.038Z",
+        "time": "2026-09-14T17:27:43.807Z",
         "link": "https://www.leparisien.fr/faits-divers/var-un-avion-biplan-secrase-le-pilote-et-sa-passagere-tues-13-09-2026-VBGBHTOSCFFMJL6SUMARH6SFVQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Var : un avion biplan s’écrase, le pilote et sa passagère tués..."
@@ -1048,13 +1028,70 @@
       {
         "title": "Un féminicide, un meurtre et une violente agression... Le procès de la cavale sanglante du détenu d’Argentan va s’ouvrir",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-14T09:30:42.038Z",
+        "time": "2026-09-14T17:27:43.807Z",
         "link": "https://www.leparisien.fr/faits-divers/un-feminicide-un-meurtre-et-une-violente-agression-le-proces-de-la-cavale-sanglante-du-detenu-dargentan-va-souvrir-14-09-2026-LBPVMBX265D2FOS7RYPQCPLHWM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un féminicide, un meurtre et une violente agression... Le procès de la cavale sa..."
       }
     ],
     "summary": "Un féminicide, un meurtre et une violente agression... Le procès de la cavale sanglante du détenu d’Argentan va s’ouvrir"
+  },
+  {
+    "title": "Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements automobiles décède dans un violent accident à 27 ans",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements automobiles décède dans un violent accident à 27 ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-14T17:27:43.807Z",
+        "link": "https://www.leparisien.fr/faits-divers/sa-mclaren-se-coupe-en-deux-et-prend-feu-un-organisateur-de-rassemblements-automobiles-decede-dans-un-violent-accident-a-27-ans-14-09-2026-EZ2G3EBK2JF5NNMIGKRCGKQI2Y.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements aut..."
+      }
+    ],
+    "summary": "Sa McLaren se coupe en deux et prend feu : un organisateur de rassemblements automobiles décède dans un violent accident à 27 ans"
+  },
+  {
+    "title": "Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ans, l’IGPN saisie",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ans, l’IGPN saisie",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-14T17:27:43.807Z",
+        "link": "https://www.leparisien.fr/faits-divers/carcassonne-un-sdf-de-29-ans-violemment-jete-au-sol-par-un-policier-ligpn-saisie-pour-violences-volontaires-14-09-2026-LPORRRG2XJBA3NY5TZKJOK2KRA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ..."
+      }
+    ],
+    "summary": "Carcassonne : une vidéo montre un policier jeter violemment au sol un SDF de 29 ans, l’IGPN saisie"
+  },
+  {
+    "title": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://www.lemonde.fr/societe/rss_full.xml"
+    ],
+    "items": [
+      {
+        "title": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-14T15:19:33.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/14/le-proces-du-complotiste-remy-daillet-et-de-son-groupuscule-ou-le-recit-d-une-derive-terroriste-de-l-enlevement-de-mia-a-un-projet-de-coup-d-etat_6773853_3224.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une d..."
+      }
+    ],
+    "summary": "Le procès du complotiste Rémy Daillet et de son groupuscule, ou le récit d’une dérive terroriste, de l’enlèvement de Mia à un projet de coup d’Etat"
   },
   {
     "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
@@ -1067,7 +1104,7 @@
       {
         "title": "[CYBER] L'ouverture de la frontière est une mesure de la protection de l'environnement.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:35.568Z",
+        "time": "2026-09-14T17:26:32.474Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-freine-le-developpement-d-astra-100742.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'ouverture de la frontière est une mesure de la protection de l'environ..."
@@ -1086,7 +1123,7 @@
       {
         "title": "[CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendance des jeunes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:32.653Z",
+        "time": "2026-09-14T17:26:29.613Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-paye-jusqu-a-17md$-pour-eviter-un-proces-sur-l-addiction-des-jeunes-100758.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Méta payer jusqu'à 17 millions de dollars pour un procès sur la dépendan..."
@@ -1105,7 +1142,7 @@
       {
         "title": "[CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective en matière de cyberdéfense",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:29.623Z",
+        "time": "2026-09-14T17:26:26.663Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-et-plus-de-100-entreprises-appellent-a-une-action-collective-en-matiere-de-cyberdefense-100759.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI et plus de 100 entreprises faisant appel d'une action collective ..."
@@ -1124,7 +1161,7 @@
       {
         "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:26.400Z",
+        "time": "2026-09-14T17:26:23.494Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
@@ -1143,7 +1180,7 @@
       {
         "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:22.051Z",
+        "time": "2026-09-14T17:26:19.247Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-la-course-aux-modeles-de-pointe-avec-gpt-6-astra-100766.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra..."
@@ -1162,7 +1199,7 @@
       {
         "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:19.514Z",
+        "time": "2026-09-14T17:26:16.766Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
@@ -1181,7 +1218,7 @@
       {
         "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:15.717Z",
+        "time": "2026-09-14T17:26:12.842Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
@@ -1200,7 +1237,7 @@
       {
         "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:13.337Z",
+        "time": "2026-09-14T17:26:10.456Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
@@ -1219,7 +1256,7 @@
       {
         "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:07.933Z",
+        "time": "2026-09-14T17:26:05.052Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
@@ -1238,7 +1275,7 @@
       {
         "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-14T09:29:10.463Z",
+        "time": "2026-09-14T17:26:07.602Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
