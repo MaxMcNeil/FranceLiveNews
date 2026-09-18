@@ -2,10 +2,9 @@
   {
     "title": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre",
     "score": 97,
-    "count": 5,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.lemonde.fr/politique/rss_full.xml",
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml"
@@ -18,14 +17,6 @@
         "link": "https://www.leparisien.fr/faits-divers/je-voulais-les-terroriser-le-tueur-de-la-rue-denghien-condamne-pour-avoir-attaque-un-camp-de-refugies-au-sabre-14-09-2026-SUOH2CQP5FHUXGCHCBIAPQ4NDI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir..."
-      },
-      {
-        "title": "Isère. « Une scène pénible et traumatisante » : un jeune homme condamné pour avoir imposé un rapport sexuel à une ponette",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-16T06:34:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/16/une-scene-penible-et-traumatisante-un-jeune-homme-condamne-pour-avoir-impose-un-rapport-sexuel-a-une-ponette",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Isère. « Une scène pénible et traumatisante » : un jeune homme condamné pour avo..."
       },
       {
         "title": "L’ex-maire du Kremlin-Bicêtre condamné à de la prison ferme pour avoir détourné des fonds afin de jouer au PMU",
@@ -52,7 +43,7 @@
         "summary": "Point de situation critique concernant : Gironde : Le père d’un collégien condamné à six mois ferme pour avoir menacé de ..."
       }
     ],
-    "summary": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre / Isère. « Une scène pénible et traumatisante » : un jeune homme condamné pour avoir imposé un rapport sexuel à une ponette"
+    "summary": "« Je voulais les terroriser » : le tueur de la rue d’Enghien condamné pour avoir attaqué un camp de réfugiés au sabre / L’ex-maire du Kremlin-Bicêtre condamné à de la prison ferme pour avoir détourné des fonds afin de jouer au PMU"
   },
   {
     "title": "« J’ai perdu mon petit garçon et ils nous font encore subir ça ? » : les prévenus condamnés pour la mort d’Ismaïl, 4 ans, font appel",
@@ -95,7 +86,7 @@
       {
         "title": "Gironde : le parent d’élève qui avait menacé de mort un surveillant et la principale d’un collège condamné à six mois de prison ferme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.931Z",
+        "time": "2026-09-18T08:42:21.202Z",
         "link": "https://www.leparisien.fr/gironde-33/gironde-le-parent-deleve-qui-avait-menace-de-mort-un-surveillant-et-la-principale-dun-college-condamne-a-six-mois-de-prison-ferme-17-09-2026-ASURFVLIFBDXDGEGZ4TEVVFILM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Gironde : le parent d’élève qui avait menacé de mort un surveillant et la princi..."
@@ -149,10 +140,12 @@
   {
     "title": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes",
     "score": 97,
-    "count": 2,
+    "count": 5,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -170,6 +163,30 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/17/condamne-a-10-ans-de-reclusion-criminelle-pour-viol-aggrave-et-agressions-sexuelles-sur-mineurs",
         "score": 97,
         "summary": "Point de situation critique concernant : Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agression..."
+      },
+      {
+        "title": "Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, pour agressions sexuelles sur quatre femmes",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T08:42:21.202Z",
+        "link": "https://www.leparisien.fr/faits-divers/haut-rhin-un-ancien-chirurgien-condamne-a-trois-ans-de-prison-dont-un-ferme-pour-agressions-sexuelles-sur-quatre-femmes-18-09-2026-WRQ2MCXYE5GWPJEKWYRDXBV3JQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Haut-Rhin : un ancien chirurgien condamné à trois ans de prison, dont un ferme, ..."
+      },
+      {
+        "title": "Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-18T08:13:35.000Z",
+        "link": "https://www.sudouest.fr/sante/hopital/un-ancien-chirurgien-condamne-pour-agressions-sexuelles-et-harcelement-a-colmar-30679622.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un ancien chirurgien condamné pour agressions sexuelles et harcèlement à Colmar..."
+      },
+      {
+        "title": "Agressions sexuelles et harcèlement : un chirurgien condamné à trois ans de prison dont un ferme",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-09-18T08:20:51.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/agressions-sexuelles-et-harcelement-un-chirurgien-condamne-a-trois-ans-de-prison-dont-un-ferme-20260918",
+        "score": 97,
+        "summary": "un chirurgien condamné à trois ans de prison dont un ferme"
       }
     ],
     "summary": "Paris : un animateur périscolaire condamné à cinq ans de prison, dont un ferme, après des agressions sexuelles sur neuf fillettes / Savoie. Condamné à 10 ans de réclusion criminelle pour viol aggravé et agressions sexuelles sur mineurs"
@@ -200,16 +217,17 @@
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.francetvinfo.fr/politique.rss",
       "https://www.lemonde.fr/justice/rss_full.xml",
+      "https://www.francetvinfo.fr/politique.rss",
       "https://www.mediapart.fr/articles/feed",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
         "title": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.933Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/faits-divers/cheval-de-troie-de-renault-au-parlement-europeen-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-souvre-mercredi-16-09-2026-NNA5LZFBCVELHBTJG6LZ5YHSBA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Cheval de Troie » de Renault au Parlement européen : le procès pour corruption..."
@@ -229,14 +247,6 @@
         "link": "https://www.franceinfo.fr/politique/rachida-dati/six-questions-sur-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-ex-pdg-de-renault_8193776.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-..."
-      },
-      {
-        "title": "Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency International France, alors que l'ancienne ministre comparaît pour corruption",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-16T06:27:18.000Z",
-        "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-a-un-devoir-d-exemplarite-estime-l-ong-transparency-international-france-alors-que-l-ancienne-ministre-comparait-pour-corruption_8194952.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency Internationa..."
       },
       {
         "title": "Le procès de Rachida Dati, jugée notamment pour « corruption passive » et « trafic d’influence passif » dans l’affaire Ghosn-Renault, a débuté",
@@ -288,8 +298,8 @@
       },
       {
         "title": "Rachida Dati s'est expliquée pendant trois heures lors du premier interrogatoire de son procès pour corruption",
-        "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-18T02:35:05.000Z",
+        "source": "https://www.franceinfo.fr/faits-divers.rss",
+        "time": "2026-09-18T08:39:02.000Z",
         "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-la-premiere-prise-de-parole-de-l-ancienne-ministre-jugee-pour-corruption-attendue-cet-apres-midi_8197178.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Rachida Dati s'est expliquée pendant trois heures lors du premier interrogatoire..."
@@ -297,7 +307,7 @@
       {
         "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
         "source": "https://www.francetvinfo.fr/politique.rss",
-        "time": "2026-09-17T20:12:32.000Z",
+        "time": "2026-09-18T07:00:02.000Z",
         "link": "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : \"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida D..."
@@ -309,6 +319,14 @@
         "link": "https://www.sudouest.fr/justice/proces-de-rachida-dati-jugee-pour-un-pacte-de-corruption-avec-ghosn-dati-assene-avoir-exerce-comme-avocate-30676545.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Procès de Rachida Dati : jugée pour « un pacte de corruption » avec Ghosn, Dati ..."
+      },
+      {
+        "title": "Au procès de Rachida Dati pour « corruption », les tentatives de la défense de repousser son interrogatoire",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-18T03:19:52.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/18/au-proces-de-rachida-dati-pour-corruption-les-tentatives-de-la-defense-de-repousser-son-interrogatoire_6776658_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Au procès de Rachida Dati pour « corruption », les tentatives de la défense de r..."
       }
     ],
     "summary": "« Cheval de Troie » de Renault au Parlement européen : le procès pour corruption de Rachida Dati et Carlos Ghosn s’est ouvert à Paris / DIRECT. Le procès de Rachida Dati et de Carlos Ghosn pour corruption est maintenu, l'ex-PDG jugé en son absence"
@@ -316,10 +334,9 @@
   {
     "title": "EN DIRECT - Scandale du périscolaire à Paris : «Non, on n’a pas caché des pédophiles à la Ville de Paris», déclare Emmanuel Grégoire devant le Sénat",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-      "https://www.bfmtv.com/rss/politique/"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -329,17 +346,9 @@
         "link": "https://www.lefigaro.fr/actualite-france/en-direct-scandale-du-periscolaire-a-paris-emmanuel-gregoire-a-son-tour-devant-la-commission-d-enquete-du-senat-20260916",
         "score": 97,
         "summary": "«Non, on n’a pas caché des pédophiles à la Ville de Paris», déclare Emmanuel Grégoire devant le Sénat"
-      },
-      {
-        "title": "Scandale du périscolaire: \"Oui, il y a des failles collectives\", déclare le maire de Paris, Emmanuel Grégoire",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-09-16T08:15:31.000Z",
-        "link": "https://www.bfmtv.com/politique/video-scandale-du-periscolaire-oui-il-y-a-des-failles-collectives-declare-le-maire-de-paris-emmanuel-gregoire_VN-202609160353.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Scandale du périscolaire: \"Oui, il y a des failles collectives\", déclare le mair..."
       }
     ],
-    "summary": "EN DIRECT - Scandale du périscolaire à Paris : «Non, on n’a pas caché des pédophiles à la Ville de Paris», déclare Emmanuel Grégoire devant le Sénat / Scandale du périscolaire: \"Oui, il y a des failles collectives\", déclare le maire de Paris, Emmanuel Grégoire"
+    "summary": "EN DIRECT - Scandale du périscolaire à Paris : «Non, on n’a pas caché des pédophiles à la Ville de Paris», déclare Emmanuel Grégoire devant le Sénat"
   },
   {
     "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
@@ -352,7 +361,7 @@
       {
         "title": "Yvelines : le domicile du président de la Fédération de judo cambriolé, les auteurs lourdement condamnés",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/yvelines-78/yvelines-le-domicile-du-president-de-la-federation-de-judo-cambriole-les-auteurs-lourdement-condamnes-16-09-2026-WAY36Q2QSBDQBNSAKIRIBDMUJM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Yvelines : le domicile du président de la Fédération de judo cambriolé, les aute..."
@@ -372,7 +381,7 @@
       {
         "title": "« Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates informatiques, les données de 680 clients compromises",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/high-tech/une-escroquerie-sophistiquee-la-banque-en-ligne-revolut-victime-de-pirates-informatiques-les-donnees-de-680-clients-compromises-16-09-2026-WSBKIH54O5AFFDKFN6JYOWR7IU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Une escroquerie sophistiquée » : la banque en ligne Revolut victime de pirates..."
@@ -466,7 +475,7 @@
       {
         "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.931Z",
+        "time": "2026-09-18T08:42:21.202Z",
         "link": "https://www.leparisien.fr/faits-divers/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-18-09-2026-5GRKQG6UFNGHZA74GCDOYGGYGM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour vio..."
@@ -493,7 +502,7 @@
       {
         "title": "Démarchage téléphonique : la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/economie/demarchage-telephonique-la-repression-des-fraudes-inflige-une-amende-dun-million-deuros-a-loperateur-daltice-syma-mobile-16-09-2026-LJTFZI3BZJDHBKAXFT3RLRMN34.php",
         "score": 97,
         "summary": "la répression des fraudes inflige une amende d’un million d’euros à l’opérateur d’Altice Syma Mobile"
@@ -513,7 +522,7 @@
       {
         "title": "L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de jeunes policières au tribunal de Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/faits-divers/lancien-major-pervers-et-malsain-condamne-pour-lagression-sexuelle-de-jeunes-policieres-au-tribunal-de-paris-16-09-2026-J4BOQJRCHBEYPO4GBJZBEGNKJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien major « pervers » et « malsain » condamné pour l’agression sexuelle de ..."
@@ -555,7 +564,7 @@
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
@@ -571,14 +580,14 @@
       {
         "title": "L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement de fonds, après un signalement d’Éric Ciotti",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/politique/lancien-maire-de-nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-apres-un-signalement-deric-ciotti-16-09-2026-3KN7Q6FN5FAPZCZZOAY7YQCNJI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : L’ancien maire de Nice Christian Estrosi visé par une enquête pour détournement ..."
       },
       {
         "title": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/justice/rss_full.xml",
         "time": "2026-09-16T22:28:50.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html",
         "score": 97,
@@ -614,7 +623,7 @@
       {
         "title": "Agression à la machette à Mulhouse : un homme placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/faits-divers/agression-a-la-machette-a-mulhouse-un-homme-place-en-detention-provisoire-16-09-2026-NCAZI3MGSNA67EJ2VIR32CC6U4.php",
         "score": 97,
         "summary": "un homme placé en détention provisoire"
@@ -834,10 +843,9 @@
   {
     "title": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -847,17 +855,9 @@
         "link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/bearn-un-gerant-de-pompes-funebres-paloises-en-detention-provisoire-pour-viol-violences-menaces-de-mort-et-harcelement-sur-sa-maitresse-30674468.php",
         "score": 97,
         "summary": "un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse"
-      },
-      {
-        "title": "Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-16T02:53:32.343Z",
-        "link": "https://www.leparisien.fr/faits-divers/paris-le-chauffeur-de-taxi-mis-en-accusation-pour-le-viol-dune-cliente-reste-en-detention-12-09-2026-QYSEADH3WNFMPB5SGXLRKNAWFI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste ..."
       }
     ],
-    "summary": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse / Paris : le chauffeur de taxi mis en accusation pour le viol d’une cliente reste en détention"
+    "summary": "Béarn : un gérant de pompes funèbres paloises en détention provisoire pour viol, violences, menaces de mort et harcèlement sur sa maîtresse"
   },
   {
     "title": "Gironde : coup de filet anti-drogue dans le Libournais, cinq suspects placés en détention provisoire",
@@ -964,25 +964,6 @@
     "summary": " EXCLUSIF. Le portable de la conseillère Moyen-Orient de l’Élysée piraté par le Mossad "
   },
   {
-    "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-16T02:53:32.343Z",
-        "link": "https://www.leparisien.fr/faits-divers/tirs-de-mortiers-degats-materiels-la-prefecture-de-mayenne-denonce-des-violences-urbaines-a-laval-12-09-2026-67J6ZMHW35AEVCWLCMTXHOOVYA.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violen..."
-      }
-    ],
-    "summary": "Tirs de mortiers, dégâts matériels : la préfecture de Mayenne dénonce des violences urbaines à Laval"
-  },
-  {
     "title": "« C’est une pute, je fais ce que je veux » : un habitant de Bonneuil bientôt jugé pour de graves violences sur une escort",
     "score": 90,
     "count": 1,
@@ -1012,7 +993,7 @@
       {
         "title": "Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retrouvé mort dans une rivière",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.931Z",
+        "time": "2026-09-18T08:42:21.202Z",
         "link": "https://www.leparisien.fr/faits-divers/youn-soo-nam-un-touriste-sud-coreen-de-86-ans-disparu-dans-le-gers-a-ete-retrouve-mort-dans-une-riviere-17-09-2026-4FH4VTSEGFGZPOHMQHDL6D553Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Youn Soo Nam, un touriste sud-coréen de 86 ans, disparu dans le Gers, a été retr..."
@@ -1020,7 +1001,7 @@
       {
         "title": "Après la disparition du petit Noah au Royaume-Uni, un corps d’enfant retrouvé dans un étang",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/international/royaume-uni/apres-la-disparition-du-petit-noah-au-royaume-uni-un-corps-denfant-retrouve-dans-un-etang-17-09-2026-32JJPV5FWZFTBOTVK5FYAYWQUI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Après la disparition du petit Noah au Royaume-Uni, un corps d’enfant retrouvé da..."
@@ -1039,7 +1020,7 @@
       {
         "title": "Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meurtres en Afrique du Sud",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.931Z",
+        "time": "2026-09-18T08:42:21.202Z",
         "link": "https://www.leparisien.fr/faits-divers/neuf-femmes-retrouvees-mortes-en-deux-mois-ce-que-lon-sait-des-mysterieux-meurtres-en-afrique-du-sud-17-09-2026-C3AGZQ3QDVEHVLGOBGJNQFNLKU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Neuf femmes retrouvées mortes en deux mois : ce que l’on sait des mystérieux meu..."
@@ -1058,7 +1039,7 @@
       {
         "title": "« Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie Grenier et Milena, soupçonné de les avoir tués au Portugal ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.202Z",
         "link": "https://www.leparisien.fr/faits-divers/il-ninspirait-pas-confiance-qui-est-natalino-c-le-gardien-de-jean-marie-grenier-et-milena-soupconne-de-les-avoir-tues-au-portugal-17-09-2026-EVPAEFBNKJCN3EA7FSW4J7MHPA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Il n’inspirait pas confiance » : qui est Natalino C., le gardien de Jean-Marie..."
@@ -1077,7 +1058,7 @@
       {
         "title": "À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilettes « Star Wars » d’un restaurant",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/faits-divers/a-paris-un-chef-dentreprise-ecroue-pour-avoir-viole-une-femme-dans-les-toilettes-star-wars-dun-restaurant-17-09-2026-AXSFEW6XOZH2HN4L2PIPKRJB7A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : À Paris, un chef d’entreprise écroué pour avoir violé une femme dans les toilett..."
@@ -1096,7 +1077,7 @@
       {
         "title": "Seize supporters de l’AS Rome interdits de stade pour avoir effectué des saluts fascistes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/sports/football/seize-supporters-de-las-rome-interdits-de-stade-pour-avoir-effectue-des-saluts-fascistes-16-09-2026-HEORXQM6RNDVFOY6WOQ3POQR5I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Seize supporters de l’AS Rome interdits de stade pour avoir effectué des saluts ..."
@@ -1115,7 +1096,7 @@
       {
         "title": "Kim Kardashian obtient 1 euro de dommages et intérêts auprès des « papys braqueurs », dix ans après son agression à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/faits-divers/kim-kardashian-obtient-1-euro-de-dommages-et-interets-aupres-des-papys-braqueurs-dix-ans-apres-son-agression-a-paris-16-09-2026-STTDQCIMIVFHXOKTF2SWAGLUVA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Kim Kardashian obtient 1 euro de dommages et intérêts auprès des « papys braqueu..."
@@ -1134,7 +1115,7 @@
       {
         "title": "Prostitution, narcotrafic, vols, violences : à Lyon, la descente aux enfers du quartier Gerland",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-18T02:41:15.932Z",
+        "time": "2026-09-18T08:42:21.203Z",
         "link": "https://www.leparisien.fr/rhone-69/prostitution-narcotrafic-vols-violences-a-lyon-la-descente-aux-enfers-du-quartier-gerland-16-09-2026-TCZT5VQMDVHRFJELMVTHCN7XJQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Prostitution, narcotrafic, vols, violences : à Lyon, la descente aux enfers du q..."
@@ -1143,23 +1124,23 @@
     "summary": "Prostitution, narcotrafic, vols, violences : à Lyon, la descente aux enfers du quartier Gerland"
   },
   {
-    "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
+    "title": "Saint-Maur-des-Fossés : un enfant de 7 ans suspecté d’avoir tué sa tante d’un coup de couteau",
     "score": 90,
     "count": 1,
     "sources": [
-      "Le Monde Informatique"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
-        "title": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie",
-        "source": "Le Monde Informatique",
-        "time": "2026-09-16T02:52:19.437Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-censure-au-pentagone-la-justice-americaine-annule-une-mise-a-l-ecart-jugee-illegale-100760.html",
+        "title": "Saint-Maur-des-Fossés : un enfant de 7 ans suspecté d’avoir tué sa tante d’un coup de couteau",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-18T08:42:21.202Z",
+        "link": "https://www.leparisien.fr/faits-divers/saint-maur-des-fosses-un-enfant-de-7-ans-suspecte-davoir-poignarde-sa-tante-a-mort-18-09-2026-BJ3NV2WCSRGO7JF5GIONFIDLDY.php",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] La censure anthropologique au Pentagone: la justice est riche annuler un..."
+        "summary": "Point de situation critique concernant : Saint-Maur-des-Fossés : un enfant de 7 ans suspecté d’avoir tué sa tante d’un co..."
       }
     ],
-    "summary": "[CYBER] La censure anthropologique au Pentagone: la justice est riche annuler une mise en place de la justice en temps de maladie"
+    "summary": "Saint-Maur-des-Fossés : un enfant de 7 ans suspecté d’avoir tué sa tante d’un coup de couteau"
   },
   {
     "title": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra",
@@ -1181,7 +1162,7 @@
     "summary": "[CYBER] OpenAI: le cours aux modes de pointe avec GPT-6 Astra"
   },
   {
-    "title": "[CYBER] Cybersécurité : Sébastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
+    "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1189,18 +1170,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Cybersécurité : Sébastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
+        "title": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.364Z",
+        "time": "2026-09-18T08:41:18.240Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-sebastien-lecornu-donne-15-jours-aux-ministres-pour-lutter-contre-les-cyberattaques-100767.html",
         "score": 90,
-        "summary": "Sébastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques"
+        "summary": "Point de situation critique concernant : [CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour l..."
       }
     ],
-    "summary": "[CYBER] Cybersécurité : Sébastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques"
+    "summary": "[CYBER] Les cyberattaques: S Bastien Lecornu donne 15 jours aux ministres pour lutter contre les cyberattaques"
   },
   {
-    "title": "[CYBER] Le ministére de la Transition écologique ciblé par une cyberattaque",
+    "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1208,18 +1189,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Le ministére de la Transition écologique ciblé par une cyberattaque",
+        "title": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.360Z",
+        "time": "2026-09-18T08:41:14.593Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-ministere-de-la-transition-ecologique-cible-par-une-cyberattaque-100771.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Le ministére de la Transition écologique ciblé par une cyberattaque..."
+        "summary": "Point de situation critique concernant : [CYBER] Le Ministère de la Transition cible d'une cyberattaque..."
       }
     ],
-    "summary": "[CYBER] Le ministére de la Transition écologique ciblé par une cyberattaque"
+    "summary": "[CYBER] Le Ministère de la Transition cible d'une cyberattaque"
   },
   {
-    "title": "[CYBER] Meta dévoile Muse, son premier agent IA personnel",
+    "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1227,18 +1208,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Meta dévoile Muse, son premier agent IA personnel",
+        "title": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets.",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.357Z",
+        "time": "2026-09-18T08:41:12.242Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-devoile-muse-son-premier-agent-ia-personnel-100772.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Meta dévoile Muse, son premier agent IA personnel..."
+        "summary": "Point de situation critique concernant : [CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets...."
       }
     ],
-    "summary": "[CYBER] Meta dévoile Muse, son premier agent IA personnel"
+    "summary": "[CYBER] M. D. Muse, fils du personnel de l'agent principal des services secrets."
   },
   {
-    "title": "[CYBER] Facturation électronique : le nouveau périmétre de sécurité é intégrer dans la DSI",
+    "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1246,18 +1227,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Facturation électronique : le nouveau périmétre de sécurité é intégrer dans la DSI",
+        "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.351Z",
+        "time": "2026-09-18T08:41:07.181Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-facturation-electronique-le-nouveau-perimetre-de-securite-a-integrer-dans-la-dsi-100775.html",
         "score": 90,
-        "summary": "le nouveau périmétre de sécurité é intégrer dans la DSI"
+        "summary": "Point de situation critique concernant : [CYBER] Le nouveau système de facturation électronique: le nouveau système de la..."
       }
     ],
-    "summary": "[CYBER] Facturation électronique : le nouveau périmétre de sécurité é intégrer dans la DSI"
+    "summary": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI"
   },
   {
-    "title": "[CYBER] Ingram Micro et Xguard One lancent un EDR managé pour les PME",
+    "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1265,18 +1246,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Ingram Micro et Xguard One lancent un EDR managé pour les PME",
+        "title": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.354Z",
+        "time": "2026-09-18T08:41:09.572Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ingram-micro-et-xguard-one-lancent-un-edr-manage-pour-les-pme-100773.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lancent un EDR managé pour les PME..."
+        "summary": "Point de situation critique concernant : [CYBER] Ingram Micro et Xguard One lance un EDR pour les PME..."
       }
     ],
-    "summary": "[CYBER] Ingram Micro et Xguard One lancent un EDR managé pour les PME"
+    "summary": "[CYBER] Ingram Micro et Xguard One lance un EDR pour les PME"
   },
   {
-    "title": "[CYBER] UECC 2026 : un Pacte numérique et IA pour renforcer la souveraineté numérique",
+    "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1284,18 +1265,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] UECC 2026 : un Pacte numérique et IA pour renforcer la souveraineté numérique",
+        "title": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.347Z",
+        "time": "2026-09-18T08:41:03.916Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-uecc-2026-un-pacte-numerique-et-ia-pour-renforcer-la-souverainete-numerique-100780.html",
         "score": 90,
-        "summary": "un Pacte numérique et IA pour renforcer la souveraineté numérique"
+        "summary": "Point de situation critique concernant : [CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la sou..."
       }
     ],
-    "summary": "[CYBER] UECC 2026 : un Pacte numérique et IA pour renforcer la souveraineté numérique"
+    "summary": "[CYBER] CUEEC 2026: un pacte de richesse et d'intervention pour renforcer la souveraineté de la richesse"
   },
   {
-    "title": "[CYBER] La cyberassurance recule chez les PME franéaises",
+    "title": "[CYBER] La cybersécurité se réalise chez les PME",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1303,18 +1284,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] La cyberassurance recule chez les PME franéaises",
+        "title": "[CYBER] La cybersécurité se réalise chez les PME",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.341Z",
+        "time": "2026-09-18T08:40:56.567Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cyberassurance-recule-chez-les-pme-francaises-100784.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] La cyberassurance recule chez les PME franéaises..."
+        "summary": "Point de situation critique concernant : [CYBER] La cybersécurité se réalise chez les PME..."
       }
     ],
-    "summary": "[CYBER] La cyberassurance recule chez les PME franéaises"
+    "summary": "[CYBER] La cybersécurité se réalise chez les PME"
   },
   {
-    "title": "[CYBER] Des agents d'OpenAI auraient ciblé la plateforme RubyGems",
+    "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1322,18 +1303,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Des agents d'OpenAI auraient ciblé la plateforme RubyGems",
+        "title": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.344Z",
+        "time": "2026-09-18T08:40:59.708Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-d-openai-auraient-cible-la-plateforme-rubygems-100782.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Des agents d'OpenAI auraient ciblé la plateforme RubyGems..."
+        "summary": "Point de situation critique concernant : [CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la platefo..."
       }
     ],
-    "summary": "[CYBER] Des agents d'OpenAI auraient ciblé la plateforme RubyGems"
+    "summary": "[CYBER] Les agents d'OpenAI auraient pour objectif de mettre en place la plateforme RubyGems"
   },
   {
-    "title": "[CYBER] Microsoft publie un Code de conduite pour encadrer ses IA",
+    "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1341,18 +1322,18 @@
     ],
     "items": [
       {
-        "title": "[CYBER] Microsoft publie un Code de conduite pour encadrer ses IA",
+        "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.337Z",
+        "time": "2026-09-18T08:40:54.814Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Microsoft publie un Code de conduite pour encadrer ses IA..."
+        "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
       }
     ],
-    "summary": "[CYBER] Microsoft publie un Code de conduite pour encadrer ses IA"
+    "summary": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA"
   },
   {
-    "title": "[CYBER] IA : peut-on appeler au ralentissement tout en investissant des centaines de milliards ?",
+    "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
     "score": 90,
     "count": 1,
     "sources": [
@@ -1360,14 +1341,14 @@
     ],
     "items": [
       {
-        "title": "[CYBER] IA : peut-on appeler au ralentissement tout en investissant des centaines de milliards ?",
+        "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-18T02:41:12.334Z",
+        "time": "2026-09-18T08:40:52.654Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
-        "summary": "peut-on appeler au ralentissement tout en investissant des centaines de milliards ?"
+        "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
       }
     ],
-    "summary": "[CYBER] IA : peut-on appeler au ralentissement tout en investissant des centaines de milliards ?"
+    "summary": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?"
   }
 ]
