@@ -114,10 +114,9 @@
   {
     "title": "Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’Armentières-en-Brie condamné à la prison ferme",
     "score": 97,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss",
       "https://www.lemonde.fr/justice/rss_full.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
@@ -129,14 +128,6 @@
         "link": "https://www.leparisien.fr/seine-et-marne-77/crachats-insultes-le-motard-qui-a-pourchasse-et-percute-la-voiture-du-maire-darmentieres-en-brie-condamne-a-la-prison-ferme-19-09-2026-3S5VMNGQU5CXHIMHPGA4NZHUJ4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’..."
-      },
-      {
-        "title": "Le routier intercepté mi-août sur l'A71 avec 109 kilos de cocaïne, condamné à deux ans de prison ferme",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-21T19:31:56.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/justice-proces/le-routier-intercepte-mi-aout-sur-l-a71-avec-109-kilos-de-cocaine-condamne-a-deux-ans-de-prison-ferme_8203625.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le routier intercepté mi-août sur l'A71 avec 109 kilos de cocaïne, condamné à de..."
       },
       {
         "title": "Le négationniste Vincent Reynouard condamné à huit mois de prison ferme",
@@ -155,7 +146,7 @@
         "summary": "Point de situation critique concernant : Isère. Condamné à deux ans de prison ferme pour une quinzaine de cambriolages co..."
       }
     ],
-    "summary": "Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’Armentières-en-Brie condamné à la prison ferme / Le routier intercepté mi-août sur l'A71 avec 109 kilos de cocaïne, condamné à deux ans de prison ferme"
+    "summary": "Crachats, insultes… Le motard qui a pourchassé et percuté la voiture du maire d’Armentières-en-Brie condamné à la prison ferme / Le négationniste Vincent Reynouard condamné à huit mois de prison ferme"
   },
   {
     "title": "Une « centaine de relations sexuelles avec son fils » à peine majeur : une Américaine de 46 ans inculpée pour inceste",
@@ -241,7 +232,7 @@
       {
         "title": "« La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/la-team-du-chateau-linfluenceur-mounim-sabhi-soupconne-de-violences-filmees-en-direct-place-en-detention-provisoire-23-09-2026-ST6G7HZIPVH33HELUXK5Z6HFHI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences film..."
@@ -268,7 +259,7 @@
       {
         "title": "Violences urbaines à Saint-Pierre-des-Corps : un homme de 19 ans condamné à un an de prison avec sursis",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.311Z",
+        "time": "2026-09-23T22:39:44.759Z",
         "link": "https://www.leparisien.fr/indre-et-loire-37/violences-urbaines-a-saint-pierre-des-corps-un-homme-de-19-ans-condamne-a-un-an-de-prison-avec-sursis-22-09-2026-I2A2A62ULBGJTECY2BRB5EAXTQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Violences urbaines à Saint-Pierre-des-Corps : un homme de 19 ans condamné à un a..."
@@ -279,7 +270,7 @@
   {
     "title": "\"Il n'avait pas besoin de moi\" : à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn",
     "score": 97,
-    "count": 10,
+    "count": 11,
     "sources": [
       "https://www.francetvinfo.fr/politique.rss",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
@@ -301,7 +292,7 @@
       {
         "title": "« Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.311Z",
+        "time": "2026-09-23T22:39:44.759Z",
         "link": "https://www.leparisien.fr/faits-divers/je-nai-jamais-ete-en-situation-de-conflit-dinterets-jugee-pour-corruption-rachida-dati-ne-lache-rien-21-09-2026-GCLL4W3ZYJDBDCUULZ2YCTXZUQ.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruptio..."
@@ -369,6 +360,14 @@
         "link": "https://www.lefigaro.fr/actualite-france/a-son-proces-pour-corruption-rachida-dati-a-reponse-a-tout-20260923",
         "score": 97,
         "summary": "Point de situation critique concernant : À son procès pour corruption, Rachida Dati a réponse à tout..."
+      },
+      {
+        "title": "« Je suis très choquée que vous me traitiez de menteuse »… À son procès pour corruption, Rachida Dati sur le gril du Parquet national financier",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-23T19:54:41.000Z",
+        "link": "https://www.sudouest.fr/justice/je-suis-tres-choquee-que-vous-me-traitiez-de-menteuse-a-son-proces-pour-corruption-rachida-dati-sur-le-gril-du-parquet-national-financier-30756738.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : « Je suis très choquée que vous me traitiez de menteuse »… À son procès pour cor..."
       }
     ],
     "summary": "\"Il n'avait pas besoin de moi\" : à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn / « Je n’ai jamais été en situation de conflit d’intérêts » : jugée pour corruption, Rachida Dati ne lâche rien"
@@ -406,7 +405,7 @@
       {
         "title": "« L’éternel choix du pire » : le djihadiste Othman Garrido condamné à trente ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/il-avait-le-choix-de-sortir-de-cet-embrigadement-le-djihadiste-othman-garrido-condamne-a-trente-ans-de-prison-22-09-2026-4CEOPJYVJVGGZJMXV6ZYJ4EOCE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « L’éternel choix du pire » : le djihadiste Othman Garrido condamné à trente ans..."
@@ -553,7 +552,7 @@
       {
         "title": "Paris : un intervenant d’anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.311Z",
+        "time": "2026-09-23T22:39:44.759Z",
         "link": "https://www.leparisien.fr/faits-divers/nouveau-scandale-de-pedophilie-dans-une-ecole-maternelle-a-paris-un-professeur-danglais-en-garde-a-vue-22-09-2026-QZW66NOKHRGD5ABBAJBQIQPVGM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : un intervenant d’anglais soupçonné de viols et d’agressions sexuelles su..."
@@ -621,7 +620,7 @@
       {
         "title": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/cest-un-scandale-une-erreur-judiciaire-fait-liberer-le-chanteur-clayton-hamilton-condamne-pour-agression-sexuelle-23-09-2026-O3ISEFBHMRBMXHYVFVAIMLGZZE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Ha..."
@@ -700,7 +699,7 @@
       {
         "title": "#MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle d’une assistante de production",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/metoo-harvey-weinstein-condamne-a-15-ans-de-prison-pour-lagression-sexuelle-dune-assistante-de-production-23-09-2026-WHPGFC7HAZHNJKHLXL4DJBZKD4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : #MeToo : Harvey Weinstein condamné à 15 ans de prison pour l’agression sexuelle ..."
@@ -748,7 +747,7 @@
       {
         "title": "Les affaires de corruption et d’atteinte à la probité dans la police « en nette augmentation » : le chef de l’IGPN fait le bilan",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/les-affaires-de-corruption-et-datteinte-a-la-probite-dans-la-police-en-nette-augmentation-le-chef-de-ligpn-fait-le-bilan-23-09-2026-PR6RBOPW7NAK7F2OWOP4WMX7B4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Les affaires de corruption et d’atteinte à la probité dans la police « en nette ..."
@@ -915,7 +914,7 @@
       {
         "title": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/faits-divers/les-cambrioleurs-de-francois-hollande-et-julie-gayet-condamnes-a-18-mois-de-prison-avec-sursis-pour-une-montre-et-un-ipad-23-09-2026-NJXVPFVZBRANJOVYZ2WNJKOT6I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de pris..."
@@ -934,7 +933,7 @@
       {
         "title": "Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l’incroyable perquisition d’un baron de la drogue à Naples",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-23T19:26:42.310Z",
+        "time": "2026-09-23T22:39:44.758Z",
         "link": "https://www.leparisien.fr/international/italie/kalachnikovs-montres-de-luxe-et-trois-millions-deuros-caches-dans-les-murs-lincroyable-perquisition-dun-baron-de-la-drogue-a-naples-23-09-2026-J2GLBACILBDTBFJCZ7WBDZCNGY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l..."
@@ -1000,6 +999,25 @@
     "summary": "Suppression de l'édito de Charles Sapin sur France Inter: \"Valeurs actuelles a été condamné pour racisme\", rappelle le journaliste politique Thomas Legrand"
   },
   {
+    "title": "Isère. Agressions sexuelles au sein d’un foyer pour jeunes adultes : un résident adepte du bondage condamné",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Isère. Agressions sexuelles au sein d’un foyer pour jeunes adultes : un résident adepte du bondage condamné",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-23T20:44:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/23/isere-agressions-sexuelles-au-sein-d-un-foyer-pour-jeunes-adultes-un-resident-adepte-du-bondage-condamne",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Isère. Agressions sexuelles au sein d’un foyer pour jeunes adultes : un résident..."
+      }
+    ],
+    "summary": "Isère. Agressions sexuelles au sein d’un foyer pour jeunes adultes : un résident adepte du bondage condamné"
+  },
+  {
     "title": "Rançon, torture et vidéo : l’inquiétant retour en force des enlèvements-séquestrations",
     "score": 93,
     "count": 1,
@@ -1044,25 +1062,6 @@
       }
     ],
     "summary": "BFM Entreprise - Outils RH - Se protéger de cyberattaques, toujours plus nombreuses - Mardi 22 septembre / BFM Entreprise - Outils RH - Se protéger de cyberattaques, toujours plus nombreuses - Mardi 22 septembre"
-  },
-  {
-    "title": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-22T02:53:01.753Z",
-        "link": "https://www.leparisien.fr/faits-divers/pour-le-commissaire-general-frederic-lauze-les-etablissements-scolaires-sont-devenus-des-points-de-rendez-vous-de-la-violence-19-09-2026-RIQ55F6ZQJHOPEVLYLACLYNKBU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont ..."
-      }
-    ],
-    "summary": "Pour le commissaire général Frédéric Lauze, « les établissements scolaires sont devenus des points de rendez-vous de la violence »"
   },
   {
     "title": "[CYBER] Le nouveau système de facturation électronique: le nouveau système de la cour dans la DSI",
@@ -1151,7 +1150,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:28.665Z",
+        "time": "2026-09-23T22:38:28.908Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1170,7 +1169,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:26.431Z",
+        "time": "2026-09-23T22:38:26.762Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1189,7 +1188,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:20.581Z",
+        "time": "2026-09-23T22:38:21.197Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
@@ -1208,7 +1207,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:22.983Z",
+        "time": "2026-09-23T22:38:23.489Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1216,7 +1215,7 @@
       {
         "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:18.403Z",
+        "time": "2026-09-23T22:38:19.126Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI..."
@@ -1224,7 +1223,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:06.651Z",
+        "time": "2026-09-23T22:38:07.945Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1243,7 +1242,7 @@
       {
         "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:16.003Z",
+        "time": "2026-09-23T22:38:16.863Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
@@ -1319,7 +1318,7 @@
       {
         "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:11.452Z",
+        "time": "2026-09-23T22:38:12.511Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
@@ -1338,7 +1337,7 @@
       {
         "title": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:14.037Z",
+        "time": "2026-09-23T22:38:14.983Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gemini-accede-par-erreur-aux-systemes-de-trois-entreprises-100800.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises..."
@@ -1395,7 +1394,7 @@
       {
         "title": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire",
         "source": "Le Monde Informatique",
-        "time": "2026-09-23T19:25:09.482Z",
+        "time": "2026-09-23T22:38:10.625Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-appel-a-renforcer-le-controle-de-l-ia-la-france-non-signataire-100804.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire..."
