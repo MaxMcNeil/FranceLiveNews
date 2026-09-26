@@ -21,10 +21,12 @@
   {
     "title": "« C’est un scandale » : condamné pour agression sexuelle, le chanteur Clayton Hamilton libéré après une erreur de procédure",
     "score": 97,
-    "count": 4,
+    "count": 8,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.lemonde.fr/justice/rss_full.xml"
     ],
     "items": [
@@ -51,6 +53,38 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/apres-11-ans-de-cavale-joelan-mootoosamy-condamne-a-20-ans-pour-un-passage-a-tabac-mortel",
         "score": 97,
         "summary": "Point de situation critique concernant : Bas-Rhin. Après 11 ans de cavale, Joelan Mootoosamy condamné à 20 ans pour un pa..."
+      },
+      {
+        "title": "Le chanteur marocain Saad Lamjarred condamné en appel à 10 ans de réclusion pour viol à Paris",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-09-26T15:34:54.027Z",
+        "link": "https://www.leparisien.fr/faits-divers/le-chanteur-marocain-saad-lamjarred-condamne-en-appel-a-10-ans-de-reclusion-pour-viol-a-paris-26-09-2026-4YH5PD4KSRAV7NQH3EDH3BE75I.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le chanteur marocain Saad Lamjarred condamné en appel à 10 ans de réclusion pour..."
+      },
+      {
+        "title": "Le chanteur marocain Saad Lamjarred condamné en appel à dix ans de prison pour viol, sa peine alourdie",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-26T14:43:22.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/09/26/le-chanteur-marocain-saad-lamjarred-condamne-en-appel-a-dix-ans-de-prison-pour-viol-sa-peine-alourdie_6783137_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Le chanteur marocain Saad Lamjarred condamné en appel à dix ans de prison pour v..."
+      },
+      {
+        "title": "Affaire Saad Lamjarred : le chanteur marocain condamné en appel à dix ans de réclusion pour viol",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-09-26T14:07:48.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/affaire-saad-lamjarred-le-chanteur-marocain-condamne-en-appel-a-dix-ans-de-reclusion-pour-viol-30793738.php",
+        "score": 97,
+        "summary": "le chanteur marocain condamné en appel à dix ans de réclusion pour viol"
+      },
+      {
+        "title": "Justice. Le chanteur Saad Lamjarred condamné en appel à 10 ans de réclusion criminelle pour viols",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-09-26T13:21:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/26/le-chanteur-saad-lamjarred-condamne-en-appel-a-10-ans-de-reclusion-criminelle-pour-viols",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Justice. Le chanteur Saad Lamjarred condamné en appel à 10 ans de réclusion crim..."
       },
       {
         "title": "A Paris, un intervenant en anglais écroué pour viol, agression sexuelle et violence sur 22 enfants de maternelle",
@@ -85,18 +119,17 @@
   {
     "title": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad",
     "score": 97,
-    "count": 4,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
       "https://www.franceinfo.fr/faits-divers.rss",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
         "title": "Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de prison avec sursis pour une montre et un iPad",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/les-cambrioleurs-de-francois-hollande-et-julie-gayet-condamnes-a-18-mois-de-prison-avec-sursis-pour-une-montre-et-un-ipad-23-09-2026-NJXVPFVZBRANJOVYZ2WNJKOT6I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Les cambrioleurs de François Hollande et Julie Gayet condamnés à 18 mois de pris..."
@@ -108,14 +141,6 @@
         "link": "https://www.franceinfo.fr/faits-divers/un-agriculteur-condamne-a-un-an-de-prison-ferme-pour-avoir-tire-sur-ses-cambrioleurs-venus-lui-siphonner-son-carburant_8208383.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Un agriculteur condamné à un an de prison ferme pour avoir tiré sur ses cambriol..."
-      },
-      {
-        "title": "Bons-en-Chablais. Intimidation sur une aire de gens du voyage : deux hommes condamnés à 8 et 10 mois de prison",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-09-24T15:07:52.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/09/24/intimidation-sur-une-aire-de-gens-du-voyage-deux-hommes-condamnes-a-8-et-10-mois-de-prison",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Bons-en-Chablais. Intimidation sur une aire de gens du voyage : deux hommes cond..."
       },
       {
         "title": "Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de prison pour le meurtre de Federico Martin Aramburu, le récit au cœur de l’engrenage meurtrier",
@@ -139,7 +164,7 @@
       {
         "title": "Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l’incroyable perquisition d’un baron de la drogue à Naples",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/international/italie/kalachnikovs-montres-de-luxe-et-trois-millions-deuros-caches-dans-les-murs-lincroyable-perquisition-dun-baron-de-la-drogue-a-naples-23-09-2026-J2GLBACILBDTBFJCZ7WBDZCNGY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Kalachnikovs, montres de luxe et trois millions d’euros cachés dans les murs : l..."
@@ -150,10 +175,9 @@
   {
     "title": "« La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.franceinfo.fr/faits-divers.rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
@@ -163,17 +187,9 @@
         "link": "https://www.leparisien.fr/faits-divers/la-team-du-chateau-linfluenceur-mounim-sabhi-soupconne-de-violences-filmees-en-direct-place-en-detention-provisoire-23-09-2026-ST6G7HZIPVH33HELUXK5Z6HFHI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences film..."
-      },
-      {
-        "title": "L'influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-24T09:21:22.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/l-influenceur-mounim-sabhi-soupconne-de-violences-filmees-en-direct-place-en-detention-provisoire_8207630.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : L'influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en d..."
       }
     ],
-    "summary": "« La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire / L'influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire"
+    "summary": "« La Team du Château » : l’influenceur Mounim Sabhi, soupçonné de violences filmées en direct, placé en détention provisoire"
   },
   {
     "title": "« Un coup de sang » : l’improbable vengeance d’un policier, condamné pour avoir vandalisé la voiture d’un particulier",
@@ -189,7 +205,7 @@
       {
         "title": "« Un coup de sang » : l’improbable vengeance d’un policier, condamné pour avoir vandalisé la voiture d’un particulier",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/un-coup-de-sang-limprobable-vengeance-dun-policier-condamne-pour-avoir-vandalise-la-voiture-dun-particulier-24-09-2026-MFNZQEGSZNG5DAIXD5FD6UCMBA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Un coup de sang » : l’improbable vengeance d’un policier, condamné pour avoir ..."
@@ -232,7 +248,7 @@
       {
         "title": "1,7 million d’euros de préjudice : deux infirmiers libéraux auraient monté un vrai système de fraude à la Sécu",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/hyperactivite-soins-non-realises-ordonnances-modifiees-deux-infirmiers-soupconnes-dune-fraude-a-17-million-deuros-24-09-2026-AB5KOZ5KENA7TJL257HRAELRWI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : 1,7 million d’euros de préjudice : deux infirmiers libéraux auraient monté un vr..."
@@ -315,44 +331,6 @@
     "summary": "Ardèche. Chienne rouée de coups et retrouvée pendu dans une forêt : le propriétaire de Rubis condamné à un an de prison ferme / « Je dissimulais la drogue dans des gourdes ; l’alcool dans des bouteilles en plastique » : un an ferme pour le surveillant de prison accusé de corruption en Lot-et-Garonne"
   },
   {
-    "title": "Lutte contre la fraude : le plan de Sébastien Lecornu pour récupérer 1 milliard d’euros supplémentaires",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Lutte contre la fraude : le plan de Sébastien Lecornu pour récupérer 1 milliard d’euros supplémentaires",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-24T14:20:40.000Z",
-        "link": "https://www.lefigaro.fr/conjoncture/lutte-contre-la-fraude-le-plan-de-sebastien-lecornu-pour-recuperer-1-milliard-d-euros-supplementaires-20260924",
-        "score": 97,
-        "summary": "le plan de Sébastien Lecornu pour récupérer 1 milliard d’euros supplémentaires"
-      }
-    ],
-    "summary": "Lutte contre la fraude : le plan de Sébastien Lecornu pour récupérer 1 milliard d’euros supplémentaires"
-  },
-  {
-    "title": "Fraude aux allocations : un homme suspecté d’avoir touché 20 000 euros par an grâce à un double titre de séjour",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Fraude aux allocations : un homme suspecté d’avoir touché 20 000 euros par an grâce à un double titre de séjour",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-09-24T14:30:43.000Z",
-        "link": "https://www.lefigaro.fr/nantes/fraude-aux-allocations-un-homme-suspecte-d-avoir-touche-20-000-euros-par-an-grace-a-un-double-titre-de-sejour-20260924",
-        "score": 97,
-        "summary": "un homme suspecté d’avoir touché 20 000 euros par an grâce à un double titre de séjour"
-      }
-    ],
-    "summary": "Fraude aux allocations : un homme suspecté d’avoir touché 20 000 euros par an grâce à un double titre de séjour"
-  },
-  {
     "title": "Nancy : un septuagénaire condamné à 14 ans de prison pour viols sur trois mineures",
     "score": 97,
     "count": 3,
@@ -364,7 +342,7 @@
       {
         "title": "Nancy : un septuagénaire condamné à 14 ans de prison pour viols sur trois mineures",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/nancy-un-septuagenaire-condamne-a-14-ans-de-prison-pour-viols-sur-trois-mineures-24-09-2026-DLOCHGNJURCS3CNOJVNGH6VYGY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Nancy : un septuagénaire condamné à 14 ans de prison pour viols sur trois mineur..."
@@ -380,7 +358,7 @@
       {
         "title": "Procès de l'assassinat de Federico Martin Aramburu : Loïk Le Priol condamné pour meurtre à 26 ans de réclusion criminelle, Romain Bouvier pour tentative de meurtre à 19 ans de prison",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-09-25T20:00:17.000Z",
+        "time": "2026-09-26T11:54:38.000Z",
         "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/proces-de-l-assassinat-de-federico-martin-aramburu-loik-le-priol-condamne-pour-meurtre-a-26-ans-de-reclusion-criminelle-romain-bouvier-pour-tentative-de-meurtre-a-19-ans-de-prison_8207666.html#xtor=RSS-3-%5Bgeneral%5D",
         "score": 97,
         "summary": "Point de situation critique concernant : Procès de l'assassinat de Federico Martin Aramburu : Loïk Le Priol condamné pour..."
@@ -401,7 +379,7 @@
       {
         "title": "Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/pluie-de-legions-dhonneur-suspectes-le-general-cinq-etoiles-benoit-puga-a-ete-place-en-garde-a-vue-24-09-2026-R6X3E7FEOZC7HNDK3V4VGIMUDE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Pluie de Légions d’honneur suspectes : le général cinq étoiles Benoît Puga a été..."
@@ -502,7 +480,7 @@
       {
         "title": "Un notaire de Caen mis en examen pour escroqueries, faux en écriture publique et blanchiment",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.027Z",
         "link": "https://www.leparisien.fr/calvados-14/un-notaire-de-caen-mis-en-examen-pour-escroqueries-faux-en-ecriture-publique-et-blanchiment-25-09-2026-OQJOEM2MN5DUJDDNULFILUHHEA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un notaire de Caen mis en examen pour escroqueries, faux en écriture publique et..."
@@ -521,7 +499,7 @@
       {
         "title": "« On savait que ça allait arriver » : deux policiers de la Brav-M condamnés après un accident à 130 km/h en plein Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.027Z",
         "link": "https://www.leparisien.fr/faits-divers/on-savait-que-ca-allait-arriver-deux-policiers-de-la-brav-m-condamnes-apres-un-accident-a-130-kmh-en-plein-paris-25-09-2026-Q255E2CT2FGRHELJBMUTB6OFRU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « On savait que ça allait arriver » : deux policiers de la Brav-M condamnés aprè..."
@@ -532,9 +510,10 @@
   {
     "title": " Ordonnances de complaisance, lunettes et lentilles surfacturées… Une vaste escroquerie dans le milieu des opticiens parisiens dans le viseur du parquet de Paris ",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.challenges.fr/rss.xml"
+      "https://www.challenges.fr/rss.xml",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
@@ -544,9 +523,17 @@
         "link": " https://www.challenges.fr/entreprise/sante/ordonnances-de-complaisance-lunettes-et-lentilles-surfacturees-une-vaste-escroquerie-dans-le-milieu-des-opticiens-parisiens-dans-le-viseur-du-parquet-de-paris_646016 ",
         "score": 97,
         "summary": "Point de situation critique concernant :  Ordonnances de complaisance, lunettes et lentilles surfacturées… Une vaste escr..."
+      },
+      {
+        "title": "Escroquerie aux mutuelles : l’enquête qui a démantelé une fraude généralisée dans le secteur de l’optique",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-09-26T10:00:04.000Z",
+        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/26/escroquerie-aux-mutuelles-l-enquete-qui-a-demantele-une-fraude-generalisee-dans-le-secteur-de-l-optique_6783120_4355770.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Escroquerie aux mutuelles : l’enquête qui a démantelé une fraude généralisée dan..."
       }
     ],
-    "summary": " Ordonnances de complaisance, lunettes et lentilles surfacturées… Une vaste escroquerie dans le milieu des opticiens parisiens dans le viseur du parquet de Paris "
+    "summary": " Ordonnances de complaisance, lunettes et lentilles surfacturées… Une vaste escroquerie dans le milieu des opticiens parisiens dans le viseur du parquet de Paris  / Escroquerie aux mutuelles : l’enquête qui a démantelé une fraude généralisée dans le secteur de l’optique"
   },
   {
     "title": " ÉDITORIAL. Face à la crise du carburant, l’État est condamné à choisir entre des remèdes tous imparfaits ",
@@ -582,7 +569,7 @@
       {
         "title": "Mort de Federico Martin Aramburu : les deux principaux accusés Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.027Z",
         "link": "https://www.leparisien.fr/faits-divers/mort-de-federico-martin-aramburu-les-deux-principaux-accuses-loik-le-priol-et-romain-bouvier-condamnes-a-26-et-19-ans-de-prison-25-09-2026-W476IIWULFH5TGBDTGB3C6T5IM.php",
         "score": 97,
         "summary": "les deux principaux accusés Loïk Le Priol et Romain Bouvier condamnés à 26 et 19 ans de prison"
@@ -604,12 +591,12 @@
         "summary": "Point de situation critique concernant : Mort de Federico Martin Aramburu : Loïk Le Priol et Romain Bouvier condamnés à v..."
       },
       {
-        "title": "Mort de Federico Martín Aramburú : Loïk Le Priol et Romain Bouvier condamnés à vingt-six et dix-neuf ans de réclusion criminelle",
+        "title": "Vidéo. Mort de Federico Martín Aramburú : Loïk Le Priol et Romain Bouvier condamnés à vingt-six et dix-neuf ans de réclusion criminelle",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
         "time": "2026-09-25T19:51:35.000Z",
         "link": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/assassinat-de-federico-martin-aramburu-loik-le-priol-et-romain-bouvier-condamnes-a-vingt-six-ans-et-dix-neuf-ans-de-reclusion-criminelle-30777404.php",
         "score": 97,
-        "summary": "Point de situation critique concernant : Mort de Federico Martín Aramburú : Loïk Le Priol et Romain Bouvier condamnés à v..."
+        "summary": "Point de situation critique concernant : Vidéo. Mort de Federico Martín Aramburú : Loïk Le Priol et Romain Bouvier condam..."
       },
       {
         "title": "Paris. Meurtre du rugbyman Aramburu : Le Priol et Bouvier condamnés à 26 et 19 ans de prison",
@@ -785,9 +772,10 @@
   {
     "title": "Entreprises piratées, sites gouvernementaux visés… Le tableau de chasse des dérapages de l’intelligence artificielle",
     "score": 93,
-    "count": 1,
+    "count": 2,
     "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "https://www.challenges.fr/rss.xml"
     ],
     "items": [
       {
@@ -797,9 +785,17 @@
         "link": "https://www.lefigaro.fr/conjoncture/entreprises-piratees-sites-gouvernementaux-vises-le-tableau-de-chasse-des-derapages-de-l-intelligence-artificielle-20260926",
         "score": 93,
         "summary": "Point de situation critique concernant : Entreprises piratées, sites gouvernementaux visés… Le tableau de chasse des déra..."
+      },
+      {
+        "title": " Nouvel incident pour OpenAI : l’intelligence artificielle a piraté plusieurs sites gouvernementaux aux Etats-Unis ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-09-26T15:30:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/tech-numerique/nouvel-incident-pour-openai-lintelligence-artificielle-a-pirate-plusieurs-sites-gouvernementaux-aux-etats-unis_646024 ",
+        "score": 93,
+        "summary": "Point de situation critique concernant :  Nouvel incident pour OpenAI : l’intelligence artificielle a piraté plusieurs si..."
       }
     ],
-    "summary": "Entreprises piratées, sites gouvernementaux visés… Le tableau de chasse des dérapages de l’intelligence artificielle"
+    "summary": "Entreprises piratées, sites gouvernementaux visés… Le tableau de chasse des dérapages de l’intelligence artificielle /  Nouvel incident pour OpenAI : l’intelligence artificielle a piraté plusieurs sites gouvernementaux aux Etats-Unis "
   },
   {
     "title": "Manifs anti-migrants, tentative d’enlèvement, interdit de territoire en France : qui est Daniel Thomas, le militant d’extrême droite britannique arrêté ?",
@@ -812,7 +808,7 @@
       {
         "title": "Manifs anti-migrants, tentative d’enlèvement, interdit de territoire en France : qui est Daniel Thomas, le militant d’extrême droite britannique arrêté ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/international/manifs-anti-migrants-tentative-denlevement-interdit-de-territoire-en-france-qui-est-daniel-thomas-le-militant-dextreme-droite-britannique-arrete-24-09-2026-PIO7SLWVNJFC3CDKHBU22YOTY4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Manifs anti-migrants, tentative d’enlèvement, interdit de territoire en France :..."
@@ -831,7 +827,7 @@
       {
         "title": "Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur des enfants de 3 à 5 ans mis en examen et incarcéré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/paris-75/paris-le-professeur-danglais-soupconne-de-viols-et-dagressions-sexuelles-sur-des-enfants-de-3-a-5-ans-mis-en-examen-et-incarcere-24-09-2026-2HQYOMU3TZGWHFKW73MS7KBRUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : le professeur d’anglais soupçonné de viols et d’agressions sexuelles sur..."
@@ -850,7 +846,7 @@
       {
         "title": "Marseille : un commissaire mis en examen pour avoir protégé des policiers soupçonnés de violences sur Angelina, 19 ans",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/bouches-du-rhone-13/marseille-un-commissaire-mis-en-examen-pour-avoir-protege-des-policiers-soupconnes-de-violences-sur-angelina-19-ans-24-09-2026-XBZW6QE2CFES5P6RBDBPQDYDHM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Marseille : un commissaire mis en examen pour avoir protégé des policiers soupço..."
@@ -877,7 +873,7 @@
       {
         "title": "Meurtre sur l’île de la Comtesse : pourquoi le mari est-il jugé 16 ans après ?",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/meurtre-sur-lile-de-la-comtesse-pourquoi-le-mari-est-il-juge-16-ans-apres-24-09-2026-UTYAB22J65D6LCBJM4DKACDFOE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre sur l’île de la Comtesse : pourquoi le mari est-il jugé 16 ans après ?..."
@@ -896,7 +892,7 @@
       {
         "title": "L’ancien joueur de Bordeaux Andy Carroll affirme avoir été victime d’une agression sexuelle en 2021",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/sports/football/lancien-joueur-de-bordeaux-andy-carroll-affirme-avoir-ete-victime-dune-agression-sexuelle-en-2021-24-09-2026-3SZQ3IUXPVAZ3DAWBCDZZOV56I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’ancien joueur de Bordeaux Andy Carroll affirme avoir été victime d’une agressi..."
@@ -915,7 +911,7 @@
       {
         "title": "Essonne : « Tonton chicha » soupçonné d’avoir violé sa petite protégée de l’immeuble",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/essonne-tonton-chicha-soupconne-davoir-viole-sa-petite-protegee-de-limmeuble-24-09-2026-2IJS2L6X5JH4ZHQ3WO62IQREMY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Essonne : « Tonton chicha » soupçonné d’avoir violé sa petite protégée de l’imme..."
@@ -934,7 +930,7 @@
       {
         "title": "Un homme arrêté onze ans après l’agression sexuelle d’une femme à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/un-homme-arrete-onze-ans-apres-lagression-sexuelle-dune-femme-a-paris-24-09-2026-244MDDIQB5CXNB5AVDZ4VSS4KE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un homme arrêté onze ans après l’agression sexuelle d’une femme à Paris..."
@@ -953,7 +949,7 @@
       {
         "title": "Dijon : un homme soupçonné de féminicide interpellé, sa compagne retrouvée morte dans un appartement",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/dijon-un-homme-soupconne-de-feminicide-interpelle-sa-compagne-retrouvee-morte-dans-un-appartement-24-09-2026-WT45GBFJ6JB7BGXY3ZMCGIA7CU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Dijon : un homme soupçonné de féminicide interpellé, sa compagne retrouvée morte..."
@@ -972,7 +968,7 @@
       {
         "title": "13 Novembre : la justice belge va auditionner les victimes avant la possible libération du « logisticien des attentats »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/13-novembre-la-justice-belge-va-auditionner-les-victimes-avant-la-possible-liberation-du-logisticien-des-attentats-23-09-2026-OGXRFOKVOJF6DPBG4SELW7GJ3A.php",
         "score": 90,
         "summary": "Point de situation critique concernant : 13 Novembre : la justice belge va auditionner les victimes avant la possible lib..."
@@ -991,7 +987,7 @@
       {
         "title": "Aube : un sexagénaire tué à son domicile, ses agresseurs en fuite",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/aube-10/aube-un-sexagenaire-tue-a-son-domicile-ses-agresseurs-en-fuite-23-09-2026-SBVECX6VDFF4BIHP3DEYFEQDIE.php",
         "score": 90,
         "summary": "un sexagénaire tué à son domicile, ses agresseurs en fuite"
@@ -1010,7 +1006,7 @@
       {
         "title": "Attentat de la Tour Eiffel en 2023 : les investigations rouvertes à la demande de la défense",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.028Z",
         "link": "https://www.leparisien.fr/faits-divers/attentat-de-la-tour-eiffel-en-2023-les-investigations-rouvertes-a-la-demande-de-la-defense-23-09-2026-5TKYOIXOBFHPTGTCYSJBUZKYQM.php",
         "score": 90,
         "summary": "les investigations rouvertes à la demande de la défense"
@@ -1075,7 +1071,7 @@
       {
         "title": "Une femme pompier de 24 ans tuée dans un feu de forêt dans le nord du Portugal",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.027Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-pompier-de-24-ans-tuee-dans-un-feu-de-foret-dans-le-nord-du-portugal-25-09-2026-LI73GSCMORA3DDSOLMH7UUJFFE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Une femme pompier de 24 ans tuée dans un feu de forêt dans le nord du Portugal..."
@@ -1103,7 +1099,7 @@
       {
         "title": "Meurtre de Thomas à Crépol : onze jeunes renvoyés aux assises pour meurtre aggravé par du racisme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
+        "time": "2026-09-26T15:34:54.027Z",
         "link": "https://www.leparisien.fr/faits-divers/meurtre-de-thomas-a-crepol-onze-jeunes-renvoyes-aux-assises-pour-meurtre-aggrave-par-du-racisme-25-09-2026-MCIUMHBPNZEPPDVHNJ2YJTMA4I.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre de Thomas à Crépol : onze jeunes renvoyés aux assises pour meurtre aggra..."
@@ -1204,44 +1200,6 @@
     "summary": "Un couple d’octogénaires tué par son voisin de 90 ans au fusil de chasse dans les Pyrénées-Atlantiques"
   },
   {
-    "title": "Violences contre les élus : l’agresseur d’un maire de Seine-et-Marne écroué, une peine pour « dissuader certains » ?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences contre les élus : l’agresseur d’un maire de Seine-et-Marne écroué, une peine pour « dissuader certains » ?",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/violences-contre-les-elus-lagresseur-dun-maire-de-seine-et-marne-ecroue-une-peine-pour-dissuader-certains-26-09-2026-RPVJHW7FPBCZTASZSUYPCMDAZQ.php",
-        "score": 90,
-        "summary": "l’agresseur d’un maire de Seine-et-Marne écroué, une peine pour « dissuader certains » ?"
-      }
-    ],
-    "summary": "Violences contre les élus : l’agresseur d’un maire de Seine-et-Marne écroué, une peine pour « dissuader certains » ?"
-  },
-  {
-    "title": "Yvelines : le principal adjoint d’un collège de Maurepas mis en examen pour viol sur mineur",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Yvelines : le principal adjoint d’un collège de Maurepas mis en examen pour viol sur mineur",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-09-26T09:01:49.935Z",
-        "link": "https://www.leparisien.fr/yvelines-78/yvelines-le-principal-adjoint-dun-college-de-maurepas-mis-en-examen-pour-viol-sur-mineur-25-09-2026-3CAYZJC7VRDKXHU42OL5C4QLCI.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Yvelines : le principal adjoint d’un collège de Maurepas mis en examen pour viol..."
-      }
-    ],
-    "summary": "Yvelines : le principal adjoint d’un collège de Maurepas mis en examen pour viol sur mineur"
-  },
-  {
     "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
     "score": 90,
     "count": 1,
@@ -1252,7 +1210,7 @@
       {
         "title": "[CYBER] Microsoft a publié un code de conduite pour encadrer ses IA",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:37.940Z",
+        "time": "2026-09-26T15:33:53.456Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-publie-un-code-de-conduite-pour-encadrer-ses-ia-100785.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a publié un code de conduite pour encadrer ses IA..."
@@ -1271,7 +1229,7 @@
       {
         "title": "[CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines de milliards?",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:35.823Z",
+        "time": "2026-09-26T15:33:51.563Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-ia-peut-on-appeler-au-ralentissement-tout-en-investissant-des-centaines-de-milliards-100786.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] IA: peut-on appeler au ralentissement tout en investissant des centaines..."
@@ -1290,7 +1248,7 @@
       {
         "title": "[CYBER] Google corrige 42 défaillances de la courbe dans Chrome",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:30.336Z",
+        "time": "2026-09-26T15:33:46.684Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-google-corrige-42-failles-de-securite-dans-chrome-100795.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Google corrige 42 défaillances de la courbe dans Chrome..."
@@ -1309,7 +1267,7 @@
       {
         "title": "[CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:32.583Z",
+        "time": "2026-09-26T15:33:48.683Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-lance-astra-for-law-pour-les-professionnels-du-droit-100794.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] OpenAI lance Astra pour le droit pour les professionnels du droit..."
@@ -1317,7 +1275,7 @@
       {
         "title": "[CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:28.274Z",
+        "time": "2026-09-26T15:33:44.852Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-chercheurs-de-hacktron-ai-ont-utilise-claude-pour-pirater-openai-100799.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les chercheurs de Hacktron AI ont utilisé Claude pour pirate OpenAI..."
@@ -1325,7 +1283,7 @@
       {
         "title": "[CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:17.193Z",
+        "time": "2026-09-26T15:33:34.903Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La lance de Secutec un outil pour contrer l' IA de l' Ombre..."
@@ -1344,7 +1302,7 @@
       {
         "title": "[CYBER] Le Patch mardi de septembre provoque des insectes",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:26.018Z",
+        "time": "2026-09-26T15:33:42.834Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-le-patch-tuesday-de-septembre-provoque-des-bugs-100798.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le Patch mardi de septembre provoque des insectes..."
@@ -1363,7 +1321,7 @@
       {
         "title": "[CYBER] NetExplorer changement de nom et devient Voltn",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:21.707Z",
+        "time": "2026-09-26T15:33:38.969Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-netexplorer-change-de-nom-et-devient-voltn-100801.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] NetExplorer changement de nom et devient Voltn..."
@@ -1382,7 +1340,7 @@
       {
         "title": "[CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:24.148Z",
+        "time": "2026-09-26T15:33:41.181Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-gemini-accede-par-erreur-aux-systemes-de-trois-entreprises-100800.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les deux jumeaux accèdent à l'erreur aux trois entreprises..."
@@ -1401,7 +1359,7 @@
       {
         "title": "[CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire",
         "source": "Le Monde Informatique",
-        "time": "2026-09-26T09:00:19.844Z",
+        "time": "2026-09-26T15:33:37.283Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-appel-a-renforcer-le-controle-de-l-ia-la-france-non-signataire-100804.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Appel à renforcer le contrôle de l'IA: la France non signataire..."
