@@ -54,7 +54,7 @@
       {
         "title": "Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faouzi B. a été placé en détention provisoire",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/soupconne-de-financer-le-hamas-depuis-la-france-le-dirigeant-dassociation-faouzi-b-a-ete-place-en-detention-provisoire-07-10-2026-K3ZUV5NBT5BU7FHSIGJOSFFBIE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Soupçonné de financer le Hamas depuis la France, le dirigeant d’association Faou..."
@@ -103,7 +103,7 @@
   {
     "title": "Mort de Federico Martin Aramburu : Loïk Le Priol, condamné à 26 ans de prison, fait appel",
     "score": 97,
-    "count": 1,
+    "count": 2,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
@@ -115,9 +115,17 @@
         "link": "https://www.leparisien.fr/faits-divers/mort-de-federico-martin-aramburu-loik-le-priol-condamne-a-26-ans-de-prison-fait-appel-05-10-2026-XAHV3QDXTFDSTOZLNWKD3YKRTA.php",
         "score": 97,
         "summary": "Loïk Le Priol, condamné à 26 ans de prison, fait appel"
+      },
+      {
+        "title": "Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le viol de deux mineures",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T23:59:45.456Z",
+        "link": "https://www.leparisien.fr/faits-divers/yvelines-un-coach-de-taekwondo-condamne-a-5-ans-de-prison-en-appel-pour-le-viol-de-deux-mineures-07-10-2026-6YVKQGUHJFAWHH5AC7ZOVD2BMM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le vio..."
       }
     ],
-    "summary": "Mort de Federico Martin Aramburu : Loïk Le Priol, condamné à 26 ans de prison, fait appel"
+    "summary": "Mort de Federico Martin Aramburu : Loïk Le Priol, condamné à 26 ans de prison, fait appel / Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le viol de deux mineures"
   },
   {
     "title": "Deux footballeurs du club de Nancy placés en détention provisoire pour « viol en réunion »",
@@ -141,70 +149,43 @@
   {
     "title": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue",
     "score": 97,
-    "count": 3,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/lyon-lex-directeur-du-groupe-scolaire-catholique-des-chartreux-accuse-de-viols-place-en-garde-a-vue-05-10-2026-7O5F5DVVQVBH3GN5HVSL76CJFM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de vio..."
-      },
-      {
-        "title": "Lyon : l’ex-directeur d’un établissement catholique accusé de viols en garde à vue",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T18:27:06.000Z",
-        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/lyon-l-ex-directeur-d-un-etablissement-catholique-accuse-de-viols-en-garde-a-vue-30934026.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Lyon : l’ex-directeur d’un établissement catholique accusé de viols en garde à v..."
-      },
-      {
-        "title": "Rhône. Un ancien directeur d'établissement catholique à Lyon en garde à vue pour viols aggravés",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-05T18:35:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/05/un-ancien-directeur-d-etablissement-catholique-en-garde-a-vue-pour-viols-aggraves",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Rhône. Un ancien directeur d'établissement catholique à Lyon en garde à vue pour..."
       }
     ],
-    "summary": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue / Lyon : l’ex-directeur d’un établissement catholique accusé de viols en garde à vue"
+    "summary": "Lyon : l’ex-directeur du groupe scolaire catholique des Chartreux, accusé de viols, placé en garde à vue"
   },
   {
     "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
     "score": 97,
-    "count": 5,
+    "count": 4,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss"
     ],
     "items": [
       {
         "title": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/vendee-un-animateur-du-periscolaire-condamne-a-deux-ans-de-prison-ferme-pour-agressions-sexuelles-05-10-2026-5PD66DNTHRBIRNAPCLADJDPMEY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour a..."
       },
       {
-        "title": "« La mauvaise rencontre pour elle, c’est vous monsieur » : un quadragénaire condamné en Dordogne pour violences et agressions sexuelles sur sa fille",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-05T19:13:28.000Z",
-        "link": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/la-mauvaise-rencontre-pour-elle-c-est-vous-monsieur-un-quadragenaire-condamne-en-dordogne-pour-violences-et-agressions-sexuelles-sur-sa-fille-30932264.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « La mauvaise rencontre pour elle, c’est vous monsieur » : un quadragénaire cond..."
-      },
-      {
         "title": "« Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/je-veux-juste-quelle-disparaisse-un-ancien-candidat-d-american-idol-condamne-a-la-prison-a-vie-pour-le-meurtre-de-sa-femme-06-10-2026-HJJKK3SDZBBANLWUSSESJOP5KU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » c..."
@@ -226,7 +207,7 @@
         "summary": "Point de situation critique concernant : Grenoble. « Elle lui a dit 15 ou 20 fois d’arrêter » : il est condamné à quatre ..."
       }
     ],
-    "summary": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles / « La mauvaise rencontre pour elle, c’est vous monsieur » : un quadragénaire condamné en Dordogne pour violences et agressions sexuelles sur sa fille"
+    "summary": "Vendée : un animateur du périscolaire condamné à deux ans de prison ferme pour agressions sexuelles / « Je veux juste qu’elle disparaisse » : un ancien candidat d’« American Idol » condamné à la prison à vie pour le meurtre de sa femme"
   },
   {
     "title": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations",
@@ -239,7 +220,7 @@
       {
         "title": "« En roue libre avec un sentiment de toute-puissance » : un policier condamné pour partage illégal d’informations",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/paris-75/en-roue-libre-avec-un-sentiment-de-toute-puissance-un-policier-condamne-pour-partage-illegal-dinformations-05-10-2026-LJOIUHIY3NDPFI2YQSGT7JI5HY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « En roue libre avec un sentiment de toute-puissance » : un policier condamné po..."
@@ -247,7 +228,7 @@
       {
         "title": "« Emblématique d’un quotidien » : en Essonne, quatre mois de prison avec sursis requis contre un policier pour des violences lors d’un contrôle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/essonne-91/emblematique-dun-quotidien-en-essonne-quatre-mois-de-prison-avec-sursis-requis-contre-un-policier-pour-des-violences-lors-dun-controle-06-10-2026-M5NYC2PXRRENBP3PZ4SHOCDRZI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Emblématique d’un quotidien » : en Essonne, quatre mois de prison avec sursis ..."
@@ -274,32 +255,13 @@
       {
         "title": "Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/saint-thibault-des-vignes-condamne-en-juin-a-14-ans-de-reclusion-pour-la-mort-diderlindo-amadou-k-a-ete-libere-06-10-2026-WE4NX4W5ABEMDFAJTDL6LK7EHM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort ..."
       }
     ],
     "summary": "Corse : un couple de Calenzana lourdement condamné pour des violences après la mort de leur bébé de quatre mois / Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré"
-  },
-  {
-    "title": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-10-05T22:58:23.000Z",
-        "link": "https://www.lemonde.fr/culture/article/2026/10/06/jeffrey-archer-romancier-britannique-a-succes-aux-ambitions-politiques-freinees-par-les-scandales-est-mort_6788621_3246.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées..."
-      }
-    ],
-    "summary": "Jeffrey Archer, romancier britannique à succès aux ambitions politiques freinées par les scandales, est mort"
   },
   {
     "title": "Plainte, enquête interne et hashtag « I am Jane Doe » : le récit du scandale du viol collectif à l’université Cornell",
@@ -312,7 +274,7 @@
       {
         "title": "Plainte, enquête interne et hashtag « I am Jane Doe » : le récit du scandale du viol collectif à l’université Cornell",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/plainte-enquete-interne-et-hashtag-i-am-jane-doe-le-recit-du-scandale-du-viol-collectif-a-luniversite-cornell-06-10-2026-ETDIZJRXFNCZLFTODEWADDKE2Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Plainte, enquête interne et hashtag « I am Jane Doe » : le récit du scandale du ..."
@@ -445,7 +407,7 @@
       {
         "title": "Professeur aspergé d’essence à La Ciotat : deux autres mineurs placés en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/professeur-asperge-dessence-a-la-ciotat-deux-autres-mineurs-places-en-garde-a-vue-06-10-2026-BVVN3VRXWBH63AWPTSCWQHA3TA.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Professeur aspergé d’essence à La Ciotat : deux autres mineurs placés en garde à..."
@@ -464,7 +426,7 @@
       {
         "title": "Un père poignardé en allant récupérer ses deux enfants dans le Doubs, le nouveau conjoint de son ex-compagne placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/un-pere-poignarde-en-allant-recuperer-ses-deux-enfants-dans-le-doubs-le-nouveau-conjoint-de-son-ex-compagne-place-en-garde-a-vue-06-10-2026-7QZ6TY2DOVEXXJIQZI3353VY2Q.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un père poignardé en allant récupérer ses deux enfants dans le Doubs, le nouveau..."
@@ -559,7 +521,7 @@
       {
         "title": "Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de ski à Crans-Montana démissionne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/sports/ski/suspecte-de-fraude-et-dabus-de-confiance-le-patron-des-prochains-mondiaux-de-ski-a-crans-montana-demissionne-07-10-2026-436RLHHOLJDTLPMJUIHKT2APKU.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Suspecté de fraude et d’abus de confiance, le patron des prochains Mondiaux de s..."
@@ -616,7 +578,7 @@
       {
         "title": "Affaire des vols de pièces d’or à Reims : le Franco-Russe Pierre Malinowski condamné à 5 ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.995Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/marne-51/affaire-des-vols-de-pieces-dor-a-reims-le-franco-russe-pierre-malinowski-condamne-a-5-ans-de-prison-07-10-2026-HNNTBCTSB5A5PCSXD6F3OWJ4TY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Affaire des vols de pièces d’or à Reims : le Franco-Russe Pierre Malinowski cond..."
@@ -635,7 +597,7 @@
       {
         "title": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/son-pere-lentend-se-disputer-avec-son-compagnon-au-telephone-oceane-23-ans-retrouvee-morte-le-lendemain-a-liege-son-conjoint-inculpe-07-10-2026-67L5HTNJG5GTFLFVMGQLYEYD2U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, ..."
@@ -703,9 +665,11 @@
   {
     "title": "Loiret. Trois mineurs en garde à vue à Orléans pour apologie du terrorisme après une vidéo",
     "score": 97,
-    "count": 1,
+    "count": 3,
     "sources": [
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.lemonde.fr/societe/rss_full.xml"
     ],
     "items": [
       {
@@ -715,9 +679,25 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/07/trois-mineurs-en-garde-a-vue-a-orleans-pour-apologie-du-terrorisme-apres-une-video",
         "score": 97,
         "summary": "Point de situation critique concernant : Loiret. Trois mineurs en garde à vue à Orléans pour apologie du terrorisme après..."
+      },
+      {
+        "title": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-07T23:59:45.456Z",
+        "link": "https://www.leparisien.fr/faits-divers/chanson-faisant-reference-a-merah-et-abdeslam-trois-mineurs-en-garde-a-vue-pour-apologie-du-terrorisme-apres-une-video-filmee-lors-dun-blocus-lyceen-07-10-2026-JTWDK6J4BVCOFDQLFZQDM5KL2Y.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé,..."
+      },
+      {
+        "title": "Apologie du terrorisme : trois mineurs en garde à vue à Orléans après une vidéo dans un lycée, mentionnant les attaques de Mohamed Merah et Salah Abdeslam",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-10-07T23:08:41.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/10/08/apologie-du-terrorisme-trois-mineurs-en-garde-a-vue-a-orleans-apres-une-video-dans-un-lycee-mentionnant-les-attaques-de-mohamed-merah-et-salah-abdeslam_6789689_3224.html",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Apologie du terrorisme : trois mineurs en garde à vue à Orléans après une vidéo ..."
       }
     ],
-    "summary": "Loiret. Trois mineurs en garde à vue à Orléans pour apologie du terrorisme après une vidéo"
+    "summary": "Loiret. Trois mineurs en garde à vue à Orléans pour apologie du terrorisme après une vidéo / Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme"
   },
   {
     "title": "Annecy. Nouvelle confrontation des lycéens avec les forces de l’ordre : un jeune placé en garde à vue pour violences aggravées sur les gendarmes",
@@ -813,6 +793,25 @@
       }
     ],
     "summary": "Mélenchon VS le gouverneur de la Banque de France : Pétain, Dreyfus… Qui a été condamné pour « trahison » en France ?"
+  },
+  {
+    "title": "Incendies en Gironde : un pyromane présumé interpellé en Castillonnais et placé en garde à vue",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Incendies en Gironde : un pyromane présumé interpellé en Castillonnais et placé en garde à vue",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-07T19:50:43.000Z",
+        "link": "https://www.sudouest.fr/gironde/castillon-la-bataille/incendies-en-gironde-un-pyromane-presume-interpelle-en-castillonnais-et-place-en-garde-a-vue-30968754.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Incendies en Gironde : un pyromane présumé interpellé en Castillonnais et placé ..."
+      }
+    ],
+    "summary": "Incendies en Gironde : un pyromane présumé interpellé en Castillonnais et placé en garde à vue"
   },
   {
     "title": "C’est quoi Brixhub, ce « lookup » aux 11 milliards de données personnelles piratées ?",
@@ -1176,7 +1175,7 @@
       {
         "title": "L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter plainte pour « tentative d’homicide volontaire »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.997Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/eden-aurait-pu-mourir-lavocate-du-jeune-blesse-au-visage-a-saint-ouen-laumone-annonce-porter-plainte-05-10-2026-NKQ6ODZQIZE73EEJUNU4QNA2WY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’avocate d’Eden, le jeune blessé au visage à Saint-Ouen-l’Aumône annonce porter..."
@@ -1195,7 +1194,7 @@
       {
         "title": "« On va arriver nulle part » : la défense catastrophique de « Crapule », jugé pour l’assassinat de Johnnay à Champigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/on-va-arriver-nulle-part-la-defense-catastrophique-de-crapule-juge-pour-lassassinat-de-johnnay-a-champigny-06-10-2026-OLBPYHO47RCFTK5ND2ZRFSRRBM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « On va arriver nulle part » : la défense catastrophique de « Crapule », jugé po..."
@@ -1214,7 +1213,7 @@
       {
         "title": "« D’abord, on les a écoutés » : comment des médiateurs de Corbeil tentent d’éviter les violences lors des blocus lycéens",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/essonne-91/dabord-on-les-a-ecoutes-comment-des-mediateurs-de-corbeil-tentent-deviter-les-violences-lors-des-blocus-lyceens-06-10-2026-Q6L6PK544VDZ5MSI6G3DQJMUOU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « D’abord, on les a écoutés » : comment des médiateurs de Corbeil tentent d’évit..."
@@ -1233,7 +1232,7 @@
       {
         "title": "Trafic de drogues entre la prison de Meaux et la Californie : 21 suspects renvoyés en correctionnelle",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/trafic-de-drogues-entre-la-prison-de-meaux-et-la-californie-21-suspects-renvoyes-en-correctionnelle-06-10-2026-SDZ7RFBDB5B5ZN5LZAKO53XRFQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Trafic de drogues entre la prison de Meaux et la Californie : 21 suspects renvoy..."
@@ -1252,7 +1251,7 @@
       {
         "title": "Blocage des lycées : IGPN saisie, version de la victime… Ce que l’on sait des soupçons d’agression sexuelle d’un policier sur une jeune fille à Metz",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/blocage-des-lycees-ligpn-saisie-pour-des-soupcons-dagression-sexuelle-dun-policier-sur-une-jeune-fille-a-metz-06-10-2026-GW245OG2VFHMLMR2GTRQEYTZ5Q.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Blocage des lycées : IGPN saisie, version de la victime… Ce que l’on sait des so..."
@@ -1271,7 +1270,7 @@
       {
         "title": "Explosion de la rue de Trévise : les parties civiles finalement autorisées à suivre le procès via une webradio",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/explosion-de-la-rue-de-trevise-les-parties-civiles-finalement-autorisees-a-suivre-le-proces-via-une-webradio-06-10-2026-PBMBGAVSMZB6FPUA7BS4AYGL34.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Explosion de la rue de Trévise : les parties civiles finalement autorisées à sui..."
@@ -1290,7 +1289,7 @@
       {
         "title": "Lycées bloqués, manifestations, violences… Comment la mobilisation s’est étendue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.995Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/lycees-bloques-manifestations-violences-comment-la-mobilisation-sest-etendue-07-10-2026-UWEL3JBHIFELTNPDNRCAK7CJRY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lycées bloqués, manifestations, violences… Comment la mobilisation s’est étendue..."
@@ -1309,7 +1308,7 @@
       {
         "title": "L’ancienne médecin de la reine Camilla à Sandringham tuée par son mari alors qu’elle organisait une soirée pyjama pour ses enfants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-07T18:19:12.996Z",
+        "time": "2026-10-07T23:59:45.456Z",
         "link": "https://www.leparisien.fr/faits-divers/lancienne-medecin-de-la-reine-camilla-a-sandringham-tuee-par-son-mari-alors-quelle-organisait-une-soiree-pyjama-pour-ses-enfants-07-10-2026-6TPXIED7EJCKBP7YBOTCQB7MNY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’ancienne médecin de la reine Camilla à Sandringham tuée par son mari alors qu’..."
@@ -1347,7 +1346,7 @@
       {
         "title": "[CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:18:06.158Z",
+        "time": "2026-10-07T23:59:05.944Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Un agent d'OpenAI est introduit dans l'assurance maladie en Australie..."
@@ -1385,7 +1384,7 @@
       {
         "title": "[CYBER] Le son de Claude Sonnet 5.5",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:18:03.482Z",
+        "time": "2026-10-07T23:59:04.386Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le son de Claude Sonnet 5.5..."
@@ -1405,7 +1404,7 @@
       {
         "title": "[CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'expédition",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:59.495Z",
+        "time": "2026-10-07T23:59:02.240Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Carrefour avertit ses clients d'une fuite de don au prestataire de l'exp..."
@@ -1432,7 +1431,7 @@
       {
         "title": "[CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:18:02.101Z",
+        "time": "2026-10-07T23:59:03.669Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] L'OpenAI renonce au lanceur GPT-6.1 Astra..."
@@ -1451,7 +1450,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:55.460Z",
+        "time": "2026-10-07T23:59:00.034Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1470,7 +1469,7 @@
       {
         "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:53.159Z",
+        "time": "2026-10-07T23:58:58.761Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
@@ -1489,7 +1488,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:47.966Z",
+        "time": "2026-10-07T23:58:55.805Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1508,7 +1507,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:50.446Z",
+        "time": "2026-10-07T23:58:57.205Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
@@ -1717,7 +1716,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:41.467Z",
+        "time": "2026-10-07T23:58:51.966Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1736,12 +1735,31 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-07T18:17:45.300Z",
+        "time": "2026-10-07T23:58:54.233Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
       }
     ],
     "summary": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres"
+  },
+  {
+    "title": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates",
+        "source": "Zataz",
+        "time": "2026-10-07T23:11:56.000Z",
+        "link": "https://www.zataz.com/trump-mobile-byod-revendique-3-615-dossiers-pirates/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates..."
+      }
+    ],
+    "summary": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates"
   }
 ]
