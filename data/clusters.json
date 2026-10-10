@@ -49,7 +49,7 @@
       {
         "title": "Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le viol de deux mineures",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/yvelines-un-coach-de-taekwondo-condamne-a-5-ans-de-prison-en-appel-pour-le-viol-de-deux-mineures-07-10-2026-6YVKQGUHJFAWHH5AC7ZOVD2BMM.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Yvelines : un coach de taekwondo condamné à 5 ans de prison en appel pour le vio..."
@@ -154,10 +154,11 @@
   {
     "title": "Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "https://www.20minutes.fr/feeds/rss-une.xml"
     ],
     "items": [
       {
@@ -175,6 +176,14 @@
         "link": "https://www.sudouest.fr/faits-divers/un-indien-condamne-a-vingt-ans-de-reclusion-pour-des-tortures-imposees-en-ligne-a-des-mineures-31001365.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Un Indien condamné à vingt ans de réclusion pour des tortures imposées en ligne ..."
+      },
+      {
+        "title": "Un Indien condamné à 20 ans de réclusion pour des sévices sexuels imposés en ligne à des mineures",
+        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
+        "time": "2026-10-09T22:07:55.000Z",
+        "link": "https://www.20minutes.fr/justice/4253006-20261010-indien-condamne-20-ans-reclusion-sevices-sexuels-imposes-ligne-mineures?at_medium=display&at_campaign=149",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Un Indien condamné à 20 ans de réclusion pour des sévices sexuels imposés en lig..."
       }
     ],
     "summary": "Saint-Thibault-des-Vignes : condamné en juin à 14 ans de réclusion pour la mort d’Iderlindo, Amadou K. a été libéré / Un Indien condamné à vingt ans de réclusion pour des tortures imposées en ligne à des mineures"
@@ -283,7 +292,7 @@
       {
         "title": "Affaire des vols de pièces d’or à Reims : le Franco-Russe Pierre Malinowski condamné à 5 ans de prison",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/marne-51/affaire-des-vols-de-pieces-dor-a-reims-le-franco-russe-pierre-malinowski-condamne-a-5-ans-de-prison-07-10-2026-HNNTBCTSB5A5PCSXD6F3OWJ4TY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Affaire des vols de pièces d’or à Reims : le Franco-Russe Pierre Malinowski cond..."
@@ -302,7 +311,7 @@
       {
         "title": "Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, retrouvée morte le lendemain à Liège, son conjoint inculpé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.639Z",
         "link": "https://www.leparisien.fr/faits-divers/son-pere-lentend-se-disputer-avec-son-compagnon-au-telephone-oceane-23-ans-retrouvee-morte-le-lendemain-a-liege-son-conjoint-inculpe-07-10-2026-67L5HTNJG5GTFLFVMGQLYEYD2U.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Son père l’entend se disputer avec son compagnon au téléphone : Océane, 23 ans, ..."
@@ -313,58 +322,21 @@
   {
     "title": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme",
     "score": 97,
-    "count": 2,
+    "count": 1,
     "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
     ],
     "items": [
       {
         "title": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/chanson-faisant-reference-a-merah-et-abdeslam-trois-mineurs-en-garde-a-vue-pour-apologie-du-terrorisme-apres-une-video-filmee-lors-dun-blocus-lyceen-07-10-2026-JTWDK6J4BVCOFDQLFZQDM5KL2Y.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé,..."
-      },
-      {
-        "title": "Apologie du terrorisme : trois mineurs en garde à vue à Orléans après une vidéo dans un lycée mentionnant les attaques de Mohammed Merah et Salah Abdeslam",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
-        "time": "2026-10-07T23:08:41.000Z",
-        "link": "https://www.lemonde.fr/societe/article/2026/10/08/apologie-du-terrorisme-trois-mineurs-en-garde-a-vue-a-orleans-apres-une-video-dans-un-lycee-mentionnant-les-attaques-de-mohamed-merah-et-salah-abdeslam_6789689_3224.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Apologie du terrorisme : trois mineurs en garde à vue à Orléans après une vidéo ..."
       }
     ],
-    "summary": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme / Apologie du terrorisme : trois mineurs en garde à vue à Orléans après une vidéo dans un lycée mentionnant les attaques de Mohammed Merah et Salah Abdeslam"
-  },
-  {
-    "title": "Etats-Unis : Condamnée à mort et toujours hospitalisée, Christa Pike a failli être débranchée",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.20minutes.fr/feeds/rss-une.xml",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
-    ],
-    "items": [
-      {
-        "title": "Etats-Unis : Condamnée à mort et toujours hospitalisée, Christa Pike a failli être débranchée",
-        "source": "https://www.20minutes.fr/feeds/rss-une.xml",
-        "time": "2026-10-08T00:28:22.000Z",
-        "link": "https://www.20minutes.fr/monde/etats-unis/4252357-20261008-etats-unis-condamnee-mort-toujours-hospitalisee-christa-pike-failli-etre-debranchee?at_medium=display&at_campaign=149",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Etats-Unis : Condamnée à mort et toujours hospitalisée, Christa Pike a failli êt..."
-      },
-      {
-        "title": "États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injections létales et qui s’est réveillée six jours plus tard ?",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-08T10:18:42.000Z",
-        "link": "https://www.sudouest.fr/justice/prison/etats-unis-qui-est-christa-pike-la-condamnee-a-mort-qui-a-survecu-aux-injections-letales-et-qui-s-est-reveillee-six-jours-plus-tard-30972538.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injecti..."
-      }
-    ],
-    "summary": "Etats-Unis : Condamnée à mort et toujours hospitalisée, Christa Pike a failli être débranchée / États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injections létales et qui s’est réveillée six jours plus tard ?"
+    "summary": "Chanson faisant référence à Merah et Abdeslam : le rappeur BORO700 va être jugé, trois mineurs en garde à vue pour apologie du terrorisme"
   },
   {
     "title": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale",
@@ -377,7 +349,7 @@
       {
         "title": "Meurtre de Joey, 29 ans, près de la gare de Cesson : ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/mort-de-joey-a-cesson-ses-meurtriers-condamnes-a-25-ans-de-reclusion-criminelle-08-10-2026-J74XAWOZUFCAFARRX5SJPZVTIU.php",
         "score": 97,
         "summary": "ses meurtriers condamnés jusqu’à 25 ans par la cour d’assises spéciale"
@@ -403,6 +375,25 @@
       }
     ],
     "summary": "Pays basque : la société Mer et golf loisirs placée en liquidation judiciaire, sa gestionnaire mise en cause pour abus de biens sociaux"
+  },
+  {
+    "title": "États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injections létales et qui s’est réveillée six jours plus tard ?",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injections létales et qui s’est réveillée six jours plus tard ?",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-08T10:18:42.000Z",
+        "link": "https://www.sudouest.fr/justice/prison/etats-unis-qui-est-christa-pike-la-condamnee-a-mort-qui-a-survecu-aux-injections-letales-et-qui-s-est-reveillee-six-jours-plus-tard-30972538.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injecti..."
+      }
+    ],
+    "summary": "États-Unis : qui est Christa Pike, la condamnée à mort qui a survécu aux injections létales et qui s’est réveillée six jours plus tard ?"
   },
   {
     "title": "Isère. Le barber-shop est soupçonné d’abriter un trafic de stupéfiants : un gérant en fuite, un “client” condamné",
@@ -736,7 +727,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:20.722Z",
+        "time": "2026-10-10T03:51:39.814Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -782,7 +773,7 @@
   {
     "title": "Primaire de la gauche : le vote prolongé jusqu’à dimanche 18 heures après une cyberattaque",
     "score": 93,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.lemonde.fr/politique/rss_full.xml",
@@ -821,6 +812,14 @@
         "link": "https://www.20minutes.fr/politique/4252996-20261009-primaire-gauche-perturbe-cyberattaque-vote-prolonge-jusqu-dimanche-soir?at_medium=display&at_campaign=149",
         "score": 93,
         "summary": "Point de situation critique concernant : Primaire de la gauche : Perturbé par une cyberattaque, le vote prolongé jusqu’à ..."
+      },
+      {
+        "title": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
+        "source": "https://www.francetvinfo.fr/politique.rss",
+        "time": "2026-10-09T21:06:05.000Z",
+        "link": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-gauche-la-plateforme-piratee-le-vote-prolonge_8230804.html#xtor=RSS-3-%5Bgeneral%5D",
+        "score": 93,
+        "summary": "la plateforme piratée, le vote prolongé"
       }
     ],
     "summary": "Primaire de la gauche : le vote prolongé jusqu’à dimanche 18 heures après une cyberattaque / Primaire à gauche : le vote est prolongé jusqu’à dimanche 18 heures, en raison de la cyberattaque qui a visé la plateforme"
@@ -863,7 +862,7 @@
       {
         "title": "« Justice a été rendue » : des peines allant de 10 à 22 ans de réclusion pour le meurtre de Johnnay à Champigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/justice-a-ete-rendue-des-peines-allant-de-10-a-22-ans-de-reclusion-pour-le-meurtre-de-johnnay-a-champigny-08-10-2026-P7MPAPS7SZHFHDUOJU4TO6YIBY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Justice a été rendue » : des peines allant de 10 à 22 ans de réclusion pour le..."
@@ -958,7 +957,7 @@
       {
         "title": "Lycées bloqués, manifestations, violences… Comment la mobilisation s’est étendue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/podcasts/code-source/lycees-bloques-manifestations-violences-comment-la-mobilisation-sest-etendue-07-10-2026-UWEL3JBHIFELTNPDNRCAK7CJRY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Lycées bloqués, manifestations, violences… Comment la mobilisation s’est étendue..."
@@ -977,7 +976,7 @@
       {
         "title": "L’ancienne médecin de la reine Camilla à Sandringham tuée par son mari alors qu’elle organisait une soirée pyjama pour ses enfants",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.639Z",
         "link": "https://www.leparisien.fr/faits-divers/lancienne-medecin-de-la-reine-camilla-a-sandringham-tuee-par-son-mari-alors-quelle-organisait-une-soiree-pyjama-pour-ses-enfants-07-10-2026-6TPXIED7EJCKBP7YBOTCQB7MNY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : L’ancienne médecin de la reine Camilla à Sandringham tuée par son mari alors qu’..."
@@ -996,7 +995,7 @@
       {
         "title": "Un « antifa » syrien accusé de violences réclamé à la France par la Hongrie, décision attendue le 25 novembre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/international/un-antifa-syrien-accuse-de-violences-reclame-a-la-france-par-la-hongrie-decision-attendue-le-25-novembre-08-10-2026-CM5RGATHBVEDVMQ3XKK2WNW4QE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un « antifa » syrien accusé de violences réclamé à la France par la Hongrie, déc..."
@@ -1015,7 +1014,7 @@
       {
         "title": "Isère : un étudiant mis en examen pour viol après un week-end d’intégration",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.103Z",
+        "time": "2026-10-10T03:53:15.639Z",
         "link": "https://www.leparisien.fr/faits-divers/isere-un-etudiant-mis-en-examen-pour-viol-apres-un-week-end-dintegration-07-10-2026-HJIAENTOQVDNXIS42VHPGFV3UQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Isère : un étudiant mis en examen pour viol après un week-end d’intégration..."
@@ -1023,7 +1022,7 @@
       {
         "title": "Paris: un kinésithérapeute interpellé et mis en examen pour viol et agression sexuelle sur plusieurs patientes ",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-un-kinesitherapeute-interpelle-et-mis-en-examen-pour-viol-et-agressions-sexuelles-sur-plusieurs-patientes-08-10-2026-5DZ3XSZOGJDQXAV4A3N3BASAMI.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris: un kinésithérapeute interpellé et mis en examen pour viol et agression se..."
@@ -1042,7 +1041,7 @@
       {
         "title": "Yvelines : les visages de Seydou et Ginger, poignardés à mort par leur père, hantent son procès pour violences conjugales",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.103Z",
+        "time": "2026-10-10T03:53:15.639Z",
         "link": "https://www.leparisien.fr/faits-divers/yvelines-les-visages-de-seydou-et-ginger-poignardes-a-mort-par-leur-pere-hantent-son-proces-pour-violences-conjugales-07-10-2026-I2ICN7RPSJBRJESUSD4BOWY7VA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Yvelines : les visages de Seydou et Ginger, poignardés à mort par leur père, han..."
@@ -1061,7 +1060,7 @@
       {
         "title": "Nice : une femme tuée de coups de couteau à la gorge, son conjoint interpellé",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/nice-une-femme-tuee-de-coups-de-couteau-a-la-gorge-son-conjoint-interpelle-08-10-2026-4ZR7OYXM6RBH5PFDT25J3VBNL4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nice : une femme tuée de coups de couteau à la gorge, son conjoint interpellé..."
@@ -1080,7 +1079,7 @@
       {
         "title": "Un étudiant en médecine légale s’inspire de la série « Dexter », tapisse la chambre de bâches en plastique et tue sauvagement une prostituée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/un-etudiant-en-medecine-legale-sinspire-de-la-serie-dexter-tapisse-la-chambre-de-baches-en-plastique-et-tue-sauvagement-une-prostituee-08-10-2026-NE36TIT3TJEK7NKU5VMRFTAVCA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un étudiant en médecine légale s’inspire de la série « Dexter », tapisse la cham..."
@@ -1099,7 +1098,7 @@
       {
         "title": "« Faut arrêter de tout mettre sur la fratrie » : les vérités de Yaya D., soupçonné d’avoir régné sur le trafic de drogue à Grigny",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/faut-arreter-de-tout-mettre-sur-la-fratrie-les-verites-de-yaya-d-soupconne-davoir-regne-sur-le-trafic-de-drogue-a-grigny-08-10-2026-Y56MLWN2ZJFP5E6KBQVEXX2HHE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Faut arrêter de tout mettre sur la fratrie » : les vérités de Yaya D., soupçon..."
@@ -1118,7 +1117,7 @@
       {
         "title": "Prostituées exploitées, clients rackettés... Un réseau de proxénétisme « violent » démantelé dans le Nord, une mineure de 13 ans parmi les victimes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/prostituees-exploitees-clients-rackettes-un-reseau-de-proxenetisme-violent-demantele-dans-le-nord-une-mineure-de-13-ans-parmi-les-victimes-08-10-2026-XKRLVLCEE5HLVLNMLK3QOGLPBU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Prostituées exploitées, clients rackettés... Un réseau de proxénétisme « violent..."
@@ -1137,7 +1136,7 @@
       {
         "title": "Meurtre d’Eyoub à Aulnay-sous-Bois : le parcours chaotique de Mathurin, « voyou dans l’âme », l’un des accusés aux assises",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/meurtre-deyoub-a-aulnay-sous-bois-le-parcours-chaotique-de-mathurin-voyou-dans-lame-lun-des-accuses-aux-assises-08-10-2026-O2CBNKO73FEWPBF2XV66COHO34.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Meurtre d’Eyoub à Aulnay-sous-Bois : le parcours chaotique de Mathurin, « voyou ..."
@@ -1156,7 +1155,7 @@
       {
         "title": "« Aucun coup intentionnel » : l’ex-coach de kayak jugé pour des violences sur des policiers après une médaille d’or aux JO",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/aucun-coup-intentionnel-lex-coach-de-kayak-juge-pour-des-violences-sur-des-policiers-apres-une-medaille-dor-aux-jo-08-10-2026-YZ5ZDOTWVJGQFOZKPFYLP2BEFY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Aucun coup intentionnel » : l’ex-coach de kayak jugé pour des violences sur de..."
@@ -1175,7 +1174,7 @@
       {
         "title": "Nice : douze enfants d’un centre de loisirs concernés par l’enquête sur l’animateur soupçonné de viols et d’agressions sexuelles",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/nice-douze-enfants-dun-centre-de-loisirs-concernes-par-lenquete-sur-lanimateur-soupconne-de-viols-et-dagressions-sexuelles-08-10-2026-GQOMWDG5IZBWPKXWXYSJWRR66M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Nice : douze enfants d’un centre de loisirs concernés par l’enquête sur l’animat..."
@@ -1194,7 +1193,7 @@
       {
         "title": "« La justice est devenue une loterie » : le spectaculaire alourdissement des peines en appel dans les attentats de Trèbes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.638Z",
         "link": "https://www.leparisien.fr/faits-divers/la-justice-est-devenue-une-loterie-le-spectaculaire-alourdissement-des-peines-en-appel-dans-les-attentats-de-trebes-08-10-2026-WPOR3VLNIZAODPT6BLWOU3TRMQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « La justice est devenue une loterie » : le spectaculaire alourdissement des pei..."
@@ -1213,7 +1212,7 @@
       {
         "title": "Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un suspect mis en examen",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.637Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-un-dealer-presume-retrouve-mort-etrangle-dans-le-xixe-arrondissement-un-suspect-mis-en-examen-09-10-2026-3GNWWUYIOBEIZL5SV4CJASZTUA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Paris : un dealer présumé retrouvé mort étranglé dans le XIXe arrondissement, un..."
@@ -1232,7 +1231,7 @@
       {
         "title": "Un faux client tchatcheur, un chauffeur et trois cagoulés… La bande dépouillait les prostituées à Asnières et Courbevoie",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-09T20:29:16.102Z",
+        "time": "2026-10-10T03:53:15.637Z",
         "link": "https://www.leparisien.fr/hauts-de-seine-92/un-faux-client-tchatcheur-un-chauffeur-et-trois-cagoules-la-bande-depouillait-les-prostituees-a-asnieres-et-courbevoie-09-10-2026-DZ4M7S7EUBEGDE2OB6KBE6C3RY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Un faux client tchatcheur, un chauffeur et trois cagoulés… La bande dépouillait ..."
@@ -1327,7 +1326,7 @@
       {
         "title": "[CYBER] Bercy resserre les garde-fous autour des technologies stratégiques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:33.963Z",
+        "time": "2026-10-10T03:52:02.647Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Bercy resserre les garde-fous autour des technologies stratégiques..."
@@ -1346,7 +1345,7 @@
       {
         "title": "[CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:32.685Z",
+        "time": "2026-10-10T03:52:00.381Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les techniciens et Trump signent un accord sur la loi sur l'IA..."
@@ -1365,7 +1364,7 @@
       {
         "title": "[CYBER] Le gendarme de la cybersecurité a sauvé le pirate.",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:29.636Z",
+        "time": "2026-10-10T03:51:55.244Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le gendarme de la cybersecurité a sauvé le pirate...."
@@ -1384,7 +1383,7 @@
       {
         "title": "[CYBER] Microsoft a mis en place une aide à l'IA pour les attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:31.097Z",
+        "time": "2026-10-10T03:51:57.697Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft a mis en place une aide à l'IA pour les attaques..."
@@ -1403,7 +1402,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:25.876Z",
+        "time": "2026-10-10T03:51:48.729Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1422,32 +1421,13 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:28.116Z",
+        "time": "2026-10-10T03:51:52.579Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
       }
     ],
     "summary": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres"
-  },
-  {
-    "title": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates",
-        "source": "Zataz",
-        "time": "2026-10-07T23:11:56.000Z",
-        "link": "https://www.zataz.com/trump-mobile-byod-revendique-3-615-dossiers-pirates/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates..."
-      }
-    ],
-    "summary": "[CYBER] Trump Mobile: BYOD revendique 3 615 dossiers pirates"
   },
   {
     "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
@@ -1460,7 +1440,7 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:24.800Z",
+        "time": "2026-10-10T03:51:46.900Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -1479,7 +1459,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:22.332Z",
+        "time": "2026-10-10T03:51:42.607Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1498,7 +1478,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-09T20:28:23.143Z",
+        "time": "2026-10-10T03:51:44.011Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
