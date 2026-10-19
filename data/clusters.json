@@ -254,12 +254,13 @@
   {
     "title": "\"Laurent Nuñez était complètement dépassé\" : les appels à la démission du ministre de l'Intérieur se multiplient au lendemain des violences du 17 octobre",
     "score": 97,
-    "count": 8,
+    "count": 9,
     "sources": [
       "https://www.francetvinfo.fr/politique.rss",
       "https://www.bfmtv.com/rss/politique/",
       "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://www.franceinfo.fr/faits-divers.rss"
     ],
     "items": [
@@ -320,6 +321,14 @@
         "summary": "Point de situation critique concernant : Violences du 17 octobre : Macron a refusé la démission de Laurent Nuñez et point..."
       },
       {
+        "title": "Social. Violences du 17 octobre : démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-19T21:02:00.000Z",
+        "link": "https://www.ledauphine.com/social/2026/10/19/violences-du-17-octobre-cellule-de-crise-a-matignon-et-rassemblements-devant-les-mairies-l-executif-sous-pression",
+        "score": 97,
+        "summary": "démission de Nuñez refusée, couvre-feux localisés et 2 513 gardes à vue, l'essentiel de ce lundi"
+      },
+      {
         "title": "Après les violences du 17 octobre, plus de 2 000 personnes ont été interpellées, selon le ministre de l'Intérieur, des enquêtes menées \"pour identifier les auteurs\"",
         "source": "https://www.franceinfo.fr/faits-divers.rss",
         "time": "2026-10-18T12:14:34.000Z",
@@ -371,7 +380,7 @@
   {
     "title": "Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour des outrages et des violences envers les policiers à Agen",
     "score": 97,
-    "count": 9,
+    "count": 7,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
@@ -405,7 +414,7 @@
       {
         "title": "« Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’immigration dans les violences du 17 octobre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.118Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/le-tiers-monde-en-france-le-vice-president-americain-jd-vance-accuse-limmigration-dans-les-violences-du-17-octobre-18-10-2026-HFBUS3O4F5AY3O6GAG6GPBEQQQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Le tiers-monde en France » : le vice-président américain J.D. Vance accuse l’i..."
@@ -413,7 +422,7 @@
       {
         "title": "Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de violences à transmettre leurs vidéos à la police",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-bordeaux-les-autorites-appellent-les-temoins-de-violences-a-transmettre-leurs-videos-a-la-police-18-10-2026-NJX7G3CE5JFELJBNFQ6N6VESKQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre à Bordeaux : les autorités appellent les témoins de viol..."
@@ -429,26 +438,10 @@
       {
         "title": "Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’ont pas anticipé l’ampleur des violences du 17 octobre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/ampleur-des-violences-du-17-octobre-tiktok-a-joue-un-role-daccelerateur-inedit-selon-les-renseignements-18-10-2026-OIRNUV5ELFAKZBROKHSTJ5TUF4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Outils de détection « défaillants », rôle de TikTok… Pourquoi les autorités n’on..."
-      },
-      {
-        "title": "Violences urbaines: la mairie et la police municipale de Bailly-Romainvilliers prises pour cibles",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
-        "link": "https://www.leparisien.fr/seine-et-marne-77/violences-urbaines-la-mairie-et-la-police-municipale-de-bailly-romainvilliers-prises-pour-cibles-19-10-2026-NKU3VB2JKNB6HL7UQJAEHGQPTQ.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences urbaines: la mairie et la police municipale de Bailly-Romainvilliers p..."
-      },
-      {
-        "title": "Violences du 17 octobre à Paris : le récit de nos reporters",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
-        "link": "https://www.leparisien.fr/podcasts/code-source/violences-du-17-octobre-a-paris-le-recit-de-nos-reporters-19-10-2026-M56Q57I5UNCTJG7CX23BGXMYJ4.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Paris : le récit de nos reporters..."
       }
     ],
     "summary": "Violences du 17 octobre. Trois personnes, dont un mineur, en garde à vue pour des outrages et des violences envers les policiers à Agen / Biarritz : un mineur placé en garde à vue pour avoir tiré un mortier en direction du proviseur du lycée André-Malraux"
@@ -556,13 +549,51 @@
       {
         "title": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/val-doise-un-homme-decouvert-egorge-dans-son-appartement-dargenteuil-ses-colocataires-en-garde-a-vue-19-10-2026-UEK2YTWOIVAADDCRKPWZ7DGEKI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses co..."
       }
     ],
     "summary": "Val-d’Oise : un homme découvert égorgé dans son appartement d’Argenteuil, ses colocataires en garde à vue"
+  },
+  {
+    "title": "Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre condamné à 6 mois ferme sous bracelet électronique",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.sudouest.fr/faits-divers/rss.xml"
+    ],
+    "items": [
+      {
+        "title": "Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre condamné à 6 mois ferme sous bracelet électronique",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-19T17:20:00.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-six-mois-ferme-sous-bracelet-electronique-pour-des-faits-de-violences-lors-de-la-manifestation-du-17-octobre-31149291.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre con..."
+      }
+    ],
+    "summary": "Pau : le handballeur qui lançait des projectiles sur la police le 17 octobre condamné à 6 mois ferme sous bracelet électronique"
+  },
+  {
+    "title": "La vidéo du jour. « J’ai rentabilisé mon 17 octobre » : la revente scandaleuse du butin des pillages sur Vinted",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "La vidéo du jour. « J’ai rentabilisé mon 17 octobre » : la revente scandaleuse du butin des pillages sur Vinted",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-19T15:35:00.000Z",
+        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/19/j-ai-rentabilise-mon-17-octobre-la-revente-scandaleuse-du-butin-des-pillages-sur-vinted",
+        "score": 97,
+        "summary": "Point de situation critique concernant : La vidéo du jour. « J’ai rentabilisé mon 17 octobre » : la revente scandaleuse d..."
+      }
+    ],
+    "summary": "La vidéo du jour. « J’ai rentabilisé mon 17 octobre » : la revente scandaleuse du butin des pillages sur Vinted"
   },
   {
     "title": "Franc-maçonnerie : le Grand Orient de France victime d’une fuite de données, des documents nominatifs exposés",
@@ -974,10 +1005,9 @@
   {
     "title": "A Paris, des commerces en lambeaux après les violences et les pillages du 17 octobre : « Les gens se filmaient, c’était le grand défouloir »",
     "score": 90,
-    "count": 3,
+    "count": 2,
     "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+      "https://www.lemonde.fr/politique/rss_full.xml"
     ],
     "items": [
       {
@@ -995,14 +1025,6 @@
         "link": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html",
         "score": 90,
         "summary": "Point de situation critique concernant : Mobilisation du 17 octobre : une foule de manifestants, des violences et des pil..."
-      },
-      {
-        "title": "La ville de Paris coupée en deux après 48 heures de violences : la rive droite sous le choc, la rive gauche épargnée",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
-        "link": "https://www.leparisien.fr/paris-75/paris-coupe-en-deux-apres-48-heures-de-violences-la-rive-droite-sous-le-choc-la-rive-gauche-epargnee-19-10-2026-MXHFXIIUA5EFLGZLOJJHGY4VVM.php",
-        "score": 90,
-        "summary": "la rive droite sous le choc, la rive gauche épargnée"
       }
     ],
     "summary": "A Paris, des commerces en lambeaux après les violences et les pillages du 17 octobre : « Les gens se filmaient, c’était le grand défouloir » / Mobilisation du 17 octobre : une foule de manifestants, des violences et des pillages, récit d’une longue journée en France qui a viré au chaos"
@@ -1056,7 +1078,7 @@
       {
         "title": "Violences du 17 octobre : comment les enquêteurs vont identifier les pilleurs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-comment-les-enqueteurs-vont-identifier-les-pilleurs-18-10-2026-HZ7DKJENCRAB7A4XGGO5OEHPSY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : comment les enquêteurs vont identifier les pilleurs..."
@@ -1075,7 +1097,7 @@
       {
         "title": "Violences du 17 octobre à Paris : douze gardés à vue en Seine-et-Marne",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/seine-et-marne-77/violences-du-17-octobre-a-paris-douze-gardes-a-vue-en-seine-et-marne-18-10-2026-QZMV2IHEBRGNFKOCCBGYS5EP4A.php",
         "score": 90,
         "summary": "douze gardés à vue en Seine-et-Marne"
@@ -1094,7 +1116,7 @@
       {
         "title": "Violences du 17 octobre : Le Pen dénonce une « crise profonde » et « un pouvoir macroniste à bout de souffle »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-le-pen-denonce-crise-profonde-et-un-pouvoir-macroniste-a-bout-de-souffle-18-10-2026-4BME4U4PTRECLOJCCZORRLR4TY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : Le Pen dénonce une « crise profonde » et « un pouvoir ..."
@@ -1113,7 +1135,7 @@
       {
         "title": "« Malheureusement fermée jusqu’à nouvel ordre » : le Losc réagit après le pillage de sa boutique lors des émeutes du 17 octobre",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/sports/football/ligue-1/malheureusement-fermee-jusqua-nouvel-ordre-le-losc-reagit-apres-le-pillage-de-sa-boutique-lors-des-emeutes-du-17-octobre-18-10-2026-FPUZRFJWOVHF5MKKJGKKNI2UZA.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « Malheureusement fermée jusqu’à nouvel ordre » : le Losc réagit après le pillag..."
@@ -1132,7 +1154,7 @@
       {
         "title": "« It’s not safe ! » : des touristes étrangers pris au piège des violences du week-end à Paris",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.117Z",
+        "time": "2026-10-19T23:17:56.541Z",
         "link": "https://www.leparisien.fr/paris-75/its-not-safe-des-touristes-etrangers-pris-au-piege-des-violences-du-week-end-a-paris-18-10-2026-ZW6RHQDIVRF23E5EQFZ7F6DZ6M.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « It’s not safe ! » : des touristes étrangers pris au piège des violences du wee..."
@@ -1151,7 +1173,7 @@
       {
         "title": "Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armée est une fausse bonne idée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.116Z",
+        "time": "2026-10-19T23:17:56.540Z",
         "link": "https://www.leparisien.fr/politique/maintien-de-lordre-face-aux-violences-et-pillages-pourquoi-recourir-a-larmee-est-une-fausse-bonne-idee-19-10-2026-BJLKIG4325AJHB2MS2QABWS6WE.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armé..."
@@ -1170,7 +1192,7 @@
       {
         "title": "Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du dispositif déployé face aux violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-19T18:12:45.116Z",
+        "time": "2026-10-19T23:17:56.540Z",
         "link": "https://www.leparisien.fr/paris-75/couvre-feu-a-paris-secteurs-heures-personnes-ce-que-lon-sait-du-dispositif-deploye-face-aux-violences-urbaines-19-10-2026-LVGEYQYDN5DRNCBNCJEWKGDDUM.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du disposi..."
@@ -1208,7 +1230,7 @@
       {
         "title": "[CYBER] Les entreprises qui passent la frontière en 2026",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:46.873Z",
+        "time": "2026-10-19T23:16:39.892Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les entreprises qui passent la frontière en 2026..."
@@ -1227,7 +1249,7 @@
       {
         "title": "[CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliards de paramètres",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:52.176Z",
+        "time": "2026-10-19T23:16:43.532Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Mistral d'équipement de grande taille 4, un mod le plus de 1 000 milliar..."
@@ -1246,7 +1268,7 @@
       {
         "title": "[CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et la conformité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:44.339Z",
+        "time": "2026-10-19T23:16:38.173Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La confiance dans la richesse: les entreprises qui respectent la loi et ..."
@@ -1265,7 +1287,7 @@
       {
         "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:34.541Z",
+        "time": "2026-10-19T23:16:31.493Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une..."
@@ -1284,7 +1306,7 @@
       {
         "title": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:38.440Z",
+        "time": "2026-10-19T23:16:34.154Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public..."
@@ -1303,7 +1325,7 @@
       {
         "title": "[CYBER] Le muscle orange offre SecNumCloud",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:40.385Z",
+        "time": "2026-10-19T23:16:35.474Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
@@ -1322,7 +1344,7 @@
       {
         "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:25.464Z",
+        "time": "2026-10-19T23:16:25.298Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] La CNF signale une fuite de don sur la plateforme Vacaf..."
@@ -1341,7 +1363,7 @@
       {
         "title": "[CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:29.583Z",
+        "time": "2026-10-19T23:16:28.098Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Une cyberattaque perturbe les installations frigorifiques de centaines d..."
@@ -1360,7 +1382,7 @@
       {
         "title": "[CYBER] Microsoft corrige un record de 1 411 défaillances de la cour",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:21.683Z",
+        "time": "2026-10-19T23:16:22.694Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Microsoft corrige un record de 1 411 défaillances de la cour..."
@@ -1417,7 +1439,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-19T18:10:18.338Z",
+        "time": "2026-10-19T23:16:20.450Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
