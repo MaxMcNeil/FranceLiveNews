@@ -78,10 +78,11 @@
   {
     "title": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
@@ -93,23 +94,32 @@
         "summary": "Point de situation critique concernant : Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de pris..."
       },
       {
-        "title": "Alpes-de-Haute-Provence. Trois ans de prison ferme pour un employé d’un foyer condamné pour agressions sexuelles sur des mineures",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-21T14:20:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/21/trois-ans-de-prison-ferme-pour-un-employe-d-un-foyer-condamne-pour-agressions-sexuelles-sur-des-mineures",
+        "title": "Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées",
+        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "time": "2026-10-23T14:51:39.000Z",
+        "link": "https://www.lemonde.fr/societe/article/2026/10/23/le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-pour-destruction-d-especes-d-oiseaux-protegees_6799093_3224.html",
         "score": 97,
-        "summary": "Point de situation critique concernant : Alpes-de-Haute-Provence. Trois ans de prison ferme pour un employé d’un foyer co..."
+        "summary": "Point de situation critique concernant : Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour ..."
+      },
+      {
+        "title": "Procès pour chasse illégale : des méthodes « interdites » et « barbares », le milliardaire Olivier Bouygues condamné à 2 ans de prison avec sursis",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-23T15:43:23.000Z",
+        "link": "https://www.sudouest.fr/environnement/proces-pour-chasse-illegale-des-methodes-interdites-et-barbares-le-milliardaire-olivier-bouygues-condamne-a-2-ans-de-prison-avec-sursis-31204789.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Procès pour chasse illégale : des méthodes « interdites » et « barbares », le mi..."
       }
     ],
-    "summary": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne / Alpes-de-Haute-Provence. Trois ans de prison ferme pour un employé d’un foyer condamné pour agressions sexuelles sur des mineures"
+    "summary": "Bocar M., le douanier corrompu de l’aéroport de Roissy, condamné à 8 ans de prison pour trafic de cocaïne / Le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis pour destruction d’espèces d’oiseaux protégées"
   },
   {
     "title": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://www.sudouest.fr/faits-divers/rss.xml",
+      "Le Monde Informatique"
     ],
     "items": [
       {
@@ -127,37 +137,17 @@
         "link": "https://www.sudouest.fr/justice/il-a-fait-ca-pour-avoir-le-dessus-sur-moi-un-quinquagenaire-condamne-en-dordogne-pour-viol-sur-conjointe-dix-ans-apres-les-faits-31176745.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Il a fait ça pour avoir le dessus sur moi » : un quinquagénaire condamné en Do..."
+      },
+      {
+        "title": "[CYBER] Méta condamné à 25 M$ pour avoir trompé ses utilisateurs sur la confidentialité",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-23T16:16:53.161Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-meta-condamne-a-verser-25-md$-pour-avoir-trompe-ses-utilisateurs-sur-la-confidentialite-100868.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Méta condamné à 25 M$ pour avoir trompé ses utilisateurs sur la confiden..."
       }
     ],
     "summary": "Pyrénées-Atlantiques : un ex-policier condamné pour avoir drogué puis agressé sexuellement son épouse à Pau / « Il a fait ça pour avoir le dessus sur moi » : un quinquagénaire condamné en Dordogne pour viol sur conjointe dix ans après les faits"
-  },
-  {
-    "title": "Paul Barril, cofondateur du GIGN et impliqué dans plusieurs scandales, est mort à l'âge de 80 ans",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.franceinfo.fr/faits-divers.rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Paul Barril, cofondateur du GIGN et impliqué dans plusieurs scandales, est mort à l'âge de 80 ans",
-        "source": "https://www.franceinfo.fr/faits-divers.rss",
-        "time": "2026-10-21T09:05:50.000Z",
-        "link": "https://www.franceinfo.fr/faits-divers/police/paul-barril-cofondateur-du-gign-et-implique-dans-plusieurs-scandales-est-mort-a-l-age-de-80-ans_8246992.html#xtor=RSS-3-%5Bgeneral%5D",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Paul Barril, cofondateur du GIGN et impliqué dans plusieurs scandales, est mort ..."
-      },
-      {
-        "title": "Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.866Z",
-        "link": "https://www.leparisien.fr/faits-divers/cofondateur-du-gign-puis-empetre-dans-des-scandales-la-vie-sulfureuse-de-paul-barril-mort-a-80-ans-21-10-2026-R6PCIASSNFDQXNNEXNMKDSG4AQ.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul ..."
-      }
-    ],
-    "summary": "Paul Barril, cofondateur du GIGN et impliqué dans plusieurs scandales, est mort à l'âge de 80 ans / Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans"
   },
   {
     "title": "Paris : les receleurs présumés en viennent aux mains et sont interpellés, Hamza « La Douane » échappe à la garde à vue",
@@ -170,7 +160,7 @@
       {
         "title": "Paris : les receleurs présumés en viennent aux mains et sont interpellés, Hamza « La Douane » échappe à la garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.866Z",
+        "time": "2026-10-23T16:18:29.611Z",
         "link": "https://www.leparisien.fr/faits-divers/paris-les-pilleurs-presumes-en-viennent-aux-mains-et-sont-interpelles-hamza-la-douane-echappe-a-la-garde-a-vue-21-10-2026-P2VIXOZ54BBMDIVLYNHJNV5H4A.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Paris : les receleurs présumés en viennent aux mains et sont interpellés, Hamza ..."
@@ -190,7 +180,7 @@
       {
         "title": "« Ils l’ont humilié, traité d’animal » : sept animateurs de Gennevilliers condamnés pour des violences sur des enfants autistes",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.866Z",
+        "time": "2026-10-23T16:18:29.611Z",
         "link": "https://www.leparisien.fr/hauts-de-seine-92/ils-lont-humilie-traite-danimal-sept-animateurs-de-gennevilliers-condamnes-pour-des-violences-sur-des-enfants-autistes-21-10-2026-G7JDNBL7INDX7A3IAMDEO5VV4I.php",
         "score": 97,
         "summary": "Point de situation critique concernant : « Ils l’ont humilié, traité d’animal » : sept animateurs de Gennevilliers condam..."
@@ -205,6 +195,25 @@
       }
     ],
     "summary": "« Ils l’ont humilié, traité d’animal » : sept animateurs de Gennevilliers condamnés pour des violences sur des enfants autistes / Carpentras. Quatre agriculteurs condamnés à des peines avec sursis pour des violences lors d'une manifestation"
+  },
+  {
+    "title": "Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T09:03:31.866Z",
+        "link": "https://www.leparisien.fr/faits-divers/cofondateur-du-gign-puis-empetre-dans-des-scandales-la-vie-sulfureuse-de-paul-barril-mort-a-80-ans-21-10-2026-R6PCIASSNFDQXNNEXNMKDSG4AQ.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul ..."
+      }
+    ],
+    "summary": "Cofondateur du GIGN puis empêtré dans les scandales : la vie sulfureuse de Paul Barril, mort à 80 ans"
   },
   {
     "title": "Darya K. a-t-elle poignardé son compagnon de 56 ans, Christophe Gibert, à 250 reprises ? La quadragénaire mise en examen en Haute-Savoie",
@@ -245,147 +254,6 @@
     "summary": "Elle tue un homme au volant après avoir regardé du porno sur son téléphone, une femme inculpée dans l’Utah pour homicide routier"
   },
   {
-    "title": "En Guadeloupe, le port et l’aéroport au cœur des stratégies de corruption des narcotrafiquants",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "En Guadeloupe, le port et l’aéroport au cœur des stratégies de corruption des narcotrafiquants",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-10-21T13:00:13.000Z",
-        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/21/en-guadeloupe-le-port-et-l-aeroport-au-c-ur-des-strategies-de-corruption-des-narcotrafiquants_6798256_4355770.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Guadeloupe, le port et l’aéroport au cœur des stratégies de corruption des na..."
-      }
-    ],
-    "summary": "En Guadeloupe, le port et l’aéroport au cœur des stratégies de corruption des narcotrafiquants"
-  },
-  {
-    "title": "« La corruption aux Antilles n’est pas une fatalité, mais une réalité face à laquelle tous les acteurs doivent se mobiliser »",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "« La corruption aux Antilles n’est pas une fatalité, mais une réalité face à laquelle tous les acteurs doivent se mobiliser »",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-21T12:30:08.000Z",
-        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/21/la-corruption-aux-antilles-n-est-pas-une-fatalite-mais-une-realite-face-a-laquelle-tous-les-acteurs-doivent-se-mobiliser_6798247_4355770.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : « La corruption aux Antilles n’est pas une fatalité, mais une réalité face à laq..."
-      }
-    ],
-    "summary": "« La corruption aux Antilles n’est pas une fatalité, mais une réalité face à laquelle tous les acteurs doivent se mobiliser »"
-  },
-  {
-    "title": "En Guadeloupe et en Martinique, une opération inédite de sensibilisation pour enrayer la corruption galopante : « On fait face à de vieilles habitudes »",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/economie/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "En Guadeloupe et en Martinique, une opération inédite de sensibilisation pour enrayer la corruption galopante : « On fait face à de vieilles habitudes »",
-        "source": "https://www.lemonde.fr/economie/rss_full.xml",
-        "time": "2026-10-21T12:07:21.000Z",
-        "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/21/en-guadeloupe-et-en-martinique-une-operation-inedite-de-sensibilisation-pour-enrayer-la-corruption-galopante-on-fait-face-a-de-vieilles-habitudes_6798245_4355770.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : En Guadeloupe et en Martinique, une opération inédite de sensibilisation pour en..."
-      }
-    ],
-    "summary": "En Guadeloupe et en Martinique, une opération inédite de sensibilisation pour enrayer la corruption galopante : « On fait face à de vieilles habitudes »"
-  },
-  {
-    "title": "Mort de Clément dans les Landes : condamné à quatre ans de prison par le tribunal de Dax, le chauffard ne fait pas appel de sa condamnation",
-    "score": 97,
-    "count": 2,
-    "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
-    ],
-    "items": [
-      {
-        "title": "Mort de Clément dans les Landes : condamné à quatre ans de prison par le tribunal de Dax, le chauffard ne fait pas appel de sa condamnation",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-21T14:38:25.000Z",
-        "link": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/mort-de-clement-dans-les-landes-condamne-a-quatre-ans-de-prison-par-le-tribunal-de-dax-le-chauffard-ne-fait-pas-appel-de-sa-condamnation-31175216.php",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Mort de Clément dans les Landes : condamné à quatre ans de prison par le tribuna..."
-      },
-      {
-        "title": "Isère. L'étudiant les bras chargé d'articles pillés dans des commerces condamné à de la prison ferme",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-21T15:12:00.000Z",
-        "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/21/l-etudiant-les-bras-charge-d-articles-pilles-dans-des-commerces-condamne-a-de-la-prison-ferme",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Isère. L'étudiant les bras chargé d'articles pillés dans des commerces condamné ..."
-      }
-    ],
-    "summary": "Mort de Clément dans les Landes : condamné à quatre ans de prison par le tribunal de Dax, le chauffard ne fait pas appel de sa condamnation / Isère. L'étudiant les bras chargé d'articles pillés dans des commerces condamné à de la prison ferme"
-  },
-  {
-    "title": "Loire-Atlantique : interpellé avec 8 kilos de drogue, un père de famille condamné à trois ans de prison ferme",
-    "score": 97,
-    "count": 3,
-    "sources": [
-      "https://www.cnews.fr/rss/categorie/faits%20divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss",
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Loire-Atlantique : interpellé avec 8 kilos de drogue, un père de famille condamné à trois ans de prison ferme",
-        "source": "https://www.cnews.fr/rss/categorie/faits%20divers",
-        "time": "2026-10-21T10:28:46.000Z",
-        "link": "https://www.cnews.fr/faits-divers/2026-10-21/loire-atlantique-interpelle-avec-8-kilos-de-drogue-un-pere-de-famille",
-        "score": 97,
-        "summary": "interpellé avec 8 kilos de drogue, un père de famille condamné à trois ans de prison ferme"
-      },
-      {
-        "title": "Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de prison",
-        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
-        "time": "2026-10-21T19:17:00.000Z",
-        "link": "https://www.ledauphine.com/economie/2026/10/21/un-serial-voleur-de-campings-condamne-a-trois-ans-et-demi-de-prison",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de..."
-      },
-      {
-        "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-22T16:29:38.417Z",
-        "link": "https://www.leparisien.fr/pyrenees-orientales-66/je-voulais-le-tirer-en-lair-plus-tard-dans-la-nuit-4-mois-de-prison-ferme-pour-le-lyceen-arrete-avec-un-mortier-dartifice-pendant-les-violences-urbaines-a-perpignan-20-10-2026-BQIUXTSNU5FMLPTQRLCFPZEM2E.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : « Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme..."
-      }
-    ],
-    "summary": "Loire-Atlantique : interpellé avec 8 kilos de drogue, un père de famille condamné à trois ans de prison ferme / Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de prison"
-  },
-  {
-    "title": "Le secrétariat général du groupe du RN au Parlement européen perquisitionné dans le cadre d’une enquête sur des infractions financières",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lemonde.fr/politique/rss_full.xml"
-    ],
-    "items": [
-      {
-        "title": "Le secrétariat général du groupe du RN au Parlement européen perquisitionné dans le cadre d’une enquête sur des infractions financières",
-        "source": "https://www.lemonde.fr/politique/rss_full.xml",
-        "time": "2026-10-21T13:57:24.000Z",
-        "link": "https://www.lemonde.fr/politique/article/2026/10/21/soupcon-d-infractions-financieres-le-secretaire-general-du-groupe-du-rn-au-parlement-europeen-perquisitionne_6798262_823448.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : Le secrétariat général du groupe du RN au Parlement européen perquisitionné dans..."
-      }
-    ],
-    "summary": "Le secrétariat général du groupe du RN au Parlement européen perquisitionné dans le cadre d’une enquête sur des infractions financières"
-  },
-  {
     "title": "Des perquisitions au Parlement européen ciblent l'ex-groupe Identité et démocratie, où siégeait le RN",
     "score": 97,
     "count": 1,
@@ -405,63 +273,6 @@
     "summary": "Des perquisitions au Parlement européen ciblent l'ex-groupe Identité et démocratie, où siégeait le RN"
   },
   {
-    "title": "\"Je quitte un mandat, pas mes engagements\": une élue de la mairie de Carpentras démissionne",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.bfmtv.com/rss/politique/"
-    ],
-    "items": [
-      {
-        "title": "\"Je quitte un mandat, pas mes engagements\": une élue de la mairie de Carpentras démissionne",
-        "source": "https://www.bfmtv.com/rss/politique/",
-        "time": "2026-10-21T14:03:58.000Z",
-        "link": "https://www.bfmtv.com/politique/je-quitte-mon-mandat-pas-mes-engagements-une-elue-de-la-mairie-de-carpentras-depose-sa-demission_AN-202610210647.html",
-        "score": 97,
-        "summary": "Point de situation critique concernant : \"Je quitte un mandat, pas mes engagements\": une élue de la mairie de Carpentras ..."
-      }
-    ],
-    "summary": "\"Je quitte un mandat, pas mes engagements\": une élue de la mairie de Carpentras démissionne"
-  },
-  {
-    "title": "Scandale du périscolaire : deux amendements déposés par la sénatrice Agnès Evren adoptés par la commission des lois",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "Scandale du périscolaire : deux amendements déposés par la sénatrice Agnès Evren adoptés par la commission des lois",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-10-21T16:09:52.000Z",
-        "link": "https://www.lefigaro.fr/actualite-france/scandale-du-periscolaire-deux-amendements-deposes-par-la-senatrice-agnes-evren-adoptes-par-la-commission-des-lois-20261021",
-        "score": 97,
-        "summary": "deux amendements déposés par la sénatrice Agnès Evren adoptés par la commission des lois"
-      }
-    ],
-    "summary": "Scandale du périscolaire : deux amendements déposés par la sénatrice Agnès Evren adoptés par la commission des lois"
-  },
-  {
-    "title": "«L’équipe du 20 h du 18 octobre a failli et doit démissionner» : France Télévisions dans la tourmente après un reportage sur les violences de samedi",
-    "score": 97,
-    "count": 1,
-    "sources": [
-      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
-    ],
-    "items": [
-      {
-        "title": "«L’équipe du 20 h du 18 octobre a failli et doit démissionner» : France Télévisions dans la tourmente après un reportage sur les violences de samedi",
-        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-        "time": "2026-10-21T13:57:51.000Z",
-        "link": "https://www.lefigaro.fr/flash-eco/l-equipe-du-20-h-du-18-octobre-a-failli-et-doit-demissionner-france-televisions-dans-la-tourmente-apres-un-reportage-sur-les-violences-de-samedi-20261021",
-        "score": 97,
-        "summary": "France Télévisions dans la tourmente après un reportage sur les violences de samedi"
-      }
-    ],
-    "summary": "«L’équipe du 20 h du 18 octobre a failli et doit démissionner» : France Télévisions dans la tourmente après un reportage sur les violences de samedi"
-  },
-  {
     "title": "Complot contre les Garrido - Corbière : Jean-Christophe Lagarde sera jugé pour « escroquerie en bande organisée »",
     "score": 97,
     "count": 2,
@@ -473,7 +284,7 @@
       {
         "title": "Complot contre les Garrido - Corbière : Jean-Christophe Lagarde sera jugé pour « escroquerie en bande organisée »",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.866Z",
+        "time": "2026-10-23T16:18:29.611Z",
         "link": "https://www.leparisien.fr/faits-divers/complot-contre-les-garrido-corbiere-jean-christophe-lagarde-sera-juge-pour-escroquerie-en-bande-organisee-21-10-2026-IY6NH5UHAFD4NCB3E36H7MUJJE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Complot contre les Garrido - Corbière : Jean-Christophe Lagarde sera jugé pour «..."
@@ -492,12 +303,13 @@
   {
     "title": "Bordeaux : une femme mise en examen pour tentative de meurtre et écrouée",
     "score": 97,
-    "count": 4,
+    "count": 5,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml",
       "https://www.ledauphine.com/Faits-divers-Justice/rss",
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.20minutes.fr/feeds/rss-une.xml"
+      "https://www.20minutes.fr/feeds/rss-une.xml",
+      "https://www.lefigaro.fr/rss/figaro_actualites.xml"
     ],
     "items": [
       {
@@ -519,7 +331,7 @@
       {
         "title": "Une femme mise en examen pour coups mortels sur son conjoint près de Nancy",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/faits-divers/une-femme-mise-en-examen-pour-coups-mortels-sur-son-conjoint-pres-de-nancy-22-10-2026-TIMWGLSFBFDG7C5D3JSQF7JPEE.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Une femme mise en examen pour coups mortels sur son conjoint près de Nancy..."
@@ -531,6 +343,14 @@
         "link": "https://www.20minutes.fr/justice/4256552-20261022-lorraine-femme-mise-examen-coups-mortels-conjoint?at_medium=display&at_campaign=149",
         "score": 97,
         "summary": "Point de situation critique concernant : Lorraine : Une femme mise en examen pour des coups mortels sur son conjoint..."
+      },
+      {
+        "title": "Nouveau-né retrouvé mort dans un local poubelle à Angers : une femme mise en examen",
+        "source": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+        "time": "2026-10-23T15:57:06.000Z",
+        "link": "https://www.lefigaro.fr/faits-divers/nouveau-ne-retrouve-mort-dans-un-local-poubelle-a-angers-une-femme-mise-en-examen-20261023",
+        "score": 97,
+        "summary": "une femme mise en examen"
       }
     ],
     "summary": "Bordeaux : une femme mise en examen pour tentative de meurtre et écrouée / Meurthe-et-Moselle. Villers-lès-Nancy : une femme mise en examen pour coups mortels sur son conjoint"
@@ -564,6 +384,25 @@
     "summary": "États-Unis. Affaire Cambridge Analytica : Meta condamné à verser 25 milliards de dollars /  C’est le coup le plus dur jamais porté à Meta : le géant de la tech condamné à payer 25 milliards de dollars après le scandale Cambridge Analytica "
   },
   {
+    "title": "Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de prison",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+    ],
+    "items": [
+      {
+        "title": "Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de prison",
+        "source": "https://www.ledauphine.com/Faits-divers-Justice/rss",
+        "time": "2026-10-21T19:17:00.000Z",
+        "link": "https://www.ledauphine.com/economie/2026/10/21/un-serial-voleur-de-campings-condamne-a-trois-ans-et-demi-de-prison",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de..."
+      }
+    ],
+    "summary": "Drôme - Vaucluse. Un “serial voleur” de campings condamné à trois ans et demi de prison"
+  },
+  {
     "title": "\"Bouc émissaire\", \"scandale d'Etat\"... On vous raconte le bras de fer entre le gouvernement et LFI au sujet des violences du 17 octobre",
     "score": 97,
     "count": 1,
@@ -587,12 +426,12 @@
     "score": 97,
     "count": 1,
     "sources": [
-      "https://www.lemonde.fr/societe/rss_full.xml"
+      "https://www.lemonde.fr/police/rss_full.xml"
     ],
     "items": [
       {
         "title": "Interpellés devant leurs lycées début octobre, des élèves racontent leur première garde à vue : « Comme si j’étais une criminelle »",
-        "source": "https://www.lemonde.fr/societe/rss_full.xml",
+        "source": "https://www.lemonde.fr/police/rss_full.xml",
         "time": "2026-10-22T07:45:09.000Z",
         "link": "https://www.lemonde.fr/societe/article/2026/10/22/comme-si-j-etais-une-criminelle-interpelles-devant-leurs-lycees-des-eleves-racontent-leur-premiere-garde-a-vue_6798586_3224.html",
         "score": 97,
@@ -640,7 +479,7 @@
       {
         "title": "Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’une université à Rouen mis en examen et écroué",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-un-etudiant-suspecte-davoir-participe-a-lincendie-dune-universite-a-rouen-mis-en-examen-et-ecroue-22-10-2026-URF5TGXRLNDLRGKKSOMD6IHFDY.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Violences du 17 octobre : un étudiant suspecté d’avoir participé à l’incendie d’..."
@@ -697,7 +536,7 @@
       {
         "title": "125 000 euros en faux billets découverts chez un plombier soupçonné de blanchiment pour un réseau de drogue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/faits-divers/125-000-euros-en-faux-billets-decouverts-chez-un-plombier-soupconne-de-blanchiment-pour-un-reseau-de-drogue-22-10-2026-HZVP5VDVZRDD7AEEFBNG53DJNI.php",
         "score": 97,
         "summary": "Point de situation critique concernant : 125 000 euros en faux billets découverts chez un plombier soupçonné de blanchime..."
@@ -708,16 +547,17 @@
   {
     "title": "Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en garde à vue",
     "score": 97,
-    "count": 2,
+    "count": 3,
     "sources": [
       "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-      "https://www.ledauphine.com/Faits-divers-Justice/rss"
+      "https://www.ledauphine.com/Faits-divers-Justice/rss",
+      "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
         "title": "Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en garde à vue",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/faits-divers/cher-soupconne-de-harcelement-le-directeur-de-lhopital-de-bourges-place-en-garde-a-vue-22-10-2026-G6C5Q7REWRDTDGC2MIMFSRIZBY.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en g..."
@@ -729,6 +569,14 @@
         "link": "https://www.ledauphine.com/faits-divers-justice/2026/10/22/harcelement-moral-et-sexuel-le-directeur-de-l-hopital-de-bourges-en-garde-a-vue",
         "score": 97,
         "summary": "Point de situation critique concernant : Cher. « Harcèlement moral et sexuel » : le directeur de l'hôpital de Bourges en ..."
+      },
+      {
+        "title": "Hôpital de Bourges : « comportement malsain », « façons de parler non adaptées »… Le directeur placé en garde à vue pour harcèlement",
+        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
+        "time": "2026-10-23T15:54:49.000Z",
+        "link": "https://www.sudouest.fr/faits-divers/hopital-de-bourges-comportement-malsain-facons-de-parler-non-adaptees-le-directeur-place-en-garde-a-vue-pour-harcelement-31206449.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Hôpital de Bourges : « comportement malsain », « façons de parler non adaptées »..."
       }
     ],
     "summary": "Cher : soupçonné de harcèlement, le directeur de l’hôpital de Bourges placé en garde à vue / Cher. « Harcèlement moral et sexuel » : le directeur de l'hôpital de Bourges en garde à vue"
@@ -744,7 +592,7 @@
       {
         "title": "Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi pour blanchiment de fraude fiscale conteste les calculs",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/val-d-oise-95/pres-dun-million-deuros-perdus-au-casino-un-couple-de-saint-witz-poursuivi-pour-blanchiment-de-fraude-fiscale-conteste-les-calculs-23-10-2026-ANOC26B3QFBHFACO2QHPBUWNH4.php",
         "score": 97,
         "summary": "Point de situation critique concernant : Près d’un million d’euros perdus au casino ? Un couple de Saint-Witz poursuivi p..."
@@ -875,42 +723,79 @@
     "summary": "Langon : il tente d’obtenir des articles dans « Le Républicain », un candidat aux municipales condamné pour chantage"
   },
   {
-    "title": "Cybersécurité : le magazine Valeurs actuelles victime d’une fuite de données de ses acheteurs",
-    "score": 93,
-    "count": 1,
+    "title": "Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis",
+    "score": 97,
+    "count": 3,
     "sources": [
-      "https://www.sudouest.fr/faits-divers/rss.xml"
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+      "https://www.mediapart.fr/articles/feed",
+      "https://www.challenges.fr/rss.xml"
     ],
     "items": [
       {
-        "title": "Cybersécurité : le magazine Valeurs actuelles victime d’une fuite de données de ses acheteurs",
-        "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-21T11:34:02.000Z",
-        "link": "https://www.sudouest.fr/economie/cybersecurite/cybersecurite-le-magazine-valeurs-actuelles-victime-d-une-fuite-de-donnees-de-ses-acheteurs-31172077.php",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Cybersécurité : le magazine Valeurs actuelles victime d’une fuite de données de ..."
+        "title": "Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/environnement/chasse-illegale-le-milliardaire-olivier-bouygues-condamne-a-deux-ans-de-prison-avec-sursis-23-10-2026-KDRCLAPGERBORAAA4KGIJIZELM.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison..."
+      },
+      {
+        "title": "Chasse illégale: le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-10-23T14:03:55.000Z",
+        "link": "https://www.mediapart.fr/journal/ecologie/231026/chasse-illegale-le-milliardaire-olivier-bouygues-condamne-deux-ans-de-prison-avec-sursis",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Chasse illégale: le milliardaire Olivier Bouygues condamné à deux ans de prison ..."
+      },
+      {
+        "title": " Le milliardaire comparaissait pour destruction d’espèces protégées en bande organisée : Olivier Bouygues lourdement condamné ",
+        "source": "https://www.challenges.fr/rss.xml",
+        "time": "2026-10-23T15:13:00.000Z",
+        "link": " https://www.challenges.fr/entreprise/green-economie/le-milliardaire-comparaissait-pour-destruction-despeces-protegees-en-bande-organisee-olivier-bouygues-lourdement-condamne_646569 ",
+        "score": 97,
+        "summary": "Point de situation critique concernant :  Le milliardaire comparaissait pour destruction d’espèces protégées en bande org..."
       }
     ],
-    "summary": "Cybersécurité : le magazine Valeurs actuelles victime d’une fuite de données de ses acheteurs"
+    "summary": "Chasse illégale : le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis / Chasse illégale: le milliardaire Olivier Bouygues condamné à deux ans de prison avec sursis"
   },
   {
-    "title": "Cyberattaque des frigos de supermarchés en France : l’Anssi dénonce des « défauts de sécurisation élémentaire »",
-    "score": 93,
+    "title": "Après les violences du 17 octobre au Pays basque : deux personnes arrêtées et condamnées après analyse de la vidéo urbaine",
+    "score": 97,
     "count": 1,
     "sources": [
       "https://www.sudouest.fr/faits-divers/rss.xml"
     ],
     "items": [
       {
-        "title": "Cyberattaque des frigos de supermarchés en France : l’Anssi dénonce des « défauts de sécurisation élémentaire »",
+        "title": "Après les violences du 17 octobre au Pays basque : deux personnes arrêtées et condamnées après analyse de la vidéo urbaine",
         "source": "https://www.sudouest.fr/faits-divers/rss.xml",
-        "time": "2026-10-21T11:06:06.000Z",
-        "link": "https://www.sudouest.fr/economie/cyberattaque-des-frigos-de-supermarches-en-france-l-anssi-denonce-des-defauts-de-securisation-elementaire-31171412.php",
-        "score": 93,
-        "summary": "Point de situation critique concernant : Cyberattaque des frigos de supermarchés en France : l’Anssi dénonce des « défaut..."
+        "time": "2026-10-23T09:06:55.000Z",
+        "link": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/apres-les-violences-du-17-octobre-au-pays-basque-deux-personnes-arretees-et-condamnees-apres-analyse-de-la-video-urbaine-31200888.php",
+        "score": 97,
+        "summary": "Point de situation critique concernant : Après les violences du 17 octobre au Pays basque : deux personnes arrêtées et co..."
       }
     ],
-    "summary": "Cyberattaque des frigos de supermarchés en France : l’Anssi dénonce des « défauts de sécurisation élémentaire »"
+    "summary": "Après les violences du 17 octobre au Pays basque : deux personnes arrêtées et condamnées après analyse de la vidéo urbaine"
+  },
+  {
+    "title": "En Serbie, les écologistes qui s’attaquent à la corruption sont pris pour cibles",
+    "score": 97,
+    "count": 1,
+    "sources": [
+      "https://www.mediapart.fr/articles/feed"
+    ],
+    "items": [
+      {
+        "title": "En Serbie, les écologistes qui s’attaquent à la corruption sont pris pour cibles",
+        "source": "https://www.mediapart.fr/articles/feed",
+        "time": "2026-10-23T14:04:04.000Z",
+        "link": "https://www.mediapart.fr/journal/ecologie/231026/en-serbie-les-ecologistes-qui-s-attaquent-la-corruption-sont-pris-pour-cibles",
+        "score": 97,
+        "summary": "Point de situation critique concernant : En Serbie, les écologistes qui s’attaquent à la corruption sont pris pour cibles..."
+      }
+    ],
+    "summary": "En Serbie, les écologistes qui s’attaquent à la corruption sont pris pour cibles"
   },
   {
     "title": "Gouvernements paniqués, cyberattaques massives en préparation… Comment Internet a été débranché en urgence à cause de PHP",
@@ -970,44 +855,6 @@
     "summary": "Sites inaccessibles, cyberattaques, correctifs... Les questions qui se posent 24h après la mise à l’arrêt d’une partie de l’Internet mondial"
   },
   {
-    "title": "Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armée est une fausse bonne idée",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armée est une fausse bonne idée",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-21T09:05:06.676Z",
-        "link": "https://www.leparisien.fr/politique/maintien-de-lordre-face-aux-violences-et-pillages-pourquoi-recourir-a-larmee-est-une-fausse-bonne-idee-19-10-2026-BJLKIG4325AJHB2MS2QABWS6WE.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armé..."
-      }
-    ],
-    "summary": "Maintien de l’ordre : face aux violences et pillages, pourquoi recourir à l’armée est une fausse bonne idée"
-  },
-  {
-    "title": "Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du dispositif déployé face aux violences urbaines",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du dispositif déployé face aux violences urbaines",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-21T09:05:06.676Z",
-        "link": "https://www.leparisien.fr/paris-75/couvre-feu-a-paris-secteurs-heures-personnes-ce-que-lon-sait-du-dispositif-deploye-face-aux-violences-urbaines-19-10-2026-LVGEYQYDN5DRNCBNCJEWKGDDUM.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du disposi..."
-      }
-    ],
-    "summary": "Couvre-feu à Paris : secteurs, horaires, exceptions… ce que l’on sait du dispositif déployé face aux violences urbaines"
-  },
-  {
     "title": "Bloquer les réseaux sociaux face aux émeutes ? « Ce serait disproportionné de punir tout le monde », juge une avocate spécialisée",
     "score": 90,
     "count": 1,
@@ -1044,44 +891,6 @@
       }
     ],
     "summary": "Violences du 17 octobre : comment l’ultragauche a noué une alliance de circonstance avec les jeunes des quartiers"
-  },
-  {
-    "title": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-21T09:05:06.676Z",
-        "link": "https://www.leparisien.fr/faits-divers/musicien-cuisinier-sans-abri-primo-delinquants-qui-sont-les-premiers-emeutiers-presentes-a-la-justice-19-10-2026-3WNLAGP7BBATHAGAQQTKLRIIGM.php",
-        "score": 90,
-        "summary": "musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?"
-      }
-    ],
-    "summary": "Violences du 17 octobre : musicien, cuisinier, sans-abri, primo-délinquants… Qui sont les premiers émeutiers présentés à la justice ?"
-  },
-  {
-    "title": "Violences du 17 octobre à Lyon : un centre de rétention administrative touché par un incendie, 10 personnes intoxiquées",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
-    ],
-    "items": [
-      {
-        "title": "Violences du 17 octobre à Lyon : un centre de rétention administrative touché par un incendie, 10 personnes intoxiquées",
-        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-21T09:05:06.676Z",
-        "link": "https://www.leparisien.fr/faits-divers/violences-du-17-octobre-a-lyon-un-centre-de-retention-administrative-touche-par-un-incendie-10-personnes-intoxiquees-19-10-2026-3X27JYKC3RHKRE4CELFVNRUZSU.php",
-        "score": 90,
-        "summary": "Point de situation critique concernant : Violences du 17 octobre à Lyon : un centre de rétention administrative touché pa..."
-      }
-    ],
-    "summary": "Violences du 17 octobre à Lyon : un centre de rétention administrative touché par un incendie, 10 personnes intoxiquées"
   },
   {
     "title": "Violences du 17 octobre : les « premiers responsables » sont les « factieux et les racailles », estime la porte-parole du gouvernement",
@@ -1139,6 +948,25 @@
       }
     ],
     "summary": "Violences urbaines : des tirs à balles réelles contre les forces de l’ordre en Martinique dans la nuit, un « calme relatif » en Guadeloupe"
+  },
+  {
+    "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-22T16:29:38.417Z",
+        "link": "https://www.leparisien.fr/pyrenees-orientales-66/je-voulais-le-tirer-en-lair-plus-tard-dans-la-nuit-4-mois-de-prison-ferme-pour-le-lyceen-arrete-avec-un-mortier-dartifice-pendant-les-violences-urbaines-a-perpignan-20-10-2026-BQIUXTSNU5FMLPTQRLCFPZEM2E.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme..."
+      }
+    ],
+    "summary": "« Je voulais le tirer en l’air plus tard dans la nuit » : 4 mois de prison ferme pour le lycéen arrêté avec un mortier d’artifice pendant les violences urbaines à Perpignan"
   },
   {
     "title": "Yvelines : à Limay, le violeur présumé de la fillette de 6 ans a été remis en liberté",
@@ -1273,7 +1101,7 @@
       {
         "title": "Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en examen remis en liberté",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/seine-saint-denis-93/bobigny-93000/soupcons-de-viols-au-depot-du-tribunal-de-bobigny-les-deux-policiers-mis-en-examen-remis-en-liberte-22-10-2026-G5R47N7JAREPJBHHYT7D2NFYW4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Soupçons de viols au dépôt du tribunal de Bobigny : les deux policiers mis en ex..."
@@ -1292,7 +1120,7 @@
       {
         "title": "« À un moment, on ne croit plus aux coïncidences » : la policière qui accable Amine Oualane, accusé de triple meurtre à Marseille",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/faits-divers/a-un-moment-on-ne-croit-plus-aux-coincidences-les-preuves-qui-accablent-amine-oualane-accuse-de-triple-meurtre-a-marseille-22-10-2026-FHX3EFFE7NACFBHBRDXXBPJ2TQ.php",
         "score": 90,
         "summary": "Point de situation critique concernant : « À un moment, on ne croit plus aux coïncidences » : la policière qui accable Am..."
@@ -1311,7 +1139,7 @@
       {
         "title": "Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétaire lors d’une soirée alcoolisée",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/essonne-91/le-visage-tumefie-et-deforme-juge-en-essonne-pour-avoir-tue-son-proprietaire-lors-dune-soiree-alcoolisee-22-10-2026-OBDZAWOTSBE5ZOY2H3QRCVQHGU.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Le visage « tuméfié et déformé » : jugé en Essonne pour avoir tué son propriétai..."
@@ -1330,13 +1158,173 @@
       {
         "title": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines",
         "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
-        "time": "2026-10-23T09:03:31.865Z",
+        "time": "2026-10-23T16:18:29.610Z",
         "link": "https://www.leparisien.fr/politique/droit-de-vote-information-des-employeurs-darmanin-demande-un-durcissement-des-requisitions-contre-les-auteurs-de-violences-urbaines-22-10-2026-3QLIFE33PBAVDNI67NGZ4GRWZ4.php",
         "score": 90,
         "summary": "Point de situation critique concernant : Droit de vote, information des employeurs… Darmanin demande un durcissement des ..."
       }
     ],
     "summary": "Droit de vote, information des employeurs… Darmanin demande un durcissement des réquisitions contre les auteurs de violences urbaines"
+  },
+  {
+    "title": "Fusillade dans les Yvelines : « Un attentat à connotation raciste, probablement islamophobe », dénonce le maire de Trappes Ali Rabeh",
+    "score": 90,
+    "count": 2,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Fusillade dans les Yvelines : « Un attentat à connotation raciste, probablement islamophobe », dénonce le maire de Trappes Ali Rabeh",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.609Z",
+        "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-les-yvelines-un-attentat-a-connotation-raciste-probablement-islamophobe-denonce-le-maire-de-trappes-ali-rabeh-23-10-2026-COHLDTOYJFHYDCBV77D4677N24.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Fusillade dans les Yvelines : « Un attentat à connotation raciste, probablement ..."
+      },
+      {
+        "title": "Fusillade dans les Yvelines : c’est quoi la Sten, ce pistolet-mitrailleur de la Seconde Guerre mondiale utilisé lors de l’attaque ?",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/faits-divers/fusillade-dans-les-yvelines-cest-quoi-la-sten-ce-pistolet-mitrailleur-de-la-seconde-guerre-mondiale-utilise-lors-de-lattaque-23-10-2026-DCHSVEBHQ5BIDENFKLIED6JU5Y.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Fusillade dans les Yvelines : c’est quoi la Sten, ce pistolet-mitrailleur de la ..."
+      }
+    ],
+    "summary": "Fusillade dans les Yvelines : « Un attentat à connotation raciste, probablement islamophobe », dénonce le maire de Trappes Ali Rabeh / Fusillade dans les Yvelines : c’est quoi la Sten, ce pistolet-mitrailleur de la Seconde Guerre mondiale utilisé lors de l’attaque ?"
+  },
+  {
+    "title": "Tirs sur des portes et enlèvement sur fond de trafic de drogue : la vengeance du clan de la cité du Vercors de Villejuif",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Tirs sur des portes et enlèvement sur fond de trafic de drogue : la vengeance du clan de la cité du Vercors de Villejuif",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.609Z",
+        "link": "https://www.leparisien.fr/faits-divers/tirs-sur-des-portes-et-enlevement-sur-fond-de-trafic-de-drogue-la-vengeance-du-clan-de-la-cite-du-vercors-de-villejuif-23-10-2026-5OCR6NXTENGPZJEQNKZE7GQU7Q.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Tirs sur des portes et enlèvement sur fond de trafic de drogue : la vengeance du..."
+      }
+    ],
+    "summary": "Tirs sur des portes et enlèvement sur fond de trafic de drogue : la vengeance du clan de la cité du Vercors de Villejuif"
+  },
+  {
+    "title": "Seine-et-Marne : des jeunes de Roissy-en-Brie enlevés et séquestrés en Espagne sur fond de trafic de drogue",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Seine-et-Marne : des jeunes de Roissy-en-Brie enlevés et séquestrés en Espagne sur fond de trafic de drogue",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.609Z",
+        "link": "https://www.leparisien.fr/seine-et-marne-77/seine-et-marne-des-jeunes-de-roissy-en-brie-enleves-et-sequestres-en-espagne-sur-fond-de-trafic-de-drogue-23-10-2026-HNHBCV5TDZDXFAIOFMUZIQCJ6Y.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Seine-et-Marne : des jeunes de Roissy-en-Brie enlevés et séquestrés en Espagne s..."
+      }
+    ],
+    "summary": "Seine-et-Marne : des jeunes de Roissy-en-Brie enlevés et séquestrés en Espagne sur fond de trafic de drogue"
+  },
+  {
+    "title": "« Ma mère a vu la Clio grise arriver à toute vitesse… » : à Trappes, le tireur a tué un homme à proximité d’un square d’enfants",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Ma mère a vu la Clio grise arriver à toute vitesse… » : à Trappes, le tireur a tué un homme à proximité d’un square d’enfants",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/yvelines-78/ma-mere-a-vu-la-clio-grise-arriver-a-toute-vitesse-a-trappes-le-tireur-a-tue-un-homme-a-proximite-dun-square-denfants-23-10-2026-X5QLPGPBNBFN5K7TVEUG3NO57E.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Ma mère a vu la Clio grise arriver à toute vitesse… » : à Trappes, le tireur a..."
+      }
+    ],
+    "summary": "« Ma mère a vu la Clio grise arriver à toute vitesse… » : à Trappes, le tireur a tué un homme à proximité d’un square d’enfants"
+  },
+  {
+    "title": "Procès du triple assassinat de Marseille : « Rantanplan » se défend pied à pied et nie toute responsabilité",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Procès du triple assassinat de Marseille : « Rantanplan » se défend pied à pied et nie toute responsabilité",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/faits-divers/proces-du-triple-assassinat-de-marseille-rantanplan-se-defend-pied-a-pied-et-nie-toute-responsabilite-23-10-2026-EEU4F4JR2BBELKOY3WDJH75S5E.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Procès du triple assassinat de Marseille : « Rantanplan » se défend pied à pied ..."
+      }
+    ],
+    "summary": "Procès du triple assassinat de Marseille : « Rantanplan » se défend pied à pied et nie toute responsabilité"
+  },
+  {
+    "title": "« Il avait envie de faire un carnage » : après la fusillade meurtrière, sidération à Trappes et la Verrière ",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Il avait envie de faire un carnage » : après la fusillade meurtrière, sidération à Trappes et la Verrière ",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/yvelines-78/quest-ce-quon-doit-faire-fusillade-dans-les-yvelines-sideration-a-trappes-et-la-verriere-23-10-2026-7BE5E2WDFREDJMQ5FZOE4PP4BY.php",
+        "score": 90,
+        "summary": "après la fusillade meurtrière, sidération à Trappes et la Verrière"
+      }
+    ],
+    "summary": "« Il avait envie de faire un carnage » : après la fusillade meurtrière, sidération à Trappes et la Verrière "
+  },
+  {
+    "title": "Accusé de viol par une adolescente de 17 ans, Clavicular plaide non coupable lors de sa première comparution",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "Accusé de viol par une adolescente de 17 ans, Clavicular plaide non coupable lors de sa première comparution",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/faits-divers/accuse-de-viol-par-une-adolescente-de-17-ans-clavicular-plaide-non-coupable-lors-de-sa-premiere-comparution-23-10-2026-BGXA454YMRFIFD2E2M5TPN7NUY.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : Accusé de viol par une adolescente de 17 ans, Clavicular plaide non coupable lor..."
+      }
+    ],
+    "summary": "Accusé de viol par une adolescente de 17 ans, Clavicular plaide non coupable lors de sa première comparution"
+  },
+  {
+    "title": "« Elle aspirait à une autre vie » : de la Chine à Belleville, les rêves brisés de Madame Z., travailleuse du sexe tuée par un client",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "https://feeds.leparisien.fr/leparisien/rss/faits-divers"
+    ],
+    "items": [
+      {
+        "title": "« Elle aspirait à une autre vie » : de la Chine à Belleville, les rêves brisés de Madame Z., travailleuse du sexe tuée par un client",
+        "source": "https://feeds.leparisien.fr/leparisien/rss/faits-divers",
+        "time": "2026-10-23T16:18:29.610Z",
+        "link": "https://www.leparisien.fr/faits-divers/elle-aspirait-a-une-autre-vie-de-la-chine-a-belleville-les-reves-brises-de-madame-z-travailleuse-du-sexe-tuee-par-un-client-23-10-2026-NA35PWSJKNEX3BHZ2OC5HARRDA.php",
+        "score": 90,
+        "summary": "Point de situation critique concernant : « Elle aspirait à une autre vie » : de la Chine à Belleville, les rêves brisés d..."
+      }
+    ],
+    "summary": "« Elle aspirait à une autre vie » : de la Chine à Belleville, les rêves brisés de Madame Z., travailleuse du sexe tuée par un client"
   },
   {
     "title": "[CYBER] La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
@@ -1375,25 +1363,6 @@
       }
     ],
     "summary": "[CYBER] D tecteur d'IA: ouvre Google SynthID Detector au grand public"
-  },
-  {
-    "title": "[CYBER] Le muscle orange offre SecNumCloud",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Le muscle orange offre SecNumCloud",
-        "source": "Le Monde Informatique",
-        "time": "2026-10-21T09:03:59.644Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Le muscle orange offre SecNumCloud..."
-      }
-    ],
-    "summary": "[CYBER] Le muscle orange offre SecNumCloud"
   },
   {
     "title": "[CYBER] La CNF signale une fuite de don sur la plateforme Vacaf",
@@ -1463,7 +1432,7 @@
       {
         "title": "[CYBER] Les infrastructures critiques sont essentielles à l'automatisation de leur réponse aux attaques",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:41.039Z",
+        "time": "2026-10-23T16:17:18.032Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les infrastructures critiques sont essentielles à l'automatisation de le..."
@@ -1482,7 +1451,7 @@
       {
         "title": "[CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:32.386Z",
+        "time": "2026-10-23T16:17:12.179Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Le projet de loi sur l'IA est soumis en privé à l'anthropie..."
@@ -1501,7 +1470,7 @@
       {
         "title": "[CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:36.470Z",
+        "time": "2026-10-23T16:17:14.923Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] ServiceNow lance le passeport de l'IA pour gouverner les agents IA..."
@@ -1520,155 +1489,13 @@
       {
         "title": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:28.047Z",
+        "time": "2026-10-23T16:17:09.161Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises..."
       }
     ],
     "summary": "[CYBER] Synacktiv tend à fournir une solution d'enquête mobile aux entreprises"
-  },
-  {
-    "title": "[CYBER] Je suis chez Orange et Sosh!",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Je suis chez Orange et Sosh!",
-        "source": "Zataz",
-        "time": "2026-10-21T15:21:36.000Z",
-        "link": "https://www.zataz.com/panne-chez-orange-et-sosh/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Je suis chez Orange et Sosh!..."
-      }
-    ],
-    "summary": "[CYBER] Je suis chez Orange et Sosh!"
-  },
-  {
-    "title": "[CYBER] Musique IA et faux cours d'eau: 18 mois de prison",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Musique IA et faux cours d'eau: 18 mois de prison",
-        "source": "Zataz",
-        "time": "2026-10-21T14:42:22.000Z",
-        "link": "https://www.zataz.com/musique-ia-et-faux-streams-18-mois-de-prison/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Musique IA et faux cours d'eau: 18 mois de prison..."
-      }
-    ],
-    "summary": "[CYBER] Musique IA et faux cours d'eau: 18 mois de prison"
-  },
-  {
-    "title": "[CYBER] LibreOffice et OpenOffice sont piégés par des tableaux",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] LibreOffice et OpenOffice sont piégés par des tableaux",
-        "source": "Zataz",
-        "time": "2026-10-21T14:28:13.000Z",
-        "link": "https://www.zataz.com/libreoffice-et-openoffice-pieges-par-des-tableurs/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] LibreOffice et OpenOffice sont piégés par des tableaux..."
-      }
-    ],
-    "summary": "[CYBER] LibreOffice et OpenOffice sont piégés par des tableaux"
-  },
-  {
-    "title": "[CYBER] Claude transmet une fausse piste à la police",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Claude transmet une fausse piste à la police",
-        "source": "Zataz",
-        "time": "2026-10-21T14:20:12.000Z",
-        "link": "https://www.zataz.com/claude-transmet-une-fausse-piste-a-la-police/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Claude transmet une fausse piste à la police..."
-      }
-    ],
-    "summary": "[CYBER] Claude transmet une fausse piste à la police"
-  },
-  {
-    "title": "[CYBER] PHP2Shell: deux failles critiques menaçant les serveurs web",
-    "score": 90,
-    "count": 2,
-    "sources": [
-      "Zataz",
-      "Le Monde Informatique"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] PHP2Shell: deux failles critiques menaçant les serveurs web",
-        "source": "Zataz",
-        "time": "2026-10-21T12:55:11.000Z",
-        "link": "https://www.zataz.com/php2shell-deux-failles-critiques-menacent-les-serveurs-web/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] PHP2Shell: deux failles critiques menaçant les serveurs web..."
-      },
-      {
-        "title": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression",
-        "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:11.624Z",
-        "link": "https://www.lemondeinformatique.fr/actualites/lire-deux-failles-critiques-dans-php-les-entreprises-sous-pression-100866.html",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Deux failles critiques dans PHP: les entreprises sous pression..."
-      }
-    ],
-    "summary": "[CYBER] PHP2Shell: deux failles critiques menaçant les serveurs web / [CYBER] Deux failles critiques dans PHP: les entreprises sous pression"
-  },
-  {
-    "title": "[CYBER] Arnaque au bitcoin: un réseau piloté depuis les prisons",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Arnaque au bitcoin: un réseau piloté depuis les prisons",
-        "source": "Zataz",
-        "time": "2026-10-21T09:43:47.000Z",
-        "link": "https://www.zataz.com/arnaque-au-bitcoin-un-reseau-pilote-depuis-des-prisons/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Arnaque au bitcoin: un réseau piloté depuis les prisons..."
-      }
-    ],
-    "summary": "[CYBER] Arnaque au bitcoin: un réseau piloté depuis les prisons"
-  },
-  {
-    "title": "[CYBER] Des arrestations autour d'un blaster SMS",
-    "score": 90,
-    "count": 1,
-    "sources": [
-      "Zataz"
-    ],
-    "items": [
-      {
-        "title": "[CYBER] Des arrestations autour d'un blaster SMS",
-        "source": "Zataz",
-        "time": "2026-10-21T09:20:00.000Z",
-        "link": "https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/",
-        "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Des arrestations autour d'un blaster SMS..."
-      }
-    ],
-    "summary": "[CYBER] Des arrestations autour d'un blaster SMS"
   },
   {
     "title": "[CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
@@ -1687,15 +1514,15 @@
         "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez ..."
       },
       {
-        "title": "[CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
+        "title": "[CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:24.582Z",
+        "time": "2026-10-23T16:17:06.800Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
         "score": 90,
-        "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez ..."
+        "summary": "Point de situation critique concernant : [CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La g..."
       }
     ],
-    "summary": "[CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents / [CYBER] Nir Peleg, directeur mondial de la cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents"
+    "summary": "[CYBER] Nir Peleg, directeur mondial de la Cour des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents / [CYBER] Nir Peleg, directeur mondial des systèmes d'information chez JFrog: La gouvernance doit fonctionner à la vitesse des agents"
   },
   {
     "title": "[CYBER] Arrêtée pour avoir bloqué un robot de livraison Uber",
@@ -1727,13 +1554,32 @@
       {
         "title": "[CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalité",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:08.765Z",
+        "time": "2026-10-23T16:16:56.339Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-frigos-de-supermarches-pirates-l-anssi-pointe-des-failles-de-securite-elementaires-100864.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalit..."
       }
     ],
     "summary": "[CYBER] Frigos de supermarch: le plus haut point des défaillances de la mentalité"
+  },
+  {
+    "title": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-23T16:16:58.327Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-deux-failles-critiques-dans-php-les-entreprises-sous-pression-100866.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Deux failles critiques dans PHP: les entreprises sous pression..."
+      }
+    ],
+    "summary": "[CYBER] Deux failles critiques dans PHP: les entreprises sous pression"
   },
   {
     "title": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels",
@@ -1746,12 +1592,88 @@
       {
         "title": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels",
         "source": "Le Monde Informatique",
-        "time": "2026-10-23T09:01:17.247Z",
+        "time": "2026-10-23T16:17:02.169Z",
         "link": "https://www.lemondeinformatique.fr/actualites/lire-kurber-s-appuie-sur-les-sbom-pour-unifier-la-securite-de-ses-logiciels-100863.html",
         "score": 90,
         "summary": "Point de situation critique concernant : [CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier..."
       }
     ],
     "summary": "[CYBER] Les autorités de l'Union européenne s'appuient sur les SBOM pour unifier la cour des logiciels"
+  },
+  {
+    "title": "[CYBER] Technostrès: une défaillance pour l'ingénierie sociale",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Technostrès: une défaillance pour l'ingénierie sociale",
+        "source": "Zataz",
+        "time": "2026-10-23T12:56:16.000Z",
+        "link": "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Technostrès: une défaillance pour l'ingénierie sociale..."
+      }
+    ],
+    "summary": "[CYBER] Technostrès: une défaillance pour l'ingénierie sociale"
+  },
+  {
+    "title": "[CYBER] Piratage de la FFTir: la Fédération confirme le vol",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Piratage de la FFTir: la Fédération confirme le vol",
+        "source": "Zataz",
+        "time": "2026-10-23T10:41:26.000Z",
+        "link": "https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Piratage de la FFTir: la Fédération confirme le vol..."
+      }
+    ],
+    "summary": "[CYBER] Piratage de la FFTir: la Fédération confirme le vol"
+  },
+  {
+    "title": "[CYBER] Fraude bancaire: deux mails pour installer la peur",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Zataz"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] Fraude bancaire: deux mails pour installer la peur",
+        "source": "Zataz",
+        "time": "2026-10-23T10:27:14.000Z",
+        "link": "https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] Fraude bancaire: deux mails pour installer la peur..."
+      }
+    ],
+    "summary": "[CYBER] Fraude bancaire: deux mails pour installer la peur"
+  },
+  {
+    "title": "[CYBER] GitLab corrige une critique faillite vieille de douze ans",
+    "score": 90,
+    "count": 1,
+    "sources": [
+      "Le Monde Informatique"
+    ],
+    "items": [
+      {
+        "title": "[CYBER] GitLab corrige une critique faillite vieille de douze ans",
+        "source": "Le Monde Informatique",
+        "time": "2026-10-23T16:16:49.915Z",
+        "link": "https://www.lemondeinformatique.fr/actualites/lire-gitlab-corrige-une-faille-critique-vieille-de-douze-ans-100870.html",
+        "score": 90,
+        "summary": "Point de situation critique concernant : [CYBER] GitLab corrige une critique faillite vieille de douze ans..."
+      }
+    ],
+    "summary": "[CYBER] GitLab corrige une critique faillite vieille de douze ans"
   }
 ]
